@@ -186,7 +186,7 @@
       "id": "immune-system",
       "category": "science",
       "publishedAt": "2026-11-03",
-      "motif": "network",
+      "motif": "cell",
       "tags": [
         "biologie",
         "gesundheit",
@@ -285,7 +285,7 @@
       "id": "plate-tectonics",
       "category": "science",
       "publishedAt": "2026-11-03",
-      "motif": "waves",
+      "motif": "plates",
       "tags": [
         "erde",
         "geologie",
@@ -351,12 +351,13 @@
   "featured": {
     "week": "2026-W45",
     "topics": [
+      "crispr",
+      "how-chips-are-made",
+      "compound-interest",
+      "plate-tectonics",
       "language-models",
-      "immune-system",
-      "why-we-sleep",
-      "how-the-internet-works",
-      "inflation",
-      "black-holes"
+      "black-holes",
+      "immune-system"
     ]
   }
 }

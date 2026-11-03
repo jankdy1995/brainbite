@@ -150,7 +150,7 @@ brainbite/
 
 Text ist reiner Text (kein HTML, kein Markdown). Die App erzeugt das Markup selbst.
 
-`motif` wählt die Illustration (Petrol-Töne, siehe Design System): `ring`, `moon`, `network`, `bars`, `waves`, `chip`, `globe`. Neue Motive werden in `js/views/components.js` ergänzt.
+`motif` wählt die Illustration (Petrol-Töne, siehe Design System): `ring`, `moon`, `network`, `bars`, `waves`, `chip`, `globe`, `helix`, `growth`, `cell`, `plates`. Neue Motive werden in `js/views/components.js` ergänzt.
 
 ### Lokaler Zustand (`localStorage["brainbite:v1"]`)
 
