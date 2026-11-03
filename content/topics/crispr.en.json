@@ -1,0 +1,423 @@
+{
+ "id": "crispr",
+ "lang": "en",
+ "title": "CRISPR and the Gene Scissors",
+ "versions": {
+  "5": {
+   "words": 1050,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Every one of your cells contains a blueprint, your genome. A single wrong letter in it can be enough to cause a serious disease. For a little over ten years there has been a tool that lets researchers change this blueprint in a targeted way, faster, cheaper and more precisely than ever before. It is called CRISPR, and we copied it from bacteria. In five minutes you will find out how the gene scissors work, what they can already do and why they spark such heated debates."
+     ]
+    },
+    {
+     "heading": "What the gene scissors are",
+     "paragraphs": [
+      "Almost every cell in your body contains a blueprint, stored in DNA. It consists of four building blocks, abbreviated A, T, G and C. Their order is the information, much like a text in an alphabet of only four letters. In humans there are around three billion letter pairs.",
+      "Certain sections of it are called genes. Each gene is a kind of recipe for a protein that does a job in the body, such as carrying oxygen or fighting pathogens.",
+      "A single wrong letter in a gene can be enough to cause a serious disease. In sickle cell disease, it makes red blood cells deform, block blood vessels and cause severe pain.",
+      "CRISPR is a tool that lets researchers change the genome at a precisely chosen spot. It is often simply called the gene scissors. It works in bacteria, plants, animals and human cells.",
+      "What is new is not that genes can be changed; that has been possible for decades. What is new is how simple, fast and cheap it is with CRISPR. Work that used to take months and required expensive specialist tools can now often be done in a few weeks.",
+      "An example from the lab: anyone who wants to know what a particular gene is for can switch it off with the gene scissors in cells or lab animals and watch what stops working. That alone used to be a project lasting years.",
+      "That is why laboratories all over the world now use the method. It helps researchers understand what individual genes are for, and it is the basis of the first therapies."
+     ]
+    },
+    {
+     "heading": "A trick borrowed from bacteria",
+     "paragraphs": [
+      "Humans did not invent the gene scissors; we copied them from bacteria. In the late 1980s, Japanese researchers noticed strange, repeating sections in the genome of a gut bacterium. For a long time nobody knew what they were for.",
+      "The Spanish researcher Francisco Mojica eventually discovered that snippets of viral DNA sit between the repeats. Bacteria keep them like photos in a book of wanted criminals. If the virus comes back, they recognise it and cut up its genetic material with a protein called Cas9. So CRISPR is really an immune system.",
+      "This was confirmed in a surprising way. A producer of yoghurt cultures wanted to know why some of its bacteria survived attacks by viruses. It turned out that they had added new virus snippets to their CRISPR archive. So bacteria have a memory for attackers that can learn.",
+      "In 2012, the French scientist Emmanuelle Charpentier and the American Jennifer Doudna showed how to turn it into a tool. The system has two parts: the protein Cas9, the actual scissors, and a short RNA molecule that shows it the way.",
+      "This guide RNA contains around twenty letters that match the target spot in the genome exactly. It works like a search query. Cas9 moves along the DNA with it, and where the letters match, it cuts the strand. To aim at a new target, you only need to rewrite the guide RNA.",
+      "The cell does the rest. It repairs the cut immediately. Something often goes wrong in the process, and the gene is switched off afterwards. If you give the cell a template, it can also replace the section with a corrected version.",
+      "The gene scissors are not entirely error-free, however. Sometimes they also cut at places that merely resemble the target. Reducing such side effects is still an important area of research.",
+      "Charpentier and Doudna received the Nobel Prize in Chemistry for this discovery in 2020. It was the first time two women had shared the prize."
+     ]
+    },
+    {
+     "heading": "Healing, breeding, arguing",
+     "paragraphs": [
+      "At the end of 2023, the first gene-scissors therapy was approved in the United Kingdom and the United States, for sickle cell disease. Blood stem cells are taken from the patients, edited in the lab and given back after chemotherapy. Afterwards the cells once again make a form of red blood pigment that normally only exists before birth, and the pain crises usually stop.",
+      "However, the treatment is demanding, gruelling and very expensive. In the countries where the disease is most common, it is so far hardly available.",
+      "Many researchers are therefore working on using the gene scissors directly inside the body instead of removing cells first. First trials are under way, for instance for liver diseases. The method is also being tested against cancer and inherited blindness.",
+      "CRISPR is also used in agriculture, for instance for plants that better resist drought or disease. In 2026 the EU adopted new rules under which plants with small, targeted changes will in future be treated largely like conventionally bred varieties.",
+      "Most countries draw a clear line at embryos. Changes there would be passed on to all descendants. In 2018, the Chinese researcher He Jiankui announced that he had altered the genome of embryos from which twins were born. The outrage was huge worldwide, and a Chinese court sentenced him to three years in prison.",
+      "Experts stress, however, that traits such as height or intelligence depend on hundreds of genes and on the environment. They cannot simply be set with scissors.",
+      "In Germany, the Embryo Protection Act prohibits such interventions. The concerns are unpredictable risks, the lack of consent from those affected and the fear of designer babies.",
+      "The gene scissors are therefore both: a major medical advance and a technology whose limits society has to decide on together."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "CRISPR is originally a bacterial defence system against viruses, which researchers turned into gene scissors.",
+    "A guide RNA leads the cutting protein Cas9 to a precisely chosen spot in the genome, where it cuts through the DNA.",
+    "The method already helps with diseases such as sickle cell disease, but changes to heritable DNA are considered an ethical red line."
+   ]
+  },
+  "10": {
+   "words": 2396,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "In 2020, the Nobel Prize in Chemistry went to two researchers who, eight years earlier, had presented an astonishing tool: a pair of gene scissors that can change the genetic material of plants, animals and humans at a precisely chosen spot. Over the next ten minutes you will learn where this tool comes from, how it works, which diseases can already be treated with it and where the ethical limits lie."
+     ]
+    },
+    {
+     "heading": "The blueprint of life",
+     "paragraphs": [
+      "Almost every cell in your body contains a complete blueprint, stored in a long molecule called DNA. It looks like a twisted rope ladder, the famous double helix. Its rungs are made of just four building blocks, abbreviated A, T, G and C. Their order is the actual information, like a text written in an alphabet of four letters.",
+      "The human genome comprises around three billion of these letter pairs. Certain sections are called genes. A gene is like a recipe the cell uses to make a particular protein. Proteins do almost all the work in the body, from transporting oxygen to fighting off pathogens.",
+      "If an error creeps into a gene, a mutation, the recipe can become useless. Sometimes a single swapped letter is enough. In sickle cell disease, this causes the red blood cells to deform into rigid sickles that block blood vessels and cause severe pain.",
+      "Changing a gene at one specific position in the huge genome was extremely laborious and expensive for a long time. What was missing was a kind of find-and-replace function: a tool that could simply be programmed for any position you liked.",
+      "That is exactly what CRISPR became. It was not found through a targeted search but through curiosity, in bacteria and in researchers who were puzzled by strange patterns in their DNA."
+     ]
+    },
+    {
+     "heading": "An immune system for bacteria",
+     "paragraphs": [
+      "In 1987, a team led by the Japanese researcher Yoshizumi Ishino at Osaka University was studying a gene in the gut bacterium Escherichia coli. They came across something strange: sections that repeated over and over, interrupted by short pieces that were each different. Nobody knew what this was for.",
+      "A few years later the same pattern caught the eye of a young doctoral student in Spain. Francisco Mojica at the University of Alicante was studying microbes that live in extremely salty water. He found the repeating sections in their genome too. He was convinced that such a striking pattern had to have a purpose.",
+      "Mojica and others soon found the repeats in many different bacteria and related single-celled organisms. In the early 2000s, researchers agreed on a common name: CRISPR. The abbreviation stands for clustered regularly interspaced short palindromic repeats. A clumsy name for a great discovery.",
+      "The decisive clue came from the short spacers in between. Mojica compared them with databases of known DNA. Many of them matched exactly the genetic material of viruses that attack bacteria. And bacteria that carried such a piece of a particular virus were protected against exactly that virus.",
+      "That gave him a bold idea: CRISPR is an immune system. Bacteria cut a piece out of an attacker’s genetic material and insert it between the repeats in their own genome, like a photo in a book of wanted criminals. If the virus returns, they recognise it and can fight it off. Mojica published this interpretation in the mid-2000s, after several journals had initially rejected it.",
+      "A book of wanted criminals is of no use on its own, though; someone also has to make the arrest. This job is done by proteins encoded right next to the CRISPR sections in the genome. They are called Cas proteins, for CRISPR-associated. Some of them are scissors that cut up foreign DNA.",
+      "The idea was confirmed in a surprising place: the food industry. A producer of yoghurt cultures wanted to know why some of its lactic acid bacteria resisted attacks by viruses while others did not. Around 2007, researchers showed that the resistant bacteria had added new virus snippets to their CRISPR archive.",
+      "That made it clear: bacteria have a defence system that can learn. They remember earlier attackers and even pass this memory on to their offspring. That is remarkable, because for a long time it was thought that such an adaptive immune system only existed in vertebrates.",
+      "For bacteria, this is a matter of survival. Viruses that infect bacteria are the most common biological entities on Earth. There is a constant arms race between the microbes and their attackers.",
+      "Hardly anyone yet imagined that this defence system might contain a tool for humans. That changed when two researchers took a closer look at one particular Cas protein."
+     ]
+    },
+    {
+     "heading": "How the gene scissors work",
+     "paragraphs": [
+      "Around 2010, the French microbiologist Emmanuelle Charpentier was studying a bacterium that can cause throat infections in humans. In its CRISPR system she discovered a previously unknown small RNA molecule that was essential for the defence. RNA is a kind of working copy of DNA that cells use to pass on information.",
+      "For further research she teamed up with the American biochemist Jennifer Doudna, an RNA expert at the University of California, Berkeley. Together their teams took the system apart and studied in the test tube how the cutting protein Cas9 works.",
+      "In 2012 they published their results, and they were remarkable. At its core, the system consists of just two parts: the protein Cas9, the actual scissors, and an RNA molecule that shows it the way. This guide RNA contains a sequence of about twenty letters that matches exactly the target spot in the DNA.",
+      "The guide RNA works like a search query. Cas9 moves along the DNA with it and checks whether the letters match. If it finds a matching spot, it cuts through both strands of the double helix. So that it does not cut just anywhere, Cas9 also needs a short recognition tag right next to the target.",
+      "The real breakthrough was a simplification. Charpentier and Doudna showed that the two RNA parts the bacterium uses can be joined into a single molecule. And above all, the search sequence in it can be swapped for any other. Instead of viral DNA, you can target any position in any genome.",
+      "With that, a bacterial defence system had become a programmable tool. To aim at a new target, you only have to rewrite the short guide RNA; the protein stays the same. Guide RNAs can now simply be ordered, often within a few days.",
+      "What happens after the cut is done by the cell itself. A break in both strands is an emergency for the cell, and it immediately tries to repair it. It has two ways of doing this. In the quick way, it simply sticks the ends back together. Small errors often happen in the process; a few letters are lost or added. The gene is usually broken afterwards, and that can be exactly what you want if the aim is to switch off a harmful gene.",
+      "In the second, more precise way, the cell uses a template to fill the gap. If you give it a template you have made yourself, it copies this into its genome. That way a faulty section can be replaced by a corrected one. This route does not work equally well in all types of cell, however.",
+      "You can think of the whole thing as a word processor: the guide RNA is the search function, Cas9 is the cursor that makes a cut at the spot found, and the cell’s repair is the typing. Except that this word processor works inside living cells.",
+      "The gene scissors are not entirely error-free. Sometimes they also cut at places that merely resemble the target. Reducing such side effects is still an important area of research. Even so, the new tool was so much simpler than anything before it that it transformed biology in no time at all."
+     ]
+    },
+    {
+     "heading": "The first gene-scissors therapy",
+     "paragraphs": [
+      "The biggest hopes rest on medicine. Many thousands of diseases are caused by errors in single genes. The gene scissors could make it possible to treat them at the root rather than just easing their symptoms. The first disease for which this has succeeded is sickle cell disease.",
+      "In this hereditary disease, the body makes a faulty red blood pigment. The red blood cells deform, get stuck in small vessels and cause severe pain crises, organ damage and a shorter life expectancy. Millions of people worldwide are affected, especially in Africa and among people of African descent.",
+      "Interestingly, the approved therapy does not correct the actual error. It uses a trick of nature. Before birth, every human makes a special form of the blood pigment, foetal haemoglobin. After birth, the body switches to the adult form. In sickle cell disease, it is precisely this adult form that is faulty.",
+      "The gene scissors therefore switch off a switch in the genome that normally suppresses the production of foetal blood pigment. Afterwards the blood cells once again make a lot of this childhood form, and the red blood cells stay round and flexible.",
+      "The treatment is demanding. First, the patients’ own blood stem cells, from which all blood cells develop, are removed. These are edited in the laboratory with the gene scissors. Then the patients receive strong chemotherapy that destroys the old bone marrow. Only after that do they get the modified cells back, which settle in the bone marrow.",
+      "At the end of 2023, this therapy was approved under the name Casgevy in the United Kingdom and shortly afterwards in the United States. According to the manufacturer, it was the first approval of a CRISPR therapy in the United States. It is intended for people aged twelve and over who repeatedly suffer severe pain crises. It was also approved for a related blood disorder, beta thalassaemia, and later in the European Union as well.",
+      "In the trials, most of the people treated no longer had severe pain crises afterwards. For many, that means a completely new life. However, the treatment is gruelling, above all because of the chemotherapy, which can cause infertility, for example. And it is extremely expensive and only possible in specialised clinics.",
+      "Precisely where the disease is most common, in many African countries, such a therapy is so far hardly available. That is one of the great challenges: cutting-edge medicine only helps if it actually reaches the people who need it.",
+      "Many researchers are therefore working on using the gene scissors directly inside the body instead of removing cells first. To do this, they package them, for example, in tiny droplets of fat that are taken up mainly by the liver. First trials based on this principle are already under way for diseases in which the liver makes a harmful protein.",
+      "The gene scissors are also being tested against cancer, inherited blindness and infections such as HIV. Much of this is still in early trials, and not every hope will be fulfilled. But the first approval has shown that the path from the laboratory to the bedside is possible."
+     ]
+    },
+    {
+     "heading": "Where the line is drawn",
+     "paragraphs": [
+      "When it comes to interventions in humans, experts distinguish between two cases. In the first, body cells of a patient are changed, such as blood stem cells in the therapy for sickle cell disease. This change affects only that one person and is not passed on to children. Such therapies are widely regarded as ethically acceptable if they are safe and effective.",
+      "In the second case, embryos, egg cells or sperm are changed. Then the change is present in every cell of the future person, including their reproductive cells. It would be passed on to all future generations. This is known as germline editing. Here most countries draw a clear line.",
+      "In November 2018, a Chinese researcher crossed this line. He Jiankui announced that he had altered the genome of embryos from which twin girls had been born. He wanted to switch off a gene that HIV uses to get into cells, and in this way protect the children from HIV infection.",
+      "The outrage was huge worldwide, not least among researchers. There was no medical reason for the intervention, because there are other safe ways to prevent HIV from being passed on to children. It was also completely unclear whether the change had worked and what unintended consequences it might have. It later emerged that a third child had been born in the same way.",
+      "A court in China sentenced He at the end of 2019 to three years in prison and a large fine, as media reported citing the state news agency. According to the court, he and his collaborators had, among other things, forged documents for the ethical review. Two other people involved were also convicted.",
+      "The case showed how great the risks are. The gene scissors can cut in the wrong places, or work in some cells of an embryo and not in others. Nobody knows what that means for a person over a whole lifetime. And the children themselves could not consent.",
+      "In Germany, the Embryo Protection Act prohibits changes to the human germline. Many other countries also ban such changes or restrict them strictly. International expert bodies call for such interventions to remain off-limits at least until safety and public acceptance have been settled. Some reject them on principle.",
+      "Behind the debate lies a deeper concern: the fear of designer babies. What if parents one day wanted not only to prevent diseases but to select traits such as height or intelligence? Experts stress that such characteristics depend on hundreds of genes and on the environment and cannot simply be set with scissors. The ethical question remains all the same.",
+      "Another question is fairness. If new therapies cost millions, only a few will benefit at first. Many experts therefore call for thinking from the outset about how treatments can become affordable and accessible worldwide.",
+      "The gene scissors are therefore not a tool like any other. They touch on questions that go far beyond biology, and so they need a broad debate across society."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Bacteria store snippets of viral DNA and use them to recognise attackers again; that is the original CRISPR system.",
+    "Emmanuelle Charpentier and Jennifer Doudna turned it into a programmable tool in 2012 and received the Nobel Prize for it in 2020.",
+    "The first approved CRISPR therapy treats sickle cell disease, while editing embryos meets with strong rejection worldwide."
+   ]
+  },
+  "15": {
+   "words": 3187,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Few discoveries have changed biology so profoundly in such a short time as CRISPR. What began as a curiosity in the genetic material of bacteria is now used in laboratories all over the world, in plant breeding and in the first approved therapies. In this article you will learn what genes actually are, how bacteria use CRISPR to defend themselves against viruses, how it became the gene scissors, how it has transformed research and what it achieves in medicine and agriculture."
+     ]
+    },
+    {
+     "heading": "The blueprint of life",
+     "paragraphs": [
+      "To understand what the gene scissors do, we first need a picture of the genome. Almost every cell in your body contains a complete blueprint, stored in a long molecule called DNA. It looks like a twisted rope ladder, the famous double helix.",
+      "The rungs of this ladder are made of just four building blocks, abbreviated by the letters A, T, G and C. Their order is the actual information, much like a text written in an alphabet of only four letters. A always pairs with T, and G always pairs with C. That is why each half of the ladder contains the same information.",
+      "The human genome comprises around three billion of these letter pairs. Printed out, they would fill thousands of thick books. Stretched out, the DNA of a single cell would be about two metres long. It only fits into the tiny cell nucleus because it is wound up extremely tightly.",
+      "Certain sections of DNA are called genes. A gene is a kind of recipe: it describes how the cell makes a particular protein. Proteins do almost all the work in the body. They transport oxygen, fight pathogens, digest food and give cells their shape. Humans have roughly twenty thousand such genes.",
+      "If an error creeps into a gene, a so-called mutation, the recipe can become useless. Sometimes a single swapped letter is enough. In sickle cell disease, for example, it is exactly one position in the gene for the red blood pigment. The red blood cells then deform into rigid sickles, block blood vessels and cause severe pain.",
+      "Many hereditary diseases are caused by small errors like this. For a long time, their effects could only be eased, but the cause could not be fixed. The idea of correcting the error directly in the genome was therefore an old dream of medicine.",
+      "Attempts to change genes deliberately go back to the 1970s. At that time researchers learned to cut DNA with certain enzymes and put it back together in new ways. This produced, for example, bacteria that make human insulin. It was a big step forward, but the tools were crude.",
+      "Changing a gene at one specific position in the huge genome of an animal or a human was extremely laborious for a long time. There were special tools that could do it, but for every new target a separate protein had to be painstakingly made. That took months and was expensive.",
+      "What was missing was a kind of find-and-replace function for the genome: a tool that could simply be programmed for any position you liked. That is exactly what CRISPR became.",
+      "The tool was not found through a targeted search, but through curiosity. The story begins with bacteria, and with researchers who were puzzled by strange patterns in their DNA."
+     ]
+    },
+    {
+     "heading": "An immune system for bacteria",
+     "paragraphs": [
+      "In 1987, a team led by the Japanese researcher Yoshizumi Ishino at Osaka University was studying a gene in the gut bacterium Escherichia coli. They came across something strange: sections that repeated over and over, interrupted by short pieces that were each different. Nobody knew what this was for.",
+      "A few years later the same pattern caught the eye of a young doctoral student in Spain. Francisco Mojica at the University of Alicante was studying microbes that live in extremely salty water. He found the repeating sections in their genome too. He was convinced that such a striking pattern had to have a purpose.",
+      "Mojica and others soon found the repeats in many different bacteria and related single-celled organisms. In the early 2000s, researchers agreed on a common name: CRISPR. The abbreviation stands for clustered regularly interspaced short palindromic repeats. A clumsy name for a great discovery.",
+      "The decisive clue came from the short spacers in between. Mojica compared them with databases of known DNA. Many of them matched exactly the genetic material of viruses that attack bacteria. And bacteria that carried such a piece of a particular virus were protected against exactly that virus.",
+      "That gave him a bold idea: CRISPR is an immune system. Bacteria cut a piece out of an attacker’s genetic material and insert it between the repeats in their own genome, like a photo in a book of wanted criminals. If the virus returns, they recognise it and can fight it off. Mojica published this interpretation in the mid-2000s, after several journals had initially rejected it.",
+      "A book of wanted criminals is of no use on its own, though; someone also has to make the arrest. This job is done by proteins encoded right next to the CRISPR sections in the genome. They are called Cas proteins, for CRISPR-associated. Some of them are scissors that cut up foreign DNA.",
+      "The idea was confirmed in a surprising place: the food industry. A producer of yoghurt cultures wanted to know why some of its lactic acid bacteria resisted attacks by viruses while others did not. Around 2007, researchers showed that the resistant bacteria had added new virus snippets to their CRISPR archive.",
+      "That made it clear: bacteria have a defence system that can learn. They remember earlier attackers and even pass this memory on to their offspring. That is remarkable, because for a long time it was thought that such an adaptive immune system only existed in vertebrates.",
+      "For bacteria, this is a matter of survival. Viruses that infect bacteria are the most common biological entities on Earth. There is a constant arms race between the microbes and their attackers.",
+      "Hardly anyone yet imagined that this defence system might contain a tool for humans. That changed when two researchers took a closer look at one particular Cas protein."
+     ]
+    },
+    {
+     "heading": "How the gene scissors work",
+     "paragraphs": [
+      "Around 2010, the French microbiologist Emmanuelle Charpentier was studying a bacterium that can cause throat infections in humans. In its CRISPR system she discovered a previously unknown small RNA molecule that was essential for the defence. RNA is a kind of working copy of DNA that cells use to pass on information.",
+      "For further research she teamed up with the American biochemist Jennifer Doudna, an RNA expert at the University of California, Berkeley. Together their teams took the system apart and studied in the test tube how the cutting protein Cas9 works.",
+      "In 2012 they published their results, and they were remarkable. At its core, the system consists of just two parts: the protein Cas9, the actual scissors, and an RNA molecule that shows it the way. This guide RNA contains a sequence of about twenty letters that matches exactly the target spot in the DNA.",
+      "The guide RNA works like a search query. Cas9 moves along the DNA with it and checks whether the letters match. If it finds a matching spot, it cuts through both strands of the double helix. So that it does not cut just anywhere, Cas9 also needs a short recognition tag right next to the target.",
+      "The real breakthrough was a simplification. Charpentier and Doudna showed that the two RNA parts the bacterium uses can be joined into a single molecule. And above all, the search sequence in it can be swapped for any other. Instead of viral DNA, you can target any position in any genome.",
+      "With that, a bacterial defence system had become a programmable tool. To aim at a new target, you only have to rewrite the short guide RNA; the protein stays the same. Guide RNAs can now simply be ordered, often within a few days.",
+      "What happens after the cut is done by the cell itself. A break in both strands is an emergency for the cell, and it immediately tries to repair it. It has two ways of doing this. In the quick way, it simply sticks the ends back together. Small errors often happen in the process; a few letters are lost or added. The gene is usually broken afterwards, and that can be exactly what you want if the aim is to switch off a harmful gene.",
+      "In the second, more precise way, the cell uses a template to fill the gap. If you give it a template you have made yourself, it copies this into its genome. That way a faulty section can be replaced by a corrected one. This route does not work equally well in all types of cell, however.",
+      "You can think of the whole thing as a word processor: the guide RNA is the search function, Cas9 is the cursor that makes a cut at the spot found, and the cell’s repair is the typing. Except that this word processor works inside living cells.",
+      "The gene scissors are not entirely error-free. Sometimes they also cut at places that merely resemble the target. Reducing such side effects is still an important area of research. Even so, the new tool was so much simpler than anything before it that it transformed biology in no time at all."
+     ]
+    },
+    {
+     "heading": "A revolution in the lab",
+     "paragraphs": [
+      "Just a few months after the 2012 publication, several research groups showed that the gene scissors also work in human cells and in animal cells. After that, everything moved very fast. Within a few years, thousands of laboratories all over the world were working with CRISPR.",
+      "The main reason was simplicity. What used to take months and required a team of specialists can now be done by doctoral students in a few weeks. The necessary components are comparatively cheap, and designs for thousands of guide RNAs are shared between labs in online archives.",
+      "Basic research benefits most of all. Anyone who wants to know what a gene is for can now switch it off in a targeted way and watch what happens. Researchers can even study thousands of genes at once by creating collections of cells in which a different gene is switched off in each. This is how they find out, for example, which genes cancer cells need to survive.",
+      "Animal models of diseases can also be produced much faster. It used to take more than a year to breed a mouse with a particular genetic change. With CRISPR, the change can be made directly in a fertilised egg. That saves time, and often laboratory animals as well.",
+      "Cas9 is far from the only one. Researchers have discovered many other Cas proteins in bacteria that work slightly differently. Some cut RNA, the working copy, instead of DNA; others are smaller and easier to get into cells. The toolbox keeps growing.",
+      "One surprising application is rapid tests. Certain Cas proteins become active when they find their target and then randomly cut other molecules in their surroundings. This property can be used to detect the genetic material of pathogens. The result can then be read, for example, as a coloured line on a test strip.",
+      "Success also brought conflict. The University of California and the Broad Institute in Boston fought a legal battle lasting years over patents for using CRISPR in human and animal cells. With the researcher Feng Zhang, the Broad Institute had shown early on how the method works in such cells. A great deal of money is at stake.",
+      "Scientific recognition, on the other hand, was clear-cut. In 2020, as the Royal Swedish Academy of Sciences announced, Emmanuelle Charpentier and Jennifer Doudna received the Nobel Prize in Chemistry for the development of a method for genome editing. It was the first time two women had shared this prize. At the time, Charpentier was heading a Max Planck research unit in Berlin.",
+      "What is remarkable is how short the time between discovery and Nobel Prize was: only eight years. That shows how quickly the method changed research. At the same time, the story is a reminder that the breakthrough rested on decades of basic research that at first seemed to have no practical purpose at all.",
+      "Nobody who studied strange repeats in the genome of bacteria in the 1980s suspected that they would one day become a tool for medicine. And that is exactly where CRISPR is now showing what it can do."
+     ]
+    },
+    {
+     "heading": "The first gene-scissors therapy",
+     "paragraphs": [
+      "The biggest hopes rest on medicine. Many thousands of diseases are caused by errors in single genes. The gene scissors could make it possible to treat them at the root rather than just easing their symptoms. The first disease for which this has succeeded is sickle cell disease.",
+      "In this hereditary disease, the body makes a faulty red blood pigment. The red blood cells deform, get stuck in small vessels and cause severe pain crises, organ damage and a shorter life expectancy. Millions of people worldwide are affected, especially in Africa and among people of African descent.",
+      "Interestingly, the approved therapy does not correct the actual error. It uses a trick of nature. Before birth, every human makes a special form of the blood pigment, foetal haemoglobin. After birth, the body switches to the adult form. In sickle cell disease, it is precisely this adult form that is faulty.",
+      "The gene scissors therefore switch off a switch in the genome that normally suppresses the production of foetal blood pigment. Afterwards the blood cells once again make a lot of this childhood form, and the red blood cells stay round and flexible.",
+      "The treatment is demanding. First, the patients’ own blood stem cells, from which all blood cells develop, are removed. These are edited in the laboratory with the gene scissors. Then the patients receive strong chemotherapy that destroys the old bone marrow. Only after that do they get the modified cells back, which settle in the bone marrow.",
+      "At the end of 2023, this therapy was approved under the name Casgevy in the United Kingdom and shortly afterwards in the United States. According to the manufacturer, it was the first approval of a CRISPR therapy in the United States. It is intended for people aged twelve and over who repeatedly suffer severe pain crises. It was also approved for a related blood disorder, beta thalassaemia, and later in the European Union as well.",
+      "In the trials, most of the people treated no longer had severe pain crises afterwards. For many, that means a completely new life. However, the treatment is gruelling, above all because of the chemotherapy, which can cause infertility, for example. And it is extremely expensive and only possible in specialised clinics.",
+      "Precisely where the disease is most common, in many African countries, such a therapy is so far hardly available. That is one of the great challenges: cutting-edge medicine only helps if it actually reaches the people who need it.",
+      "Many researchers are therefore working on using the gene scissors directly inside the body instead of removing cells first. To do this, they package them, for example, in tiny droplets of fat that are taken up mainly by the liver. First trials based on this principle are already under way for diseases in which the liver makes a harmful protein.",
+      "The gene scissors are also being tested against cancer, inherited blindness and infections such as HIV. Much of this is still in early trials, and not every hope will be fulfilled. But the first approval has shown that the path from the laboratory to the bedside is possible."
+     ]
+    },
+    {
+     "heading": "Gene scissors in the field",
+     "paragraphs": [
+      "CRISPR works not only in humans and animals but also in plants. That opens up many possibilities for agriculture. Researchers are working on cereals that cope better with drought, on potatoes that are less susceptible to disease and on plants that need less fertiliser and fewer pesticides.",
+      "Plant breeding has been changing genomes for thousands of years. Farmers always kept breeding from the plants with the best traits. Later, seeds were even exposed to radiation or chemicals to create random mutations, and breeders then searched for useful results. Many of today’s varieties came about this way.",
+      "The difference with CRISPR is that the change is targeted. Instead of creating thousands of random mutations and painstakingly sorting through them, you change exactly the one gene that matters. That is faster and more precise.",
+      "Often no foreign DNA is permanently inserted. In the end the plant carries only a small change in one of its own genes, of a kind that could in theory also arise by chance. This is the heart of a long debate: are such plants genetic engineering in the classic sense, or rather a modern form of breeding?",
+      "In the European Union, plants changed with the new methods were long treated just as strictly as classic genetically modified organisms. They needed elaborate approvals and had to be labelled. Many plant scientists considered this outdated, while environmental groups and parts of the organic farming sector thought it was right.",
+      "After years of negotiations, the EU adopted new rules in 2026. The Council of member states agreed in the spring and the European Parliament in the summer. Plants with small changes that could also arise through conventional breeding are in future to be treated largely like conventional varieties. All others remain subject to the strict rules on genetic engineering.",
+      "Even the plants that benefit from the relaxed rules do not get off entirely free of conditions, though. Their seed has to be labelled, and they remain banned in organic farming. The new rules are only due to apply some years after their publication. Questions about patents on plants and about freedom of choice for consumers remain especially contentious.",
+      "Research is also being done on animals, for instance on pigs that are resistant to certain viral diseases. Other teams are trying to modify pig organs so that one day they could be transplanted into humans without being rejected.",
+      "One particularly far-reaching idea is called a gene drive. Here, a genetic change is designed so that it spreads through a population much faster than the normal rules of inheritance would allow. In this way it might be possible, for example, to greatly reduce the number of mosquitoes that transmit malaria in an area. Because such a change could hardly be reversed, research has so far been limited to the laboratory and tightly contained experiments.",
+      "So the gene scissors confront society with very practical questions: what do we want to do with this power over the genome, and where do we draw the line? This question is at its sharpest when it comes to humans themselves."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Genes are sections of DNA, and a single changed letter can be enough to cause a disease.",
+    "The gene scissors consist of the protein Cas9 and a guide RNA that can easily be programmed for any desired spot in the genome.",
+    "CRISPR has made research cheaper and faster and is already being used in practice in medicine and plant breeding."
+   ]
+  },
+  "20": {
+   "words": 4177,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Imagine you could find and correct the one typo that causes a disease in a book with three billion letters. That is exactly what the tools built around CRISPR promise. In this article you will learn how the genome is structured, how researchers stumbled upon a mysterious defence system in bacteria, how it became the gene scissors, what it does in medicine and agriculture, what ethical questions it raises and which even finer tools are already waiting in the wings."
+     ]
+    },
+    {
+     "heading": "The blueprint of life",
+     "paragraphs": [
+      "To understand what the gene scissors do, we first need a picture of the genome. Almost every cell in your body contains a complete blueprint, stored in a long molecule called DNA. It looks like a twisted rope ladder, the famous double helix.",
+      "The rungs of this ladder are made of just four building blocks, abbreviated by the letters A, T, G and C. Their order is the actual information, much like a text written in an alphabet of only four letters. A always pairs with T, and G always pairs with C. That is why each half of the ladder contains the same information.",
+      "The human genome comprises around three billion of these letter pairs. Printed out, they would fill thousands of thick books. Stretched out, the DNA of a single cell would be about two metres long. It only fits into the tiny cell nucleus because it is wound up extremely tightly.",
+      "Certain sections of DNA are called genes. A gene is a kind of recipe: it describes how the cell makes a particular protein. Proteins do almost all the work in the body. They transport oxygen, fight pathogens, digest food and give cells their shape. Humans have roughly twenty thousand such genes.",
+      "If an error creeps into a gene, a so-called mutation, the recipe can become useless. Sometimes a single swapped letter is enough. In sickle cell disease, for example, it is exactly one position in the gene for the red blood pigment. The red blood cells then deform into rigid sickles, block blood vessels and cause severe pain.",
+      "Many hereditary diseases are caused by small errors like this. For a long time, their effects could only be eased, but the cause could not be fixed. The idea of correcting the error directly in the genome was therefore an old dream of medicine.",
+      "Attempts to change genes deliberately go back to the 1970s. At that time researchers learned to cut DNA with certain enzymes and put it back together in new ways. This produced, for example, bacteria that make human insulin. It was a big step forward, but the tools were crude.",
+      "Changing a gene at one specific position in the huge genome of an animal or a human was extremely laborious for a long time. There were special tools that could do it, but for every new target a separate protein had to be painstakingly made. That took months and was expensive.",
+      "What was missing was a kind of find-and-replace function for the genome: a tool that could simply be programmed for any position you liked. That is exactly what CRISPR became.",
+      "The tool was not found through a targeted search, but through curiosity. The story begins with bacteria, and with researchers who were puzzled by strange patterns in their DNA."
+     ]
+    },
+    {
+     "heading": "An immune system for bacteria",
+     "paragraphs": [
+      "In 1987, a team led by the Japanese researcher Yoshizumi Ishino at Osaka University was studying a gene in the gut bacterium Escherichia coli. They came across something strange: sections that repeated over and over, interrupted by short pieces that were each different. Nobody knew what this was for.",
+      "A few years later the same pattern caught the eye of a young doctoral student in Spain. Francisco Mojica at the University of Alicante was studying microbes that live in extremely salty water. He found the repeating sections in their genome too. He was convinced that such a striking pattern had to have a purpose.",
+      "Mojica and others soon found the repeats in many different bacteria and related single-celled organisms. In the early 2000s, researchers agreed on a common name: CRISPR. The abbreviation stands for clustered regularly interspaced short palindromic repeats. A clumsy name for a great discovery.",
+      "The decisive clue came from the short spacers in between. Mojica compared them with databases of known DNA. Many of them matched exactly the genetic material of viruses that attack bacteria. And bacteria that carried such a piece of a particular virus were protected against exactly that virus.",
+      "That gave him a bold idea: CRISPR is an immune system. Bacteria cut a piece out of an attacker’s genetic material and insert it between the repeats in their own genome, like a photo in a book of wanted criminals. If the virus returns, they recognise it and can fight it off. Mojica published this interpretation in the mid-2000s, after several journals had initially rejected it.",
+      "A book of wanted criminals is of no use on its own, though; someone also has to make the arrest. This job is done by proteins encoded right next to the CRISPR sections in the genome. They are called Cas proteins, for CRISPR-associated. Some of them are scissors that cut up foreign DNA.",
+      "The idea was confirmed in a surprising place: the food industry. A producer of yoghurt cultures wanted to know why some of its lactic acid bacteria resisted attacks by viruses while others did not. Around 2007, researchers showed that the resistant bacteria had added new virus snippets to their CRISPR archive.",
+      "That made it clear: bacteria have a defence system that can learn. They remember earlier attackers and even pass this memory on to their offspring. That is remarkable, because for a long time it was thought that such an adaptive immune system only existed in vertebrates.",
+      "For bacteria, this is a matter of survival. Viruses that infect bacteria are the most common biological entities on Earth. There is a constant arms race between the microbes and their attackers.",
+      "Hardly anyone yet imagined that this defence system might contain a tool for humans. That changed when two researchers took a closer look at one particular Cas protein."
+     ]
+    },
+    {
+     "heading": "How the gene scissors work",
+     "paragraphs": [
+      "Around 2010, the French microbiologist Emmanuelle Charpentier was studying a bacterium that can cause throat infections in humans. In its CRISPR system she discovered a previously unknown small RNA molecule that was essential for the defence. RNA is a kind of working copy of DNA that cells use to pass on information.",
+      "For further research she teamed up with the American biochemist Jennifer Doudna, an RNA expert at the University of California, Berkeley. Together their teams took the system apart and studied in the test tube how the cutting protein Cas9 works.",
+      "In 2012 they published their results, and they were remarkable. At its core, the system consists of just two parts: the protein Cas9, the actual scissors, and an RNA molecule that shows it the way. This guide RNA contains a sequence of about twenty letters that matches exactly the target spot in the DNA.",
+      "The guide RNA works like a search query. Cas9 moves along the DNA with it and checks whether the letters match. If it finds a matching spot, it cuts through both strands of the double helix. So that it does not cut just anywhere, Cas9 also needs a short recognition tag right next to the target.",
+      "The real breakthrough was a simplification. Charpentier and Doudna showed that the two RNA parts the bacterium uses can be joined into a single molecule. And above all, the search sequence in it can be swapped for any other. Instead of viral DNA, you can target any position in any genome.",
+      "With that, a bacterial defence system had become a programmable tool. To aim at a new target, you only have to rewrite the short guide RNA; the protein stays the same. Guide RNAs can now simply be ordered, often within a few days.",
+      "What happens after the cut is done by the cell itself. A break in both strands is an emergency for the cell, and it immediately tries to repair it. It has two ways of doing this. In the quick way, it simply sticks the ends back together. Small errors often happen in the process; a few letters are lost or added. The gene is usually broken afterwards, and that can be exactly what you want if the aim is to switch off a harmful gene.",
+      "In the second, more precise way, the cell uses a template to fill the gap. If you give it a template you have made yourself, it copies this into its genome. That way a faulty section can be replaced by a corrected one. This route does not work equally well in all types of cell, however.",
+      "You can think of the whole thing as a word processor: the guide RNA is the search function, Cas9 is the cursor that makes a cut at the spot found, and the cell’s repair is the typing. Except that this word processor works inside living cells.",
+      "The gene scissors are not entirely error-free. Sometimes they also cut at places that merely resemble the target. Reducing such side effects is still an important area of research. Even so, the new tool was so much simpler than anything before it that it transformed biology in no time at all."
+     ]
+    },
+    {
+     "heading": "A revolution in the lab",
+     "paragraphs": [
+      "Just a few months after the 2012 publication, several research groups showed that the gene scissors also work in human cells and in animal cells. After that, everything moved very fast. Within a few years, thousands of laboratories all over the world were working with CRISPR.",
+      "The main reason was simplicity. What used to take months and required a team of specialists can now be done by doctoral students in a few weeks. The necessary components are comparatively cheap, and designs for thousands of guide RNAs are shared between labs in online archives.",
+      "Basic research benefits most of all. Anyone who wants to know what a gene is for can now switch it off in a targeted way and watch what happens. Researchers can even study thousands of genes at once by creating collections of cells in which a different gene is switched off in each. This is how they find out, for example, which genes cancer cells need to survive.",
+      "Animal models of diseases can also be produced much faster. It used to take more than a year to breed a mouse with a particular genetic change. With CRISPR, the change can be made directly in a fertilised egg. That saves time, and often laboratory animals as well.",
+      "Cas9 is far from the only one. Researchers have discovered many other Cas proteins in bacteria that work slightly differently. Some cut RNA, the working copy, instead of DNA; others are smaller and easier to get into cells. The toolbox keeps growing.",
+      "One surprising application is rapid tests. Certain Cas proteins become active when they find their target and then randomly cut other molecules in their surroundings. This property can be used to detect the genetic material of pathogens. The result can then be read, for example, as a coloured line on a test strip.",
+      "Success also brought conflict. The University of California and the Broad Institute in Boston fought a legal battle lasting years over patents for using CRISPR in human and animal cells. With the researcher Feng Zhang, the Broad Institute had shown early on how the method works in such cells. A great deal of money is at stake.",
+      "Scientific recognition, on the other hand, was clear-cut. In 2020, as the Royal Swedish Academy of Sciences announced, Emmanuelle Charpentier and Jennifer Doudna received the Nobel Prize in Chemistry for the development of a method for genome editing. It was the first time two women had shared this prize. At the time, Charpentier was heading a Max Planck research unit in Berlin.",
+      "What is remarkable is how short the time between discovery and Nobel Prize was: only eight years. That shows how quickly the method changed research. At the same time, the story is a reminder that the breakthrough rested on decades of basic research that at first seemed to have no practical purpose at all.",
+      "Nobody who studied strange repeats in the genome of bacteria in the 1980s suspected that they would one day become a tool for medicine. And that is exactly where CRISPR is now showing what it can do."
+     ]
+    },
+    {
+     "heading": "The first gene-scissors therapy",
+     "paragraphs": [
+      "The biggest hopes rest on medicine. Many thousands of diseases are caused by errors in single genes. The gene scissors could make it possible to treat them at the root rather than just easing their symptoms. The first disease for which this has succeeded is sickle cell disease.",
+      "In this hereditary disease, the body makes a faulty red blood pigment. The red blood cells deform, get stuck in small vessels and cause severe pain crises, organ damage and a shorter life expectancy. Millions of people worldwide are affected, especially in Africa and among people of African descent.",
+      "Interestingly, the approved therapy does not correct the actual error. It uses a trick of nature. Before birth, every human makes a special form of the blood pigment, foetal haemoglobin. After birth, the body switches to the adult form. In sickle cell disease, it is precisely this adult form that is faulty.",
+      "The gene scissors therefore switch off a switch in the genome that normally suppresses the production of foetal blood pigment. Afterwards the blood cells once again make a lot of this childhood form, and the red blood cells stay round and flexible.",
+      "The treatment is demanding. First, the patients’ own blood stem cells, from which all blood cells develop, are removed. These are edited in the laboratory with the gene scissors. Then the patients receive strong chemotherapy that destroys the old bone marrow. Only after that do they get the modified cells back, which settle in the bone marrow.",
+      "At the end of 2023, this therapy was approved under the name Casgevy in the United Kingdom and shortly afterwards in the United States. According to the manufacturer, it was the first approval of a CRISPR therapy in the United States. It is intended for people aged twelve and over who repeatedly suffer severe pain crises. It was also approved for a related blood disorder, beta thalassaemia, and later in the European Union as well.",
+      "In the trials, most of the people treated no longer had severe pain crises afterwards. For many, that means a completely new life. However, the treatment is gruelling, above all because of the chemotherapy, which can cause infertility, for example. And it is extremely expensive and only possible in specialised clinics.",
+      "Precisely where the disease is most common, in many African countries, such a therapy is so far hardly available. That is one of the great challenges: cutting-edge medicine only helps if it actually reaches the people who need it.",
+      "Many researchers are therefore working on using the gene scissors directly inside the body instead of removing cells first. To do this, they package them, for example, in tiny droplets of fat that are taken up mainly by the liver. First trials based on this principle are already under way for diseases in which the liver makes a harmful protein.",
+      "The gene scissors are also being tested against cancer, inherited blindness and infections such as HIV. Much of this is still in early trials, and not every hope will be fulfilled. But the first approval has shown that the path from the laboratory to the bedside is possible."
+     ]
+    },
+    {
+     "heading": "Gene scissors in the field",
+     "paragraphs": [
+      "CRISPR works not only in humans and animals but also in plants. That opens up many possibilities for agriculture. Researchers are working on cereals that cope better with drought, on potatoes that are less susceptible to disease and on plants that need less fertiliser and fewer pesticides.",
+      "Plant breeding has been changing genomes for thousands of years. Farmers always kept breeding from the plants with the best traits. Later, seeds were even exposed to radiation or chemicals to create random mutations, and breeders then searched for useful results. Many of today’s varieties came about this way.",
+      "The difference with CRISPR is that the change is targeted. Instead of creating thousands of random mutations and painstakingly sorting through them, you change exactly the one gene that matters. That is faster and more precise.",
+      "Often no foreign DNA is permanently inserted. In the end the plant carries only a small change in one of its own genes, of a kind that could in theory also arise by chance. This is the heart of a long debate: are such plants genetic engineering in the classic sense, or rather a modern form of breeding?",
+      "In the European Union, plants changed with the new methods were long treated just as strictly as classic genetically modified organisms. They needed elaborate approvals and had to be labelled. Many plant scientists considered this outdated, while environmental groups and parts of the organic farming sector thought it was right.",
+      "After years of negotiations, the EU adopted new rules in 2026. The Council of member states agreed in the spring and the European Parliament in the summer. Plants with small changes that could also arise through conventional breeding are in future to be treated largely like conventional varieties. All others remain subject to the strict rules on genetic engineering.",
+      "Even the plants that benefit from the relaxed rules do not get off entirely free of conditions, though. Their seed has to be labelled, and they remain banned in organic farming. The new rules are only due to apply some years after their publication. Questions about patents on plants and about freedom of choice for consumers remain especially contentious.",
+      "Research is also being done on animals, for instance on pigs that are resistant to certain viral diseases. Other teams are trying to modify pig organs so that one day they could be transplanted into humans without being rejected.",
+      "One particularly far-reaching idea is called a gene drive. Here, a genetic change is designed so that it spreads through a population much faster than the normal rules of inheritance would allow. In this way it might be possible, for example, to greatly reduce the number of mosquitoes that transmit malaria in an area. Because such a change could hardly be reversed, research has so far been limited to the laboratory and tightly contained experiments.",
+      "So the gene scissors confront society with very practical questions: what do we want to do with this power over the genome, and where do we draw the line? This question is at its sharpest when it comes to humans themselves."
+     ]
+    },
+    {
+     "heading": "Where the line is drawn",
+     "paragraphs": [
+      "When it comes to interventions in humans, experts distinguish between two cases. In the first, body cells of a patient are changed, such as blood stem cells in the therapy for sickle cell disease. This change affects only that one person and is not passed on to children. Such therapies are widely regarded as ethically acceptable if they are safe and effective.",
+      "In the second case, embryos, egg cells or sperm are changed. Then the change is present in every cell of the future person, including their reproductive cells. It would be passed on to all future generations. This is known as germline editing. Here most countries draw a clear line.",
+      "In November 2018, a Chinese researcher crossed this line. He Jiankui announced that he had altered the genome of embryos from which twin girls had been born. He wanted to switch off a gene that HIV uses to get into cells, and in this way protect the children from HIV infection.",
+      "The outrage was huge worldwide, not least among researchers. There was no medical reason for the intervention, because there are other safe ways to prevent HIV from being passed on to children. It was also completely unclear whether the change had worked and what unintended consequences it might have. It later emerged that a third child had been born in the same way.",
+      "A court in China sentenced He at the end of 2019 to three years in prison and a large fine, as media reported citing the state news agency. According to the court, he and his collaborators had, among other things, forged documents for the ethical review. Two other people involved were also convicted.",
+      "The case showed how great the risks are. The gene scissors can cut in the wrong places, or work in some cells of an embryo and not in others. Nobody knows what that means for a person over a whole lifetime. And the children themselves could not consent.",
+      "In Germany, the Embryo Protection Act prohibits changes to the human germline. Many other countries also ban such changes or restrict them strictly. International expert bodies call for such interventions to remain off-limits at least until safety and public acceptance have been settled. Some reject them on principle.",
+      "Behind the debate lies a deeper concern: the fear of designer babies. What if parents one day wanted not only to prevent diseases but to select traits such as height or intelligence? Experts stress that such characteristics depend on hundreds of genes and on the environment and cannot simply be set with scissors. The ethical question remains all the same.",
+      "Another question is fairness. If new therapies cost millions, only a few will benefit at first. Many experts therefore call for thinking from the outset about how treatments can become affordable and accessible worldwide.",
+      "The gene scissors are therefore not a tool like any other. They touch on questions that go far beyond biology, and so they need a broad debate across society."
+     ]
+    },
+    {
+     "heading": "Even finer tools",
+     "paragraphs": [
+      "The classic gene scissors have one drawback: they cut through both strands of DNA. The repair that follows is not always predictable, and sometimes larger damage to the genome occurs. That is why researchers are working on tools that act more delicately.",
+      "One of them is base editing. Here Cas9 is modified so that it no longer cuts through the DNA but only finds the spot. A second enzyme is attached to the protein that chemically converts a single letter into another. It is more like an eraser and pencil than a pair of scissors.",
+      "Because many hereditary diseases are caused by a single wrong letter, this is very promising. First trials of base editors in humans are already under way, for instance against blood disorders and inherited high cholesterol.",
+      "So-called prime editing goes one step further. Here the guide RNA carries not only the search sequence but also the desired new sequence. An attached enzyme writes it directly into the genome. This makes it possible not only to swap single letters but also to insert or remove short sections without cutting through both strands.",
+      "Still other approaches do not change the letters themselves at all, but whether a gene is switched on or off. The genome carries additional chemical markers that determine which genes are active. With modified CRISPR tools, these markers can be set or removed in a targeted way. Such changes may even be reversible.",
+      "The biggest hurdle is often not the scissors themselves but delivery. How do you get the tool into exactly the cells that need it, for instance in the brain, the muscles or the lungs? Researchers are testing harmless, modified viruses, tiny fat droplets and other means of transport. This is where it will be decided which diseases the gene scissors are actually suitable for.",
+      "Safety is also being researched further. There are now improved variants of Cas9 that cut in the wrong places less often, and methods for searching the entire genome for unwanted changes.",
+      "It usually takes many years for a new gene therapy to be approved. It has to show in several phases of trials that it works and that its benefits outweigh the risks. The new tools have to go down this long road too.",
+      "For all the enthusiasm, a realistic view is worthwhile. Most applications in humans are still in early trials. Many diseases do not depend on a single gene but on the interplay of many genes and the environment. There, gene scissors can only help to a limited extent.",
+      "Even so, CRISPR has already changed biology. Hardly any research lab can do without the method. It helps us understand how life works, and it has freed the first patients from serious suffering.",
+      "And the story shows something fundamental: one of the most powerful tools of modern medicine did not come from a targeted research programme but from curiosity about strange patterns in the genome of bacteria."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "CRISPR comes from nature and only became recognisable as a tool through decades of basic research on bacteria.",
+    "Newer methods such as base editing change single letters without cutting all the way through the DNA strand.",
+    "Whether embryos, plant breeding or expensive therapies are concerned, how we use the technology is also a decision for society."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "title": "The Nobel Prize in Chemistry 2020, Press release",
+   "publisher": "The Royal Swedish Academy of Sciences",
+   "url": "https://www.nobelprize.org/prizes/chemistry/2020/press-release/",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Hello CRISPR",
+   "publisher": "Genetics Society, Genetics Unzipped",
+   "url": "https://geneticsunzipped.com/news/2021/4/8/hello-crispr",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Vertex and CRISPR Therapeutics Announce US FDA Approval of CASGEVY for the Treatment of Sickle Cell Disease",
+   "publisher": "Vertex Pharmaceuticals",
+   "url": "https://news.vrtx.com/news-releases/news-release-details/vertex-and-crispr-therapeutics-announce-us-fda-approval",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Researchers behind claim of gene-edited babies sentenced in China",
+   "publisher": "NBC News",
+   "url": "https://www.nbcnews.com/news/world/researchers-behind-claim-gene-edited-babies-sentenced-china-n1108351",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Council Adopts Regulation on New Genomic Techniques",
+   "publisher": "Europäische Kommission, IP Helpdesk",
+   "url": "https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/council-adopts-regulation-new-genomic-techniques-2026-05-05_en",
+   "accessed": "2026-11-03"
+  }
+ ],
+ "factCheckedAt": "2026-11-03"
+}

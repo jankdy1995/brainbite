@@ -1,0 +1,423 @@
+{
+ "id": "crispr",
+ "lang": "de",
+ "title": "CRISPR und die Gen-Schere",
+ "versions": {
+  "5": {
+   "words": 938,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "In jeder deiner Zellen steckt ein Bauplan, das Erbgut. Schon ein einziger falscher Buchstabe darin kann eine schwere Krankheit auslösen. Seit gut zehn Jahren gibt es ein Werkzeug, mit dem Forschende diesen Bauplan gezielt verändern können, schneller, billiger und genauer als je zuvor. Es heißt CRISPR, und abgeschaut haben wir es uns von Bakterien. In fünf Minuten erfährst du, wie die Gen-Schere funktioniert, was sie heute schon kann und warum sie so heftige Debatten auslöst."
+     ]
+    },
+    {
+     "heading": "Was die Gen-Schere ist",
+     "paragraphs": [
+      "Fast jede Zelle deines Körpers enthält einen Bauplan, gespeichert in der DNA. Sie besteht aus vier Bausteinen, abgekürzt A, T, G und C. Ihre Reihenfolge ist die Information, ähnlich wie ein Text aus einem Alphabet mit nur vier Buchstaben. Beim Menschen sind es rund drei Milliarden Buchstabenpaare.",
+      "Bestimmte Abschnitte davon heißen Gene. Jedes Gen ist eine Art Rezept für ein Eiweiß, das im Körper eine Aufgabe erfüllt, etwa Sauerstoff transportieren oder Krankheitserreger bekämpfen.",
+      "Schon ein einzelner falscher Buchstabe in einem Gen kann eine schwere Krankheit auslösen. Bei der Sichelzellkrankheit verformen sich dadurch die roten Blutkörperchen, verstopfen Blutgefäße und verursachen starke Schmerzen.",
+      "CRISPR ist ein Werkzeug, mit dem Forschende das Erbgut an einer genau bestimmten Stelle verändern können. Oft spricht man einfach von der Gen-Schere. Sie funktioniert in Bakterien, Pflanzen, Tieren und menschlichen Zellen.",
+      "Neu ist nicht, dass man Gene verändern kann, das geht schon seit Jahrzehnten. Neu ist, wie einfach, schnell und günstig das mit CRISPR geht. Was früher Monate dauerte und teure Spezialwerkzeuge erforderte, ist heute oft in wenigen Wochen erledigt.",
+      "Ein Beispiel aus dem Labor: Wer wissen will, wozu ein bestimmtes Gen gut ist, schaltet es mit der Gen-Schere in Zellen oder Versuchstieren aus und beobachtet, was dann nicht mehr funktioniert. Früher war allein das ein Projekt für Jahre.",
+      "Deshalb arbeiten heute Labore auf der ganzen Welt mit der Methode. Sie hilft zu verstehen, wozu einzelne Gene gut sind, und sie ist die Grundlage erster Therapien."
+     ]
+    },
+    {
+     "heading": "Ein Trick der Bakterien",
+     "paragraphs": [
+      "Die Gen-Schere hat der Mensch nicht erfunden, sondern bei Bakterien abgeschaut. Ende der Achtzigerjahre fielen japanischen Forschenden seltsame, sich wiederholende Abschnitte im Erbgut eines Darmbakteriums auf. Wozu sie gut waren, wusste lange niemand.",
+      "Der spanische Forscher Francisco Mojica fand schließlich heraus, dass zwischen den Wiederholungen Schnipsel aus dem Erbgut von Viren stecken. Bakterien bewahren sie auf wie Fotos in einem Fahndungsbuch. Kommt das Virus wieder, erkennen sie es und zerschneiden sein Erbgut mit einem Protein namens Cas9. CRISPR ist also eigentlich ein Immunsystem.",
+      "Bestätigt wurde das auf überraschende Weise: Ein Hersteller von Joghurtkulturen wollte wissen, warum manche seiner Bakterien Virenangriffe überstanden. Es zeigte sich, dass sie neue Virenschnipsel in ihr CRISPR-Archiv aufgenommen hatten. Bakterien haben also ein lernfähiges Gedächtnis für Angreifer.",
+      "2012 zeigten die Französin Emmanuelle Charpentier und die Amerikanerin Jennifer Doudna, wie man daraus ein Werkzeug macht. Das System besteht aus zwei Teilen: dem Protein Cas9, der eigentlichen Schere, und einem kurzen RNA-Molekül, das ihr den Weg weist.",
+      "Diese Leit-RNA enthält rund zwanzig Buchstaben, die genau zu der gesuchten Stelle im Erbgut passen. Sie funktioniert wie eine Suchanfrage. Cas9 wandert mit ihr an der DNA entlang, und wo die Buchstaben passen, schneidet es den Strang durch. Um ein neues Ziel anzusteuern, muss man nur die Leit-RNA neu schreiben.",
+      "Den Rest erledigt die Zelle. Sie repariert den Schnitt sofort. Dabei geht oft etwas schief, und das Gen ist danach ausgeschaltet. Gibt man ihr eine Vorlage mit, kann sie den Abschnitt auch durch eine korrigierte Fassung ersetzen.",
+      "Ganz fehlerfrei ist die Gen-Schere allerdings nicht. Manchmal schneidet sie auch an Stellen, die dem Ziel nur ähneln. Solche Nebenwirkungen zu verringern, ist bis heute ein wichtiges Forschungsfeld.",
+      "Für diese Entdeckung erhielten Charpentier und Doudna 2020 den Nobelpreis für Chemie. Zum ersten Mal teilten sich zwei Frauen diesen Preis."
+     ]
+    },
+    {
+     "heading": "Heilen, züchten, streiten",
+     "paragraphs": [
+      "Ende 2023 wurde in Großbritannien und den USA die erste Therapie mit der Gen-Schere zugelassen, gegen die Sichelzellkrankheit. Dafür werden Blutstammzellen der Patienten entnommen, im Labor verändert und nach einer Chemotherapie zurückgegeben. Danach bilden die Zellen wieder eine Form des roten Blutfarbstoffs, die sonst nur vor der Geburt vorkommt, und die Schmerzkrisen bleiben meist aus.",
+      "Die Behandlung ist allerdings aufwendig, belastend und sehr teuer. Gerade in Ländern, in denen die Krankheit besonders häufig ist, ist sie bislang kaum verfügbar.",
+      "Viele Forschende arbeiten deshalb daran, die Gen-Schere direkt im Körper einzusetzen, statt Zellen erst zu entnehmen. Erste Studien laufen, etwa für Krankheiten der Leber. Auch gegen Krebs und erblich bedingte Blindheit wird die Methode erprobt.",
+      "Auch in der Landwirtschaft wird CRISPR eingesetzt, etwa für Pflanzen, die Trockenheit oder Krankheiten besser widerstehen. Die EU hat 2026 neue Regeln beschlossen, nach denen Pflanzen mit kleinen, gezielten Veränderungen künftig weitgehend wie herkömmlich gezüchtete Sorten behandelt werden.",
+      "Eine klare Grenze ziehen die meisten Länder bei Embryonen. Veränderungen dort würden an alle Nachkommen vererbt. 2018 verkündete der chinesische Forscher He Jiankui, er habe das Erbgut von Embryonen verändert, aus denen Zwillinge hervorgingen. Die Empörung war weltweit groß, und ein chinesisches Gericht verurteilte ihn zu drei Jahren Haft.",
+      "Fachleute betonen allerdings, dass Eigenschaften wie Größe oder Intelligenz von Hunderten Genen und von der Umwelt abhängen. Sie lassen sich nicht einfach per Schere einstellen.",
+      "In Deutschland verbietet das Embryonenschutzgesetz solche Eingriffe. Die Sorge: unvorhersehbare Risiken, fehlende Zustimmung der Betroffenen und die Angst vor Designerbabys.",
+      "Die Gen-Schere ist damit beides: ein großer medizinischer Fortschritt und eine Technik, über deren Grenzen die Gesellschaft gemeinsam entscheiden muss."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "CRISPR ist ursprünglich ein Abwehrsystem von Bakterien gegen Viren, aus dem Forschende eine Gen-Schere gemacht haben.",
+    "Eine Leit-RNA führt das Schneide-Protein Cas9 an eine genau bestimmte Stelle im Erbgut, wo es die DNA durchtrennt.",
+    "Die Methode hilft schon bei Krankheiten wie der Sichelzellkrankheit, Eingriffe in das vererbbare Erbgut gelten aber als ethische Grenze."
+   ]
+  },
+  "10": {
+   "words": 2157,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "2020 ging der Nobelpreis für Chemie an zwei Forscherinnen, die acht Jahre zuvor ein erstaunliches Werkzeug vorgestellt hatten: eine Gen-Schere, mit der sich das Erbgut von Pflanzen, Tieren und Menschen an einer genau bestimmten Stelle verändern lässt. In den nächsten zehn Minuten erfährst du, wo dieses Werkzeug herkommt, wie es funktioniert, welche Krankheiten man damit schon behandeln kann und wo die ethischen Grenzen liegen."
+     ]
+    },
+    {
+     "heading": "Der Bauplan des Lebens",
+     "paragraphs": [
+      "Fast jede Zelle deines Körpers enthält einen vollständigen Bauplan, gespeichert in einem langen Molekül namens DNA. Es sieht aus wie eine verdrehte Strickleiter, die berühmte Doppelhelix. Ihre Sprossen bestehen aus nur vier Bausteinen, abgekürzt A, T, G und C. Ihre Reihenfolge ist die eigentliche Information, wie ein Text aus einem Alphabet mit vier Buchstaben.",
+      "Das menschliche Erbgut umfasst rund drei Milliarden solcher Buchstabenpaare. Bestimmte Abschnitte heißen Gene. Ein Gen ist wie ein Rezept, nach dem die Zelle ein bestimmtes Eiweiß herstellt, ein Protein. Proteine erledigen fast alle Arbeiten im Körper, vom Sauerstofftransport bis zur Abwehr von Krankheitserregern.",
+      "Schleicht sich in einem Gen ein Fehler ein, eine Mutation, kann das Rezept unbrauchbar werden. Manchmal genügt ein einziger vertauschter Buchstabe. Bei der Sichelzellkrankheit verformen sich dadurch die roten Blutkörperchen zu starren Sicheln, die Blutgefäße verstopfen und heftige Schmerzen verursachen.",
+      "Ein Gen gezielt an einer bestimmten Stelle im riesigen Erbgut zu verändern, war lange extrem mühsam und teuer. Was fehlte, war eine Art Suchen-und-Ersetzen-Funktion: ein Werkzeug, das man einfach auf jede beliebige Stelle programmieren kann.",
+      "Genau das wurde CRISPR. Gefunden hat man es nicht durch gezielte Suche, sondern durch Neugier, bei Bakterien und bei Forschenden, die sich über seltsame Muster in deren Erbgut wunderten."
+     ]
+    },
+    {
+     "heading": "Ein Immunsystem für Bakterien",
+     "paragraphs": [
+      "1987 untersuchte ein Team um den japanischen Forscher Yoshizumi Ishino an der Universität Osaka ein Gen im Darmbakterium Escherichia coli. Dabei stieß es auf etwas Merkwürdiges: Abschnitte, die sich immer wiederholten, unterbrochen von kurzen Stücken, die jeweils anders aussahen. Wozu das gut sein sollte, wusste niemand.",
+      "Wenige Jahre später fiel dasselbe Muster einem jungen Doktoranden in Spanien auf. Francisco Mojica von der Universität Alicante untersuchte Mikroben, die in extrem salzigem Wasser leben. Auch in ihrem Erbgut fand er die sich wiederholenden Abschnitte. Er war überzeugt, dass so ein auffälliges Muster eine Aufgabe haben musste.",
+      "Mojica und andere fanden die Wiederholungen bald in vielen verschiedenen Bakterien und verwandten Einzellern. Anfang der Zweitausenderjahre einigten sich Forschende auf einen gemeinsamen Namen: CRISPR. Die Abkürzung steht auf Englisch für gehäufte, regelmäßig unterbrochene kurze Wiederholungen mit spiegelbildlicher Struktur. Ein sperriger Name für eine große Entdeckung.",
+      "Den entscheidenden Hinweis lieferten die kurzen Zwischenstücke. Mojica verglich sie mit Datenbanken bekannter DNA. Viele davon stimmten genau mit dem Erbgut von Viren überein, die Bakterien befallen. Und Bakterien, die ein solches Stück eines bestimmten Virus in sich trugen, waren gegen genau dieses Virus geschützt.",
+      "Das brachte ihn auf eine kühne Idee: CRISPR ist ein Immunsystem. Bakterien schneiden sich ein Stück aus dem Erbgut eines Angreifers heraus und bauen es zwischen die Wiederholungen in ihr eigenes Erbgut ein, wie ein Foto in einem Fahndungsbuch. Kommt das Virus wieder, erkennen sie es und können es abwehren. Mojica veröffentlichte diese Deutung Mitte der Zweitausenderjahre, nachdem mehrere Fachzeitschriften sie zunächst abgelehnt hatten.",
+      "Ein Fahndungsbuch allein nützt aber nichts, es braucht auch jemanden, der den Täter festnimmt. Diese Aufgabe übernehmen Proteine, die direkt neben den CRISPR-Abschnitten im Erbgut codiert sind. Man nennt sie Cas-Proteine, für CRISPR-assoziiert. Einige von ihnen sind Scheren, die fremde DNA zerschneiden.",
+      "Bestätigt wurde die Idee auf überraschende Weise, nämlich in der Lebensmittelindustrie. Ein Hersteller von Joghurtkulturen wollte wissen, warum manche seiner Milchsäurebakterien Angriffen von Viren widerstanden und andere nicht. Forschende zeigten um das Jahr 2007, dass die widerstandsfähigen Bakterien neue Virenschnipsel in ihr CRISPR-Archiv aufgenommen hatten.",
+      "Damit war klar: Bakterien haben ein lernfähiges Abwehrsystem. Sie merken sich frühere Angreifer und geben dieses Gedächtnis sogar an ihre Nachkommen weiter. Das ist bemerkenswert, denn lange glaubte man, ein solches anpassungsfähiges Immunsystem gäbe es nur bei Wirbeltieren.",
+      "Für die Bakterien ist das überlebenswichtig. Viren, die Bakterien befallen, sind die häufigsten biologischen Gebilde auf der Erde. Ständig tobt ein Wettrüsten zwischen den Mikroben und ihren Angreifern.",
+      "Noch dachte kaum jemand daran, dass in diesem Abwehrsystem ein Werkzeug für Menschen stecken könnte. Das änderte sich, als zwei Forscherinnen sich ein ganz bestimmtes Cas-Protein genauer ansahen."
+     ]
+    },
+    {
+     "heading": "Wie die Gen-Schere funktioniert",
+     "paragraphs": [
+      "Die französische Mikrobiologin Emmanuelle Charpentier erforschte um das Jahr 2010 ein Bakterium, das beim Menschen Halsentzündungen verursachen kann. In seinem CRISPR-System entdeckte sie ein bis dahin unbekanntes kleines RNA-Molekül, das für die Abwehr unverzichtbar war. RNA ist eine Art Arbeitskopie von DNA, mit der Zellen Informationen weitergeben.",
+      "Für die weitere Untersuchung tat sie sich mit der amerikanischen Biochemikerin Jennifer Doudna zusammen, einer Expertin für RNA an der Universität von Kalifornien in Berkeley. Gemeinsam nahmen ihre Teams das System auseinander und untersuchten im Reagenzglas, wie das Schneide-Protein Cas9 arbeitet.",
+      "2012 veröffentlichten sie ihre Ergebnisse, und die hatten es in sich. Das System besteht im Kern aus nur zwei Teilen: dem Protein Cas9, der eigentlichen Schere, und einem RNA-Molekül, das ihr den Weg weist. Diese Leit-RNA enthält eine Folge von etwa zwanzig Buchstaben, die genau zur gesuchten Stelle in der DNA passt.",
+      "Die Leit-RNA funktioniert wie eine Suchanfrage. Cas9 wandert mit ihr an der DNA entlang und prüft, ob die Buchstaben zusammenpassen. Findet es eine passende Stelle, schneidet es beide Stränge der Doppelhelix durch. Damit es nicht an jeder beliebigen Stelle schneidet, braucht Cas9 zusätzlich ein kurzes Erkennungszeichen direkt neben dem Ziel.",
+      "Der eigentliche Durchbruch war eine Vereinfachung. Charpentier und Doudna zeigten, dass man die beiden RNA-Teile, die das Bakterium verwendet, zu einem einzigen Molekül verbinden kann. Und vor allem: Man kann die Suchfolge darin beliebig austauschen. Statt Virus-DNA kann man jede beliebige Stelle in jedem beliebigen Erbgut ansteuern.",
+      "Damit war aus einem bakteriellen Abwehrsystem ein programmierbares Werkzeug geworden. Um ein neues Ziel anzusteuern, muss man nur die kurze Leit-RNA neu schreiben, das Protein bleibt gleich. Leit-RNAs lassen sich heute einfach bestellen, oft innerhalb weniger Tage.",
+      "Was nach dem Schnitt passiert, erledigt die Zelle selbst. Ein Bruch in beiden Strängen ist für sie ein Notfall, und sie versucht sofort, ihn zu reparieren. Dafür hat sie zwei Wege. Beim schnellen Weg klebt sie die Enden einfach wieder zusammen. Dabei passieren oft kleine Fehler, ein paar Buchstaben gehen verloren oder kommen hinzu. Meist ist das Gen danach kaputt, und genau das kann gewollt sein, wenn man ein schädliches Gen ausschalten möchte.",
+      "Beim zweiten, genaueren Weg nutzt die Zelle eine Vorlage, um die Lücke zu füllen. Gibt man ihr eine selbst gemachte Vorlage mit, übernimmt sie diese in ihr Erbgut. So lässt sich ein fehlerhafter Abschnitt durch einen korrigierten ersetzen. Dieser Weg funktioniert allerdings nicht in allen Zelltypen gleich gut.",
+      "Man kann sich das Ganze wie ein Textprogramm vorstellen: Die Leit-RNA ist die Suchfunktion, Cas9 der Cursor, der an der gefundenen Stelle einen Schnitt setzt, und die Reparatur der Zelle ist das Tippen. Nur dass dieses Textprogramm in lebenden Zellen arbeitet.",
+      "Ganz fehlerfrei ist die Gen-Schere nicht. Manchmal schneidet sie auch an Stellen, die der Zielstelle nur ähneln. Solche Nebenwirkungen zu verringern, ist bis heute ein wichtiges Forschungsfeld. Trotzdem war das neue Werkzeug so viel einfacher als alles zuvor, dass es die Biologie in kürzester Zeit umkrempelte."
+     ]
+    },
+    {
+     "heading": "Die erste Therapie mit der Gen-Schere",
+     "paragraphs": [
+      "Der größte Hoffnungsträger ist die Medizin. Viele tausend Krankheiten gehen auf Fehler in einzelnen Genen zurück. Die Gen-Schere könnte es ermöglichen, sie an der Wurzel zu behandeln, statt nur ihre Symptome zu lindern. Die erste Krankheit, bei der das gelungen ist, ist die Sichelzellkrankheit.",
+      "Bei dieser Erbkrankheit bildet der Körper einen fehlerhaften roten Blutfarbstoff. Die roten Blutkörperchen verformen sich, bleiben in kleinen Gefäßen stecken und verursachen schwere Schmerzkrisen, Organschäden und eine verkürzte Lebenserwartung. Weltweit sind Millionen Menschen betroffen, besonders in Afrika und bei Menschen mit afrikanischen Vorfahren.",
+      "Interessanterweise korrigiert die zugelassene Therapie nicht den eigentlichen Fehler. Sie nutzt einen Trick der Natur. Vor der Geburt bildet jeder Mensch eine besondere Form des Blutfarbstoffs, das fetale Hämoglobin. Nach der Geburt schaltet der Körper auf die Erwachsenenform um. Bei der Sichelzellkrankheit ist ausgerechnet diese Erwachsenenform fehlerhaft.",
+      "Die Gen-Schere schaltet deshalb einen Schalter im Erbgut aus, der die Bildung des fetalen Blutfarbstoffs normalerweise unterdrückt. Danach bilden die Blutzellen wieder viel von dieser kindlichen Form, und die roten Blutkörperchen bleiben rund und beweglich.",
+      "Die Behandlung ist aufwendig. Zuerst entnimmt man den Patienten eigene Blutstammzellen, aus denen alle Blutzellen entstehen. Diese werden im Labor mit der Gen-Schere bearbeitet. Dann erhalten die Patienten eine starke Chemotherapie, die das alte Knochenmark zerstört. Erst danach bekommen sie die veränderten Zellen zurück, die sich im Knochenmark ansiedeln.",
+      "Ende 2023 wurde diese Therapie unter dem Namen Casgevy in Großbritannien und kurz darauf in den USA zugelassen. Nach Angaben des Herstellers war es die erste Zulassung einer CRISPR-Therapie in den USA. Sie ist für Menschen ab zwölf Jahren gedacht, die immer wieder schwere Schmerzkrisen erleiden. Auch für eine verwandte Blutkrankheit, die Beta-Thalassämie, wurde sie zugelassen, später auch in der Europäischen Union.",
+      "In den Studien hatten die meisten behandelten Menschen danach keine schweren Schmerzkrisen mehr. Für viele bedeutet das ein völlig neues Leben. Allerdings ist die Behandlung belastend, vor allem wegen der Chemotherapie, die zum Beispiel unfruchtbar machen kann. Und sie ist extrem teuer und nur in spezialisierten Kliniken möglich.",
+      "Gerade dort, wo die Krankheit am häufigsten ist, in vielen Ländern Afrikas, ist eine solche Therapie bislang kaum verfügbar. Das ist eine der großen Herausforderungen: Hochmoderne Medizin hilft nur, wenn sie auch bei den Menschen ankommt, die sie brauchen.",
+      "Viele Forschende arbeiten deshalb daran, die Gen-Schere direkt im Körper einzusetzen, statt Zellen erst zu entnehmen. Dafür verpackt man sie zum Beispiel in winzige Fetttröpfchen, die vor allem von der Leber aufgenommen werden. Erste Studien nach diesem Prinzip laufen bereits für Krankheiten, bei denen die Leber ein schädliches Protein bildet.",
+      "Auch gegen Krebs, erblich bedingte Blindheit und Infektionen wie HIV wird die Gen-Schere erprobt. Vieles davon steckt noch in frühen Studien, und nicht jede Hoffnung wird sich erfüllen. Aber die erste Zulassung hat gezeigt, dass der Weg vom Labor ans Krankenbett möglich ist."
+     ]
+    },
+    {
+     "heading": "Wo die Grenze verläuft",
+     "paragraphs": [
+      "Bei Eingriffen am Menschen unterscheiden Fachleute zwei Fälle. Im ersten verändert man Körperzellen eines Patienten, etwa Blutstammzellen wie bei der Therapie gegen die Sichelzellkrankheit. Diese Veränderung betrifft nur diese eine Person und wird nicht an Kinder vererbt. Solche Therapien gelten weithin als ethisch vertretbar, wenn sie sicher und wirksam sind.",
+      "Im zweiten Fall verändert man Embryonen, Eizellen oder Spermien. Dann steckt die Veränderung in jeder Zelle des späteren Menschen, auch in seinen Keimzellen. Sie würde an alle künftigen Generationen weitergegeben. Man spricht von Eingriffen in die Keimbahn. Hier ziehen die meisten Länder eine klare Grenze.",
+      "Im November 2018 überschritt ein chinesischer Forscher diese Grenze. He Jiankui verkündete, er habe das Erbgut von Embryonen verändert, aus denen Zwillingsmädchen hervorgegangen seien. Er wollte ein Gen ausschalten, das das HI-Virus nutzt, um in Zellen einzudringen, und die Kinder so vor einer HIV-Infektion schützen.",
+      "Die Empörung war weltweit groß, auch und gerade unter Forschenden. Es gab keinen medizinischen Grund für den Eingriff, denn es gibt andere sichere Wege, eine Übertragung von HIV auf Kinder zu verhindern. Zudem war völlig unklar, ob die Veränderung gelungen war und welche ungewollten Folgen sie haben könnte. Später stellte sich heraus, dass ein drittes Kind auf dieselbe Weise geboren worden war.",
+      "Ein Gericht in China verurteilte He Ende 2019 zu drei Jahren Haft und einer hohen Geldstrafe, wie Medien unter Berufung auf die staatliche Nachrichtenagentur berichteten. Nach Angaben des Gerichts hatten er und seine Mitarbeiter unter anderem Unterlagen für die ethische Prüfung gefälscht. Zwei weitere Beteiligte wurden ebenfalls verurteilt.",
+      "Der Fall zeigte, wie groß die Risiken sind. Die Gen-Schere kann an falschen Stellen schneiden oder in manchen Zellen eines Embryos wirken und in anderen nicht. Was das für einen Menschen über ein ganzes Leben bedeutet, weiß niemand. Und die Kinder selbst konnten nicht zustimmen.",
+      "In Deutschland verbietet das Embryonenschutzgesetz Veränderungen der Keimbahn beim Menschen. Auch in vielen anderen Ländern sind sie untersagt oder streng begrenzt. Internationale Fachgremien fordern, dass solche Eingriffe zumindest so lange tabu bleiben, bis Sicherheit und gesellschaftliche Akzeptanz geklärt sind. Manche lehnen sie grundsätzlich ab.",
+      "Hinter der Debatte steht eine tiefere Sorge: die Angst vor Designerbabys. Was, wenn Eltern eines Tages nicht nur Krankheiten verhindern, sondern Eigenschaften wie Größe oder Intelligenz auswählen wollten? Fachleute betonen, dass solche Merkmale von Hunderten Genen und von der Umwelt abhängen und sich nicht einfach per Schere einstellen lassen. Die ethische Frage bleibt trotzdem.",
+      "Eine weitere Frage ist die Gerechtigkeit. Wenn neue Therapien Millionen kosten, profitieren zunächst nur wenige. Viele Fachleute fordern deshalb, von Anfang an mitzudenken, wie die Behandlungen bezahlbar und weltweit zugänglich werden können.",
+      "Die Gen-Schere ist also kein Werkzeug wie jedes andere. Sie berührt Fragen, die weit über die Biologie hinausgehen, und braucht deshalb eine breite gesellschaftliche Debatte."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Bakterien speichern Schnipsel von Viren-Erbgut und erkennen damit Angreifer wieder, das ist das ursprüngliche CRISPR-System.",
+    "Emmanuelle Charpentier und Jennifer Doudna machten daraus 2012 ein programmierbares Werkzeug und erhielten dafür 2020 den Nobelpreis.",
+    "Die erste zugelassene CRISPR-Therapie behandelt die Sichelzellkrankheit, während Eingriffe an Embryonen weltweit auf scharfe Ablehnung stoßen."
+   ]
+  },
+  "15": {
+   "words": 2850,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Kaum eine Entdeckung hat die Biologie in so kurzer Zeit so stark verändert wie CRISPR. Was als Kuriosität im Erbgut von Bakterien begann, steckt heute in Laboren auf der ganzen Welt, in der Pflanzenzucht und in den ersten zugelassenen Therapien. In diesem Artikel erfährst du, was Gene eigentlich sind, wie Bakterien sich mit CRISPR gegen Viren wehren, wie daraus die Gen-Schere wurde, wie sie die Forschung umgekrempelt hat und was sie in Medizin und Landwirtschaft leistet."
+     ]
+    },
+    {
+     "heading": "Der Bauplan des Lebens",
+     "paragraphs": [
+      "Um zu verstehen, was die Gen-Schere tut, brauchen wir zuerst ein Bild vom Erbgut. Fast jede Zelle deines Körpers enthält einen vollständigen Bauplan, gespeichert in einem langen Molekül namens DNA. Es sieht aus wie eine verdrehte Strickleiter, die berühmte Doppelhelix.",
+      "Die Sprossen dieser Leiter bestehen aus nur vier Bausteinen, die man mit den Buchstaben A, T, G und C abkürzt. Ihre Reihenfolge ist die eigentliche Information, ähnlich wie bei einem Text, der aus einem Alphabet mit nur vier Buchstaben geschrieben ist. Dabei passt A immer zu T und G immer zu C. Deshalb enthält jede Hälfte der Leiter dieselbe Information.",
+      "Das menschliche Erbgut umfasst rund drei Milliarden solcher Buchstabenpaare. Würde man sie ausdrucken, füllten sie Tausende dicke Bücher. Ausgestreckt wäre die DNA einer einzigen Zelle ungefähr zwei Meter lang. Sie passt nur in den winzigen Zellkern, weil sie extrem eng aufgewickelt ist.",
+      "Bestimmte Abschnitte der DNA heißen Gene. Ein Gen ist eine Art Rezept: Es beschreibt, wie die Zelle ein bestimmtes Eiweiß herstellt, also ein Protein. Proteine erledigen fast alle Arbeiten im Körper. Sie transportieren Sauerstoff, bekämpfen Krankheitserreger, verdauen die Nahrung oder geben Zellen ihre Form. Der Mensch hat ungefähr zwanzigtausend solcher Gene.",
+      "Wenn sich in einem Gen ein Fehler einschleicht, eine sogenannte Mutation, kann das Rezept unbrauchbar werden. Manchmal genügt ein einziger vertauschter Buchstabe. Bei der Sichelzellkrankheit zum Beispiel ist es genau eine Stelle im Gen für den roten Blutfarbstoff. Die roten Blutkörperchen verformen sich dann zu starren Sicheln, verstopfen Blutgefäße und verursachen heftige Schmerzen.",
+      "Viele Erbkrankheiten gehen auf solche kleinen Fehler zurück. Lange konnte man ihre Folgen nur lindern, die Ursache aber nicht beheben. Die Vorstellung, den Fehler direkt im Erbgut zu korrigieren, war deshalb ein alter Traum der Medizin.",
+      "Versuche, Gene gezielt zu verändern, gibt es schon seit den Siebzigerjahren. Damals lernten Forschende, DNA mit bestimmten Enzymen zu zerschneiden und neu zusammenzusetzen. So entstanden zum Beispiel Bakterien, die menschliches Insulin herstellen. Das war ein großer Fortschritt, aber die Werkzeuge waren grob.",
+      "Ein Gen an einer ganz bestimmten Stelle im riesigen Erbgut eines Tieres oder Menschen zu verändern, war lange extrem mühsam. Es gab zwar spezielle Werkzeuge, mit denen das ging, doch für jedes neue Ziel musste man ein eigenes Protein aufwendig herstellen. Das dauerte Monate und war teuer.",
+      "Was fehlte, war eine Art Suchen-und-Ersetzen-Funktion für das Erbgut: ein Werkzeug, das man einfach auf jede beliebige Stelle programmieren kann. Genau das wurde CRISPR.",
+      "Gefunden hat man dieses Werkzeug nicht durch gezielte Suche, sondern durch Neugier. Die Geschichte beginnt bei Bakterien und bei Forschenden, die sich über seltsame Muster in deren Erbgut wunderten."
+     ]
+    },
+    {
+     "heading": "Ein Immunsystem für Bakterien",
+     "paragraphs": [
+      "1987 untersuchte ein Team um den japanischen Forscher Yoshizumi Ishino an der Universität Osaka ein Gen im Darmbakterium Escherichia coli. Dabei stieß es auf etwas Merkwürdiges: Abschnitte, die sich immer wiederholten, unterbrochen von kurzen Stücken, die jeweils anders aussahen. Wozu das gut sein sollte, wusste niemand.",
+      "Wenige Jahre später fiel dasselbe Muster einem jungen Doktoranden in Spanien auf. Francisco Mojica von der Universität Alicante untersuchte Mikroben, die in extrem salzigem Wasser leben. Auch in ihrem Erbgut fand er die sich wiederholenden Abschnitte. Er war überzeugt, dass so ein auffälliges Muster eine Aufgabe haben musste.",
+      "Mojica und andere fanden die Wiederholungen bald in vielen verschiedenen Bakterien und verwandten Einzellern. Anfang der Zweitausenderjahre einigten sich Forschende auf einen gemeinsamen Namen: CRISPR. Die Abkürzung steht auf Englisch für gehäufte, regelmäßig unterbrochene kurze Wiederholungen mit spiegelbildlicher Struktur. Ein sperriger Name für eine große Entdeckung.",
+      "Den entscheidenden Hinweis lieferten die kurzen Zwischenstücke. Mojica verglich sie mit Datenbanken bekannter DNA. Viele davon stimmten genau mit dem Erbgut von Viren überein, die Bakterien befallen. Und Bakterien, die ein solches Stück eines bestimmten Virus in sich trugen, waren gegen genau dieses Virus geschützt.",
+      "Das brachte ihn auf eine kühne Idee: CRISPR ist ein Immunsystem. Bakterien schneiden sich ein Stück aus dem Erbgut eines Angreifers heraus und bauen es zwischen die Wiederholungen in ihr eigenes Erbgut ein, wie ein Foto in einem Fahndungsbuch. Kommt das Virus wieder, erkennen sie es und können es abwehren. Mojica veröffentlichte diese Deutung Mitte der Zweitausenderjahre, nachdem mehrere Fachzeitschriften sie zunächst abgelehnt hatten.",
+      "Ein Fahndungsbuch allein nützt aber nichts, es braucht auch jemanden, der den Täter festnimmt. Diese Aufgabe übernehmen Proteine, die direkt neben den CRISPR-Abschnitten im Erbgut codiert sind. Man nennt sie Cas-Proteine, für CRISPR-assoziiert. Einige von ihnen sind Scheren, die fremde DNA zerschneiden.",
+      "Bestätigt wurde die Idee auf überraschende Weise, nämlich in der Lebensmittelindustrie. Ein Hersteller von Joghurtkulturen wollte wissen, warum manche seiner Milchsäurebakterien Angriffen von Viren widerstanden und andere nicht. Forschende zeigten um das Jahr 2007, dass die widerstandsfähigen Bakterien neue Virenschnipsel in ihr CRISPR-Archiv aufgenommen hatten.",
+      "Damit war klar: Bakterien haben ein lernfähiges Abwehrsystem. Sie merken sich frühere Angreifer und geben dieses Gedächtnis sogar an ihre Nachkommen weiter. Das ist bemerkenswert, denn lange glaubte man, ein solches anpassungsfähiges Immunsystem gäbe es nur bei Wirbeltieren.",
+      "Für die Bakterien ist das überlebenswichtig. Viren, die Bakterien befallen, sind die häufigsten biologischen Gebilde auf der Erde. Ständig tobt ein Wettrüsten zwischen den Mikroben und ihren Angreifern.",
+      "Noch dachte kaum jemand daran, dass in diesem Abwehrsystem ein Werkzeug für Menschen stecken könnte. Das änderte sich, als zwei Forscherinnen sich ein ganz bestimmtes Cas-Protein genauer ansahen."
+     ]
+    },
+    {
+     "heading": "Wie die Gen-Schere funktioniert",
+     "paragraphs": [
+      "Die französische Mikrobiologin Emmanuelle Charpentier erforschte um das Jahr 2010 ein Bakterium, das beim Menschen Halsentzündungen verursachen kann. In seinem CRISPR-System entdeckte sie ein bis dahin unbekanntes kleines RNA-Molekül, das für die Abwehr unverzichtbar war. RNA ist eine Art Arbeitskopie von DNA, mit der Zellen Informationen weitergeben.",
+      "Für die weitere Untersuchung tat sie sich mit der amerikanischen Biochemikerin Jennifer Doudna zusammen, einer Expertin für RNA an der Universität von Kalifornien in Berkeley. Gemeinsam nahmen ihre Teams das System auseinander und untersuchten im Reagenzglas, wie das Schneide-Protein Cas9 arbeitet.",
+      "2012 veröffentlichten sie ihre Ergebnisse, und die hatten es in sich. Das System besteht im Kern aus nur zwei Teilen: dem Protein Cas9, der eigentlichen Schere, und einem RNA-Molekül, das ihr den Weg weist. Diese Leit-RNA enthält eine Folge von etwa zwanzig Buchstaben, die genau zur gesuchten Stelle in der DNA passt.",
+      "Die Leit-RNA funktioniert wie eine Suchanfrage. Cas9 wandert mit ihr an der DNA entlang und prüft, ob die Buchstaben zusammenpassen. Findet es eine passende Stelle, schneidet es beide Stränge der Doppelhelix durch. Damit es nicht an jeder beliebigen Stelle schneidet, braucht Cas9 zusätzlich ein kurzes Erkennungszeichen direkt neben dem Ziel.",
+      "Der eigentliche Durchbruch war eine Vereinfachung. Charpentier und Doudna zeigten, dass man die beiden RNA-Teile, die das Bakterium verwendet, zu einem einzigen Molekül verbinden kann. Und vor allem: Man kann die Suchfolge darin beliebig austauschen. Statt Virus-DNA kann man jede beliebige Stelle in jedem beliebigen Erbgut ansteuern.",
+      "Damit war aus einem bakteriellen Abwehrsystem ein programmierbares Werkzeug geworden. Um ein neues Ziel anzusteuern, muss man nur die kurze Leit-RNA neu schreiben, das Protein bleibt gleich. Leit-RNAs lassen sich heute einfach bestellen, oft innerhalb weniger Tage.",
+      "Was nach dem Schnitt passiert, erledigt die Zelle selbst. Ein Bruch in beiden Strängen ist für sie ein Notfall, und sie versucht sofort, ihn zu reparieren. Dafür hat sie zwei Wege. Beim schnellen Weg klebt sie die Enden einfach wieder zusammen. Dabei passieren oft kleine Fehler, ein paar Buchstaben gehen verloren oder kommen hinzu. Meist ist das Gen danach kaputt, und genau das kann gewollt sein, wenn man ein schädliches Gen ausschalten möchte.",
+      "Beim zweiten, genaueren Weg nutzt die Zelle eine Vorlage, um die Lücke zu füllen. Gibt man ihr eine selbst gemachte Vorlage mit, übernimmt sie diese in ihr Erbgut. So lässt sich ein fehlerhafter Abschnitt durch einen korrigierten ersetzen. Dieser Weg funktioniert allerdings nicht in allen Zelltypen gleich gut.",
+      "Man kann sich das Ganze wie ein Textprogramm vorstellen: Die Leit-RNA ist die Suchfunktion, Cas9 der Cursor, der an der gefundenen Stelle einen Schnitt setzt, und die Reparatur der Zelle ist das Tippen. Nur dass dieses Textprogramm in lebenden Zellen arbeitet.",
+      "Ganz fehlerfrei ist die Gen-Schere nicht. Manchmal schneidet sie auch an Stellen, die der Zielstelle nur ähneln. Solche Nebenwirkungen zu verringern, ist bis heute ein wichtiges Forschungsfeld. Trotzdem war das neue Werkzeug so viel einfacher als alles zuvor, dass es die Biologie in kürzester Zeit umkrempelte."
+     ]
+    },
+    {
+     "heading": "Eine Revolution im Labor",
+     "paragraphs": [
+      "Schon wenige Monate nach der Veröffentlichung von 2012 zeigten mehrere Forschungsgruppen, dass die Gen-Schere auch in menschlichen Zellen und in Zellen von Tieren funktioniert. Danach ging alles sehr schnell. Innerhalb weniger Jahre arbeiteten Tausende Labore auf der ganzen Welt mit CRISPR.",
+      "Der Grund war vor allem die Einfachheit. Was früher Monate dauerte und ein Spezialistenteam erforderte, schaffen heute Doktorandinnen und Doktoranden in wenigen Wochen. Die nötigen Bausteine sind vergleichsweise günstig, und Baupläne für Tausende Leit-RNAs werden in Online-Archiven zwischen Laboren geteilt.",
+      "Vor allem die Grundlagenforschung profitiert. Wer wissen will, wozu ein Gen gut ist, kann es jetzt gezielt ausschalten und beobachten, was passiert. Forschende können sogar Tausende Gene gleichzeitig untersuchen, indem sie Zellsammlungen herstellen, in denen jeweils ein anderes Gen abgeschaltet ist. So findet man zum Beispiel heraus, welche Gene Krebszellen zum Überleben brauchen.",
+      "Auch Tiermodelle für Krankheiten lassen sich viel schneller herstellen. Früher dauerte es oft mehr als ein Jahr, eine Maus mit einer bestimmten Genveränderung zu züchten. Mit CRISPR kann man die Veränderung direkt in einem befruchteten Ei vornehmen. Das spart Zeit und oft auch Versuchstiere.",
+      "Längst gibt es nicht nur Cas9. Forschende haben in Bakterien viele weitere Cas-Proteine entdeckt, die etwas anders arbeiten. Manche schneiden statt DNA die Arbeitskopie RNA, andere sind kleiner und lassen sich leichter in Zellen bringen. Der Werkzeugkasten wächst ständig.",
+      "Eine überraschende Anwendung sind Schnelltests. Bestimmte Cas-Proteine werden aktiv, wenn sie ihr Ziel finden, und zerschneiden dann in ihrer Umgebung wahllos weitere Moleküle. Diese Eigenschaft lässt sich nutzen, um das Erbgut von Krankheitserregern aufzuspüren. Das Ergebnis kann man dann zum Beispiel als Farbstreifen auf einem Teststreifen ablesen.",
+      "Mit dem Erfolg kam auch Streit. Um die Patente für die Anwendung von CRISPR in menschlichen und tierischen Zellen lieferten sich die Universität von Kalifornien und das Broad Institute in Boston einen jahrelangen Rechtsstreit. Das Broad Institute hatte mit dem Forscher Feng Zhang früh gezeigt, wie die Methode in solchen Zellen funktioniert. Es geht dabei um sehr viel Geld.",
+      "Die wissenschaftliche Anerkennung war dagegen eindeutig. 2020 erhielten Emmanuelle Charpentier und Jennifer Doudna den Nobelpreis für Chemie, wie die Königlich Schwedische Akademie der Wissenschaften bekannt gab, für die Entwicklung einer Methode zur Genom-Editierung. Es war das erste Mal, dass sich zwei Frauen diesen Preis teilten. Charpentier leitete zu dieser Zeit eine Max-Planck-Forschungsstelle in Berlin.",
+      "Bemerkenswert ist, wie kurz die Zeit zwischen Entdeckung und Nobelpreis war: nur acht Jahre. Das zeigt, wie schnell die Methode die Forschung verändert hat. Gleichzeitig erinnert die Geschichte daran, dass der Durchbruch auf jahrzehntelanger Grundlagenforschung beruhte, die zunächst völlig zweckfrei erschien.",
+      "Niemand, der in den Achtzigerjahren seltsame Wiederholungen im Erbgut von Bakterien untersuchte, ahnte, dass daraus einmal ein Werkzeug für die Medizin werden würde. Und genau dort zeigt sich inzwischen, was CRISPR leisten kann."
+     ]
+    },
+    {
+     "heading": "Die erste Therapie mit der Gen-Schere",
+     "paragraphs": [
+      "Der größte Hoffnungsträger ist die Medizin. Viele tausend Krankheiten gehen auf Fehler in einzelnen Genen zurück. Die Gen-Schere könnte es ermöglichen, sie an der Wurzel zu behandeln, statt nur ihre Symptome zu lindern. Die erste Krankheit, bei der das gelungen ist, ist die Sichelzellkrankheit.",
+      "Bei dieser Erbkrankheit bildet der Körper einen fehlerhaften roten Blutfarbstoff. Die roten Blutkörperchen verformen sich, bleiben in kleinen Gefäßen stecken und verursachen schwere Schmerzkrisen, Organschäden und eine verkürzte Lebenserwartung. Weltweit sind Millionen Menschen betroffen, besonders in Afrika und bei Menschen mit afrikanischen Vorfahren.",
+      "Interessanterweise korrigiert die zugelassene Therapie nicht den eigentlichen Fehler. Sie nutzt einen Trick der Natur. Vor der Geburt bildet jeder Mensch eine besondere Form des Blutfarbstoffs, das fetale Hämoglobin. Nach der Geburt schaltet der Körper auf die Erwachsenenform um. Bei der Sichelzellkrankheit ist ausgerechnet diese Erwachsenenform fehlerhaft.",
+      "Die Gen-Schere schaltet deshalb einen Schalter im Erbgut aus, der die Bildung des fetalen Blutfarbstoffs normalerweise unterdrückt. Danach bilden die Blutzellen wieder viel von dieser kindlichen Form, und die roten Blutkörperchen bleiben rund und beweglich.",
+      "Die Behandlung ist aufwendig. Zuerst entnimmt man den Patienten eigene Blutstammzellen, aus denen alle Blutzellen entstehen. Diese werden im Labor mit der Gen-Schere bearbeitet. Dann erhalten die Patienten eine starke Chemotherapie, die das alte Knochenmark zerstört. Erst danach bekommen sie die veränderten Zellen zurück, die sich im Knochenmark ansiedeln.",
+      "Ende 2023 wurde diese Therapie unter dem Namen Casgevy in Großbritannien und kurz darauf in den USA zugelassen. Nach Angaben des Herstellers war es die erste Zulassung einer CRISPR-Therapie in den USA. Sie ist für Menschen ab zwölf Jahren gedacht, die immer wieder schwere Schmerzkrisen erleiden. Auch für eine verwandte Blutkrankheit, die Beta-Thalassämie, wurde sie zugelassen, später auch in der Europäischen Union.",
+      "In den Studien hatten die meisten behandelten Menschen danach keine schweren Schmerzkrisen mehr. Für viele bedeutet das ein völlig neues Leben. Allerdings ist die Behandlung belastend, vor allem wegen der Chemotherapie, die zum Beispiel unfruchtbar machen kann. Und sie ist extrem teuer und nur in spezialisierten Kliniken möglich.",
+      "Gerade dort, wo die Krankheit am häufigsten ist, in vielen Ländern Afrikas, ist eine solche Therapie bislang kaum verfügbar. Das ist eine der großen Herausforderungen: Hochmoderne Medizin hilft nur, wenn sie auch bei den Menschen ankommt, die sie brauchen.",
+      "Viele Forschende arbeiten deshalb daran, die Gen-Schere direkt im Körper einzusetzen, statt Zellen erst zu entnehmen. Dafür verpackt man sie zum Beispiel in winzige Fetttröpfchen, die vor allem von der Leber aufgenommen werden. Erste Studien nach diesem Prinzip laufen bereits für Krankheiten, bei denen die Leber ein schädliches Protein bildet.",
+      "Auch gegen Krebs, erblich bedingte Blindheit und Infektionen wie HIV wird die Gen-Schere erprobt. Vieles davon steckt noch in frühen Studien, und nicht jede Hoffnung wird sich erfüllen. Aber die erste Zulassung hat gezeigt, dass der Weg vom Labor ans Krankenbett möglich ist."
+     ]
+    },
+    {
+     "heading": "Gen-Schere auf dem Acker",
+     "paragraphs": [
+      "CRISPR funktioniert nicht nur in Menschen und Tieren, sondern auch in Pflanzen. Für die Landwirtschaft eröffnet das viele Möglichkeiten. Forschende arbeiten an Getreide, das Trockenheit besser verträgt, an Kartoffeln, die weniger anfällig für Krankheiten sind, und an Pflanzen, die mit weniger Dünger und Pflanzenschutzmitteln auskommen.",
+      "Pflanzenzucht verändert das Erbgut schon seit Jahrtausenden. Bauern haben immer die Pflanzen mit den besten Eigenschaften weitergezüchtet. Später setzte man Saatgut sogar Strahlung oder Chemikalien aus, um zufällige Mutationen zu erzeugen, und suchte dann nach nützlichen Ergebnissen. Viele heutige Sorten sind so entstanden.",
+      "Der Unterschied mit CRISPR: Die Veränderung ist gezielt. Statt Tausende zufälliger Mutationen zu erzeugen und mühsam auszusortieren, verändert man genau das eine Gen, auf das es ankommt. Das geht schneller und ist präziser.",
+      "Oft wird dabei keine fremde DNA dauerhaft eingebaut. Die Pflanze trägt am Ende nur eine kleine Veränderung in einem eigenen Gen, wie sie theoretisch auch durch Zufall entstehen könnte. Hier liegt der Kern einer langen Debatte: Sind solche Pflanzen Gentechnik im klassischen Sinn, oder eher eine moderne Form der Züchtung?",
+      "In der Europäischen Union wurden mit den neuen Methoden veränderte Pflanzen lange genauso streng behandelt wie klassische gentechnisch veränderte Organismen. Sie brauchten aufwendige Zulassungen und mussten gekennzeichnet werden. Viele Pflanzenforscherinnen und -forscher hielten das für überholt, Umweltverbände und Teile der Bio-Landwirtschaft dagegen für richtig.",
+      "Nach jahrelangen Verhandlungen hat die EU 2026 neue Regeln beschlossen. Der Rat der Mitgliedstaaten stimmte im Frühjahr zu, das Europäische Parlament im Sommer. Pflanzen mit kleinen Veränderungen, die auch durch herkömmliche Züchtung entstehen könnten, sollen künftig weitgehend wie herkömmliche Sorten behandelt werden. Für alle anderen gelten weiter die strengen Gentechnik-Regeln.",
+      "Ganz ohne Auflagen kommen aber auch die erleichterten Pflanzen nicht aus. Ihr Saatgut muss gekennzeichnet werden, und im Bio-Landbau bleiben sie verboten. Die neuen Regeln sollen erst einige Jahre nach ihrer Veröffentlichung greifen. Umstritten bleiben vor allem Fragen nach Patenten auf Pflanzen und nach der Wahlfreiheit für Verbraucherinnen und Verbraucher.",
+      "Auch bei Tieren wird geforscht, etwa an Schweinen, die gegen bestimmte Viruserkrankungen widerstandsfähig sind. Andere Teams versuchen, Organe von Schweinen so zu verändern, dass sie eines Tages Menschen transplantiert werden könnten, ohne abgestoßen zu werden.",
+      "Besonders weitreichend ist eine Idee namens Gene Drive. Dabei wird eine Genveränderung so gebaut, dass sie sich in einer Population viel schneller verbreitet als nach den normalen Regeln der Vererbung. So könnte man zum Beispiel Mücken, die Malaria übertragen, in einem Gebiet stark verringern. Weil eine solche Veränderung kaum rückgängig zu machen wäre, wird bislang nur im Labor und in streng abgeschirmten Versuchen geforscht.",
+      "Die Gen-Schere stellt die Gesellschaft also vor ganz praktische Fragen: Was wollen wir mit dieser Macht über das Erbgut anfangen, und wo ziehen wir Grenzen? Am schärfsten stellt sich diese Frage beim Menschen selbst."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Gene sind Abschnitte der DNA, und schon ein einzelner veränderter Buchstabe kann eine Krankheit auslösen.",
+    "Die Gen-Schere besteht aus dem Protein Cas9 und einer Leit-RNA, die sich leicht auf jede gewünschte Stelle im Erbgut programmieren lässt.",
+    "CRISPR hat die Forschung billiger und schneller gemacht und wird in Medizin und Pflanzenzucht schon praktisch eingesetzt."
+   ]
+  },
+  "20": {
+   "words": 3742,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Stell dir vor, du könntest in einem Buch mit drei Milliarden Buchstaben genau den einen Tippfehler finden und korrigieren, der eine Krankheit verursacht. Genau das versprechen die Werkzeuge rund um CRISPR. In diesem Artikel erfährst du, wie das Erbgut aufgebaut ist, wie Forschende in Bakterien auf ein geheimnisvolles Abwehrsystem stießen, wie daraus die Gen-Schere wurde, was sie in Medizin und Landwirtschaft bewirkt, welche ethischen Fragen sie aufwirft und welche noch feineren Werkzeuge schon bereitstehen."
+     ]
+    },
+    {
+     "heading": "Der Bauplan des Lebens",
+     "paragraphs": [
+      "Um zu verstehen, was die Gen-Schere tut, brauchen wir zuerst ein Bild vom Erbgut. Fast jede Zelle deines Körpers enthält einen vollständigen Bauplan, gespeichert in einem langen Molekül namens DNA. Es sieht aus wie eine verdrehte Strickleiter, die berühmte Doppelhelix.",
+      "Die Sprossen dieser Leiter bestehen aus nur vier Bausteinen, die man mit den Buchstaben A, T, G und C abkürzt. Ihre Reihenfolge ist die eigentliche Information, ähnlich wie bei einem Text, der aus einem Alphabet mit nur vier Buchstaben geschrieben ist. Dabei passt A immer zu T und G immer zu C. Deshalb enthält jede Hälfte der Leiter dieselbe Information.",
+      "Das menschliche Erbgut umfasst rund drei Milliarden solcher Buchstabenpaare. Würde man sie ausdrucken, füllten sie Tausende dicke Bücher. Ausgestreckt wäre die DNA einer einzigen Zelle ungefähr zwei Meter lang. Sie passt nur in den winzigen Zellkern, weil sie extrem eng aufgewickelt ist.",
+      "Bestimmte Abschnitte der DNA heißen Gene. Ein Gen ist eine Art Rezept: Es beschreibt, wie die Zelle ein bestimmtes Eiweiß herstellt, also ein Protein. Proteine erledigen fast alle Arbeiten im Körper. Sie transportieren Sauerstoff, bekämpfen Krankheitserreger, verdauen die Nahrung oder geben Zellen ihre Form. Der Mensch hat ungefähr zwanzigtausend solcher Gene.",
+      "Wenn sich in einem Gen ein Fehler einschleicht, eine sogenannte Mutation, kann das Rezept unbrauchbar werden. Manchmal genügt ein einziger vertauschter Buchstabe. Bei der Sichelzellkrankheit zum Beispiel ist es genau eine Stelle im Gen für den roten Blutfarbstoff. Die roten Blutkörperchen verformen sich dann zu starren Sicheln, verstopfen Blutgefäße und verursachen heftige Schmerzen.",
+      "Viele Erbkrankheiten gehen auf solche kleinen Fehler zurück. Lange konnte man ihre Folgen nur lindern, die Ursache aber nicht beheben. Die Vorstellung, den Fehler direkt im Erbgut zu korrigieren, war deshalb ein alter Traum der Medizin.",
+      "Versuche, Gene gezielt zu verändern, gibt es schon seit den Siebzigerjahren. Damals lernten Forschende, DNA mit bestimmten Enzymen zu zerschneiden und neu zusammenzusetzen. So entstanden zum Beispiel Bakterien, die menschliches Insulin herstellen. Das war ein großer Fortschritt, aber die Werkzeuge waren grob.",
+      "Ein Gen an einer ganz bestimmten Stelle im riesigen Erbgut eines Tieres oder Menschen zu verändern, war lange extrem mühsam. Es gab zwar spezielle Werkzeuge, mit denen das ging, doch für jedes neue Ziel musste man ein eigenes Protein aufwendig herstellen. Das dauerte Monate und war teuer.",
+      "Was fehlte, war eine Art Suchen-und-Ersetzen-Funktion für das Erbgut: ein Werkzeug, das man einfach auf jede beliebige Stelle programmieren kann. Genau das wurde CRISPR.",
+      "Gefunden hat man dieses Werkzeug nicht durch gezielte Suche, sondern durch Neugier. Die Geschichte beginnt bei Bakterien und bei Forschenden, die sich über seltsame Muster in deren Erbgut wunderten."
+     ]
+    },
+    {
+     "heading": "Ein Immunsystem für Bakterien",
+     "paragraphs": [
+      "1987 untersuchte ein Team um den japanischen Forscher Yoshizumi Ishino an der Universität Osaka ein Gen im Darmbakterium Escherichia coli. Dabei stieß es auf etwas Merkwürdiges: Abschnitte, die sich immer wiederholten, unterbrochen von kurzen Stücken, die jeweils anders aussahen. Wozu das gut sein sollte, wusste niemand.",
+      "Wenige Jahre später fiel dasselbe Muster einem jungen Doktoranden in Spanien auf. Francisco Mojica von der Universität Alicante untersuchte Mikroben, die in extrem salzigem Wasser leben. Auch in ihrem Erbgut fand er die sich wiederholenden Abschnitte. Er war überzeugt, dass so ein auffälliges Muster eine Aufgabe haben musste.",
+      "Mojica und andere fanden die Wiederholungen bald in vielen verschiedenen Bakterien und verwandten Einzellern. Anfang der Zweitausenderjahre einigten sich Forschende auf einen gemeinsamen Namen: CRISPR. Die Abkürzung steht auf Englisch für gehäufte, regelmäßig unterbrochene kurze Wiederholungen mit spiegelbildlicher Struktur. Ein sperriger Name für eine große Entdeckung.",
+      "Den entscheidenden Hinweis lieferten die kurzen Zwischenstücke. Mojica verglich sie mit Datenbanken bekannter DNA. Viele davon stimmten genau mit dem Erbgut von Viren überein, die Bakterien befallen. Und Bakterien, die ein solches Stück eines bestimmten Virus in sich trugen, waren gegen genau dieses Virus geschützt.",
+      "Das brachte ihn auf eine kühne Idee: CRISPR ist ein Immunsystem. Bakterien schneiden sich ein Stück aus dem Erbgut eines Angreifers heraus und bauen es zwischen die Wiederholungen in ihr eigenes Erbgut ein, wie ein Foto in einem Fahndungsbuch. Kommt das Virus wieder, erkennen sie es und können es abwehren. Mojica veröffentlichte diese Deutung Mitte der Zweitausenderjahre, nachdem mehrere Fachzeitschriften sie zunächst abgelehnt hatten.",
+      "Ein Fahndungsbuch allein nützt aber nichts, es braucht auch jemanden, der den Täter festnimmt. Diese Aufgabe übernehmen Proteine, die direkt neben den CRISPR-Abschnitten im Erbgut codiert sind. Man nennt sie Cas-Proteine, für CRISPR-assoziiert. Einige von ihnen sind Scheren, die fremde DNA zerschneiden.",
+      "Bestätigt wurde die Idee auf überraschende Weise, nämlich in der Lebensmittelindustrie. Ein Hersteller von Joghurtkulturen wollte wissen, warum manche seiner Milchsäurebakterien Angriffen von Viren widerstanden und andere nicht. Forschende zeigten um das Jahr 2007, dass die widerstandsfähigen Bakterien neue Virenschnipsel in ihr CRISPR-Archiv aufgenommen hatten.",
+      "Damit war klar: Bakterien haben ein lernfähiges Abwehrsystem. Sie merken sich frühere Angreifer und geben dieses Gedächtnis sogar an ihre Nachkommen weiter. Das ist bemerkenswert, denn lange glaubte man, ein solches anpassungsfähiges Immunsystem gäbe es nur bei Wirbeltieren.",
+      "Für die Bakterien ist das überlebenswichtig. Viren, die Bakterien befallen, sind die häufigsten biologischen Gebilde auf der Erde. Ständig tobt ein Wettrüsten zwischen den Mikroben und ihren Angreifern.",
+      "Noch dachte kaum jemand daran, dass in diesem Abwehrsystem ein Werkzeug für Menschen stecken könnte. Das änderte sich, als zwei Forscherinnen sich ein ganz bestimmtes Cas-Protein genauer ansahen."
+     ]
+    },
+    {
+     "heading": "Wie die Gen-Schere funktioniert",
+     "paragraphs": [
+      "Die französische Mikrobiologin Emmanuelle Charpentier erforschte um das Jahr 2010 ein Bakterium, das beim Menschen Halsentzündungen verursachen kann. In seinem CRISPR-System entdeckte sie ein bis dahin unbekanntes kleines RNA-Molekül, das für die Abwehr unverzichtbar war. RNA ist eine Art Arbeitskopie von DNA, mit der Zellen Informationen weitergeben.",
+      "Für die weitere Untersuchung tat sie sich mit der amerikanischen Biochemikerin Jennifer Doudna zusammen, einer Expertin für RNA an der Universität von Kalifornien in Berkeley. Gemeinsam nahmen ihre Teams das System auseinander und untersuchten im Reagenzglas, wie das Schneide-Protein Cas9 arbeitet.",
+      "2012 veröffentlichten sie ihre Ergebnisse, und die hatten es in sich. Das System besteht im Kern aus nur zwei Teilen: dem Protein Cas9, der eigentlichen Schere, und einem RNA-Molekül, das ihr den Weg weist. Diese Leit-RNA enthält eine Folge von etwa zwanzig Buchstaben, die genau zur gesuchten Stelle in der DNA passt.",
+      "Die Leit-RNA funktioniert wie eine Suchanfrage. Cas9 wandert mit ihr an der DNA entlang und prüft, ob die Buchstaben zusammenpassen. Findet es eine passende Stelle, schneidet es beide Stränge der Doppelhelix durch. Damit es nicht an jeder beliebigen Stelle schneidet, braucht Cas9 zusätzlich ein kurzes Erkennungszeichen direkt neben dem Ziel.",
+      "Der eigentliche Durchbruch war eine Vereinfachung. Charpentier und Doudna zeigten, dass man die beiden RNA-Teile, die das Bakterium verwendet, zu einem einzigen Molekül verbinden kann. Und vor allem: Man kann die Suchfolge darin beliebig austauschen. Statt Virus-DNA kann man jede beliebige Stelle in jedem beliebigen Erbgut ansteuern.",
+      "Damit war aus einem bakteriellen Abwehrsystem ein programmierbares Werkzeug geworden. Um ein neues Ziel anzusteuern, muss man nur die kurze Leit-RNA neu schreiben, das Protein bleibt gleich. Leit-RNAs lassen sich heute einfach bestellen, oft innerhalb weniger Tage.",
+      "Was nach dem Schnitt passiert, erledigt die Zelle selbst. Ein Bruch in beiden Strängen ist für sie ein Notfall, und sie versucht sofort, ihn zu reparieren. Dafür hat sie zwei Wege. Beim schnellen Weg klebt sie die Enden einfach wieder zusammen. Dabei passieren oft kleine Fehler, ein paar Buchstaben gehen verloren oder kommen hinzu. Meist ist das Gen danach kaputt, und genau das kann gewollt sein, wenn man ein schädliches Gen ausschalten möchte.",
+      "Beim zweiten, genaueren Weg nutzt die Zelle eine Vorlage, um die Lücke zu füllen. Gibt man ihr eine selbst gemachte Vorlage mit, übernimmt sie diese in ihr Erbgut. So lässt sich ein fehlerhafter Abschnitt durch einen korrigierten ersetzen. Dieser Weg funktioniert allerdings nicht in allen Zelltypen gleich gut.",
+      "Man kann sich das Ganze wie ein Textprogramm vorstellen: Die Leit-RNA ist die Suchfunktion, Cas9 der Cursor, der an der gefundenen Stelle einen Schnitt setzt, und die Reparatur der Zelle ist das Tippen. Nur dass dieses Textprogramm in lebenden Zellen arbeitet.",
+      "Ganz fehlerfrei ist die Gen-Schere nicht. Manchmal schneidet sie auch an Stellen, die der Zielstelle nur ähneln. Solche Nebenwirkungen zu verringern, ist bis heute ein wichtiges Forschungsfeld. Trotzdem war das neue Werkzeug so viel einfacher als alles zuvor, dass es die Biologie in kürzester Zeit umkrempelte."
+     ]
+    },
+    {
+     "heading": "Eine Revolution im Labor",
+     "paragraphs": [
+      "Schon wenige Monate nach der Veröffentlichung von 2012 zeigten mehrere Forschungsgruppen, dass die Gen-Schere auch in menschlichen Zellen und in Zellen von Tieren funktioniert. Danach ging alles sehr schnell. Innerhalb weniger Jahre arbeiteten Tausende Labore auf der ganzen Welt mit CRISPR.",
+      "Der Grund war vor allem die Einfachheit. Was früher Monate dauerte und ein Spezialistenteam erforderte, schaffen heute Doktorandinnen und Doktoranden in wenigen Wochen. Die nötigen Bausteine sind vergleichsweise günstig, und Baupläne für Tausende Leit-RNAs werden in Online-Archiven zwischen Laboren geteilt.",
+      "Vor allem die Grundlagenforschung profitiert. Wer wissen will, wozu ein Gen gut ist, kann es jetzt gezielt ausschalten und beobachten, was passiert. Forschende können sogar Tausende Gene gleichzeitig untersuchen, indem sie Zellsammlungen herstellen, in denen jeweils ein anderes Gen abgeschaltet ist. So findet man zum Beispiel heraus, welche Gene Krebszellen zum Überleben brauchen.",
+      "Auch Tiermodelle für Krankheiten lassen sich viel schneller herstellen. Früher dauerte es oft mehr als ein Jahr, eine Maus mit einer bestimmten Genveränderung zu züchten. Mit CRISPR kann man die Veränderung direkt in einem befruchteten Ei vornehmen. Das spart Zeit und oft auch Versuchstiere.",
+      "Längst gibt es nicht nur Cas9. Forschende haben in Bakterien viele weitere Cas-Proteine entdeckt, die etwas anders arbeiten. Manche schneiden statt DNA die Arbeitskopie RNA, andere sind kleiner und lassen sich leichter in Zellen bringen. Der Werkzeugkasten wächst ständig.",
+      "Eine überraschende Anwendung sind Schnelltests. Bestimmte Cas-Proteine werden aktiv, wenn sie ihr Ziel finden, und zerschneiden dann in ihrer Umgebung wahllos weitere Moleküle. Diese Eigenschaft lässt sich nutzen, um das Erbgut von Krankheitserregern aufzuspüren. Das Ergebnis kann man dann zum Beispiel als Farbstreifen auf einem Teststreifen ablesen.",
+      "Mit dem Erfolg kam auch Streit. Um die Patente für die Anwendung von CRISPR in menschlichen und tierischen Zellen lieferten sich die Universität von Kalifornien und das Broad Institute in Boston einen jahrelangen Rechtsstreit. Das Broad Institute hatte mit dem Forscher Feng Zhang früh gezeigt, wie die Methode in solchen Zellen funktioniert. Es geht dabei um sehr viel Geld.",
+      "Die wissenschaftliche Anerkennung war dagegen eindeutig. 2020 erhielten Emmanuelle Charpentier und Jennifer Doudna den Nobelpreis für Chemie, wie die Königlich Schwedische Akademie der Wissenschaften bekannt gab, für die Entwicklung einer Methode zur Genom-Editierung. Es war das erste Mal, dass sich zwei Frauen diesen Preis teilten. Charpentier leitete zu dieser Zeit eine Max-Planck-Forschungsstelle in Berlin.",
+      "Bemerkenswert ist, wie kurz die Zeit zwischen Entdeckung und Nobelpreis war: nur acht Jahre. Das zeigt, wie schnell die Methode die Forschung verändert hat. Gleichzeitig erinnert die Geschichte daran, dass der Durchbruch auf jahrzehntelanger Grundlagenforschung beruhte, die zunächst völlig zweckfrei erschien.",
+      "Niemand, der in den Achtzigerjahren seltsame Wiederholungen im Erbgut von Bakterien untersuchte, ahnte, dass daraus einmal ein Werkzeug für die Medizin werden würde. Und genau dort zeigt sich inzwischen, was CRISPR leisten kann."
+     ]
+    },
+    {
+     "heading": "Die erste Therapie mit der Gen-Schere",
+     "paragraphs": [
+      "Der größte Hoffnungsträger ist die Medizin. Viele tausend Krankheiten gehen auf Fehler in einzelnen Genen zurück. Die Gen-Schere könnte es ermöglichen, sie an der Wurzel zu behandeln, statt nur ihre Symptome zu lindern. Die erste Krankheit, bei der das gelungen ist, ist die Sichelzellkrankheit.",
+      "Bei dieser Erbkrankheit bildet der Körper einen fehlerhaften roten Blutfarbstoff. Die roten Blutkörperchen verformen sich, bleiben in kleinen Gefäßen stecken und verursachen schwere Schmerzkrisen, Organschäden und eine verkürzte Lebenserwartung. Weltweit sind Millionen Menschen betroffen, besonders in Afrika und bei Menschen mit afrikanischen Vorfahren.",
+      "Interessanterweise korrigiert die zugelassene Therapie nicht den eigentlichen Fehler. Sie nutzt einen Trick der Natur. Vor der Geburt bildet jeder Mensch eine besondere Form des Blutfarbstoffs, das fetale Hämoglobin. Nach der Geburt schaltet der Körper auf die Erwachsenenform um. Bei der Sichelzellkrankheit ist ausgerechnet diese Erwachsenenform fehlerhaft.",
+      "Die Gen-Schere schaltet deshalb einen Schalter im Erbgut aus, der die Bildung des fetalen Blutfarbstoffs normalerweise unterdrückt. Danach bilden die Blutzellen wieder viel von dieser kindlichen Form, und die roten Blutkörperchen bleiben rund und beweglich.",
+      "Die Behandlung ist aufwendig. Zuerst entnimmt man den Patienten eigene Blutstammzellen, aus denen alle Blutzellen entstehen. Diese werden im Labor mit der Gen-Schere bearbeitet. Dann erhalten die Patienten eine starke Chemotherapie, die das alte Knochenmark zerstört. Erst danach bekommen sie die veränderten Zellen zurück, die sich im Knochenmark ansiedeln.",
+      "Ende 2023 wurde diese Therapie unter dem Namen Casgevy in Großbritannien und kurz darauf in den USA zugelassen. Nach Angaben des Herstellers war es die erste Zulassung einer CRISPR-Therapie in den USA. Sie ist für Menschen ab zwölf Jahren gedacht, die immer wieder schwere Schmerzkrisen erleiden. Auch für eine verwandte Blutkrankheit, die Beta-Thalassämie, wurde sie zugelassen, später auch in der Europäischen Union.",
+      "In den Studien hatten die meisten behandelten Menschen danach keine schweren Schmerzkrisen mehr. Für viele bedeutet das ein völlig neues Leben. Allerdings ist die Behandlung belastend, vor allem wegen der Chemotherapie, die zum Beispiel unfruchtbar machen kann. Und sie ist extrem teuer und nur in spezialisierten Kliniken möglich.",
+      "Gerade dort, wo die Krankheit am häufigsten ist, in vielen Ländern Afrikas, ist eine solche Therapie bislang kaum verfügbar. Das ist eine der großen Herausforderungen: Hochmoderne Medizin hilft nur, wenn sie auch bei den Menschen ankommt, die sie brauchen.",
+      "Viele Forschende arbeiten deshalb daran, die Gen-Schere direkt im Körper einzusetzen, statt Zellen erst zu entnehmen. Dafür verpackt man sie zum Beispiel in winzige Fetttröpfchen, die vor allem von der Leber aufgenommen werden. Erste Studien nach diesem Prinzip laufen bereits für Krankheiten, bei denen die Leber ein schädliches Protein bildet.",
+      "Auch gegen Krebs, erblich bedingte Blindheit und Infektionen wie HIV wird die Gen-Schere erprobt. Vieles davon steckt noch in frühen Studien, und nicht jede Hoffnung wird sich erfüllen. Aber die erste Zulassung hat gezeigt, dass der Weg vom Labor ans Krankenbett möglich ist."
+     ]
+    },
+    {
+     "heading": "Gen-Schere auf dem Acker",
+     "paragraphs": [
+      "CRISPR funktioniert nicht nur in Menschen und Tieren, sondern auch in Pflanzen. Für die Landwirtschaft eröffnet das viele Möglichkeiten. Forschende arbeiten an Getreide, das Trockenheit besser verträgt, an Kartoffeln, die weniger anfällig für Krankheiten sind, und an Pflanzen, die mit weniger Dünger und Pflanzenschutzmitteln auskommen.",
+      "Pflanzenzucht verändert das Erbgut schon seit Jahrtausenden. Bauern haben immer die Pflanzen mit den besten Eigenschaften weitergezüchtet. Später setzte man Saatgut sogar Strahlung oder Chemikalien aus, um zufällige Mutationen zu erzeugen, und suchte dann nach nützlichen Ergebnissen. Viele heutige Sorten sind so entstanden.",
+      "Der Unterschied mit CRISPR: Die Veränderung ist gezielt. Statt Tausende zufälliger Mutationen zu erzeugen und mühsam auszusortieren, verändert man genau das eine Gen, auf das es ankommt. Das geht schneller und ist präziser.",
+      "Oft wird dabei keine fremde DNA dauerhaft eingebaut. Die Pflanze trägt am Ende nur eine kleine Veränderung in einem eigenen Gen, wie sie theoretisch auch durch Zufall entstehen könnte. Hier liegt der Kern einer langen Debatte: Sind solche Pflanzen Gentechnik im klassischen Sinn, oder eher eine moderne Form der Züchtung?",
+      "In der Europäischen Union wurden mit den neuen Methoden veränderte Pflanzen lange genauso streng behandelt wie klassische gentechnisch veränderte Organismen. Sie brauchten aufwendige Zulassungen und mussten gekennzeichnet werden. Viele Pflanzenforscherinnen und -forscher hielten das für überholt, Umweltverbände und Teile der Bio-Landwirtschaft dagegen für richtig.",
+      "Nach jahrelangen Verhandlungen hat die EU 2026 neue Regeln beschlossen. Der Rat der Mitgliedstaaten stimmte im Frühjahr zu, das Europäische Parlament im Sommer. Pflanzen mit kleinen Veränderungen, die auch durch herkömmliche Züchtung entstehen könnten, sollen künftig weitgehend wie herkömmliche Sorten behandelt werden. Für alle anderen gelten weiter die strengen Gentechnik-Regeln.",
+      "Ganz ohne Auflagen kommen aber auch die erleichterten Pflanzen nicht aus. Ihr Saatgut muss gekennzeichnet werden, und im Bio-Landbau bleiben sie verboten. Die neuen Regeln sollen erst einige Jahre nach ihrer Veröffentlichung greifen. Umstritten bleiben vor allem Fragen nach Patenten auf Pflanzen und nach der Wahlfreiheit für Verbraucherinnen und Verbraucher.",
+      "Auch bei Tieren wird geforscht, etwa an Schweinen, die gegen bestimmte Viruserkrankungen widerstandsfähig sind. Andere Teams versuchen, Organe von Schweinen so zu verändern, dass sie eines Tages Menschen transplantiert werden könnten, ohne abgestoßen zu werden.",
+      "Besonders weitreichend ist eine Idee namens Gene Drive. Dabei wird eine Genveränderung so gebaut, dass sie sich in einer Population viel schneller verbreitet als nach den normalen Regeln der Vererbung. So könnte man zum Beispiel Mücken, die Malaria übertragen, in einem Gebiet stark verringern. Weil eine solche Veränderung kaum rückgängig zu machen wäre, wird bislang nur im Labor und in streng abgeschirmten Versuchen geforscht.",
+      "Die Gen-Schere stellt die Gesellschaft also vor ganz praktische Fragen: Was wollen wir mit dieser Macht über das Erbgut anfangen, und wo ziehen wir Grenzen? Am schärfsten stellt sich diese Frage beim Menschen selbst."
+     ]
+    },
+    {
+     "heading": "Wo die Grenze verläuft",
+     "paragraphs": [
+      "Bei Eingriffen am Menschen unterscheiden Fachleute zwei Fälle. Im ersten verändert man Körperzellen eines Patienten, etwa Blutstammzellen wie bei der Therapie gegen die Sichelzellkrankheit. Diese Veränderung betrifft nur diese eine Person und wird nicht an Kinder vererbt. Solche Therapien gelten weithin als ethisch vertretbar, wenn sie sicher und wirksam sind.",
+      "Im zweiten Fall verändert man Embryonen, Eizellen oder Spermien. Dann steckt die Veränderung in jeder Zelle des späteren Menschen, auch in seinen Keimzellen. Sie würde an alle künftigen Generationen weitergegeben. Man spricht von Eingriffen in die Keimbahn. Hier ziehen die meisten Länder eine klare Grenze.",
+      "Im November 2018 überschritt ein chinesischer Forscher diese Grenze. He Jiankui verkündete, er habe das Erbgut von Embryonen verändert, aus denen Zwillingsmädchen hervorgegangen seien. Er wollte ein Gen ausschalten, das das HI-Virus nutzt, um in Zellen einzudringen, und die Kinder so vor einer HIV-Infektion schützen.",
+      "Die Empörung war weltweit groß, auch und gerade unter Forschenden. Es gab keinen medizinischen Grund für den Eingriff, denn es gibt andere sichere Wege, eine Übertragung von HIV auf Kinder zu verhindern. Zudem war völlig unklar, ob die Veränderung gelungen war und welche ungewollten Folgen sie haben könnte. Später stellte sich heraus, dass ein drittes Kind auf dieselbe Weise geboren worden war.",
+      "Ein Gericht in China verurteilte He Ende 2019 zu drei Jahren Haft und einer hohen Geldstrafe, wie Medien unter Berufung auf die staatliche Nachrichtenagentur berichteten. Nach Angaben des Gerichts hatten er und seine Mitarbeiter unter anderem Unterlagen für die ethische Prüfung gefälscht. Zwei weitere Beteiligte wurden ebenfalls verurteilt.",
+      "Der Fall zeigte, wie groß die Risiken sind. Die Gen-Schere kann an falschen Stellen schneiden oder in manchen Zellen eines Embryos wirken und in anderen nicht. Was das für einen Menschen über ein ganzes Leben bedeutet, weiß niemand. Und die Kinder selbst konnten nicht zustimmen.",
+      "In Deutschland verbietet das Embryonenschutzgesetz Veränderungen der Keimbahn beim Menschen. Auch in vielen anderen Ländern sind sie untersagt oder streng begrenzt. Internationale Fachgremien fordern, dass solche Eingriffe zumindest so lange tabu bleiben, bis Sicherheit und gesellschaftliche Akzeptanz geklärt sind. Manche lehnen sie grundsätzlich ab.",
+      "Hinter der Debatte steht eine tiefere Sorge: die Angst vor Designerbabys. Was, wenn Eltern eines Tages nicht nur Krankheiten verhindern, sondern Eigenschaften wie Größe oder Intelligenz auswählen wollten? Fachleute betonen, dass solche Merkmale von Hunderten Genen und von der Umwelt abhängen und sich nicht einfach per Schere einstellen lassen. Die ethische Frage bleibt trotzdem.",
+      "Eine weitere Frage ist die Gerechtigkeit. Wenn neue Therapien Millionen kosten, profitieren zunächst nur wenige. Viele Fachleute fordern deshalb, von Anfang an mitzudenken, wie die Behandlungen bezahlbar und weltweit zugänglich werden können.",
+      "Die Gen-Schere ist also kein Werkzeug wie jedes andere. Sie berührt Fragen, die weit über die Biologie hinausgehen, und braucht deshalb eine breite gesellschaftliche Debatte."
+     ]
+    },
+    {
+     "heading": "Noch feinere Werkzeuge",
+     "paragraphs": [
+      "Die klassische Gen-Schere hat einen Nachteil: Sie durchtrennt beide Stränge der DNA. Die Reparatur danach ist nicht immer vorhersehbar, und manchmal entstehen größere Schäden am Erbgut. Deshalb arbeiten Forschende an Werkzeugen, die feiner vorgehen.",
+      "Eines davon ist das Basen-Editing. Dabei wird Cas9 so verändert, dass es die DNA nicht mehr durchschneidet, sondern nur noch die Stelle findet. An das Protein ist ein zweites Enzym gekoppelt, das einen einzelnen Buchstaben chemisch in einen anderen umwandelt. Das ist eher ein Radiergummi mit Stift als eine Schere.",
+      "Weil viele Erbkrankheiten auf einen einzigen falschen Buchstaben zurückgehen, ist das sehr vielversprechend. Erste Studien mit Basen-Editoren am Menschen laufen bereits, etwa gegen Blutkrankheiten und erblich bedingt hohe Cholesterinwerte.",
+      "Noch einen Schritt weiter geht das sogenannte Prime-Editing. Hier trägt die Leit-RNA nicht nur die Suchfolge, sondern gleich auch die gewünschte neue Sequenz. Ein angekoppeltes Enzym schreibt sie direkt ins Erbgut. So lassen sich nicht nur einzelne Buchstaben tauschen, sondern auch kurze Abschnitte einfügen oder entfernen, ohne beide Stränge zu durchtrennen.",
+      "Wieder andere Ansätze verändern gar nicht die Buchstaben selbst, sondern ob ein Gen an- oder ausgeschaltet ist. Das Erbgut trägt nämlich zusätzliche chemische Markierungen, die bestimmen, welche Gene aktiv sind. Mit umgebauten CRISPR-Werkzeugen kann man diese Markierungen gezielt setzen oder entfernen. Solche Veränderungen sind unter Umständen sogar umkehrbar.",
+      "Die größte Hürde ist oft gar nicht die Schere selbst, sondern der Transport. Wie bringt man das Werkzeug in genau die Zellen, die es brauchen, etwa ins Gehirn, in die Muskeln oder in die Lunge? Dafür testen Forschende harmlose, umgebaute Viren, winzige Fetttröpfchen und andere Transportmittel. Hier wird sich entscheiden, für welche Krankheiten die Gen-Schere tatsächlich infrage kommt.",
+      "Auch die Sicherheit wird weiter erforscht. Es gibt inzwischen verbesserte Varianten von Cas9, die seltener an falschen Stellen schneiden, und Methoden, mit denen man das gesamte Erbgut nach ungewollten Veränderungen absuchen kann.",
+      "Bis eine neue Gen-Therapie zugelassen wird, vergehen meist viele Jahre. Sie muss in mehreren Studienphasen zeigen, dass sie wirkt und dass ihr Nutzen die Risiken überwiegt. Auch für die neuen Werkzeuge gilt dieser lange Weg.",
+      "Bei aller Begeisterung lohnt ein realistischer Blick. Die meisten Anwendungen am Menschen stecken noch in frühen Studien. Viele Krankheiten hängen nicht von einem einzelnen Gen ab, sondern vom Zusammenspiel vieler Gene und der Umwelt. Dort hilft eine Gen-Schere nur begrenzt.",
+      "Trotzdem hat CRISPR schon jetzt die Biologie verändert. Kaum ein Forschungslabor kommt ohne die Methode aus. Sie hilft zu verstehen, wie Leben funktioniert, und sie hat die ersten Patientinnen und Patienten von schweren Leiden befreit.",
+      "Und die Geschichte zeigt etwas Grundsätzliches: Eines der mächtigsten Werkzeuge der modernen Medizin entstand nicht aus einem gezielten Forschungsprogramm, sondern aus der Neugier auf seltsame Muster im Erbgut von Bakterien."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "CRISPR stammt aus der Natur und wurde erst durch jahrzehntelange Grundlagenforschung an Bakterien als Werkzeug erkennbar.",
+    "Neuere Verfahren wie das Basen-Editing verändern einzelne Buchstaben, ohne den DNA-Strang ganz zu durchtrennen.",
+    "Ob Eingriffe in Embryonen, Pflanzenzucht oder teure Therapien: Wie wir die Technik nutzen, ist auch eine gesellschaftliche Entscheidung."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "title": "The Nobel Prize in Chemistry 2020, Press release",
+   "publisher": "The Royal Swedish Academy of Sciences",
+   "url": "https://www.nobelprize.org/prizes/chemistry/2020/press-release/",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Hello CRISPR",
+   "publisher": "Genetics Society, Genetics Unzipped",
+   "url": "https://geneticsunzipped.com/news/2021/4/8/hello-crispr",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Vertex and CRISPR Therapeutics Announce US FDA Approval of CASGEVY for the Treatment of Sickle Cell Disease",
+   "publisher": "Vertex Pharmaceuticals",
+   "url": "https://news.vrtx.com/news-releases/news-release-details/vertex-and-crispr-therapeutics-announce-us-fda-approval",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Researchers behind claim of gene-edited babies sentenced in China",
+   "publisher": "NBC News",
+   "url": "https://www.nbcnews.com/news/world/researchers-behind-claim-gene-edited-babies-sentenced-china-n1108351",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Council Adopts Regulation on New Genomic Techniques",
+   "publisher": "Europäische Kommission, IP Helpdesk",
+   "url": "https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/council-adopts-regulation-new-genomic-techniques-2026-05-05_en",
+   "accessed": "2026-11-03"
+  }
+ ],
+ "factCheckedAt": "2026-11-03"
+}

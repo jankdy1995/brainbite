@@ -51,6 +51,39 @@
       }
     },
     {
+      "id": "crispr",
+      "category": "science",
+      "publishedAt": "2026-11-03",
+      "motif": "helix",
+      "tags": [
+        "genetik",
+        "medizin",
+        "biotechnologie"
+      ],
+      "title": {
+        "de": "CRISPR und die Gen-Schere",
+        "en": "CRISPR and the Gene Scissors"
+      },
+      "teaser": {
+        "de": "Wie ein Abwehrtrick von Bakterien zum präzisesten Werkzeug der Gentechnik wurde.",
+        "en": "How a bacterial defence trick became the most precise tool in genetic engineering."
+      },
+      "words": {
+        "de": {
+          "5": 938,
+          "10": 2157,
+          "15": 2850,
+          "20": 3742
+        },
+        "en": {
+          "5": 1050,
+          "10": 2396,
+          "15": 3187,
+          "20": 4177
+        }
+      }
+    },
+    {
       "id": "how-the-internet-works",
       "category": "tech-economy",
       "publishedAt": "2026-11-03",
