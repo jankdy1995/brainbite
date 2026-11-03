@@ -165,6 +165,7 @@ Text ist reiner Text (kein HTML, kein Markdown). Die App erzeugt das Markup selb
     { "id": "tech-economy", "rank": 2, "enabled": true }
   ],
   "preferredLength": 10,
+  "feedCategory": "all",
   "fontSize": "M",
   "tts": { "rate": 1.0, "voiceURI": { "de": null, "en": null } },
   "favorites": ["black-holes"],
@@ -195,6 +196,7 @@ Text ist reiner Text (kein HTML, kein Markdown). Die App erzeugt das Markup selb
 3. Pro Kategorie eine Warteschlange: zuerst ungelesene (neueste zuerst), dann begonnene, dann gelesene.
 4. Zusammenführen per **Smooth Weighted Round Robin**: deterministisch, gleichmäßig verteilt, keine Zufallssprünge beim Neuladen.
 5. Ist eine Warteschlange leer, füllen die anderen auf.
+6. Über das Ausklappmenü in „Entdecken“ lässt sich eine einzelne Kategorie wählen (`feedCategory`); dann zeigt der Feed nur deren Themen.
 
 ## 07 Datenfluss
 
@@ -210,6 +212,9 @@ Text ist reiner Text (kein HTML, kein Markdown). Die App erzeugt das Markup selb
 - Text wird in **Sätze** zerlegt und als Warteschlange einzelner `SpeechSynthesisUtterance`s gesprochen. Das umgeht den Chrome-Fehler, bei dem lange Texte nach ~15 s abbrechen, und ermöglicht die Satz-Hervorhebung.
 - **Pause/Fortsetzen** = `cancel()` und beim aktuellen Satz neu starten (zuverlässiger als `pause()`/`resume()` auf Android/iOS).
 - Start nur nach Nutzer-Tipp (iOS-Vorgabe). Stimmen laden asynchron (`voiceschanged`).
+- Safari-Eigenheiten: `cancel()` nur aufrufen, wenn wirklich gesprochen wird (sonst wird das nächste `speak()` verworfen); Referenz auf das laufende Utterance halten; Wächter startet ein hängendes Utterance einmal neu und zeigt sonst einen Hinweis (Stummschalter, Lautstärke).
+- „Anhören“ im Feed spricht sofort den Titel, damit der Tipp die Stimme entsperrt; der Artikel liest danach weiter.
+- Ein kurzer stummer Ton im Tipp schaltet die iOS-Audio-Sitzung auf Wiedergabe.
 - Stimmwahl: gespeicherte Stimme → beste lokale Stimme der Sprache → Hinweis „Keine Stimme gefunden“.
 - Bekannte Einschränkung: Auf iOS stoppt die Ausgabe bei gesperrtem Bildschirm. Lösung in Phase 2: vorgenerierte MP3s über `<audio>`.
 
