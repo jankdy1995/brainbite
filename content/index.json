@@ -183,6 +183,39 @@
       }
     },
     {
+      "id": "plate-tectonics",
+      "category": "science",
+      "publishedAt": "2026-11-03",
+      "motif": "waves",
+      "tags": [
+        "erde",
+        "geologie",
+        "naturgefahren"
+      ],
+      "title": {
+        "de": "Plattentektonik und Erdbeben",
+        "en": "Plate Tectonics and Earthquakes"
+      },
+      "teaser": {
+        "de": "Warum Kontinente wandern, Berge wachsen und die Erde manchmal bebt.",
+        "en": "Why continents wander, mountains grow and the Earth sometimes shakes."
+      },
+      "words": {
+        "de": {
+          "5": 929,
+          "10": 2185,
+          "15": 2909,
+          "20": 3841
+        },
+        "en": {
+          "5": 1050,
+          "10": 2424,
+          "15": 3229,
+          "20": 4240
+        }
+      }
+    },
+    {
       "id": "why-we-sleep",
       "category": "science",
       "publishedAt": "2026-11-03",

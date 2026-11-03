@@ -1,0 +1,421 @@
+{
+ "id": "plate-tectonics",
+ "lang": "en",
+ "title": "Plate Tectonics and Earthquakes",
+ "versions": {
+  "5": {
+   "words": 1050,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "The ground beneath your feet feels firm and motionless. In fact it is always on the move, just so slowly that you never notice. The Earth’s outer shell is broken into large plates that push against each other, drift apart and scrape past one another. In the next five minutes you will find out how this works, who discovered it and why it keeps causing earthquakes."
+     ]
+    },
+    {
+     "heading": "An Earth in motion",
+     "paragraphs": [
+      "The Earth is built like a peach: a thin crust on the outside, the thick mantle beneath it and an iron core inside. The mantle is made of solid rock, but because of heat and pressure it can flow very slowly over long periods.",
+      "The crust and the uppermost part of the mantle are broken into large plates. The continents sit on top of them like passengers on a raft. There are seven or eight large plates and many small ones.",
+      "The largest is the Pacific Plate, which covers almost the whole of the Pacific. Europe sits on the Eurasian Plate, which reaches all the way to East Asia. So the continents themselves are not plates but part of them. Many plates carry both land and ocean floor.",
+      "These plates move, usually by a few centimetres a year, about as fast as fingernails grow. Satellites can now measure this very precisely.",
+      "That doesn’t sound like much, but it adds up. Over a million years it becomes dozens of kilometres. That is how the Atlantic formed, for example, and it is still getting a little wider every year.",
+      "The plates are driven by the heat inside the Earth and by their own weight. Where old, heavy ocean floor sinks into the depths, it pulls the rest of the plate along behind it, like a tablecloth slipping over the edge of a table.",
+      "A comparison shows how long such periods are. When the last dinosaurs lived, a little over sixty million years ago, the Atlantic was still much narrower than it is today. India was a huge island in the ocean that only later collided with Asia, piling up the Himalayas in the process."
+     ]
+    },
+    {
+     "heading": "Wegener’s crazy idea",
+     "paragraphs": [
+      "The first person to argue consistently that continents move was Alfred Wegener, a German meteorologist and polar explorer. He presented his idea in Frankfurt at the beginning of 1912.",
+      "He had noticed that the coasts of South America and Africa fit together like jigsaw pieces. In addition, the same fossils had been found on both continents, for example of a small reptile from shallow waters that could not possibly have swum across an entire ocean.",
+      "Then there were traces of ancient climate zones. In regions that are hot today, people had found evidence of former glaciers, and in cold regions coal from what had once been forests. For Wegener, who worked as a climate scientist, this only made sense if the continents had once been in other places on the globe.",
+      "Wegener concluded that all the continents had once formed a supercontinent, which he called Pangaea. It broke apart, and the pieces drifted away from each other. According to current knowledge, the break-up began roughly two hundred million years ago.",
+      "Many experts ridiculed him, partly because he could not explain what force moves the continents. Wegener died in 1930 on an expedition in Greenland.",
+      "He was only proven right in the 1960s. Researchers mapped the ocean floor and found a huge mountain range in the middle of the Atlantic where new ocean floor is constantly forming and being pushed away to both sides. This gave rise to the theory of plate tectonics.",
+      "The proof came from magnetism. When lava cools, it records the direction of the Earth’s magnetic field. Because this field flips again and again, the ocean floor shows a pattern of stripes, mirrored on both sides of the mountain range. That is exactly what you would expect if new seabed forms in the middle and moves outwards. Today a major German research institute bears Wegener’s name."
+     ]
+    },
+    {
+     "heading": "When the Earth shakes",
+     "paragraphs": [
+      "Most of the action happens at the boundaries between plates. Sometimes plates move apart, as in Iceland. Sometimes one dives beneath the other, as all around the Pacific. Sometimes continents collide and pile up mountains such as the Himalayas. And sometimes plates scrape past each other, as in California.",
+      "The blocks of rock often lock together in the process. Over decades, stress builds up until the rock suddenly breaks and the blocks lurch forward. We experience this as an earthquake.",
+      "The size is given as a magnitude. Each whole step means about thirty-two times as much energy. The strongest earthquake ever measured reached magnitude 9.5 in Chile in 1960.",
+      "That shows how big the differences are. A magnitude seven quake releases roughly a thousand times as much energy as a magnitude five. There are thousands of small quakes every day that nobody feels. How much damage a quake does, however, also depends on its depth, the ground and above all on how buildings are constructed.",
+      "Strong undersea earthquakes can trigger tsunamis. In 2004, a tsunami in the Indian Ocean killed more than two hundred thousand people. Around the Pacific there are also many volcanoes, in the so-called Ring of Fire.",
+      "Out on the open sea, a tsunami is often only a metre high, but it races across the ocean as fast as a jet plane. Only at the coast does it slow down and pile up. A typical warning sign is that the sea suddenly retreats a long way beforehand. Then the rule is: head for higher ground at once.",
+      "Earthquakes still cannot be predicted today. But early warning systems, good building codes and preparation save many lives.",
+      "Early warning systems take advantage of the fact that the first, fast earthquake waves do hardly any damage. Measuring stations detect them and send out warnings before the strong shaking arrives. That buys a few seconds to a minute, enough to slow down trains or take cover under a table."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "The Earth’s outer shell consists of large plates that move a few centimetres every year.",
+    "Alfred Wegener presented the idea of drifting continents in 1912, but it was only proven decades later on the ocean floor.",
+    "At plate boundaries, stress builds up and is released in earthquakes, and that is also where most volcanoes form."
+   ]
+  },
+  "10": {
+   "words": 2424,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Look at a world map and you may notice that the east coast of South America fits like a jigsaw piece into the west coast of Africa. That is no coincidence. The continents were once joined together and have been drifting apart ever since. Over the next ten minutes you will learn who first came up with this crazy idea, what happens at the boundaries between the Earth’s plates, how earthquakes form and why volcanoes and tsunamis often occur in the same places."
+     ]
+    },
+    {
+     "heading": "An Earth made of jigsaw pieces",
+     "paragraphs": [
+      "The Earth is built roughly like a peach. On the outside is a thin skin, the crust. Beneath it lies the thick mantle, and at the centre is the core, made largely of iron. Compared with the whole Earth, the crust is wafer-thin, often only a few kilometres under the oceans.",
+      "The crust and the uppermost, rigid part of the mantle are broken into large pieces, the tectonic plates. There are seven or eight large ones and many smaller ones. The continents are not plates of their own; they sit on top of them like passengers on a raft. Many plates carry both continent and ocean floor.",
+      "These plates move, usually by a few centimetres a year, about as fast as your fingernails grow. Satellites of the GPS system can now measure this to within fractions of a millimetre.",
+      "The science that describes all this is called plate tectonics. It explains at a stroke why mountains are where they are, why some places have so many earthquakes and why the coasts of some continents fit together like jigsaw pieces.",
+      "It took a long time, however, for this view to win acceptance. The story begins with a man who was not actually a geologist at all."
+     ]
+    },
+    {
+     "heading": "Wegener’s crazy idea",
+     "paragraphs": [
+      "Alfred Wegener was a meteorologist and polar explorer. He studied the weather, sent balloons up into the atmosphere and took part in expeditions to Greenland. But he was also preoccupied with a completely different question: why do the coastlines of some continents fit together so strikingly?",
+      "It is particularly clear with South America and Africa. The bulge of Brazil fits almost perfectly into the bay off the coast of West Africa. Others had noticed this before. But Wegener went a step further and collected evidence from very different fields that matched this observation.",
+      "He found, for example, the same fossils on continents that are now separated by oceans. A small reptile called Mesosaurus lived in shallow waters and could not possibly have swum across an entire ocean. Even so, its remains are found in both South America and southern Africa. Certain ferns and layers of rock also match up across the seas.",
+      "Then there were traces of ancient climate zones. In what are now tropical regions, people had found evidence of earlier glaciations, and in cold regions coal that had formed from lush forests. For Wegener, as a climate scientist, this was a strong argument. It was most easily explained if the continents had once been located elsewhere on the globe.",
+      "At the beginning of January 1912, Wegener presented his hypothesis in public for the first time, at a meeting of the Geological Association at the Senckenberg Museum in Frankfurt. Shortly afterwards he published it in a scientific journal. Later he expanded it into a book, which he revised several times.",
+      "His idea was that all the continents once formed a single huge landmass. He called it Pangaea, Greek for all the Earth. This supercontinent, he argued, had broken apart, and the pieces had slowly moved to where they are today. According to current knowledge, Pangaea began to break up roughly two hundred million years ago.",
+      "The reaction of many experts was scathing. Some openly mocked the outsider who wanted to turn their science upside down. One main criticism was justified: Wegener could not convincingly explain what force was supposed to move entire continents. He suspected they ploughed through the ocean floor like ships, and physicists considered that impossible.",
+      "Wegener nevertheless held on to his conviction and kept collecting evidence. After the First World War he became a professor, first in Hamburg and later in Graz. In November 1930 he died on his fourth expedition, in the ice of Greenland. He did not live to see his theory’s breakthrough.",
+      "In hindsight, Wegener was astonishingly close to the truth in the broad outlines. He was only wrong about the driving force. The continents don’t plough through the ocean floor; they are carried along together with it. That insight only came, however, when researchers began to map the bottom of the oceans in detail.",
+      "Today one of Germany’s most important research institutes bears his name: the Alfred Wegener Institute for Polar and Marine Research in Bremerhaven. The story of the once-ridiculed outsider is a classic example of how bold ideas can move science forward."
+     ]
+    },
+    {
+     "heading": "Where plates meet",
+     "paragraphs": [
+      "Most of the action takes place at the edges of the plates. Experts distinguish between three kinds of plate boundary, depending on how the two neighbours move relative to each other: apart, towards each other or past each other.",
+      "At boundaries where plates move apart, new crust is formed. These are mainly the ridges in the middle of the oceans. Hot rock rises and lava fills the gap. In one place, such a ridge even rises above sea level: Iceland. The island sits right on the Mid-Atlantic Ridge and is literally being pulled apart into two halves. That is why it has so many volcanoes.",
+      "Plates can also tear apart on land. In eastern Africa, a huge system of rift valleys runs through the landscape, the East African Rift. Here the continent is slowly breaking apart. In millions of years, a new ocean could form there, separating the Horn of Africa from the rest of the continent.",
+      "Where plates move towards each other, things get dramatic. When heavy ocean floor meets another plate, it dives beneath it and sinks into the mantle. This process is called subduction. This is where the old ocean floor that formed at the ridges disappears. In this way the Earth as a whole stays the same size.",
+      "At subduction zones, deep troughs form in the seabed, the ocean trenches. The deepest point in the oceans, in the Mariana Trench in the western Pacific, lies about eleven kilometres below sea level. At the same time, chains of volcanoes often form on the upper plate, as in the Andes of South America or in Japan.",
+      "When two continents collide, neither can really sink down, because continental rock is too light. Instead the crust is squeezed together and forced upwards. That is how the highest mountains in the world are formed. The Himalayas are still growing today, because India has been pushing against Asia for many millions of years.",
+      "The Alps formed in a similar way, through the collision of Africa with Europe, or more precisely of a piece of Africa with Europe. Rocks that once lay at the bottom of a sea are therefore found on mountain peaks today. Anyone who finds fossils of sea creatures in the Alps is holding a piece of this history in their hands.",
+      "The third kind are boundaries where plates slide past each other. Crust is neither created nor destroyed. The best-known example is the San Andreas Fault in California. There the Pacific Plate is sliding northwards past the North American Plate. The boundary runs right through densely populated areas.",
+      "This sliding is anything but smooth, however. The blocks of rock lock together, and stress builds up over decades or centuries. At some point the rock breaks, and the blocks jump forward abruptly. That is exactly what we experience as an earthquake.",
+      "On a map showing all the earthquakes and volcanoes in the world, the plate boundaries therefore stand out clearly. They look like seams along which the Earth’s surface has been stitched together."
+     ]
+    },
+    {
+     "heading": "How earthquakes happen",
+     "paragraphs": [
+      "An earthquake is the sudden release of stress in rock. Imagine slowly bending a wooden stick further and further. For a while it holds, then it snaps with a crack and the two halves spring back. Something similar happens at plate boundaries, except that blocks of rock many kilometres in size are involved.",
+      "The plates keep moving steadily, but at their edges they are often locked together. Over years, decades or centuries, the rock deforms and stores energy. If the stress becomes too great, the rock breaks along a fracture surface called a fault. The blocks lurch forward in seconds, sometimes by several metres.",
+      "The point inside the Earth where the rupture begins is called the hypocentre or focus. It can be just a few kilometres deep or hundreds of kilometres down. The point directly above it on the Earth’s surface is called the epicentre. Near it, the shaking is usually strongest.",
+      "From there, waves spread out in all directions. The fastest are pressure waves, which alternately compress and stretch the rock. Somewhat slower shear waves follow, which shake the ground from side to side. At the surface, additional waves form that can cause particularly heavy damage. Instruments called seismometers record all these waves.",
+      "The size of an earthquake is given as a magnitude. The Richter scale used to be common for this; today experts mostly use the moment magnitude scale, which is more accurate for large quakes. Importantly, the scale is logarithmic. Each whole step means roughly ten times larger swings on the instrument and, according to the United States Geological Survey, about thirty-two times as much energy released.",
+      "So a magnitude seven earthquake releases roughly a thousand times as much energy as a magnitude five. There are thousands of small quakes every day that nobody feels. Earthquakes of magnitude seven or more happen only a handful of times a year worldwide. The strongest earthquake ever measured struck Chile in 1960 and reached magnitude 9.5.",
+      "How much damage an earthquake causes, however, depends not only on its magnitude. The depth of the focus, the distance to cities, the ground conditions and above all the way buildings are constructed are also decisive. A moderate quake in a region with poorly built houses can be more devastating than a stronger one in a well-prepared country.",
+      "To this day, earthquakes cannot be predicted, at least not to the exact day and place. Experts know which regions are at risk and how likely a large quake is there over the coming decades. But exactly when the stress will be released cannot be calculated.",
+      "What does exist are early warning systems. Because the fast pressure waves cause less damage than the slower waves, a dense network of stations can detect a quake and send out warnings before the strong shaking arrives. That buys a few seconds to a minute. Enough to slow down trains, pause surgery or crawl under a table.",
+      "Countries such as Japan have built such systems firmly into everyday life. On top of that come strict building codes that make buildings more flexible. Against the power of the Earth, humans are helpless, but they can prepare for its consequences."
+     ]
+    },
+    {
+     "heading": "Volcanoes and tsunamis",
+     "paragraphs": [
+      "Where plates clash, there are often not only earthquakes but also volcanoes. This is especially clear around the Pacific. There, a chain of volcanoes and earthquake zones stretches from New Zealand via Indonesia, the Philippines and Japan to Alaska and on down the west coast of the Americas to Chile. This belt is called the Pacific Ring of Fire.",
+      "The reason is the many subduction zones around the Pacific. When a plate sinks into the depths, it carries water bound up in its rocks. Deep down, this water is released and lowers the melting point of the surrounding mantle rock. Magma forms, rises upwards and erupts at the surface as a volcano.",
+      "Such volcanoes are often especially explosive, because their magma is thick and contains a lot of gas. Mount St Helens in the United States and many volcanoes in Indonesia belong to this type. Their eruptions can hurl ash many kilometres high into the atmosphere.",
+      "The volcanoes at the ridges in the middle of the oceans and on Iceland are quite different. There, lava tends to flow out quietly from long fissures, because it is more fluid. Most volcanic eruptions on Earth, by the way, take place unnoticed on the ocean floor.",
+      "A third kind of volcano sits in the middle of a plate, far from any boundary. Hawaii is an example. Beneath such places, a column of hot rock probably rises from great depth, a so-called hotspot. As the plate above moves across it, a chain of islands forms. The oldest have long since gone extinct and been worn away; the youngest are still active.",
+      "One particularly dangerous consequence of plate movements is tsunamis. They form mainly when a strong undersea earthquake suddenly lifts or drops the seabed. Then the entire column of water above it starts to move. Out on the open sea, the wave is often only a metre high, but it races across the ocean at the speed of a jet plane.",
+      "Only when it reaches the coast and the water gets shallower does the wave slow down and pile up. Then it can become many metres high and push far inland. A typical warning sign is that the sea suddenly retreats a long way beforehand.",
+      "In December 2004, a magnitude 9.1 earthquake off the Indonesian island of Sumatra triggered an enormous tsunami in the Indian Ocean. The waves struck coasts in many countries, from Indonesia via Thailand and Sri Lanka to East Africa. More than two hundred thousand people lost their lives. It was one of the worst natural disasters in recent history.",
+      "At the time there was no warning system in the Indian Ocean. Since then one has been built, with the help of German research institutions among others. Buoys and measuring stations detect suspicious movements, and warnings now often reach the coasts in time for people to move to higher ground.",
+      "Volcanoes have a good side too, by the way. Their ash makes soils especially fertile, and over billions of years volcanic gases helped to form the atmosphere and the oceans. Without our restless Earth, we might not exist at all."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Alfred Wegener recognised in 1912 that the continents once formed a supercontinent and have been drifting apart ever since.",
+    "At plate boundaries, new crust forms, old crust sinks down, or plates scrape past each other.",
+    "Earthquakes release the stress built up there, and each step on the magnitude scale means about thirty-two times as much energy."
+   ]
+  },
+  "15": {
+   "words": 3229,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Mountains such as the Himalayas are still growing today. The Atlantic gets a few centimetres wider every year. And somewhere in the world, the Earth is shaking right now. All of this has a common cause: plate tectonics. Here you will learn how the Earth is built, how Alfred Wegener recognised continental drift, how the ocean floor proved him right decades later, what happens at plate boundaries, how earthquakes form and what volcanoes and tsunamis have to do with it."
+     ]
+    },
+    {
+     "heading": "An Earth in motion",
+     "paragraphs": [
+      "To understand why the ground moves, it helps to look inside the Earth. It is built roughly like a peach. On the outside is a thin skin, the Earth’s crust. Beneath it lies the thick mantle, the flesh of the fruit. And at the centre is the core, made largely of iron.",
+      "Compared with the whole Earth, the crust is wafer-thin. Under the oceans it is usually only a few kilometres thick, and under the continents a few dozen kilometres on average. For comparison, it is more than six thousand kilometres to the centre of the Earth. If the Earth were an apple, the crust would be thinner than its skin.",
+      "The mantle is not liquid magma, as is often assumed. It consists mainly of solid rock. But because it is very hot down there and the pressure is enormous, this rock behaves over long periods like an extremely thick, sticky mass. It can flow very slowly, rather like glacier ice or a very hard plastic that deforms under load.",
+      "The crust and the uppermost, rigid part of the mantle together form what is called the lithosphere. It is roughly a hundred kilometres thick and broken into large pieces, the tectonic plates. These plates float, in a sense, on a somewhat softer layer of the mantle beneath them, known as the asthenosphere.",
+      "Altogether there are seven or eight large plates and many smaller ones. The Pacific Plate is the largest. The Eurasian Plate carries Europe and large parts of Asia. The continents are not plates of their own; they sit on top of them like passengers on a raft. Many plates consist of both continent and ocean floor.",
+      "And these plates move. According to the United States Geological Survey, it is usually a few centimetres a year, about as fast as your fingernails grow. Some plates are slower, some considerably faster. Each moves at its own pace in its own direction.",
+      "This can now be measured very precisely. Satellites of the GPS navigation system determine the position of measuring stations on the ground to within fractions of a millimetre per year. Over many years this gives a clear picture of how the plates are moving. What used to be only a hypothesis can now be followed almost live.",
+      "A few centimetres sounds like very little. But the Earth has plenty of time. Over a million years, two centimetres a year adds up to twenty kilometres. Over a hundred million years, it becomes two thousand kilometres. That is how oceans can open and close again, continents collide and mountains rise up.",
+      "The science that describes all this is called plate tectonics. For geology it is roughly what the theory of evolution is for biology: a fundamental framework that explains a great many observations at once.",
+      "It took a long time, however, for this view to win acceptance. The story begins with a man who was not actually a geologist at all."
+     ]
+    },
+    {
+     "heading": "Wegener’s crazy idea",
+     "paragraphs": [
+      "Alfred Wegener was a meteorologist and polar explorer. He studied the weather, sent balloons up into the atmosphere and took part in expeditions to Greenland. But he was also preoccupied with a completely different question: why do the coastlines of some continents fit together so strikingly?",
+      "It is particularly clear with South America and Africa. The bulge of Brazil fits almost perfectly into the bay off the coast of West Africa. Others had noticed this before. But Wegener went a step further and collected evidence from very different fields that matched this observation.",
+      "He found, for example, the same fossils on continents that are now separated by oceans. A small reptile called Mesosaurus lived in shallow waters and could not possibly have swum across an entire ocean. Even so, its remains are found in both South America and southern Africa. Certain ferns and layers of rock also match up across the seas.",
+      "Then there were traces of ancient climate zones. In what are now tropical regions, people had found evidence of earlier glaciations, and in cold regions coal that had formed from lush forests. For Wegener, as a climate scientist, this was a strong argument. It was most easily explained if the continents had once been located elsewhere on the globe.",
+      "At the beginning of January 1912, Wegener presented his hypothesis in public for the first time, at a meeting of the Geological Association at the Senckenberg Museum in Frankfurt. Shortly afterwards he published it in a scientific journal. Later he expanded it into a book, which he revised several times.",
+      "His idea was that all the continents once formed a single huge landmass. He called it Pangaea, Greek for all the Earth. This supercontinent, he argued, had broken apart, and the pieces had slowly moved to where they are today. According to current knowledge, Pangaea began to break up roughly two hundred million years ago.",
+      "The reaction of many experts was scathing. Some openly mocked the outsider who wanted to turn their science upside down. One main criticism was justified: Wegener could not convincingly explain what force was supposed to move entire continents. He suspected they ploughed through the ocean floor like ships, and physicists considered that impossible.",
+      "Wegener nevertheless held on to his conviction and kept collecting evidence. After the First World War he became a professor, first in Hamburg and later in Graz. In November 1930 he died on his fourth expedition, in the ice of Greenland. He did not live to see his theory’s breakthrough.",
+      "In hindsight, Wegener was astonishingly close to the truth in the broad outlines. He was only wrong about the driving force. The continents don’t plough through the ocean floor; they are carried along together with it. That insight only came, however, when researchers began to map the bottom of the oceans in detail.",
+      "Today one of Germany’s most important research institutes bears his name: the Alfred Wegener Institute for Polar and Marine Research in Bremerhaven. The story of the once-ridiculed outsider is a classic example of how bold ideas can move science forward."
+     ]
+    },
+    {
+     "heading": "Proof from the ocean floor",
+     "paragraphs": [
+      "For a long time, almost nothing was known about the bottom of the oceans. It was thought to be a flat, monotonous plain. That changed after the Second World War. Using echo sounders, which send sound waves down to the seabed and measure the echo, the floor of the oceans was systematically mapped.",
+      "The results came as a surprise. Running right through the middle of the Atlantic is a gigantic underwater mountain range, the Mid-Atlantic Ridge. It is thousands of kilometres long, and a deep valley runs along its centre. Similar ridges were found in every ocean. Together they form the longest mountain range on Earth, almost entirely hidden underwater.",
+      "The American geologist Marie Tharp played an important role here. In the 1950s she drew maps of the ocean floor from the measurement data and discovered the rift valley running down the centre of the ridge. She suspected that the seabed was tearing apart there. Her colleagues initially dismissed the idea as absurd, just as had once happened to Wegener.",
+      "In the early 1960s the American geologist Harry Hess developed a new theory from this. At the ridges, hot rock rises from the mantle, partly melts and forms new ocean floor. This is pushed away to both sides, as if on a conveyor belt. Experts call this seafloor spreading.",
+      "The decisive proof came from magnetism. When lava cools, tiny iron minerals in it align themselves with the Earth’s magnetic field and freeze that direction in place. But the Earth’s magnetic field has flipped again and again over the course of its history. North and south have swapped places.",
+      "When researchers measured the magnetic field above the ocean floor, they discovered a striking pattern: stripes of alternating magnetisation running parallel to the ridge, mirrored on both sides. That fitted the conveyor-belt idea perfectly. Each stripe is a piece of ocean floor that formed at a time when the magnetic field pointed in a particular direction.",
+      "The age of the ocean floor fitted too. Drilling showed that it is very young near the ridges and gets older and older with distance. Most astonishing of all, no ocean floor is older than roughly two hundred million years. The continents, by contrast, contain rocks that are billions of years old. So old ocean floor must disappear somewhere.",
+      "How fast the conveyor belt runs can also be determined. At the Mid-Atlantic Ridge, according to the United States Geological Survey, the plates move apart by about two and a half centimetres a year on average. That is twenty-five kilometres in a million years. Since the break-up of Pangaea, the entire Atlantic has formed in this way.",
+      "By the end of the 1960s, all these pieces of the puzzle had come together into a comprehensive theory: plate tectonics. Within a few years it was accepted by the great majority of geologists. Wegener’s basic idea had been confirmed, and the missing driving force had been found at the same time.",
+      "It was a scientific revolution. Much that had previously been puzzling suddenly made sense: the location of mountain ranges, the distribution of earthquakes and volcanoes and the shape of the continents."
+     ]
+    },
+    {
+     "heading": "Where plates meet",
+     "paragraphs": [
+      "Most of the action takes place at the edges of the plates. Experts distinguish between three kinds of plate boundary, depending on how the two neighbours move relative to each other: apart, towards each other or past each other.",
+      "At boundaries where plates move apart, new crust is formed. These are mainly the ridges in the middle of the oceans. Hot rock rises and lava fills the gap. In one place, such a ridge even rises above sea level: Iceland. The island sits right on the Mid-Atlantic Ridge and is literally being pulled apart into two halves. That is why it has so many volcanoes.",
+      "Plates can also tear apart on land. In eastern Africa, a huge system of rift valleys runs through the landscape, the East African Rift. Here the continent is slowly breaking apart. In millions of years, a new ocean could form there, separating the Horn of Africa from the rest of the continent.",
+      "Where plates move towards each other, things get dramatic. When heavy ocean floor meets another plate, it dives beneath it and sinks into the mantle. This process is called subduction. This is where the old ocean floor that formed at the ridges disappears. In this way the Earth as a whole stays the same size.",
+      "At subduction zones, deep troughs form in the seabed, the ocean trenches. The deepest point in the oceans, in the Mariana Trench in the western Pacific, lies about eleven kilometres below sea level. At the same time, chains of volcanoes often form on the upper plate, as in the Andes of South America or in Japan.",
+      "When two continents collide, neither can really sink down, because continental rock is too light. Instead the crust is squeezed together and forced upwards. That is how the highest mountains in the world are formed. The Himalayas are still growing today, because India has been pushing against Asia for many millions of years.",
+      "The Alps formed in a similar way, through the collision of Africa with Europe, or more precisely of a piece of Africa with Europe. Rocks that once lay at the bottom of a sea are therefore found on mountain peaks today. Anyone who finds fossils of sea creatures in the Alps is holding a piece of this history in their hands.",
+      "The third kind are boundaries where plates slide past each other. Crust is neither created nor destroyed. The best-known example is the San Andreas Fault in California. There the Pacific Plate is sliding northwards past the North American Plate. The boundary runs right through densely populated areas.",
+      "This sliding is anything but smooth, however. The blocks of rock lock together, and stress builds up over decades or centuries. At some point the rock breaks, and the blocks jump forward abruptly. That is exactly what we experience as an earthquake.",
+      "On a map showing all the earthquakes and volcanoes in the world, the plate boundaries therefore stand out clearly. They look like seams along which the Earth’s surface has been stitched together."
+     ]
+    },
+    {
+     "heading": "How earthquakes happen",
+     "paragraphs": [
+      "An earthquake is the sudden release of stress in rock. Imagine slowly bending a wooden stick further and further. For a while it holds, then it snaps with a crack and the two halves spring back. Something similar happens at plate boundaries, except that blocks of rock many kilometres in size are involved.",
+      "The plates keep moving steadily, but at their edges they are often locked together. Over years, decades or centuries, the rock deforms and stores energy. If the stress becomes too great, the rock breaks along a fracture surface called a fault. The blocks lurch forward in seconds, sometimes by several metres.",
+      "The point inside the Earth where the rupture begins is called the hypocentre or focus. It can be just a few kilometres deep or hundreds of kilometres down. The point directly above it on the Earth’s surface is called the epicentre. Near it, the shaking is usually strongest.",
+      "From there, waves spread out in all directions. The fastest are pressure waves, which alternately compress and stretch the rock. Somewhat slower shear waves follow, which shake the ground from side to side. At the surface, additional waves form that can cause particularly heavy damage. Instruments called seismometers record all these waves.",
+      "The size of an earthquake is given as a magnitude. The Richter scale used to be common for this; today experts mostly use the moment magnitude scale, which is more accurate for large quakes. Importantly, the scale is logarithmic. Each whole step means roughly ten times larger swings on the instrument and, according to the United States Geological Survey, about thirty-two times as much energy released.",
+      "So a magnitude seven earthquake releases roughly a thousand times as much energy as a magnitude five. There are thousands of small quakes every day that nobody feels. Earthquakes of magnitude seven or more happen only a handful of times a year worldwide. The strongest earthquake ever measured struck Chile in 1960 and reached magnitude 9.5.",
+      "How much damage an earthquake causes, however, depends not only on its magnitude. The depth of the focus, the distance to cities, the ground conditions and above all the way buildings are constructed are also decisive. A moderate quake in a region with poorly built houses can be more devastating than a stronger one in a well-prepared country.",
+      "To this day, earthquakes cannot be predicted, at least not to the exact day and place. Experts know which regions are at risk and how likely a large quake is there over the coming decades. But exactly when the stress will be released cannot be calculated.",
+      "What does exist are early warning systems. Because the fast pressure waves cause less damage than the slower waves, a dense network of stations can detect a quake and send out warnings before the strong shaking arrives. That buys a few seconds to a minute. Enough to slow down trains, pause surgery or crawl under a table.",
+      "Countries such as Japan have built such systems firmly into everyday life. On top of that come strict building codes that make buildings more flexible. Against the power of the Earth, humans are helpless, but they can prepare for its consequences."
+     ]
+    },
+    {
+     "heading": "Volcanoes and tsunamis",
+     "paragraphs": [
+      "Where plates clash, there are often not only earthquakes but also volcanoes. This is especially clear around the Pacific. There, a chain of volcanoes and earthquake zones stretches from New Zealand via Indonesia, the Philippines and Japan to Alaska and on down the west coast of the Americas to Chile. This belt is called the Pacific Ring of Fire.",
+      "The reason is the many subduction zones around the Pacific. When a plate sinks into the depths, it carries water bound up in its rocks. Deep down, this water is released and lowers the melting point of the surrounding mantle rock. Magma forms, rises upwards and erupts at the surface as a volcano.",
+      "Such volcanoes are often especially explosive, because their magma is thick and contains a lot of gas. Mount St Helens in the United States and many volcanoes in Indonesia belong to this type. Their eruptions can hurl ash many kilometres high into the atmosphere.",
+      "The volcanoes at the ridges in the middle of the oceans and on Iceland are quite different. There, lava tends to flow out quietly from long fissures, because it is more fluid. Most volcanic eruptions on Earth, by the way, take place unnoticed on the ocean floor.",
+      "A third kind of volcano sits in the middle of a plate, far from any boundary. Hawaii is an example. Beneath such places, a column of hot rock probably rises from great depth, a so-called hotspot. As the plate above moves across it, a chain of islands forms. The oldest have long since gone extinct and been worn away; the youngest are still active.",
+      "One particularly dangerous consequence of plate movements is tsunamis. They form mainly when a strong undersea earthquake suddenly lifts or drops the seabed. Then the entire column of water above it starts to move. Out on the open sea, the wave is often only a metre high, but it races across the ocean at the speed of a jet plane.",
+      "Only when it reaches the coast and the water gets shallower does the wave slow down and pile up. Then it can become many metres high and push far inland. A typical warning sign is that the sea suddenly retreats a long way beforehand.",
+      "In December 2004, a magnitude 9.1 earthquake off the Indonesian island of Sumatra triggered an enormous tsunami in the Indian Ocean. The waves struck coasts in many countries, from Indonesia via Thailand and Sri Lanka to East Africa. More than two hundred thousand people lost their lives. It was one of the worst natural disasters in recent history.",
+      "At the time there was no warning system in the Indian Ocean. Since then one has been built, with the help of German research institutions among others. Buoys and measuring stations detect suspicious movements, and warnings now often reach the coasts in time for people to move to higher ground.",
+      "Volcanoes have a good side too, by the way. Their ash makes soils especially fertile, and over billions of years volcanic gases helped to form the atmosphere and the oceans. Without our restless Earth, we might not exist at all."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "The Earth’s surface consists of rigid plates that move a few centimetres a year on a soft, slowly flowing layer of the mantle.",
+    "Wegener’s idea of continental drift was confirmed by research on the ocean floor in the 1960s.",
+    "Plate boundaries are where mountains, earthquakes, volcanoes and tsunamis arise, especially around the Pacific."
+   ]
+  },
+  "20": {
+   "words": 4240,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "At the beginning of January 1912, a young meteorologist stood in front of an assembly of geologists in Frankfurt and claimed that the continents were moving. Many experts thought it was nonsense. Today plate tectonics is the foundation of the whole of geology. In this article you will learn how the Earth is built, how the idea came about and was proven, what happens at plate boundaries, how earthquakes, volcanoes and tsunamis form, what drives the plates and what the Earth might look like millions of years from now."
+     ]
+    },
+    {
+     "heading": "An Earth in motion",
+     "paragraphs": [
+      "To understand why the ground moves, it helps to look inside the Earth. It is built roughly like a peach. On the outside is a thin skin, the Earth’s crust. Beneath it lies the thick mantle, the flesh of the fruit. And at the centre is the core, made largely of iron.",
+      "Compared with the whole Earth, the crust is wafer-thin. Under the oceans it is usually only a few kilometres thick, and under the continents a few dozen kilometres on average. For comparison, it is more than six thousand kilometres to the centre of the Earth. If the Earth were an apple, the crust would be thinner than its skin.",
+      "The mantle is not liquid magma, as is often assumed. It consists mainly of solid rock. But because it is very hot down there and the pressure is enormous, this rock behaves over long periods like an extremely thick, sticky mass. It can flow very slowly, rather like glacier ice or a very hard plastic that deforms under load.",
+      "The crust and the uppermost, rigid part of the mantle together form what is called the lithosphere. It is roughly a hundred kilometres thick and broken into large pieces, the tectonic plates. These plates float, in a sense, on a somewhat softer layer of the mantle beneath them, known as the asthenosphere.",
+      "Altogether there are seven or eight large plates and many smaller ones. The Pacific Plate is the largest. The Eurasian Plate carries Europe and large parts of Asia. The continents are not plates of their own; they sit on top of them like passengers on a raft. Many plates consist of both continent and ocean floor.",
+      "And these plates move. According to the United States Geological Survey, it is usually a few centimetres a year, about as fast as your fingernails grow. Some plates are slower, some considerably faster. Each moves at its own pace in its own direction.",
+      "This can now be measured very precisely. Satellites of the GPS navigation system determine the position of measuring stations on the ground to within fractions of a millimetre per year. Over many years this gives a clear picture of how the plates are moving. What used to be only a hypothesis can now be followed almost live.",
+      "A few centimetres sounds like very little. But the Earth has plenty of time. Over a million years, two centimetres a year adds up to twenty kilometres. Over a hundred million years, it becomes two thousand kilometres. That is how oceans can open and close again, continents collide and mountains rise up.",
+      "The science that describes all this is called plate tectonics. For geology it is roughly what the theory of evolution is for biology: a fundamental framework that explains a great many observations at once.",
+      "It took a long time, however, for this view to win acceptance. The story begins with a man who was not actually a geologist at all."
+     ]
+    },
+    {
+     "heading": "Wegener’s crazy idea",
+     "paragraphs": [
+      "Alfred Wegener was a meteorologist and polar explorer. He studied the weather, sent balloons up into the atmosphere and took part in expeditions to Greenland. But he was also preoccupied with a completely different question: why do the coastlines of some continents fit together so strikingly?",
+      "It is particularly clear with South America and Africa. The bulge of Brazil fits almost perfectly into the bay off the coast of West Africa. Others had noticed this before. But Wegener went a step further and collected evidence from very different fields that matched this observation.",
+      "He found, for example, the same fossils on continents that are now separated by oceans. A small reptile called Mesosaurus lived in shallow waters and could not possibly have swum across an entire ocean. Even so, its remains are found in both South America and southern Africa. Certain ferns and layers of rock also match up across the seas.",
+      "Then there were traces of ancient climate zones. In what are now tropical regions, people had found evidence of earlier glaciations, and in cold regions coal that had formed from lush forests. For Wegener, as a climate scientist, this was a strong argument. It was most easily explained if the continents had once been located elsewhere on the globe.",
+      "At the beginning of January 1912, Wegener presented his hypothesis in public for the first time, at a meeting of the Geological Association at the Senckenberg Museum in Frankfurt. Shortly afterwards he published it in a scientific journal. Later he expanded it into a book, which he revised several times.",
+      "His idea was that all the continents once formed a single huge landmass. He called it Pangaea, Greek for all the Earth. This supercontinent, he argued, had broken apart, and the pieces had slowly moved to where they are today. According to current knowledge, Pangaea began to break up roughly two hundred million years ago.",
+      "The reaction of many experts was scathing. Some openly mocked the outsider who wanted to turn their science upside down. One main criticism was justified: Wegener could not convincingly explain what force was supposed to move entire continents. He suspected they ploughed through the ocean floor like ships, and physicists considered that impossible.",
+      "Wegener nevertheless held on to his conviction and kept collecting evidence. After the First World War he became a professor, first in Hamburg and later in Graz. In November 1930 he died on his fourth expedition, in the ice of Greenland. He did not live to see his theory’s breakthrough.",
+      "In hindsight, Wegener was astonishingly close to the truth in the broad outlines. He was only wrong about the driving force. The continents don’t plough through the ocean floor; they are carried along together with it. That insight only came, however, when researchers began to map the bottom of the oceans in detail.",
+      "Today one of Germany’s most important research institutes bears his name: the Alfred Wegener Institute for Polar and Marine Research in Bremerhaven. The story of the once-ridiculed outsider is a classic example of how bold ideas can move science forward."
+     ]
+    },
+    {
+     "heading": "Proof from the ocean floor",
+     "paragraphs": [
+      "For a long time, almost nothing was known about the bottom of the oceans. It was thought to be a flat, monotonous plain. That changed after the Second World War. Using echo sounders, which send sound waves down to the seabed and measure the echo, the floor of the oceans was systematically mapped.",
+      "The results came as a surprise. Running right through the middle of the Atlantic is a gigantic underwater mountain range, the Mid-Atlantic Ridge. It is thousands of kilometres long, and a deep valley runs along its centre. Similar ridges were found in every ocean. Together they form the longest mountain range on Earth, almost entirely hidden underwater.",
+      "The American geologist Marie Tharp played an important role here. In the 1950s she drew maps of the ocean floor from the measurement data and discovered the rift valley running down the centre of the ridge. She suspected that the seabed was tearing apart there. Her colleagues initially dismissed the idea as absurd, just as had once happened to Wegener.",
+      "In the early 1960s the American geologist Harry Hess developed a new theory from this. At the ridges, hot rock rises from the mantle, partly melts and forms new ocean floor. This is pushed away to both sides, as if on a conveyor belt. Experts call this seafloor spreading.",
+      "The decisive proof came from magnetism. When lava cools, tiny iron minerals in it align themselves with the Earth’s magnetic field and freeze that direction in place. But the Earth’s magnetic field has flipped again and again over the course of its history. North and south have swapped places.",
+      "When researchers measured the magnetic field above the ocean floor, they discovered a striking pattern: stripes of alternating magnetisation running parallel to the ridge, mirrored on both sides. That fitted the conveyor-belt idea perfectly. Each stripe is a piece of ocean floor that formed at a time when the magnetic field pointed in a particular direction.",
+      "The age of the ocean floor fitted too. Drilling showed that it is very young near the ridges and gets older and older with distance. Most astonishing of all, no ocean floor is older than roughly two hundred million years. The continents, by contrast, contain rocks that are billions of years old. So old ocean floor must disappear somewhere.",
+      "How fast the conveyor belt runs can also be determined. At the Mid-Atlantic Ridge, according to the United States Geological Survey, the plates move apart by about two and a half centimetres a year on average. That is twenty-five kilometres in a million years. Since the break-up of Pangaea, the entire Atlantic has formed in this way.",
+      "By the end of the 1960s, all these pieces of the puzzle had come together into a comprehensive theory: plate tectonics. Within a few years it was accepted by the great majority of geologists. Wegener’s basic idea had been confirmed, and the missing driving force had been found at the same time.",
+      "It was a scientific revolution. Much that had previously been puzzling suddenly made sense: the location of mountain ranges, the distribution of earthquakes and volcanoes and the shape of the continents."
+     ]
+    },
+    {
+     "heading": "Where plates meet",
+     "paragraphs": [
+      "Most of the action takes place at the edges of the plates. Experts distinguish between three kinds of plate boundary, depending on how the two neighbours move relative to each other: apart, towards each other or past each other.",
+      "At boundaries where plates move apart, new crust is formed. These are mainly the ridges in the middle of the oceans. Hot rock rises and lava fills the gap. In one place, such a ridge even rises above sea level: Iceland. The island sits right on the Mid-Atlantic Ridge and is literally being pulled apart into two halves. That is why it has so many volcanoes.",
+      "Plates can also tear apart on land. In eastern Africa, a huge system of rift valleys runs through the landscape, the East African Rift. Here the continent is slowly breaking apart. In millions of years, a new ocean could form there, separating the Horn of Africa from the rest of the continent.",
+      "Where plates move towards each other, things get dramatic. When heavy ocean floor meets another plate, it dives beneath it and sinks into the mantle. This process is called subduction. This is where the old ocean floor that formed at the ridges disappears. In this way the Earth as a whole stays the same size.",
+      "At subduction zones, deep troughs form in the seabed, the ocean trenches. The deepest point in the oceans, in the Mariana Trench in the western Pacific, lies about eleven kilometres below sea level. At the same time, chains of volcanoes often form on the upper plate, as in the Andes of South America or in Japan.",
+      "When two continents collide, neither can really sink down, because continental rock is too light. Instead the crust is squeezed together and forced upwards. That is how the highest mountains in the world are formed. The Himalayas are still growing today, because India has been pushing against Asia for many millions of years.",
+      "The Alps formed in a similar way, through the collision of Africa with Europe, or more precisely of a piece of Africa with Europe. Rocks that once lay at the bottom of a sea are therefore found on mountain peaks today. Anyone who finds fossils of sea creatures in the Alps is holding a piece of this history in their hands.",
+      "The third kind are boundaries where plates slide past each other. Crust is neither created nor destroyed. The best-known example is the San Andreas Fault in California. There the Pacific Plate is sliding northwards past the North American Plate. The boundary runs right through densely populated areas.",
+      "This sliding is anything but smooth, however. The blocks of rock lock together, and stress builds up over decades or centuries. At some point the rock breaks, and the blocks jump forward abruptly. That is exactly what we experience as an earthquake.",
+      "On a map showing all the earthquakes and volcanoes in the world, the plate boundaries therefore stand out clearly. They look like seams along which the Earth’s surface has been stitched together."
+     ]
+    },
+    {
+     "heading": "How earthquakes happen",
+     "paragraphs": [
+      "An earthquake is the sudden release of stress in rock. Imagine slowly bending a wooden stick further and further. For a while it holds, then it snaps with a crack and the two halves spring back. Something similar happens at plate boundaries, except that blocks of rock many kilometres in size are involved.",
+      "The plates keep moving steadily, but at their edges they are often locked together. Over years, decades or centuries, the rock deforms and stores energy. If the stress becomes too great, the rock breaks along a fracture surface called a fault. The blocks lurch forward in seconds, sometimes by several metres.",
+      "The point inside the Earth where the rupture begins is called the hypocentre or focus. It can be just a few kilometres deep or hundreds of kilometres down. The point directly above it on the Earth’s surface is called the epicentre. Near it, the shaking is usually strongest.",
+      "From there, waves spread out in all directions. The fastest are pressure waves, which alternately compress and stretch the rock. Somewhat slower shear waves follow, which shake the ground from side to side. At the surface, additional waves form that can cause particularly heavy damage. Instruments called seismometers record all these waves.",
+      "The size of an earthquake is given as a magnitude. The Richter scale used to be common for this; today experts mostly use the moment magnitude scale, which is more accurate for large quakes. Importantly, the scale is logarithmic. Each whole step means roughly ten times larger swings on the instrument and, according to the United States Geological Survey, about thirty-two times as much energy released.",
+      "So a magnitude seven earthquake releases roughly a thousand times as much energy as a magnitude five. There are thousands of small quakes every day that nobody feels. Earthquakes of magnitude seven or more happen only a handful of times a year worldwide. The strongest earthquake ever measured struck Chile in 1960 and reached magnitude 9.5.",
+      "How much damage an earthquake causes, however, depends not only on its magnitude. The depth of the focus, the distance to cities, the ground conditions and above all the way buildings are constructed are also decisive. A moderate quake in a region with poorly built houses can be more devastating than a stronger one in a well-prepared country.",
+      "To this day, earthquakes cannot be predicted, at least not to the exact day and place. Experts know which regions are at risk and how likely a large quake is there over the coming decades. But exactly when the stress will be released cannot be calculated.",
+      "What does exist are early warning systems. Because the fast pressure waves cause less damage than the slower waves, a dense network of stations can detect a quake and send out warnings before the strong shaking arrives. That buys a few seconds to a minute. Enough to slow down trains, pause surgery or crawl under a table.",
+      "Countries such as Japan have built such systems firmly into everyday life. On top of that come strict building codes that make buildings more flexible. Against the power of the Earth, humans are helpless, but they can prepare for its consequences."
+     ]
+    },
+    {
+     "heading": "Volcanoes and tsunamis",
+     "paragraphs": [
+      "Where plates clash, there are often not only earthquakes but also volcanoes. This is especially clear around the Pacific. There, a chain of volcanoes and earthquake zones stretches from New Zealand via Indonesia, the Philippines and Japan to Alaska and on down the west coast of the Americas to Chile. This belt is called the Pacific Ring of Fire.",
+      "The reason is the many subduction zones around the Pacific. When a plate sinks into the depths, it carries water bound up in its rocks. Deep down, this water is released and lowers the melting point of the surrounding mantle rock. Magma forms, rises upwards and erupts at the surface as a volcano.",
+      "Such volcanoes are often especially explosive, because their magma is thick and contains a lot of gas. Mount St Helens in the United States and many volcanoes in Indonesia belong to this type. Their eruptions can hurl ash many kilometres high into the atmosphere.",
+      "The volcanoes at the ridges in the middle of the oceans and on Iceland are quite different. There, lava tends to flow out quietly from long fissures, because it is more fluid. Most volcanic eruptions on Earth, by the way, take place unnoticed on the ocean floor.",
+      "A third kind of volcano sits in the middle of a plate, far from any boundary. Hawaii is an example. Beneath such places, a column of hot rock probably rises from great depth, a so-called hotspot. As the plate above moves across it, a chain of islands forms. The oldest have long since gone extinct and been worn away; the youngest are still active.",
+      "One particularly dangerous consequence of plate movements is tsunamis. They form mainly when a strong undersea earthquake suddenly lifts or drops the seabed. Then the entire column of water above it starts to move. Out on the open sea, the wave is often only a metre high, but it races across the ocean at the speed of a jet plane.",
+      "Only when it reaches the coast and the water gets shallower does the wave slow down and pile up. Then it can become many metres high and push far inland. A typical warning sign is that the sea suddenly retreats a long way beforehand.",
+      "In December 2004, a magnitude 9.1 earthquake off the Indonesian island of Sumatra triggered an enormous tsunami in the Indian Ocean. The waves struck coasts in many countries, from Indonesia via Thailand and Sri Lanka to East Africa. More than two hundred thousand people lost their lives. It was one of the worst natural disasters in recent history.",
+      "At the time there was no warning system in the Indian Ocean. Since then one has been built, with the help of German research institutions among others. Buoys and measuring stations detect suspicious movements, and warnings now often reach the coasts in time for people to move to higher ground.",
+      "Volcanoes have a good side too, by the way. Their ash makes soils especially fertile, and over billions of years volcanic gases helped to form the atmosphere and the oceans. Without our restless Earth, we might not exist at all."
+     ]
+    },
+    {
+     "heading": "What drives the plates",
+     "paragraphs": [
+      "For a long time the big question was: where does the force that moves entire continents come from? The answer lies in the heat inside the Earth. The Earth’s core is several thousand degrees hot. Some of this heat is still left over from the Earth’s formation, and some comes from the decay of radioactive elements in rock.",
+      "The heat wants to escape outwards. As a result, the thick, sticky rock of the mantle is set in motion over long periods. Hot rock rises slowly, cooler rock sinks. As in a pot of soup on the stove, currents develop, which experts call convection. Only in the mantle, one cycle takes not minutes but many millions of years.",
+      "For a long time people imagined that these currents simply carried the plates along on their backs, like a conveyor belt. Today we know the picture is a little more complicated. The largest contribution probably comes from gravity, specifically at the subduction zones.",
+      "Ocean floor cools down the further it moves from a ridge. In the process it becomes denser and heavier. At a subduction zone, this heavy, old ocean floor sinks into the mantle and pulls the rest of the plate along behind it, like a tablecloth slipping over the edge of a table. Experts call this slab pull.",
+      "On top of that there is a weaker push at the ridges. Because the newly formed rock there is hot and light, the ridge sits higher than the surrounding ocean floor. The plates slide down this slope, so to speak. Together with the currents in the mantle, this creates a complex system whose details are still being researched.",
+      "Plate tectonics is thus a kind of gigantic recycling plant. New ocean floor forms at the ridges, and old ocean floor disappears back into the mantle at the subduction zones. Water and carbon are carried down into the depths in the process and released again through volcanoes. Over very long periods, this cycle even influences the Earth’s climate.",
+      "Over the course of Earth’s history, the continents have repeatedly pushed together into supercontinents and then broken apart again. Pangaea was only the most recent. Before it there were probably others, which experts reconstruct from traces in very old rocks. This is known as the supercontinent cycle.",
+      "It is also interesting to look at other planets. As far as we know, Earth is the only planet in our solar system with active plate tectonics like this. Venus is a similar size but apparently has a single rigid crust. Why that is so is one of the fascinating open questions. Water probably plays an important part.",
+      "Some researchers even suspect that plate tectonics was important for the development of life. It ensures that nutrients keep reaching the surface and that the climate stays stable enough over long periods. That has not been fully proven, but the idea shows how closely geology and life may be linked.",
+      "When plate tectonics began on Earth is also disputed. Estimates range from a few hundred million years after the Earth formed to considerably later times."
+     ]
+    },
+    {
+     "heading": "Tomorrow’s Earth, and us",
+     "paragraphs": [
+      "The plates keep moving, and so the map keeps changing too. The Atlantic gets a little wider every year, while the Pacific is slowly shrinking because ocean floor is sinking down at its edges. Africa keeps pushing against Europe, and the Mediterranean will probably disappear in the distant future.",
+      "Geologists have tried to look into the future using computer models. In roughly two hundred to three hundred million years, the continents could join together again into a new supercontinent. Exactly what it will look like depends on which oceans close. Different models come to different results, and all of them involve large uncertainties.",
+      "For humans, these timescales are unimaginably long. We feel plate tectonics directly mainly through earthquakes, volcanic eruptions and tsunamis. Many millions of people live in regions where large quakes can happen at any time, for example in Japan, Indonesia, Turkey, Italy, California or Chile.",
+      "Even Germany is not completely quiet. Although it lies far from any plate boundary, the stresses caused by Africa pushing against Europe reach this far. In the Upper Rhine Graben between Basel and Frankfurt, in the Lower Rhine Embayment and on the Swabian Jura there are noticeable but usually mild earthquakes from time to time. Severe quakes are very rare, but not impossible.",
+      "In the Eifel region there are even traces of young volcanoes. The well-known maars, round lakes in old volcanic craters, are in some cases only a little over ten thousand years old. Geologically speaking, that is very young. Researchers therefore monitor the region closely, even though there is currently nothing to suggest an eruption is imminent.",
+      "Research keeps making progress. Ever denser networks of measuring stations and satellites show how the Earth’s surface deforms, down to the millimetre. Fibre-optic cables on the seabed can now even be used as earthquake sensors. And drilling into fault zones helps scientists understand exactly what happens when rock breaks.",
+      "A major goal remains to assess earthquakes better. Predictions to the exact day are not possible according to current knowledge. But hazard maps show where what kind of shaking can be expected. Building codes are based on them and save lives in many countries. Most people who die in earthquakes are killed not by the shaking itself but by collapsing buildings.",
+      "Individual preparation helps too. In earthquake-prone countries, children learn at school how to behave during a quake: drop down, take cover under a sturdy table and hold on. On coasts the rule is: if the sea suddenly retreats, head for higher ground at once.",
+      "Threatening as earthquakes and volcanoes are, plate tectonics has also made our planet what it is. It has created mountains, fertile soils, mineral deposits and varied landscapes. Without it, the Earth would look completely different.",
+      "And it reminds us that even the seemingly firmest ground is in motion. Wegener was right: the Earth is not a rigid ball but a living planet."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Plate tectonics explains why continents drift, oceans open and close and mountains grow.",
+    "It is driven by heat inside the Earth and above all by the weight of plates sinking into the mantle.",
+    "Earthquakes and volcanoes are its noticeable consequences; they cannot be prevented, but early warning and good building save lives."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "title": "How fast do tectonic plates move?",
+   "publisher": "U.S. Geological Survey",
+   "url": "https://www.usgs.gov/faqs/how-fast-do-tectonic-plates-move",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "This Dynamic Earth: Understanding plate motions",
+   "publisher": "U.S. Geological Survey",
+   "url": "https://pubs.usgs.gov/gip/dynamic/understanding.html",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "January 6, 1912: Alfred Wegener Presents His Theory of Continental Drift",
+   "publisher": "American Physical Society, APS News",
+   "url": "https://www.aps.org/apsnews/2019/01/alfred-wegener-theory-continental-drift",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "100 Jahre Theorie der Kontinentverschiebung, ein Symposium am Senckenberg-Museum",
+   "publisher": "Alfred-Wegener-Institut, Polarforschung",
+   "url": "https://epic2-clone.awi.de/31414/1/Polarforschung_81-2_143-150.pdf",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Measuring the Size of an Earthquake",
+   "publisher": "U.S. Geological Survey (Archiv)",
+   "url": "https://webarchive.library.unt.edu/eot2008/20081105134016/http://earthquake.usgs.gov/learning/topics/measure.php",
+   "accessed": "2026-11-03"
+  }
+ ],
+ "factCheckedAt": "2026-11-03"
+}
