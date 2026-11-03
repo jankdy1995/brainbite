@@ -117,6 +117,39 @@
       }
     },
     {
+      "id": "how-chips-are-made",
+      "category": "tech-economy",
+      "publishedAt": "2026-11-03",
+      "motif": "chip",
+      "tags": [
+        "halbleiter",
+        "technik",
+        "industrie"
+      ],
+      "title": {
+        "de": "Wie ein Mikrochip entsteht",
+        "en": "How a Microchip Is Made"
+      },
+      "teaser": {
+        "de": "Vom Quarzsand zum Prozessor: die vielleicht anspruchsvollste Fertigung der Welt.",
+        "en": "From quartz sand to processor: perhaps the most demanding manufacturing process in the world."
+      },
+      "words": {
+        "de": {
+          "5": 956,
+          "10": 2096,
+          "15": 2784,
+          "20": 3709
+        },
+        "en": {
+          "5": 1088,
+          "10": 2339,
+          "15": 3121,
+          "20": 4151
+        }
+      }
+    },
+    {
       "id": "how-the-internet-works",
       "category": "tech-economy",
       "publishedAt": "2026-11-03",

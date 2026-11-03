@@ -1,0 +1,436 @@
+{
+ "id": "how-chips-are-made",
+ "lang": "de",
+ "title": "Wie ein Mikrochip entsteht",
+ "versions": {
+  "5": {
+   "words": 956,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "In deinem Smartphone stecken Milliarden winziger Schalter, jeder viel kleiner als ein Virus. Hergestellt werden sie aus einem der häufigsten Stoffe der Erde: Sand. Dazwischen liegt eine der kompliziertesten Fertigungen, die Menschen je entwickelt haben. In fünf Minuten erfährst du, was ein Chip eigentlich ist, wie aus Sand eine hauchdünne Siliziumscheibe wird und wie man mit Licht Strukturen druckt, die nur wenige Atome breit sind."
+     ]
+    },
+    {
+     "heading": "Was ein Chip ist",
+     "paragraphs": [
+      "Ein Chip ist ein kleines Plättchen aus Silizium, auf dem ein vollständiger elektrischer Schaltkreis sitzt. Er steckt in Smartphones und Computern, aber auch in Autos, Waschmaschinen und Hörgeräten.",
+      "Seine wichtigsten Bausteine sind Transistoren, winzige elektrische Schalter ohne bewegliche Teile. Sie kennen zwei Zustände, an und aus, also eins und null. Daraus lassen sich alle Zahlen, Texte, Bilder und Töne zusammensetzen.",
+      "Ein moderner Prozessor enthält viele Milliarden Transistoren. Die feinsten Strukturen sind nur wenige Nanometer breit. Ein menschliches Haar ist etwa zehntausendmal dicker.",
+      "Das Grundmaterial ist Silizium, nach Sauerstoff das zweithäufigste Element der Erdkruste. Es ist ein Halbleiter: Seine Fähigkeit, Strom zu leiten, lässt sich gezielt verändern, indem man winzige Mengen anderer Stoffe hinzufügt. Genau das braucht man, um Schalter zu bauen.",
+      "Erfunden wurde der integrierte Schaltkreis 1958 von Jack Kilby bei der Firma Texas Instruments, unabhängig davon kurz darauf auch von Robert Noyce. Kilby erhielt dafür im Jahr 2000 den Nobelpreis für Physik.",
+      "Vor dem Chip bestand Elektronik aus einzelnen Bauteilen, die von Hand miteinander verlötet wurden. Kilbys Idee war, alle Teile einer Schaltung aus einem einzigen Stück Halbleiter herzustellen. Sein erster Chip war ein kleiner Streifen Germanium, gut einen Zentimeter lang.",
+      "Seitdem hat sich die Zahl der Transistoren auf einem Chip etwa alle zwei Jahre verdoppelt. Diese Faustregel heißt nach dem Intel-Mitgründer Gordon Moore Mooresches Gesetz.",
+      "Wie abhängig wir von Chips sind, zeigte sich ab 2020, als sie knapp wurden. In Autofabriken standen zeitweise die Bänder still, weil einzelne Chips fehlten, die nur wenige Euro kosten."
+     ]
+    },
+    {
+     "heading": "Vom Sand zum Wafer",
+     "paragraphs": [
+      "Der Rohstoff für Chips ist Quarzsand, eine Verbindung aus Silizium und Sauerstoff. In einem Ofen wird ihm bei großer Hitze der Sauerstoff entzogen. Danach wird das Silizium chemisch so gründlich gereinigt, dass auf eine Milliarde Atome höchstens ein fremdes kommt.",
+      "Für Chips braucht man einen perfekten Kristall, in dem alle Atome in einem gleichmäßigen Gitter angeordnet sind. Dafür wird das Silizium geschmolzen. Ein kleiner Impfkristall wird hineingetaucht und unter Drehen langsam herausgezogen. So wächst ein Kristall, der etwa dreißig Zentimeter dick ist.",
+      "Bei diesem Ziehen kann man der Schmelze winzige, genau dosierte Mengen anderer Stoffe beimischen, etwa Bor oder Phosphor. Sie verändern die elektrischen Eigenschaften des Siliziums. Was sonst eine Verunreinigung wäre, ist hier ausdrücklich gewollt.",
+      "Dieser Kristall wird mit Diamantsägen in hauchdünne Scheiben geschnitten, die Wafer. Sie werden poliert, bis sie spiegelglatt sind. Auf einem Wafer haben später Hunderte Chips Platz.",
+      "Ein Wafer hat heute einen Durchmesser von dreißig Zentimetern und ist dünner als ein Millimeter. Seine Oberfläche ist so glatt, dass die Unebenheiten nur wenige Atomlagen betragen.",
+      "Weiterverarbeitet werden die Wafer in Reinräumen. Dort ist die Luft viel sauberer als in einem Operationssaal, denn schon ein einziges Staubkorn kann einen Chip zerstören.",
+      "Auch Wasser, Gase und Chemikalien müssen extrem rein sein. Chipfabriken nutzen große Mengen sogenanntes Reinstwasser, aus dem fast alle Mineralien und Teilchen entfernt wurden.",
+      "Die Beschäftigten tragen deshalb Ganzkörperanzüge mit Kapuze, Mundschutz und Handschuhen. In modernen Fabriken übernehmen aber vor allem Roboter den Transport der Wafer zwischen den Maschinen.",
+      "Eine solche Fabrik kostet oft mehr als zehn Milliarden Dollar und läuft rund um die Uhr. Bis ein Wafer alle Schritte durchlaufen hat, vergehen meist mehrere Monate."
+     ]
+    },
+    {
+     "heading": "Mit Licht gedruckt",
+     "paragraphs": [
+      "Die Muster werden mit Licht auf den Wafer übertragen. Zuerst wird er mit einem lichtempfindlichen Lack beschichtet. Dann fällt Licht durch eine Art Schablone mit dem Muster und verändert den Lack an den belichteten Stellen. So entsteht eine Vorlage für die nächsten Schritte.",
+      "Je kürzer die Wellenlänge des Lichts, desto feiner die Strukturen. Für die modernsten Chips nutzt man extrem ultraviolettes Licht mit einer Wellenlänge von 13,5 Nanometern.",
+      "Erzeugt wird es auf spektakuläre Weise: Winzige Tröpfchen aus flüssigem Zinn werden durch eine Vakuumkammer geschossen und von Laserpulsen zu einem heißen Plasma verdampft, das dieses Licht abstrahlt. Weltweit baut nur die niederländische Firma ASML solche Maschinen, mit Spiegeln von Zeiss und Lasern von Trumpf aus Deutschland.",
+      "Eine solche Maschine ist so groß wie ein Bus und kostet weit über hundert Millionen Euro. Weil EUV-Licht sogar von Luft verschluckt wird, läuft der ganze Lichtweg im Vakuum, und statt Linsen lenken extrem glatte Spiegel das Licht.",
+      "Nach dem Belichten wird geätzt, Material wird also gezielt entfernt. Dann werden Fremdatome eingebracht und neue Schichten aufgetragen. Dieser Kreislauf wiederholt sich Hunderte Male, bis Transistoren und viele Lagen aus Leiterbahnen fertig sind.",
+      "Ganz unten im Silizium sitzen die Transistoren, darüber verbinden ein Dutzend und mehr Ebenen aus feinen Kupferbahnen die Schalter miteinander. Alle Schichten müssen auf wenige Nanometer genau übereinanderliegen, sonst passen die Verbindungen nicht.",
+      "Nicht alle Chips auf einem Wafer funktionieren. Der Anteil der guten Exemplare heißt Ausbeute und entscheidet darüber, ob sich die Fertigung lohnt. Moderne Chips werden oft aus mehreren kleineren Bausteinen in einem Gehäuse kombiniert oder sogar übereinandergestapelt.",
+      "Am Ende werden die Chips auf dem Wafer getestet, ausgesägt und in ein schützendes Gehäuse verpackt.",
+      "Kaum ein Land kann all diese Schritte allein. Viele der fortschrittlichsten Chips werden in Taiwan gefertigt. Deshalb sind Chips auch zu einer Frage der Weltpolitik geworden, und Europa will mit neuen Werken, etwa in Dresden, unabhängiger werden."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Ein Chip besteht aus Milliarden winziger Schalter, den Transistoren, die auf einer dünnen Scheibe aus extrem reinem Silizium sitzen.",
+    "Das Silizium wird aus Quarzsand gewonnen, gereinigt und zu großen Einkristallen gezogen, die man in hauchdünne Scheiben schneidet.",
+    "Mit Licht, Chemikalien und Hunderten Arbeitsschritten entstehen darauf Schicht für Schicht die Schaltkreise, in Reinräumen ohne Staub."
+   ]
+  },
+  "10": {
+   "words": 2096,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Ein moderner Prozessor ist kleiner als eine Briefmarke und enthält trotzdem mehr Schalter, als Menschen auf der Erde leben. Wie baut man so etwas? In den nächsten zehn Minuten erfährst du, wie aus der Erfindung des Transistors der Mikrochip wurde, wie aus Quarzsand reines Silizium entsteht, wie Maschinen mit extrem ultraviolettem Licht Muster auf Siliziumscheiben belichten und wie daraus Schicht für Schicht ein Chip wächst."
+     ]
+    },
+    {
+     "heading": "Das Gehirn der Technik",
+     "paragraphs": [
+      "Fast jedes elektrische Gerät, das mehr kann als an- und ausgehen, enthält einen Chip. Gemeint ist ein Plättchen aus Silizium, oft nur wenige Millimeter groß, auf dem ein vollständiger elektrischer Schaltkreis untergebracht ist. Fachleute sprechen von integrierten Schaltkreisen.",
+      "Die wichtigsten Bausteine darauf sind Transistoren. Ein Transistor ist im Kern ein Schalter, der Strom fließen lässt oder sperrt, ohne bewegliche Teile und in rasender Geschwindigkeit. Ein Schalter kennt zwei Zustände, an und aus, oder in der Sprache der Computer eins und null. Daraus lassen sich alle Zahlen, Buchstaben, Bilder und Töne zusammensetzen.",
+      "Die Macht eines Chips kommt aus der schieren Menge. Moderne Prozessoren in Smartphones oder Computern enthalten viele Milliarden Transistoren. Die feinsten Strukturen darauf messen nur wenige Nanometer, ein menschliches Haar ist etwa zehntausendmal dicker.",
+      "Das Grundmaterial ist Silizium, nach Sauerstoff das zweithäufigste Element der Erdkruste. Es ist ein Halbleiter: Seine Leitfähigkeit lässt sich gezielt verändern, und genau das macht es für Transistoren so geeignet.",
+      "Wie abhängig wir von Chips sind, zeigte sich, als sie ab 2020 knapp wurden. In vielen Autofabriken standen zeitweise die Bänder still. Wie aber kam man überhaupt auf die Idee, so etwas zu bauen?"
+     ]
+    },
+    {
+     "heading": "Vom Transistor zum Chip",
+     "paragraphs": [
+      "Die ersten elektronischen Computer der Vierzigerjahre arbeiteten mit Elektronenröhren. Diese Glasröhren wurden heiß, verbrauchten viel Strom und gingen oft kaputt. Ein Rechner füllte ganze Säle und musste ständig repariert werden.",
+      "1947 gelang Forschern an den amerikanischen Bell Laboratories ein Durchbruch: Sie bauten den ersten Transistor aus einem Halbleiter. Er konnte dieselben Aufgaben erfüllen wie eine Röhre, war aber viel kleiner, robuster und sparsamer. Die drei Erfinder erhielten dafür später den Nobelpreis für Physik.",
+      "Transistoren eroberten schnell die Elektronik, etwa in tragbaren Radios. Doch es blieb ein Problem. Jeder Transistor war ein einzelnes Bauteil, das mit anderen Bauteilen von Hand verlötet werden musste. Je komplexer die Schaltungen wurden, desto mehr Verbindungen brauchte man, und desto mehr konnte schiefgehen.",
+      "Die Lösung kam 1958 von Jack Kilby, einem jungen Ingenieur bei der Firma Texas Instruments in Dallas. Weil er als Neuling noch keinen Sommerurlaub hatte, arbeitete er fast allein im Labor. Dabei kam ihm die Idee, alle Bauteile einer Schaltung aus einem einzigen Stück Halbleiter herzustellen, statt sie einzeln zu verbinden.",
+      "Im September 1958 führte er seinen Vorgesetzten das Ergebnis vor. Nach Angaben des Ingenieursverbands IEEE war es ein Oszillator auf einem winzigen Germaniumstreifen von gut einem Zentimeter Länge und anderthalb Millimetern Breite. Zum ersten Mal waren elektronische Bauteile auf einem gemeinsamen Träger vereint.",
+      "Unabhängig davon entwickelte Robert Noyce bei der Firma Fairchild Semiconductor wenige Monate später eine eigene Variante aus Silizium. Sie hatte einen entscheidenden Vorteil: Die Verbindungen waren nicht mehr als Drähte aufgelötet, sondern als dünne Metallbahnen direkt auf den Chip aufgebracht. Das machte die Massenfertigung möglich. Heute gelten beide als Erfinder des integrierten Schaltkreises.",
+      "Kilby erhielt im Jahr 2000 den Nobelpreis für Physik für seinen Anteil an der Erfindung. Noyce konnte ihn nicht mehr teilen, er war bereits 1990 gestorben. Er hatte 1968 die Firma Intel mitgegründet, die mit ihren Prozessoren das Computerzeitalter prägte.",
+      "1965 beobachtete Gordon Moore, ebenfalls ein Mitgründer von Intel, dass sich die Zahl der Bauteile auf einem Chip regelmäßig verdoppelte. Er sagte voraus, dass das noch eine Weile so weitergehen würde. Später präzisierte er, etwa alle zwei Jahre. Diese Faustregel wurde als Mooresches Gesetz bekannt.",
+      "Erstaunlicherweise hielt die Regel jahrzehntelang. Der erste Mikroprozessor von Intel aus dem Jahr 1971 hatte rund zweitausenddreihundert Transistoren. Heutige Chips haben viele Milliarden. Das Mooresche Gesetz ist kein Naturgesetz, sondern eher ein Versprechen, an dem sich die ganze Industrie orientierte und das sie mit gewaltigem Aufwand immer wieder einlöste.",
+      "Möglich wurde das nur, weil die Herstellung immer präziser wurde. Der Weg vom Sandkorn zum Chip ist heute eine Kette aus Hunderten Schritten, und er beginnt mit der Suche nach dem perfekten Kristall."
+     ]
+    },
+    {
+     "heading": "Vom Sand zum Wafer",
+     "paragraphs": [
+      "Am Anfang steht Quarzsand oder Quarzgestein, also im Wesentlichen Siliziumdioxid, eine Verbindung aus Silizium und Sauerstoff. Für Chips braucht man allerdings reines Silizium, und zwar in einer Reinheit, die in der Natur nirgends vorkommt.",
+      "Im ersten Schritt wird der Quarz in einem Lichtbogenofen bei sehr hohen Temperaturen zusammen mit Kohlenstoff erhitzt. Der Kohlenstoff entzieht dem Quarz den Sauerstoff, übrig bleibt sogenanntes metallurgisches Silizium. Es ist schon zu rund neunundneunzig Prozent rein. Der größte Teil davon wird übrigens gar nicht für Chips verwendet, sondern zum Beispiel in der Stahl- und Aluminiumindustrie.",
+      "Für Chips reicht das bei Weitem nicht. Deshalb wird das Silizium chemisch in ein Gas umgewandelt, das sich durch Destillation extrem gründlich reinigen lässt. In einem Verfahren, das nach dem Unternehmen Siemens benannt ist, scheidet sich daraus wieder festes Silizium ab, an heißen Stäben in einem Reaktor.",
+      "Das Ergebnis ist Silizium von unvorstellbarer Reinheit. Für Chips gilt eine Reinheit von neun Neunen als Maßstab, also 99,9999999 Prozent. Auf eine Milliarde Siliziumatome kommt dann höchstens ein fremdes Atom. Zum Vergleich: Das wäre ungefähr so, als dürfte unter allen Menschen in Europa und Amerika zusammen höchstens eine Person das falsche T-Shirt tragen.",
+      "Dieses Silizium ist aber noch kein einheitlicher Kristall, sondern besteht aus vielen kleinen, unterschiedlich ausgerichteten Kristallkörnern. Für Chips braucht man einen Einkristall, in dem alle Atome in einem perfekten, durchgehenden Gitter angeordnet sind. Nur dann verhalten sich die Transistoren überall gleich.",
+      "Dafür nutzt man meist ein Verfahren, das der polnische Chemiker Jan Czochralski schon vor mehr als hundert Jahren entdeckte. Das Silizium wird in einem Tiegel aus Quarzglas geschmolzen, bei gut 1400 Grad. Dann taucht man einen kleinen Impfkristall in die Schmelze und zieht ihn unter ständigem Drehen ganz langsam nach oben.",
+      "An dem Impfkristall lagern sich nach und nach Siliziumatome an und übernehmen seine Gitterstruktur. So wächst über viele Stunden ein großer, zylinderförmiger Einkristall heran. Heutige Kristalle haben einen Durchmesser von rund dreißig Zentimetern und sind oft länger als ein Mensch groß ist. Sie wiegen Hunderte Kilogramm.",
+      "Gleichzeitig kann man der Schmelze gezielt winzige Mengen anderer Stoffe beimischen, etwa Bor oder Phosphor. Diese Fremdatome verändern die elektrische Leitfähigkeit des Siliziums. Was sonst eine Verunreinigung wäre, ist hier gewollt und genau dosiert.",
+      "Der fertige Kristall wird mit Drahtsägen, die mit Diamantpartikeln besetzt sind, in hauchdünne Scheiben geschnitten. Diese Scheiben heißen Wafer, nach dem englischen Wort für eine dünne Waffel. Ein heutiger Wafer hat einen Durchmesser von dreihundert Millimetern und ist weniger als einen Millimeter dick.",
+      "Anschließend werden die Wafer geschliffen, geätzt und poliert, bis ihre Oberfläche spiegelglatt ist, mit Unebenheiten von nur wenigen Atomlagen. Auf einem solchen Wafer haben am Ende je nach Größe der Chips Dutzende bis Tausende Exemplare Platz. Doch bevor es so weit ist, muss der Wafer an einen Ort, an dem nicht einmal ein Staubkorn erlaubt ist."
+     ]
+    },
+    {
+     "heading": "Fotografie im Nanomaßstab",
+     "paragraphs": [
+      "Die Muster für einen Chip werden nicht gezeichnet oder gefräst, sondern mit Licht übertragen. Das Verfahren heißt Fotolithografie und funktioniert im Prinzip wie die Fotografie aus der Zeit der Filmkameras.",
+      "Zuerst wird der Wafer mit einer dünnen, lichtempfindlichen Lackschicht überzogen, dem Fotolack. Dann wird er belichtet. Das Licht fällt dabei durch eine Maske, eine Art Schablone, auf der das Muster einer Chipschicht abgebildet ist. Ein Linsen- oder Spiegelsystem verkleinert das Bild und projiziert es auf den Wafer.",
+      "Wo das Licht auftrifft, verändert sich der Lack chemisch. In einem Entwicklerbad lösen sich je nach Lacksorte die belichteten oder die unbelichteten Stellen. Zurück bleibt ein Muster aus Lack, das bestimmt, wo im nächsten Schritt Material entfernt oder hinzugefügt wird.",
+      "Wie fein die Strukturen werden können, hängt vor allem von der Wellenlänge des Lichts ab. Je kürzer sie ist, desto kleinere Details lassen sich abbilden. Deshalb hat die Industrie über die Jahrzehnte immer kurzwelligeres Licht verwendet. Lange war ultraviolettes Licht mit einer Wellenlänge von 193 Nanometern der Standard.",
+      "Mit cleveren Tricks, etwa dem Belichten unter Wasser oder mehrfachem Belichten derselben Schicht, konnte man damit erstaunlich kleine Strukturen herstellen. Doch irgendwann stieß das an Grenzen. Der nächste große Schritt war extrem ultraviolettes Licht, kurz EUV, mit einer Wellenlänge von nur 13,5 Nanometern.",
+      "EUV-Licht zu erzeugen, ist ein technisches Kunststück. Es gibt keine Lampe und keinen Laser, der es direkt aussendet. Stattdessen werden in den Maschinen des niederländischen Herstellers ASML winzige Tröpfchen aus geschmolzenem Zinn durch eine Vakuumkammer geschossen, zehntausende pro Sekunde. Nach Angaben von ASML fliegen sie mit rund siebzig Metern pro Sekunde.",
+      "Jedes Tröpfchen wird von einem Laserpuls getroffen und flach gedrückt, wie ein kleiner Pfannkuchen. Ein zweiter, viel stärkerer Puls verdampft es dann zu einem Plasma, das heißer ist als die Oberfläche der Sonne. Dieses Plasma strahlt das gewünschte EUV-Licht ab. Die leistungsstarken Laser dafür kommen vom deutschen Unternehmen Trumpf.",
+      "Auch das Weiterleiten des Lichts ist schwierig. EUV-Strahlung wird von fast allem verschluckt, sogar von Luft und Glas. Deshalb läuft der gesamte Lichtweg im Vakuum, und statt Linsen kommen Spiegel zum Einsatz. Sie bestehen aus vielen hauchdünnen Schichten und gehören zu den glattesten Oberflächen, die je gefertigt wurden. Hergestellt werden sie vom deutschen Optikkonzern Zeiss.",
+      "Eine EUV-Anlage ist ungefähr so groß wie ein Bus, besteht aus Hunderttausenden Einzelteilen und kostet weit über hundert Millionen Euro. Für den Transport wird sie in Einzelteile zerlegt und füllt dann zahlreiche Container. Weltweit stellt nur ASML solche Maschinen her, was das Unternehmen zu einem der wichtigsten der gesamten Technologiebranche macht.",
+      "Die Belichtung ist aber nur ein Schritt von vielen. Damit aus den Lackmustern echte Transistoren und Leiterbahnen werden, folgt eine lange Abfolge weiterer Prozesse, die sich immer wieder wiederholen."
+     ]
+    },
+    {
+     "heading": "Schicht für Schicht",
+     "paragraphs": [
+      "Ein Chip entsteht nicht in einem Arbeitsgang, sondern Schicht für Schicht, ähnlich wie ein Hochhaus Stockwerk für Stockwerk wächst. Für jede Schicht wiederholt sich ein ähnlicher Kreislauf aus Beschichten, Belichten, Ätzen und Reinigen.",
+      "Nach der Belichtung kommt meist das Ätzen. Dabei wird Material an den Stellen entfernt, die nicht vom Lack geschützt sind. Das geschieht entweder mit Flüssigkeiten oder, bei den feinsten Strukturen, mit einem Plasma aus reaktiven Gasen, das sich sehr gezielt und senkrecht in die Tiefe frisst. Danach wird der restliche Lack entfernt.",
+      "Ein weiterer wichtiger Schritt ist das Dotieren. Dabei werden gezielt Fremdatome wie Bor oder Phosphor in bestimmte Bereiche des Siliziums eingebracht. Meist schießt man sie als elektrisch geladene Teilchen mit hoher Geschwindigkeit in die Oberfläche. So entstehen Zonen mit unterschiedlicher Leitfähigkeit, die zusammen einen Transistor bilden.",
+      "Dazu kommt das Abscheiden neuer Schichten. Hauchdünne Lagen aus isolierenden Materialien, Metallen oder anderen Stoffen werden auf den Wafer aufgebracht, teilweise Atomlage für Atomlage. Zwischendurch wird die Oberfläche immer wieder chemisch und mechanisch plangeschliffen, damit die nächste Schicht auf einer perfekt ebenen Fläche liegt.",
+      "Ganz unten, direkt im Silizium, entstehen die Transistoren. Früher lagen sie flach auf der Oberfläche. Heute ragen sie als winzige Rippen nach oben, damit der Strom besser gesteuert werden kann, und die neuesten Generationen umschließen den Stromkanal sogar von allen Seiten.",
+      "Darüber werden die Transistoren miteinander verbunden. Dafür baut man ein Geflecht aus Leiterbahnen, meist aus Kupfer, das auf ein Dutzend und mehr Ebenen verteilt ist. Die untersten Bahnen sind extrem fein, die oberen immer breiter. Zusammen sind die Leiterbahnen auf einem einzigen Chip oft viele Kilometer lang.",
+      "Insgesamt durchläuft ein moderner Chip so mehrere Hundert bis über tausend einzelne Arbeitsschritte. Bei jedem einzelnen muss alles stimmen. Die Schichten müssen auf wenige Nanometer genau übereinanderliegen, sonst passen die Verbindungen nicht zusammen. Das ist, als müsste man in einem Hochhaus mit hundert Stockwerken jede Steckdose millimetergenau über der darunterliegenden platzieren.",
+      "Zwischen den Schritten wird ständig gemessen. Spezialgeräte prüfen die Dicke von Schichten, die Breite von Linien und die Lage der Muster. Fällt ein Fehler auf, kann man manchmal nachbessern, manchmal muss der Wafer aussortiert werden.",
+      "Oft hört man, ein Chip werde in drei oder zwei Nanometern gefertigt. Diese Zahlen sind allerdings vor allem Bezeichnungen für eine Technologiegeneration. Sie entsprechen keiner bestimmten Länge auf dem Chip mehr. Die tatsächlichen Abstände zwischen den Transistoren sind meist größer, aber trotzdem unvorstellbar klein.",
+      "Wenn alle Schichten fertig sind, glänzt der Wafer in allen Regenbogenfarben, denn die feinen Strukturen brechen das Licht. Auf ihm liegen jetzt Hunderte fertige Chips dicht an dicht. Doch ob sie auch funktionieren, zeigt sich erst im nächsten Schritt."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Jack Kilby baute 1958 den ersten integrierten Schaltkreis, seitdem hat sich die Zahl der Transistoren pro Chip immer wieder verdoppelt.",
+    "Für Chips braucht man Silizium von extremer Reinheit, das als perfekter Kristall gezogen und in Scheiben, sogenannte Wafer, geschnitten wird.",
+    "Die feinsten Strukturen werden mit extrem ultraviolettem Licht belichtet, das aus winzigen, vom Laser verdampften Zinntröpfchen entsteht."
+   ]
+  },
+  "15": {
+   "words": 2784,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Chips stecken in Autos, Kaffeemaschinen, Herzschrittmachern und Rechenzentren. Als sie 2021 knapp wurden, standen in Autofabriken die Bänder still. Hier erfährst du, was in einem Chip eigentlich passiert, wie die Idee des integrierten Schaltkreises entstand, wie aus Sand perfekte Siliziumkristalle werden, warum Chipfabriken sauberer sind als jeder Operationssaal, wie die Belichtung mit Licht funktioniert und wie aus Hunderten Arbeitsschritten ein fertiger Schaltkreis wird."
+     ]
+    },
+    {
+     "heading": "Das Gehirn der Technik",
+     "paragraphs": [
+      "Fast jedes elektrische Gerät, das mehr kann als an- und ausgehen, enthält einen Chip. Das Wort steht im Englischen eigentlich für ein kleines abgebrochenes Stück, einen Splitter. Gemeint ist ein Plättchen aus Silizium, oft nur wenige Millimeter groß, auf dem ein vollständiger elektrischer Schaltkreis untergebracht ist. Fachleute sprechen deshalb auch von integrierten Schaltkreisen.",
+      "Die wichtigsten Bausteine darauf sind Transistoren. Ein Transistor ist im Kern ein Schalter, der Strom fließen lässt oder sperrt, aber ohne bewegliche Teile und in rasender Geschwindigkeit. Gesteuert wird er nicht mit dem Finger, sondern mit einer elektrischen Spannung. Ein moderner Transistor kann Milliarden Mal pro Sekunde schalten.",
+      "Aus solchen Schaltern lässt sich erstaunlich viel bauen. Ein Schalter kennt zwei Zustände, an und aus, oder in der Sprache der Computer eins und null. Mit diesen beiden Ziffern lassen sich alle Zahlen darstellen, und damit auch Buchstaben, Bilder, Musik und Videos. Kombiniert man Transistoren geschickt, entstehen Schaltungen, die rechnen, vergleichen und Daten speichern können.",
+      "Ein einzelner Transistor kann nicht viel. Die Macht eines Chips kommt aus der schieren Menge. Moderne Prozessoren in Smartphones oder Computern enthalten viele Milliarden Transistoren. Sie arbeiten zusammen wie die Nervenzellen in einem Gehirn, nur nach streng festgelegten Regeln.",
+      "Es gibt viele Arten von Chips. Prozessoren sind die Rechenzentralen von Computern und Smartphones. Speicherchips merken sich Daten. Grafikchips berechnen Bilder und sind heute auch das Arbeitspferd für künstliche Intelligenz. Dazu kommen unzählige kleinere Chips, die Motoren steuern, Sensoren auswerten oder Strom regeln.",
+      "Gerade diese unscheinbaren Chips sind überall. Ein modernes Auto enthält oft mehr als tausend davon, für Bremsen, Airbags, Fensterheber und das Navigationssystem. Auch Waschmaschinen, Hörgeräte, Ampeln und Windräder kommen nicht ohne sie aus.",
+      "Wie abhängig wir davon sind, zeigte sich ab 2020. Während der Corona-Pandemie stieg die Nachfrage nach Laptops und Elektronik stark, gleichzeitig gerieten Lieferketten durcheinander. Chips wurden knapp, und in vielen Autofabriken standen 2021 zeitweise die Bänder still, weil einzelne Bauteile fehlten, die nur wenige Euro kosten.",
+      "Das Grundmaterial der meisten Chips ist Silizium. Es ist nach Sauerstoff das zweithäufigste Element in der Erdkruste und steckt zum Beispiel in Quarzsand. Silizium ist ein Halbleiter: Es leitet Strom schlechter als ein Metall, aber besser als ein Isolator, und seine Leitfähigkeit lässt sich gezielt verändern. Genau das macht es für Transistoren so geeignet.",
+      "Damit die Schalter klein, schnell und sparsam sind, müssen sie winzig sein. Die feinsten Strukturen auf heutigen Chips messen nur wenige Nanometer. Ein Nanometer ist ein Millionstel Millimeter. Ein menschliches Haar ist etwa zehntausendmal dicker.",
+      "Wie kommt man auf die Idee, so etwas zu bauen, und wie gelingt es überhaupt? Die Geschichte beginnt mit einer Erfindung, die Röhren und Drähte überflüssig machte."
+     ]
+    },
+    {
+     "heading": "Vom Transistor zum Chip",
+     "paragraphs": [
+      "Die ersten elektronischen Computer der Vierzigerjahre arbeiteten mit Elektronenröhren. Diese Glasröhren wurden heiß, verbrauchten viel Strom und gingen oft kaputt. Ein Rechner füllte ganze Säle und musste ständig repariert werden.",
+      "1947 gelang Forschern an den amerikanischen Bell Laboratories ein Durchbruch: Sie bauten den ersten Transistor aus einem Halbleiter. Er konnte dieselben Aufgaben erfüllen wie eine Röhre, war aber viel kleiner, robuster und sparsamer. Die drei Erfinder erhielten dafür später den Nobelpreis für Physik.",
+      "Transistoren eroberten schnell die Elektronik, etwa in tragbaren Radios. Doch es blieb ein Problem. Jeder Transistor war ein einzelnes Bauteil, das mit anderen Bauteilen von Hand verlötet werden musste. Je komplexer die Schaltungen wurden, desto mehr Verbindungen brauchte man, und desto mehr konnte schiefgehen.",
+      "Die Lösung kam 1958 von Jack Kilby, einem jungen Ingenieur bei der Firma Texas Instruments in Dallas. Weil er als Neuling noch keinen Sommerurlaub hatte, arbeitete er fast allein im Labor. Dabei kam ihm die Idee, alle Bauteile einer Schaltung aus einem einzigen Stück Halbleiter herzustellen, statt sie einzeln zu verbinden.",
+      "Im September 1958 führte er seinen Vorgesetzten das Ergebnis vor. Nach Angaben des Ingenieursverbands IEEE war es ein Oszillator auf einem winzigen Germaniumstreifen von gut einem Zentimeter Länge und anderthalb Millimetern Breite. Zum ersten Mal waren elektronische Bauteile auf einem gemeinsamen Träger vereint.",
+      "Unabhängig davon entwickelte Robert Noyce bei der Firma Fairchild Semiconductor wenige Monate später eine eigene Variante aus Silizium. Sie hatte einen entscheidenden Vorteil: Die Verbindungen waren nicht mehr als Drähte aufgelötet, sondern als dünne Metallbahnen direkt auf den Chip aufgebracht. Das machte die Massenfertigung möglich. Heute gelten beide als Erfinder des integrierten Schaltkreises.",
+      "Kilby erhielt im Jahr 2000 den Nobelpreis für Physik für seinen Anteil an der Erfindung. Noyce konnte ihn nicht mehr teilen, er war bereits 1990 gestorben. Er hatte 1968 die Firma Intel mitgegründet, die mit ihren Prozessoren das Computerzeitalter prägte.",
+      "1965 beobachtete Gordon Moore, ebenfalls ein Mitgründer von Intel, dass sich die Zahl der Bauteile auf einem Chip regelmäßig verdoppelte. Er sagte voraus, dass das noch eine Weile so weitergehen würde. Später präzisierte er, etwa alle zwei Jahre. Diese Faustregel wurde als Mooresches Gesetz bekannt.",
+      "Erstaunlicherweise hielt die Regel jahrzehntelang. Der erste Mikroprozessor von Intel aus dem Jahr 1971 hatte rund zweitausenddreihundert Transistoren. Heutige Chips haben viele Milliarden. Das Mooresche Gesetz ist kein Naturgesetz, sondern eher ein Versprechen, an dem sich die ganze Industrie orientierte und das sie mit gewaltigem Aufwand immer wieder einlöste.",
+      "Möglich wurde das nur, weil die Herstellung immer präziser wurde. Der Weg vom Sandkorn zum Chip ist heute eine Kette aus Hunderten Schritten, und er beginnt mit der Suche nach dem perfekten Kristall."
+     ]
+    },
+    {
+     "heading": "Vom Sand zum Wafer",
+     "paragraphs": [
+      "Am Anfang steht Quarzsand oder Quarzgestein, also im Wesentlichen Siliziumdioxid, eine Verbindung aus Silizium und Sauerstoff. Für Chips braucht man allerdings reines Silizium, und zwar in einer Reinheit, die in der Natur nirgends vorkommt.",
+      "Im ersten Schritt wird der Quarz in einem Lichtbogenofen bei sehr hohen Temperaturen zusammen mit Kohlenstoff erhitzt. Der Kohlenstoff entzieht dem Quarz den Sauerstoff, übrig bleibt sogenanntes metallurgisches Silizium. Es ist schon zu rund neunundneunzig Prozent rein. Der größte Teil davon wird übrigens gar nicht für Chips verwendet, sondern zum Beispiel in der Stahl- und Aluminiumindustrie.",
+      "Für Chips reicht das bei Weitem nicht. Deshalb wird das Silizium chemisch in ein Gas umgewandelt, das sich durch Destillation extrem gründlich reinigen lässt. In einem Verfahren, das nach dem Unternehmen Siemens benannt ist, scheidet sich daraus wieder festes Silizium ab, an heißen Stäben in einem Reaktor.",
+      "Das Ergebnis ist Silizium von unvorstellbarer Reinheit. Für Chips gilt eine Reinheit von neun Neunen als Maßstab, also 99,9999999 Prozent. Auf eine Milliarde Siliziumatome kommt dann höchstens ein fremdes Atom. Zum Vergleich: Das wäre ungefähr so, als dürfte unter allen Menschen in Europa und Amerika zusammen höchstens eine Person das falsche T-Shirt tragen.",
+      "Dieses Silizium ist aber noch kein einheitlicher Kristall, sondern besteht aus vielen kleinen, unterschiedlich ausgerichteten Kristallkörnern. Für Chips braucht man einen Einkristall, in dem alle Atome in einem perfekten, durchgehenden Gitter angeordnet sind. Nur dann verhalten sich die Transistoren überall gleich.",
+      "Dafür nutzt man meist ein Verfahren, das der polnische Chemiker Jan Czochralski schon vor mehr als hundert Jahren entdeckte. Das Silizium wird in einem Tiegel aus Quarzglas geschmolzen, bei gut 1400 Grad. Dann taucht man einen kleinen Impfkristall in die Schmelze und zieht ihn unter ständigem Drehen ganz langsam nach oben.",
+      "An dem Impfkristall lagern sich nach und nach Siliziumatome an und übernehmen seine Gitterstruktur. So wächst über viele Stunden ein großer, zylinderförmiger Einkristall heran. Heutige Kristalle haben einen Durchmesser von rund dreißig Zentimetern und sind oft länger als ein Mensch groß ist. Sie wiegen Hunderte Kilogramm.",
+      "Gleichzeitig kann man der Schmelze gezielt winzige Mengen anderer Stoffe beimischen, etwa Bor oder Phosphor. Diese Fremdatome verändern die elektrische Leitfähigkeit des Siliziums. Was sonst eine Verunreinigung wäre, ist hier gewollt und genau dosiert.",
+      "Der fertige Kristall wird mit Drahtsägen, die mit Diamantpartikeln besetzt sind, in hauchdünne Scheiben geschnitten. Diese Scheiben heißen Wafer, nach dem englischen Wort für eine dünne Waffel. Ein heutiger Wafer hat einen Durchmesser von dreihundert Millimetern und ist weniger als einen Millimeter dick.",
+      "Anschließend werden die Wafer geschliffen, geätzt und poliert, bis ihre Oberfläche spiegelglatt ist, mit Unebenheiten von nur wenigen Atomlagen. Auf einem solchen Wafer haben am Ende je nach Größe der Chips Dutzende bis Tausende Exemplare Platz. Doch bevor es so weit ist, muss der Wafer an einen Ort, an dem nicht einmal ein Staubkorn erlaubt ist."
+     ]
+    },
+    {
+     "heading": "Im Reinraum",
+     "paragraphs": [
+      "Chips werden in Fabriken hergestellt, die man in der Branche Fabs nennt. Ihr Herzstück sind Reinräume. Dort ist die Luft so sauber, dass ein Operationssaal dagegen schmutzig wirkt. In den reinsten Bereichen darf ein Kubikmeter Luft nur eine Handvoll winziger Partikel enthalten. Normale Stadtluft enthält Millionen davon.",
+      "Der Grund ist einfach: Die Strukturen auf einem Chip sind viel kleiner als ein Staubkorn. Landet ein einziges Partikel an der falschen Stelle, kann es eine Leiterbahn unterbrechen oder einen Kurzschluss verursachen, und der Chip ist unbrauchbar.",
+      "Damit das nicht passiert, wird die Luft ständig durch Filter in der Decke nach unten geblasen und durch den Boden abgesaugt. So werden Partikel sofort weggetragen. Temperatur und Luftfeuchtigkeit werden genau geregelt, denn schon kleine Schwankungen können die empfindlichen Prozesse stören.",
+      "Die größte Schmutzquelle im Reinraum ist der Mensch. Wir verlieren ständig Hautschuppen, Haare und winzige Tröpfchen. Deshalb tragen alle Beschäftigten Ganzkörperanzüge mit Kapuze, Mundschutz, Handschuhen und Überschuhen. Bevor sie hineindürfen, gehen sie durch Schleusen, in denen Luftduschen letzte Partikel wegpusten. Make-up und Parfüm sind tabu.",
+      "In modernen Fabs kommen Menschen den Wafern aber kaum noch nahe. Die Scheiben reisen in geschlossenen Behältern, die an Schienen unter der Decke von Maschine zu Maschine fahren. Roboter öffnen sie, setzen die Wafer ein und nehmen sie wieder heraus. Die Menschen überwachen vor allem die Anlagen und beheben Störungen.",
+      "Auch alles andere muss extrem rein sein. Chipfabriken brauchen große Mengen sogenanntes Reinstwasser, aus dem fast alle Mineralien und Teilchen entfernt wurden, um die Wafer zu spülen. Dazu kommen hochreine Gase und Chemikalien. Selbst kleinste Verunreinigungen könnten die Ausbeute an funktionierenden Chips senken.",
+      "Viele Fabriken stehen in Gegenden mit geringer Erdbebengefahr oder werden besonders schwingungsarm gebaut. Schon kleinste Erschütterungen, etwa von einem vorbeifahrenden Lastwagen, könnten die Belichtung stören, bei der es auf Bruchteile eines Nanometers ankommt.",
+      "Eine moderne Chipfabrik gehört zu den teuersten Bauwerken der Welt. Für ein Werk, das die fortschrittlichsten Chips herstellt, werden oft mehr als zehn Milliarden Dollar investiert. Ein großer Teil des Geldes steckt in den Maschinen, von denen manche einzeln mehr kosten als ein Verkehrsflugzeug.",
+      "Diese Investition lohnt sich nur, wenn die Fabrik rund um die Uhr läuft. Deshalb wird in vielen Fabs an jedem Tag des Jahres in Schichten gearbeitet. Ein Stillstand, etwa durch einen Stromausfall, kann enorme Verluste verursachen, weil die Wafer, die gerade in Bearbeitung sind, oft verloren sind.",
+      "Bis ein Wafer alle Schritte durchlaufen hat, vergehen meist mehrere Monate. Er wandert in dieser Zeit Hunderte Male zwischen verschiedenen Maschinen hin und her, für Belichtung, Ätzen, Beschichten, Reinigen und Messen.",
+      "Der wichtigste und teuerste dieser Schritte ist die Belichtung. Sie bestimmt, wie fein die Strukturen auf dem Chip werden können, und an ihr hängt der Fortschritt der ganzen Branche."
+     ]
+    },
+    {
+     "heading": "Fotografie im Nanomaßstab",
+     "paragraphs": [
+      "Die Muster für einen Chip werden nicht gezeichnet oder gefräst, sondern mit Licht übertragen. Das Verfahren heißt Fotolithografie und funktioniert im Prinzip wie die Fotografie aus der Zeit der Filmkameras.",
+      "Zuerst wird der Wafer mit einer dünnen, lichtempfindlichen Lackschicht überzogen, dem Fotolack. Dann wird er belichtet. Das Licht fällt dabei durch eine Maske, eine Art Schablone, auf der das Muster einer Chipschicht abgebildet ist. Ein Linsen- oder Spiegelsystem verkleinert das Bild und projiziert es auf den Wafer.",
+      "Wo das Licht auftrifft, verändert sich der Lack chemisch. In einem Entwicklerbad lösen sich je nach Lacksorte die belichteten oder die unbelichteten Stellen. Zurück bleibt ein Muster aus Lack, das bestimmt, wo im nächsten Schritt Material entfernt oder hinzugefügt wird.",
+      "Wie fein die Strukturen werden können, hängt vor allem von der Wellenlänge des Lichts ab. Je kürzer sie ist, desto kleinere Details lassen sich abbilden. Deshalb hat die Industrie über die Jahrzehnte immer kurzwelligeres Licht verwendet. Lange war ultraviolettes Licht mit einer Wellenlänge von 193 Nanometern der Standard.",
+      "Mit cleveren Tricks, etwa dem Belichten unter Wasser oder mehrfachem Belichten derselben Schicht, konnte man damit erstaunlich kleine Strukturen herstellen. Doch irgendwann stieß das an Grenzen. Der nächste große Schritt war extrem ultraviolettes Licht, kurz EUV, mit einer Wellenlänge von nur 13,5 Nanometern.",
+      "EUV-Licht zu erzeugen, ist ein technisches Kunststück. Es gibt keine Lampe und keinen Laser, der es direkt aussendet. Stattdessen werden in den Maschinen des niederländischen Herstellers ASML winzige Tröpfchen aus geschmolzenem Zinn durch eine Vakuumkammer geschossen, zehntausende pro Sekunde. Nach Angaben von ASML fliegen sie mit rund siebzig Metern pro Sekunde.",
+      "Jedes Tröpfchen wird von einem Laserpuls getroffen und flach gedrückt, wie ein kleiner Pfannkuchen. Ein zweiter, viel stärkerer Puls verdampft es dann zu einem Plasma, das heißer ist als die Oberfläche der Sonne. Dieses Plasma strahlt das gewünschte EUV-Licht ab. Die leistungsstarken Laser dafür kommen vom deutschen Unternehmen Trumpf.",
+      "Auch das Weiterleiten des Lichts ist schwierig. EUV-Strahlung wird von fast allem verschluckt, sogar von Luft und Glas. Deshalb läuft der gesamte Lichtweg im Vakuum, und statt Linsen kommen Spiegel zum Einsatz. Sie bestehen aus vielen hauchdünnen Schichten und gehören zu den glattesten Oberflächen, die je gefertigt wurden. Hergestellt werden sie vom deutschen Optikkonzern Zeiss.",
+      "Eine EUV-Anlage ist ungefähr so groß wie ein Bus, besteht aus Hunderttausenden Einzelteilen und kostet weit über hundert Millionen Euro. Für den Transport wird sie in Einzelteile zerlegt und füllt dann zahlreiche Container. Weltweit stellt nur ASML solche Maschinen her, was das Unternehmen zu einem der wichtigsten der gesamten Technologiebranche macht.",
+      "Die Belichtung ist aber nur ein Schritt von vielen. Damit aus den Lackmustern echte Transistoren und Leiterbahnen werden, folgt eine lange Abfolge weiterer Prozesse, die sich immer wieder wiederholen."
+     ]
+    },
+    {
+     "heading": "Schicht für Schicht",
+     "paragraphs": [
+      "Ein Chip entsteht nicht in einem Arbeitsgang, sondern Schicht für Schicht, ähnlich wie ein Hochhaus Stockwerk für Stockwerk wächst. Für jede Schicht wiederholt sich ein ähnlicher Kreislauf aus Beschichten, Belichten, Ätzen und Reinigen.",
+      "Nach der Belichtung kommt meist das Ätzen. Dabei wird Material an den Stellen entfernt, die nicht vom Lack geschützt sind. Das geschieht entweder mit Flüssigkeiten oder, bei den feinsten Strukturen, mit einem Plasma aus reaktiven Gasen, das sich sehr gezielt und senkrecht in die Tiefe frisst. Danach wird der restliche Lack entfernt.",
+      "Ein weiterer wichtiger Schritt ist das Dotieren. Dabei werden gezielt Fremdatome wie Bor oder Phosphor in bestimmte Bereiche des Siliziums eingebracht. Meist schießt man sie als elektrisch geladene Teilchen mit hoher Geschwindigkeit in die Oberfläche. So entstehen Zonen mit unterschiedlicher Leitfähigkeit, die zusammen einen Transistor bilden.",
+      "Dazu kommt das Abscheiden neuer Schichten. Hauchdünne Lagen aus isolierenden Materialien, Metallen oder anderen Stoffen werden auf den Wafer aufgebracht, teilweise Atomlage für Atomlage. Zwischendurch wird die Oberfläche immer wieder chemisch und mechanisch plangeschliffen, damit die nächste Schicht auf einer perfekt ebenen Fläche liegt.",
+      "Ganz unten, direkt im Silizium, entstehen die Transistoren. Früher lagen sie flach auf der Oberfläche. Heute ragen sie als winzige Rippen nach oben, damit der Strom besser gesteuert werden kann, und die neuesten Generationen umschließen den Stromkanal sogar von allen Seiten.",
+      "Darüber werden die Transistoren miteinander verbunden. Dafür baut man ein Geflecht aus Leiterbahnen, meist aus Kupfer, das auf ein Dutzend und mehr Ebenen verteilt ist. Die untersten Bahnen sind extrem fein, die oberen immer breiter. Zusammen sind die Leiterbahnen auf einem einzigen Chip oft viele Kilometer lang.",
+      "Insgesamt durchläuft ein moderner Chip so mehrere Hundert bis über tausend einzelne Arbeitsschritte. Bei jedem einzelnen muss alles stimmen. Die Schichten müssen auf wenige Nanometer genau übereinanderliegen, sonst passen die Verbindungen nicht zusammen. Das ist, als müsste man in einem Hochhaus mit hundert Stockwerken jede Steckdose millimetergenau über der darunterliegenden platzieren.",
+      "Zwischen den Schritten wird ständig gemessen. Spezialgeräte prüfen die Dicke von Schichten, die Breite von Linien und die Lage der Muster. Fällt ein Fehler auf, kann man manchmal nachbessern, manchmal muss der Wafer aussortiert werden.",
+      "Oft hört man, ein Chip werde in drei oder zwei Nanometern gefertigt. Diese Zahlen sind allerdings vor allem Bezeichnungen für eine Technologiegeneration. Sie entsprechen keiner bestimmten Länge auf dem Chip mehr. Die tatsächlichen Abstände zwischen den Transistoren sind meist größer, aber trotzdem unvorstellbar klein.",
+      "Wenn alle Schichten fertig sind, glänzt der Wafer in allen Regenbogenfarben, denn die feinen Strukturen brechen das Licht. Auf ihm liegen jetzt Hunderte fertige Chips dicht an dicht. Doch ob sie auch funktionieren, zeigt sich erst im nächsten Schritt."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Transistoren sind elektrische Schalter, und die Kunst der Chipherstellung besteht darin, Milliarden davon auf kleinstem Raum fehlerfrei herzustellen.",
+    "Schon ein einziges Staubkorn kann einen Chip zerstören, deshalb arbeiten Chipfabriken in Reinräumen mit gefilterter Luft und hoher Automatisierung.",
+    "Belichten, Ätzen, Dotieren und Beschichten werden Hunderte Male wiederholt, bis ein fertiger Chip mit vielen Lagen entsteht."
+   ]
+  },
+  "20": {
+   "words": 3709,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Im September 1958 zeigte ein junger Ingenieur in Texas seinen Vorgesetzten ein unscheinbares Stück Germanium mit ein paar Drähten. Es war der erste integrierte Schaltkreis. Heute werden Chips in Fabriken gebaut, die Milliarden kosten, mit Maschinen, die Licht aus explodierenden Zinntröpfchen erzeugen. In diesem Artikel erfährst du, was ein Chip ist, wie er erfunden wurde, wie er vom Sand bis zum fertigen Bauteil entsteht und warum die Chipindustrie zu einer Frage der Weltpolitik geworden ist."
+     ]
+    },
+    {
+     "heading": "Das Gehirn der Technik",
+     "paragraphs": [
+      "Fast jedes elektrische Gerät, das mehr kann als an- und ausgehen, enthält einen Chip. Das Wort steht im Englischen eigentlich für ein kleines abgebrochenes Stück, einen Splitter. Gemeint ist ein Plättchen aus Silizium, oft nur wenige Millimeter groß, auf dem ein vollständiger elektrischer Schaltkreis untergebracht ist. Fachleute sprechen deshalb auch von integrierten Schaltkreisen.",
+      "Die wichtigsten Bausteine darauf sind Transistoren. Ein Transistor ist im Kern ein Schalter, der Strom fließen lässt oder sperrt, aber ohne bewegliche Teile und in rasender Geschwindigkeit. Gesteuert wird er nicht mit dem Finger, sondern mit einer elektrischen Spannung. Ein moderner Transistor kann Milliarden Mal pro Sekunde schalten.",
+      "Aus solchen Schaltern lässt sich erstaunlich viel bauen. Ein Schalter kennt zwei Zustände, an und aus, oder in der Sprache der Computer eins und null. Mit diesen beiden Ziffern lassen sich alle Zahlen darstellen, und damit auch Buchstaben, Bilder, Musik und Videos. Kombiniert man Transistoren geschickt, entstehen Schaltungen, die rechnen, vergleichen und Daten speichern können.",
+      "Ein einzelner Transistor kann nicht viel. Die Macht eines Chips kommt aus der schieren Menge. Moderne Prozessoren in Smartphones oder Computern enthalten viele Milliarden Transistoren. Sie arbeiten zusammen wie die Nervenzellen in einem Gehirn, nur nach streng festgelegten Regeln.",
+      "Es gibt viele Arten von Chips. Prozessoren sind die Rechenzentralen von Computern und Smartphones. Speicherchips merken sich Daten. Grafikchips berechnen Bilder und sind heute auch das Arbeitspferd für künstliche Intelligenz. Dazu kommen unzählige kleinere Chips, die Motoren steuern, Sensoren auswerten oder Strom regeln.",
+      "Gerade diese unscheinbaren Chips sind überall. Ein modernes Auto enthält oft mehr als tausend davon, für Bremsen, Airbags, Fensterheber und das Navigationssystem. Auch Waschmaschinen, Hörgeräte, Ampeln und Windräder kommen nicht ohne sie aus.",
+      "Wie abhängig wir davon sind, zeigte sich ab 2020. Während der Corona-Pandemie stieg die Nachfrage nach Laptops und Elektronik stark, gleichzeitig gerieten Lieferketten durcheinander. Chips wurden knapp, und in vielen Autofabriken standen 2021 zeitweise die Bänder still, weil einzelne Bauteile fehlten, die nur wenige Euro kosten.",
+      "Das Grundmaterial der meisten Chips ist Silizium. Es ist nach Sauerstoff das zweithäufigste Element in der Erdkruste und steckt zum Beispiel in Quarzsand. Silizium ist ein Halbleiter: Es leitet Strom schlechter als ein Metall, aber besser als ein Isolator, und seine Leitfähigkeit lässt sich gezielt verändern. Genau das macht es für Transistoren so geeignet.",
+      "Damit die Schalter klein, schnell und sparsam sind, müssen sie winzig sein. Die feinsten Strukturen auf heutigen Chips messen nur wenige Nanometer. Ein Nanometer ist ein Millionstel Millimeter. Ein menschliches Haar ist etwa zehntausendmal dicker.",
+      "Wie kommt man auf die Idee, so etwas zu bauen, und wie gelingt es überhaupt? Die Geschichte beginnt mit einer Erfindung, die Röhren und Drähte überflüssig machte."
+     ]
+    },
+    {
+     "heading": "Vom Transistor zum Chip",
+     "paragraphs": [
+      "Die ersten elektronischen Computer der Vierzigerjahre arbeiteten mit Elektronenröhren. Diese Glasröhren wurden heiß, verbrauchten viel Strom und gingen oft kaputt. Ein Rechner füllte ganze Säle und musste ständig repariert werden.",
+      "1947 gelang Forschern an den amerikanischen Bell Laboratories ein Durchbruch: Sie bauten den ersten Transistor aus einem Halbleiter. Er konnte dieselben Aufgaben erfüllen wie eine Röhre, war aber viel kleiner, robuster und sparsamer. Die drei Erfinder erhielten dafür später den Nobelpreis für Physik.",
+      "Transistoren eroberten schnell die Elektronik, etwa in tragbaren Radios. Doch es blieb ein Problem. Jeder Transistor war ein einzelnes Bauteil, das mit anderen Bauteilen von Hand verlötet werden musste. Je komplexer die Schaltungen wurden, desto mehr Verbindungen brauchte man, und desto mehr konnte schiefgehen.",
+      "Die Lösung kam 1958 von Jack Kilby, einem jungen Ingenieur bei der Firma Texas Instruments in Dallas. Weil er als Neuling noch keinen Sommerurlaub hatte, arbeitete er fast allein im Labor. Dabei kam ihm die Idee, alle Bauteile einer Schaltung aus einem einzigen Stück Halbleiter herzustellen, statt sie einzeln zu verbinden.",
+      "Im September 1958 führte er seinen Vorgesetzten das Ergebnis vor. Nach Angaben des Ingenieursverbands IEEE war es ein Oszillator auf einem winzigen Germaniumstreifen von gut einem Zentimeter Länge und anderthalb Millimetern Breite. Zum ersten Mal waren elektronische Bauteile auf einem gemeinsamen Träger vereint.",
+      "Unabhängig davon entwickelte Robert Noyce bei der Firma Fairchild Semiconductor wenige Monate später eine eigene Variante aus Silizium. Sie hatte einen entscheidenden Vorteil: Die Verbindungen waren nicht mehr als Drähte aufgelötet, sondern als dünne Metallbahnen direkt auf den Chip aufgebracht. Das machte die Massenfertigung möglich. Heute gelten beide als Erfinder des integrierten Schaltkreises.",
+      "Kilby erhielt im Jahr 2000 den Nobelpreis für Physik für seinen Anteil an der Erfindung. Noyce konnte ihn nicht mehr teilen, er war bereits 1990 gestorben. Er hatte 1968 die Firma Intel mitgegründet, die mit ihren Prozessoren das Computerzeitalter prägte.",
+      "1965 beobachtete Gordon Moore, ebenfalls ein Mitgründer von Intel, dass sich die Zahl der Bauteile auf einem Chip regelmäßig verdoppelte. Er sagte voraus, dass das noch eine Weile so weitergehen würde. Später präzisierte er, etwa alle zwei Jahre. Diese Faustregel wurde als Mooresches Gesetz bekannt.",
+      "Erstaunlicherweise hielt die Regel jahrzehntelang. Der erste Mikroprozessor von Intel aus dem Jahr 1971 hatte rund zweitausenddreihundert Transistoren. Heutige Chips haben viele Milliarden. Das Mooresche Gesetz ist kein Naturgesetz, sondern eher ein Versprechen, an dem sich die ganze Industrie orientierte und das sie mit gewaltigem Aufwand immer wieder einlöste.",
+      "Möglich wurde das nur, weil die Herstellung immer präziser wurde. Der Weg vom Sandkorn zum Chip ist heute eine Kette aus Hunderten Schritten, und er beginnt mit der Suche nach dem perfekten Kristall."
+     ]
+    },
+    {
+     "heading": "Vom Sand zum Wafer",
+     "paragraphs": [
+      "Am Anfang steht Quarzsand oder Quarzgestein, also im Wesentlichen Siliziumdioxid, eine Verbindung aus Silizium und Sauerstoff. Für Chips braucht man allerdings reines Silizium, und zwar in einer Reinheit, die in der Natur nirgends vorkommt.",
+      "Im ersten Schritt wird der Quarz in einem Lichtbogenofen bei sehr hohen Temperaturen zusammen mit Kohlenstoff erhitzt. Der Kohlenstoff entzieht dem Quarz den Sauerstoff, übrig bleibt sogenanntes metallurgisches Silizium. Es ist schon zu rund neunundneunzig Prozent rein. Der größte Teil davon wird übrigens gar nicht für Chips verwendet, sondern zum Beispiel in der Stahl- und Aluminiumindustrie.",
+      "Für Chips reicht das bei Weitem nicht. Deshalb wird das Silizium chemisch in ein Gas umgewandelt, das sich durch Destillation extrem gründlich reinigen lässt. In einem Verfahren, das nach dem Unternehmen Siemens benannt ist, scheidet sich daraus wieder festes Silizium ab, an heißen Stäben in einem Reaktor.",
+      "Das Ergebnis ist Silizium von unvorstellbarer Reinheit. Für Chips gilt eine Reinheit von neun Neunen als Maßstab, also 99,9999999 Prozent. Auf eine Milliarde Siliziumatome kommt dann höchstens ein fremdes Atom. Zum Vergleich: Das wäre ungefähr so, als dürfte unter allen Menschen in Europa und Amerika zusammen höchstens eine Person das falsche T-Shirt tragen.",
+      "Dieses Silizium ist aber noch kein einheitlicher Kristall, sondern besteht aus vielen kleinen, unterschiedlich ausgerichteten Kristallkörnern. Für Chips braucht man einen Einkristall, in dem alle Atome in einem perfekten, durchgehenden Gitter angeordnet sind. Nur dann verhalten sich die Transistoren überall gleich.",
+      "Dafür nutzt man meist ein Verfahren, das der polnische Chemiker Jan Czochralski schon vor mehr als hundert Jahren entdeckte. Das Silizium wird in einem Tiegel aus Quarzglas geschmolzen, bei gut 1400 Grad. Dann taucht man einen kleinen Impfkristall in die Schmelze und zieht ihn unter ständigem Drehen ganz langsam nach oben.",
+      "An dem Impfkristall lagern sich nach und nach Siliziumatome an und übernehmen seine Gitterstruktur. So wächst über viele Stunden ein großer, zylinderförmiger Einkristall heran. Heutige Kristalle haben einen Durchmesser von rund dreißig Zentimetern und sind oft länger als ein Mensch groß ist. Sie wiegen Hunderte Kilogramm.",
+      "Gleichzeitig kann man der Schmelze gezielt winzige Mengen anderer Stoffe beimischen, etwa Bor oder Phosphor. Diese Fremdatome verändern die elektrische Leitfähigkeit des Siliziums. Was sonst eine Verunreinigung wäre, ist hier gewollt und genau dosiert.",
+      "Der fertige Kristall wird mit Drahtsägen, die mit Diamantpartikeln besetzt sind, in hauchdünne Scheiben geschnitten. Diese Scheiben heißen Wafer, nach dem englischen Wort für eine dünne Waffel. Ein heutiger Wafer hat einen Durchmesser von dreihundert Millimetern und ist weniger als einen Millimeter dick.",
+      "Anschließend werden die Wafer geschliffen, geätzt und poliert, bis ihre Oberfläche spiegelglatt ist, mit Unebenheiten von nur wenigen Atomlagen. Auf einem solchen Wafer haben am Ende je nach Größe der Chips Dutzende bis Tausende Exemplare Platz. Doch bevor es so weit ist, muss der Wafer an einen Ort, an dem nicht einmal ein Staubkorn erlaubt ist."
+     ]
+    },
+    {
+     "heading": "Im Reinraum",
+     "paragraphs": [
+      "Chips werden in Fabriken hergestellt, die man in der Branche Fabs nennt. Ihr Herzstück sind Reinräume. Dort ist die Luft so sauber, dass ein Operationssaal dagegen schmutzig wirkt. In den reinsten Bereichen darf ein Kubikmeter Luft nur eine Handvoll winziger Partikel enthalten. Normale Stadtluft enthält Millionen davon.",
+      "Der Grund ist einfach: Die Strukturen auf einem Chip sind viel kleiner als ein Staubkorn. Landet ein einziges Partikel an der falschen Stelle, kann es eine Leiterbahn unterbrechen oder einen Kurzschluss verursachen, und der Chip ist unbrauchbar.",
+      "Damit das nicht passiert, wird die Luft ständig durch Filter in der Decke nach unten geblasen und durch den Boden abgesaugt. So werden Partikel sofort weggetragen. Temperatur und Luftfeuchtigkeit werden genau geregelt, denn schon kleine Schwankungen können die empfindlichen Prozesse stören.",
+      "Die größte Schmutzquelle im Reinraum ist der Mensch. Wir verlieren ständig Hautschuppen, Haare und winzige Tröpfchen. Deshalb tragen alle Beschäftigten Ganzkörperanzüge mit Kapuze, Mundschutz, Handschuhen und Überschuhen. Bevor sie hineindürfen, gehen sie durch Schleusen, in denen Luftduschen letzte Partikel wegpusten. Make-up und Parfüm sind tabu.",
+      "In modernen Fabs kommen Menschen den Wafern aber kaum noch nahe. Die Scheiben reisen in geschlossenen Behältern, die an Schienen unter der Decke von Maschine zu Maschine fahren. Roboter öffnen sie, setzen die Wafer ein und nehmen sie wieder heraus. Die Menschen überwachen vor allem die Anlagen und beheben Störungen.",
+      "Auch alles andere muss extrem rein sein. Chipfabriken brauchen große Mengen sogenanntes Reinstwasser, aus dem fast alle Mineralien und Teilchen entfernt wurden, um die Wafer zu spülen. Dazu kommen hochreine Gase und Chemikalien. Selbst kleinste Verunreinigungen könnten die Ausbeute an funktionierenden Chips senken.",
+      "Viele Fabriken stehen in Gegenden mit geringer Erdbebengefahr oder werden besonders schwingungsarm gebaut. Schon kleinste Erschütterungen, etwa von einem vorbeifahrenden Lastwagen, könnten die Belichtung stören, bei der es auf Bruchteile eines Nanometers ankommt.",
+      "Eine moderne Chipfabrik gehört zu den teuersten Bauwerken der Welt. Für ein Werk, das die fortschrittlichsten Chips herstellt, werden oft mehr als zehn Milliarden Dollar investiert. Ein großer Teil des Geldes steckt in den Maschinen, von denen manche einzeln mehr kosten als ein Verkehrsflugzeug.",
+      "Diese Investition lohnt sich nur, wenn die Fabrik rund um die Uhr läuft. Deshalb wird in vielen Fabs an jedem Tag des Jahres in Schichten gearbeitet. Ein Stillstand, etwa durch einen Stromausfall, kann enorme Verluste verursachen, weil die Wafer, die gerade in Bearbeitung sind, oft verloren sind.",
+      "Bis ein Wafer alle Schritte durchlaufen hat, vergehen meist mehrere Monate. Er wandert in dieser Zeit Hunderte Male zwischen verschiedenen Maschinen hin und her, für Belichtung, Ätzen, Beschichten, Reinigen und Messen.",
+      "Der wichtigste und teuerste dieser Schritte ist die Belichtung. Sie bestimmt, wie fein die Strukturen auf dem Chip werden können, und an ihr hängt der Fortschritt der ganzen Branche."
+     ]
+    },
+    {
+     "heading": "Fotografie im Nanomaßstab",
+     "paragraphs": [
+      "Die Muster für einen Chip werden nicht gezeichnet oder gefräst, sondern mit Licht übertragen. Das Verfahren heißt Fotolithografie und funktioniert im Prinzip wie die Fotografie aus der Zeit der Filmkameras.",
+      "Zuerst wird der Wafer mit einer dünnen, lichtempfindlichen Lackschicht überzogen, dem Fotolack. Dann wird er belichtet. Das Licht fällt dabei durch eine Maske, eine Art Schablone, auf der das Muster einer Chipschicht abgebildet ist. Ein Linsen- oder Spiegelsystem verkleinert das Bild und projiziert es auf den Wafer.",
+      "Wo das Licht auftrifft, verändert sich der Lack chemisch. In einem Entwicklerbad lösen sich je nach Lacksorte die belichteten oder die unbelichteten Stellen. Zurück bleibt ein Muster aus Lack, das bestimmt, wo im nächsten Schritt Material entfernt oder hinzugefügt wird.",
+      "Wie fein die Strukturen werden können, hängt vor allem von der Wellenlänge des Lichts ab. Je kürzer sie ist, desto kleinere Details lassen sich abbilden. Deshalb hat die Industrie über die Jahrzehnte immer kurzwelligeres Licht verwendet. Lange war ultraviolettes Licht mit einer Wellenlänge von 193 Nanometern der Standard.",
+      "Mit cleveren Tricks, etwa dem Belichten unter Wasser oder mehrfachem Belichten derselben Schicht, konnte man damit erstaunlich kleine Strukturen herstellen. Doch irgendwann stieß das an Grenzen. Der nächste große Schritt war extrem ultraviolettes Licht, kurz EUV, mit einer Wellenlänge von nur 13,5 Nanometern.",
+      "EUV-Licht zu erzeugen, ist ein technisches Kunststück. Es gibt keine Lampe und keinen Laser, der es direkt aussendet. Stattdessen werden in den Maschinen des niederländischen Herstellers ASML winzige Tröpfchen aus geschmolzenem Zinn durch eine Vakuumkammer geschossen, zehntausende pro Sekunde. Nach Angaben von ASML fliegen sie mit rund siebzig Metern pro Sekunde.",
+      "Jedes Tröpfchen wird von einem Laserpuls getroffen und flach gedrückt, wie ein kleiner Pfannkuchen. Ein zweiter, viel stärkerer Puls verdampft es dann zu einem Plasma, das heißer ist als die Oberfläche der Sonne. Dieses Plasma strahlt das gewünschte EUV-Licht ab. Die leistungsstarken Laser dafür kommen vom deutschen Unternehmen Trumpf.",
+      "Auch das Weiterleiten des Lichts ist schwierig. EUV-Strahlung wird von fast allem verschluckt, sogar von Luft und Glas. Deshalb läuft der gesamte Lichtweg im Vakuum, und statt Linsen kommen Spiegel zum Einsatz. Sie bestehen aus vielen hauchdünnen Schichten und gehören zu den glattesten Oberflächen, die je gefertigt wurden. Hergestellt werden sie vom deutschen Optikkonzern Zeiss.",
+      "Eine EUV-Anlage ist ungefähr so groß wie ein Bus, besteht aus Hunderttausenden Einzelteilen und kostet weit über hundert Millionen Euro. Für den Transport wird sie in Einzelteile zerlegt und füllt dann zahlreiche Container. Weltweit stellt nur ASML solche Maschinen her, was das Unternehmen zu einem der wichtigsten der gesamten Technologiebranche macht.",
+      "Die Belichtung ist aber nur ein Schritt von vielen. Damit aus den Lackmustern echte Transistoren und Leiterbahnen werden, folgt eine lange Abfolge weiterer Prozesse, die sich immer wieder wiederholen."
+     ]
+    },
+    {
+     "heading": "Schicht für Schicht",
+     "paragraphs": [
+      "Ein Chip entsteht nicht in einem Arbeitsgang, sondern Schicht für Schicht, ähnlich wie ein Hochhaus Stockwerk für Stockwerk wächst. Für jede Schicht wiederholt sich ein ähnlicher Kreislauf aus Beschichten, Belichten, Ätzen und Reinigen.",
+      "Nach der Belichtung kommt meist das Ätzen. Dabei wird Material an den Stellen entfernt, die nicht vom Lack geschützt sind. Das geschieht entweder mit Flüssigkeiten oder, bei den feinsten Strukturen, mit einem Plasma aus reaktiven Gasen, das sich sehr gezielt und senkrecht in die Tiefe frisst. Danach wird der restliche Lack entfernt.",
+      "Ein weiterer wichtiger Schritt ist das Dotieren. Dabei werden gezielt Fremdatome wie Bor oder Phosphor in bestimmte Bereiche des Siliziums eingebracht. Meist schießt man sie als elektrisch geladene Teilchen mit hoher Geschwindigkeit in die Oberfläche. So entstehen Zonen mit unterschiedlicher Leitfähigkeit, die zusammen einen Transistor bilden.",
+      "Dazu kommt das Abscheiden neuer Schichten. Hauchdünne Lagen aus isolierenden Materialien, Metallen oder anderen Stoffen werden auf den Wafer aufgebracht, teilweise Atomlage für Atomlage. Zwischendurch wird die Oberfläche immer wieder chemisch und mechanisch plangeschliffen, damit die nächste Schicht auf einer perfekt ebenen Fläche liegt.",
+      "Ganz unten, direkt im Silizium, entstehen die Transistoren. Früher lagen sie flach auf der Oberfläche. Heute ragen sie als winzige Rippen nach oben, damit der Strom besser gesteuert werden kann, und die neuesten Generationen umschließen den Stromkanal sogar von allen Seiten.",
+      "Darüber werden die Transistoren miteinander verbunden. Dafür baut man ein Geflecht aus Leiterbahnen, meist aus Kupfer, das auf ein Dutzend und mehr Ebenen verteilt ist. Die untersten Bahnen sind extrem fein, die oberen immer breiter. Zusammen sind die Leiterbahnen auf einem einzigen Chip oft viele Kilometer lang.",
+      "Insgesamt durchläuft ein moderner Chip so mehrere Hundert bis über tausend einzelne Arbeitsschritte. Bei jedem einzelnen muss alles stimmen. Die Schichten müssen auf wenige Nanometer genau übereinanderliegen, sonst passen die Verbindungen nicht zusammen. Das ist, als müsste man in einem Hochhaus mit hundert Stockwerken jede Steckdose millimetergenau über der darunterliegenden platzieren.",
+      "Zwischen den Schritten wird ständig gemessen. Spezialgeräte prüfen die Dicke von Schichten, die Breite von Linien und die Lage der Muster. Fällt ein Fehler auf, kann man manchmal nachbessern, manchmal muss der Wafer aussortiert werden.",
+      "Oft hört man, ein Chip werde in drei oder zwei Nanometern gefertigt. Diese Zahlen sind allerdings vor allem Bezeichnungen für eine Technologiegeneration. Sie entsprechen keiner bestimmten Länge auf dem Chip mehr. Die tatsächlichen Abstände zwischen den Transistoren sind meist größer, aber trotzdem unvorstellbar klein.",
+      "Wenn alle Schichten fertig sind, glänzt der Wafer in allen Regenbogenfarben, denn die feinen Strukturen brechen das Licht. Auf ihm liegen jetzt Hunderte fertige Chips dicht an dicht. Doch ob sie auch funktionieren, zeigt sich erst im nächsten Schritt."
+     ]
+    },
+    {
+     "heading": "Testen, sägen, verpacken",
+     "paragraphs": [
+      "Bevor der Wafer zerteilt wird, werden die Chips darauf getestet. Eine Maschine setzt feine Nadeln auf Kontaktflächen jedes Chips und schickt elektrische Signale hindurch. So stellt sie fest, welche Chips einwandfrei arbeiten und welche nicht. Fehlerhafte Exemplare werden markiert.",
+      "Der Anteil funktionierender Chips auf einem Wafer heißt Ausbeute. Sie ist eine der wichtigsten Kennzahlen jeder Chipfabrik. Bei einer neuen Technologiegeneration ist die Ausbeute anfangs oft niedrig, weil noch nicht alle Prozesse perfekt beherrscht werden. Mit der Zeit steigt sie, und erst dann wird die Fertigung richtig wirtschaftlich.",
+      "Größere Chips haben es dabei schwerer. Weil Fehler zufällig über den Wafer verteilt sind, ist die Wahrscheinlichkeit größer, dass ein großer Chip einen davon abbekommt. Deshalb sind riesige Chips besonders teuer.",
+      "Nicht jeder fehlerhafte Chip landet im Müll. Bei Prozessoren mit vielen gleichen Rechenkernen kann man einen defekten Kern einfach abschalten und den Chip als etwas schwächeres Modell verkaufen. Auch die Geschwindigkeit, mit der ein Chip zuverlässig läuft, schwankt leicht. Die Hersteller sortieren die Chips danach in verschiedene Leistungsklassen ein.",
+      "Das Testen eines einzigen Wafers kann Stunden dauern, und die Prüfmaschinen sind selbst aufwendig und teuer. Die Hersteller versuchen deshalb, Fehler möglichst früh zu finden, am besten schon während der Bearbeitung, damit kein weiterer Aufwand in defekte Chips fließt.",
+      "Dann wird der Wafer zersägt, mit feinen Diamantsägen oder Lasern. Die einzelnen Chips, im Fachjargon Dies genannt, sind jetzt noch nackte Siliziumplättchen. Sie sind empfindlich und könnten so nicht in ein Gerät eingebaut werden.",
+      "Deshalb werden sie verpackt. Jeder Chip wird auf einen Träger gesetzt, mit feinen Drähten oder winzigen Lötkugeln elektrisch angeschlossen und mit einem Gehäuse geschützt. Das Gehäuse sorgt auch dafür, dass die Wärme abgeführt werden kann, denn moderne Prozessoren werden im Betrieb sehr heiß.",
+      "Früher galt die Verpackung als einfacher letzter Schritt. Inzwischen ist sie zu einer eigenen Hochtechnologie geworden. Statt einen riesigen Chip zu bauen, kombinieren Hersteller heute oft mehrere kleinere Chips in einem Gehäuse, sogenannte Chiplets. Das verbessert die Ausbeute und erlaubt es, verschiedene Fertigungstechniken zu kombinieren.",
+      "Manche Chips werden sogar übereinandergestapelt und durch winzige senkrechte Verbindungen miteinander verbunden. So entstehen etwa besonders schnelle Speicher, wie sie für Rechenzentren und künstliche Intelligenz gebraucht werden. Der Chip wächst damit gewissermaßen in die dritte Dimension.",
+      "Am Ende folgt ein letzter Test des fertig verpackten Bauteils, manchmal unter Hitze und Belastung, um frühe Ausfälle auszusortieren. Erst dann wird der Chip an Gerätehersteller ausgeliefert.",
+      "Vom Quarzsand bis zum fertigen Chip vergehen so viele Monate, und das Produkt reist dabei oft um die halbe Welt. Diese weltweite Arbeitsteilung ist eine Stärke der Industrie und zugleich ihre größte Schwachstelle."
+     ]
+    },
+    {
+     "heading": "Eine Weltindustrie unter Druck",
+     "paragraphs": [
+      "Kaum ein Land kann einen modernen Chip vollständig selbst herstellen. Die Entwicklung findet oft in den USA statt, die Belichtungsmaschinen kommen aus den Niederlanden, Spiegel und Laser aus Deutschland, spezielle Chemikalien und Wafer aus Japan. Gefertigt werden die fortschrittlichsten Chips zu einem großen Teil in Taiwan, verpackt und getestet oft in anderen Ländern Asiens.",
+      "Eine besondere Rolle spielt das taiwanische Unternehmen TSMC. Es entwirft selbst keine eigenen Chips, sondern fertigt im Auftrag anderer Firmen. Viele der leistungsfähigsten Prozessoren der Welt, für Smartphones, Computer und künstliche Intelligenz, entstehen in seinen Werken.",
+      "Diese Konzentration macht die Lieferketten verletzlich. Ein Erdbeben, eine Pandemie oder ein politischer Konflikt in einer einzigen Region könnte die Versorgung der ganzen Welt stören. Die Chipkrise ab 2020 hat vielen Regierungen das deutlich vor Augen geführt.",
+      "Chips sind deshalb auch zu einer Frage der Weltpolitik geworden. Die USA haben die Ausfuhr fortschrittlicher Chips und Fertigungsanlagen nach China stark eingeschränkt, und die Niederlande und Japan haben ähnliche Regeln eingeführt. China investiert seinerseits gewaltige Summen, um eine eigene Chipindustrie aufzubauen.",
+      "Auch Europa will seinen Anteil an der Chipfertigung erhöhen. Die Europäische Union hat dafür ein eigenes Chipgesetz beschlossen und fördert neue Werke mit Milliardenbeträgen. Ein Schwerpunkt liegt in Dresden, wo bereits mehrere Chipfabriken stehen und der taiwanische Hersteller TSMC mit europäischen Partnern ein neues Werk baut.",
+      "Chipfabriken haben allerdings auch Schattenseiten. Sie verbrauchen enorme Mengen Strom und Wasser, und für manche Prozesse werden Gase eingesetzt, die stark zur Erderwärmung beitragen können. Die Hersteller arbeiten daran, Wasser wiederzuverwenden, auf erneuerbare Energie umzusteigen und schädliche Gase zu ersetzen oder unschädlich zu machen.",
+      "Auch der Nachwuchs ist ein Engpass. Chipfabriken brauchen Tausende Fachkräfte, von Ingenieurinnen und Physikern bis zu Technikerinnen, die die Anlagen warten. Viele Länder, die neue Werke anlocken wollen, bauen deshalb gleichzeitig Studiengänge und Ausbildungsprogramme auf.",
+      "Gleichzeitig stößt die Verkleinerung an physikalische Grenzen. Viele Strukturen sind nur noch wenige Dutzend Atome breit. Bei solchen Größen beginnen Effekte der Quantenphysik zu wirken, und Elektronen können durch Barrieren schlüpfen, die sie eigentlich aufhalten sollten.",
+      "Die Industrie sucht deshalb nach neuen Wegen. Dazu gehören neue Transistorformen, Belichtungsmaschinen mit noch größerer Präzision, gestapelte Chips und neue Materialien. Manche Forschende arbeiten an völlig anderen Ansätzen, etwa Chips, die mit Licht statt mit Strom rechnen.",
+      "Ein weiterer Trend sind Chips, die für eine ganz bestimmte Aufgabe entworfen werden, etwa für künstliche Intelligenz, Video oder Verschlüsselung. Sie erledigen diese eine Aufgabe viel effizienter als ein Allzweckprozessor. Große Technologiekonzerne entwerfen solche Chips zunehmend selbst und lassen sie bei Auftragsfertigern herstellen.",
+      "Ob das Mooresche Gesetz im alten Tempo weitergeht, ist umstritten. Sicher ist, dass der Bedarf an Rechenleistung weiter wächst, nicht zuletzt durch künstliche Intelligenz. Der Wettlauf um bessere Chips wird also weitergehen.",
+      "Wenn du das nächste Mal auf dein Smartphone schaust, lohnt sich ein kurzer Gedanke an seinen Weg: vom Quarzsand über einen glühenden Kristall, durch Reinräume und Zinnplasma, über Hunderte Arbeitsschritte und mehrere Kontinente bis in deine Hand."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Ein Chip durchläuft vom Wafer bis zum fertigen Bauteil oft Monate und mehr als tausend Arbeitsschritte, an deren Ende Test und Verpackung stehen.",
+    "Wenige Unternehmen in wenigen Ländern beherrschen entscheidende Schritte, was die Lieferketten verletzlich und Chips politisch wichtig macht.",
+    "Weil Strukturen kaum noch kleiner werden können, setzt die Industrie zunehmend auf neue Transistorformen und gestapelte Chips."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "title": "Milestones: First Semiconductor Integrated Circuit (IC), 1958",
+   "publisher": "IEEE, Engineering and Technology History Wiki",
+   "url": "https://ethw.org/Milestones:First_Semiconductor_Integrated_Circuit_(IC),_1958",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Scientist of the Day: Jack Kilby",
+   "publisher": "Linda Hall Library",
+   "url": "https://www.lindahall.org/about/news/scientist-of-the-day/jack-kilby",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Silicon Wafer Production",
+   "publisher": "MKS Instruments",
+   "url": "https://www.mks.com/n/silicon-wafer-production",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "The hottest thing about ASML machines",
+   "publisher": "ASML",
+   "url": "https://www.asml.com/en/discover/hot-machines",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "About ASML: Extreme Ultraviolet lithography",
+   "publisher": "Brainport Eindhoven",
+   "url": "https://brainporteindhoven.com/int/work/companies/asml/about-asml",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "EUV lithography: enabling progress in the digital era",
+   "publisher": "TRUMPF (Produktinformation)",
+   "url": "https://www.directindustry.com/prod/trumpf-maquinaria-s-a/product-216245-2255940.html",
+   "accessed": "2026-11-03"
+  }
+ ],
+ "factCheckedAt": "2026-11-03"
+}

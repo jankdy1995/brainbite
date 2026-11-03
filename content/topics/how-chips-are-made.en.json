@@ -1,0 +1,436 @@
+{
+ "id": "how-chips-are-made",
+ "lang": "en",
+ "title": "How a Microchip Is Made",
+ "versions": {
+  "5": {
+   "words": 1088,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Your smartphone contains billions of tiny switches, each far smaller than a virus. They are made from one of the most common substances on Earth: sand. In between lies one of the most complicated manufacturing processes humans have ever developed. In five minutes you will find out what a chip actually is, how sand becomes a wafer-thin slice of silicon and how light is used to print structures only a few atoms wide."
+     ]
+    },
+    {
+     "heading": "What a chip is",
+     "paragraphs": [
+      "A chip is a small plate of silicon carrying a complete electrical circuit. It is found in smartphones and computers, but also in cars, washing machines and hearing aids.",
+      "Its most important building blocks are transistors, tiny electrical switches with no moving parts. They have two states, on and off, in other words one and zero. All numbers, texts, images and sounds can be built from these.",
+      "A modern processor contains many billions of transistors. The finest structures are only a few nanometres wide. A human hair is about ten thousand times thicker.",
+      "The base material is silicon, the second most common element in the Earth’s crust after oxygen. It is a semiconductor: its ability to conduct electricity can be changed in a targeted way by adding tiny amounts of other substances. That is exactly what you need to build switches.",
+      "The integrated circuit was invented in 1958 by Jack Kilby at the company Texas Instruments, and independently shortly afterwards by Robert Noyce. Kilby received the Nobel Prize in Physics for it in 2000.",
+      "Before the chip, electronics consisted of separate components soldered together by hand. Kilby’s idea was to make all the parts of a circuit from a single piece of semiconductor. His first chip was a small strip of germanium just over a centimetre long.",
+      "Since then, the number of transistors on a chip has doubled roughly every two years. This rule of thumb is called Moore’s law, after the Intel co-founder Gordon Moore.",
+      "Just how dependent we are on chips became clear from 2020, when they ran short. Production lines in car factories stood still at times because individual chips costing only a few euros were missing."
+     ]
+    },
+    {
+     "heading": "From sand to wafer",
+     "paragraphs": [
+      "The raw material for chips is quartz sand, a compound of silicon and oxygen. In a furnace at great heat, the oxygen is removed. The silicon is then chemically purified so thoroughly that there is at most one foreign atom per billion atoms.",
+      "Chips need a perfect crystal in which all atoms are arranged in a regular lattice. For this, the silicon is melted. A small seed crystal is dipped into it and slowly pulled out while rotating. This grows a crystal about thirty centimetres thick.",
+      "During this pulling, tiny, precisely measured amounts of other substances, such as boron or phosphorus, can be added to the melt. They change the electrical properties of the silicon. What would otherwise be an impurity is very much intended here.",
+      "This crystal is cut into wafer-thin slices with diamond saws: the wafers. They are polished until they are as smooth as a mirror. Later, a single wafer will hold hundreds of chips.",
+      "A wafer today is thirty centimetres across and thinner than a millimetre. Its surface is so smooth that the unevenness amounts to only a few layers of atoms.",
+      "The wafers are processed further in cleanrooms. The air there is far cleaner than in an operating theatre, because a single speck of dust can ruin a chip.",
+      "Water, gases and chemicals have to be extremely pure as well. Chip factories use large quantities of what is called ultrapure water, from which almost all minerals and particles have been removed.",
+      "Staff therefore wear full-body suits with hoods, face masks and gloves. In modern factories, however, it is mainly robots that move the wafers between the machines.",
+      "Such a factory often costs more than ten billion dollars and runs around the clock. It usually takes several months for a wafer to go through all the steps."
+     ]
+    },
+    {
+     "heading": "Printed with light",
+     "paragraphs": [
+      "The patterns are transferred onto the wafer using light. First it is coated with a light-sensitive resist. Then light shines through a kind of stencil carrying the pattern and changes the resist where it is exposed. This creates a template for the next steps.",
+      "The shorter the wavelength of the light, the finer the structures. For the most modern chips, extreme ultraviolet light with a wavelength of 13.5 nanometres is used.",
+      "It is produced in spectacular fashion: tiny droplets of liquid tin are shot through a vacuum chamber and vaporised by laser pulses into a hot plasma that emits this light. Only the Dutch company ASML builds such machines anywhere in the world, with mirrors from Zeiss and lasers from Trumpf in Germany.",
+      "Such a machine is the size of a bus and costs well over a hundred million euros. Because EUV light is absorbed even by air, the entire light path runs in a vacuum, and extremely smooth mirrors instead of lenses guide the light.",
+      "After exposure comes etching, in which material is selectively removed. Then foreign atoms are introduced and new layers are applied. This cycle is repeated hundreds of times until the transistors and many layers of conductor tracks are complete.",
+      "The transistors sit at the very bottom in the silicon, and above them a dozen or more levels of fine copper tracks connect the switches to each other. All the layers have to sit on top of each other to within a few nanometres, otherwise the connections will not match up.",
+      "Not all the chips on a wafer work. The proportion of good ones is called the yield, and it decides whether production pays off. Modern chips are often combined from several smaller building blocks in a single package, or even stacked on top of each other.",
+      "Finally the chips on the wafer are tested, cut out and packaged in a protective housing.",
+      "Hardly any country can manage all these steps alone. Many of the most advanced chips are made in Taiwan. That is why chips have also become a matter of world politics, and Europe wants to become more independent with new plants, for example in Dresden."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "A chip consists of billions of tiny switches, called transistors, which sit on a thin slice of extremely pure silicon.",
+    "The silicon is extracted from quartz sand, purified and grown into large single crystals that are cut into wafer-thin slices.",
+    "Using light, chemicals and hundreds of process steps, the circuits are built up on them layer by layer, in dust-free cleanrooms."
+   ]
+  },
+  "10": {
+   "words": 2339,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "A modern processor is smaller than a postage stamp, yet it contains more switches than there are people on Earth. How do you build something like that? Over the next ten minutes you will learn how the invention of the transistor led to the microchip, how quartz sand is turned into pure silicon, how machines use extreme ultraviolet light to expose patterns onto silicon wafers and how a chip grows from them layer by layer."
+     ]
+    },
+    {
+     "heading": "The brain of technology",
+     "paragraphs": [
+      "Almost every electrical device that can do more than switch on and off contains a chip. What is meant is a small plate of silicon, often only a few millimetres across, that holds a complete electrical circuit. Experts speak of integrated circuits.",
+      "The most important building blocks on it are transistors. At its core, a transistor is a switch that lets current flow or blocks it, without moving parts and at breakneck speed. A switch has two states, on and off, or in the language of computers, one and zero. All numbers, letters, images and sounds can be built from these.",
+      "A chip’s power comes from sheer numbers. Modern processors in smartphones or computers contain many billions of transistors. The finest structures on them measure only a few nanometres; a human hair is about ten thousand times thicker.",
+      "The base material is silicon, the second most common element in the Earth’s crust after oxygen. It is a semiconductor: its conductivity can be changed in a targeted way, and that is exactly what makes it so suitable for transistors.",
+      "Just how dependent we are on chips became clear when they ran short from 2020 onwards. Production lines in many car factories stood still at times. But how did anyone come up with the idea of building something like this?"
+     ]
+    },
+    {
+     "heading": "From transistor to chip",
+     "paragraphs": [
+      "The first electronic computers of the 1940s worked with vacuum tubes. These glass tubes got hot, used a lot of power and often broke down. A computer filled entire halls and constantly needed repairs.",
+      "In 1947, researchers at Bell Laboratories in the United States achieved a breakthrough: they built the first transistor from a semiconductor. It could do the same jobs as a vacuum tube but was much smaller, more robust and more economical. The three inventors were later awarded the Nobel Prize in Physics for it.",
+      "Transistors quickly took over electronics, for example in portable radios. But a problem remained. Each transistor was a separate component that had to be soldered to other components by hand. The more complex the circuits became, the more connections were needed, and the more could go wrong.",
+      "The solution came in 1958 from Jack Kilby, a young engineer at the company Texas Instruments in Dallas. Because as a newcomer he was not yet entitled to a summer holiday, he worked almost alone in the lab. That is when he had the idea of making all the components of a circuit from a single piece of semiconductor, instead of connecting them individually.",
+      "In September 1958 he demonstrated the result to his managers. According to the engineering association IEEE, it was an oscillator on a tiny strip of germanium just over a centimetre long and one and a half millimetres wide. For the first time, electronic components had been combined on a common substrate.",
+      "Independently, Robert Noyce at the company Fairchild Semiconductor developed his own version made of silicon a few months later. It had a decisive advantage: the connections were no longer soldered on as wires but applied directly to the chip as thin metal tracks. That made mass production possible. Today both men are regarded as inventors of the integrated circuit.",
+      "In 2000, Kilby received the Nobel Prize in Physics for his part in the invention. Noyce could not share it, because he had died in 1990. In 1968 he had co-founded the company Intel, whose processors shaped the computer age.",
+      "In 1965, Gordon Moore, another co-founder of Intel, observed that the number of components on a chip was doubling at regular intervals. He predicted that this would continue for a while. He later refined this to roughly every two years. This rule of thumb became known as Moore’s law.",
+      "Astonishingly, the rule held for decades. Intel’s first microprocessor, from 1971, had around two thousand three hundred transistors. Today’s chips have many billions. Moore’s law is not a law of nature but rather a promise that the whole industry steered by and kept fulfilling with enormous effort.",
+      "That was only possible because manufacturing became ever more precise. The path from grain of sand to chip is now a chain of hundreds of steps, and it begins with the search for the perfect crystal."
+     ]
+    },
+    {
+     "heading": "From sand to wafer",
+     "paragraphs": [
+      "It all starts with quartz sand or quartz rock, essentially silicon dioxide, a compound of silicon and oxygen. For chips, however, you need pure silicon, and at a level of purity that occurs nowhere in nature.",
+      "In the first step, the quartz is heated together with carbon in an electric arc furnace at very high temperatures. The carbon strips the oxygen from the quartz, leaving what is called metallurgical-grade silicon. It is already around ninety-nine per cent pure. Most of it, by the way, is not used for chips at all but in the steel and aluminium industries, for example.",
+      "For chips, this is nowhere near enough. So the silicon is chemically converted into a gas that can be purified extremely thoroughly by distillation. In a process named after the company Siemens, solid silicon is then deposited from this gas again, onto hot rods in a reactor.",
+      "The result is silicon of unimaginable purity. The benchmark for chips is a purity of nine nines, that is 99.9999999 per cent. That means at most one foreign atom for every billion silicon atoms. For comparison, it would be roughly as if among all the people in Europe and the Americas put together, at most one person were allowed to wear the wrong T-shirt.",
+      "But this silicon is not yet a uniform crystal; it consists of many small crystal grains aligned in different directions. Chips need a single crystal, in which all the atoms are arranged in one perfect, continuous lattice. Only then do the transistors behave the same everywhere.",
+      "For this, a method is usually used that the Polish chemist Jan Czochralski discovered more than a hundred years ago. The silicon is melted in a crucible made of quartz glass, at a little over 1,400 degrees. A small seed crystal is then dipped into the melt and pulled upwards very slowly while being rotated continuously.",
+      "Silicon atoms gradually attach themselves to the seed crystal and take on its lattice structure. In this way a large, cylindrical single crystal grows over many hours. Today’s crystals have a diameter of around thirty centimetres and are often longer than a person is tall. They weigh hundreds of kilograms.",
+      "At the same time, tiny amounts of other substances, such as boron or phosphorus, can be deliberately added to the melt. These foreign atoms change the electrical conductivity of the silicon. What would otherwise be an impurity is intended here and precisely measured out.",
+      "The finished crystal is cut into wafer-thin slices with wire saws coated with diamond particles. These slices are called wafers. A wafer today has a diameter of three hundred millimetres and is less than a millimetre thick.",
+      "The wafers are then ground, etched and polished until their surface is as smooth as a mirror, with unevenness of only a few atomic layers. Depending on the size of the chips, a single wafer will eventually hold dozens to thousands of them. But before that, the wafer has to go to a place where not even a speck of dust is allowed."
+     ]
+    },
+    {
+     "heading": "Photography at the nanoscale",
+     "paragraphs": [
+      "The patterns for a chip are not drawn or milled but transferred using light. The process is called photolithography, and in principle it works like photography in the days of film cameras.",
+      "First, the wafer is coated with a thin, light-sensitive layer of resist. Then it is exposed. The light shines through a mask, a kind of stencil carrying the pattern of one layer of the chip. A system of lenses or mirrors reduces the image and projects it onto the wafer.",
+      "Where the light strikes, the resist changes chemically. In a developing bath, depending on the type of resist, either the exposed or the unexposed areas dissolve. What remains is a pattern of resist that determines where material will be removed or added in the next step.",
+      "How fine the structures can be depends above all on the wavelength of the light. The shorter it is, the smaller the details that can be reproduced. That is why the industry has used light of ever shorter wavelengths over the decades. For a long time, ultraviolet light with a wavelength of 193 nanometres was the standard.",
+      "With clever tricks, such as exposing under water or exposing the same layer several times, astonishingly small structures could be produced with it. But at some point this reached its limits. The next big step was extreme ultraviolet light, EUV for short, with a wavelength of just 13.5 nanometres.",
+      "Producing EUV light is a technical feat. There is no lamp and no laser that emits it directly. Instead, in the machines made by the Dutch manufacturer ASML, tiny droplets of molten tin are shot through a vacuum chamber, tens of thousands every second. According to ASML, they fly at around seventy metres per second.",
+      "Each droplet is hit by a laser pulse and flattened, like a small pancake. A second, much more powerful pulse then vaporises it into a plasma hotter than the surface of the sun. This plasma emits the desired EUV light. The powerful lasers for this come from the German company Trumpf.",
+      "Guiding the light is difficult too. EUV radiation is absorbed by almost everything, even air and glass. That is why the entire light path runs in a vacuum, and mirrors are used instead of lenses. They consist of many ultra-thin layers and are among the smoothest surfaces ever made. They are produced by the German optics company Zeiss.",
+      "An EUV system is about the size of a bus, consists of hundreds of thousands of individual parts and costs well over a hundred million euros. For transport it is taken apart and then fills numerous containers. ASML is the only company in the world that makes such machines, which makes it one of the most important companies in the entire technology sector.",
+      "But exposure is only one step of many. To turn the resist patterns into real transistors and conductor tracks, a long sequence of further processes follows, repeated again and again."
+     ]
+    },
+    {
+     "heading": "Layer by layer",
+     "paragraphs": [
+      "A chip is not made in a single operation but layer by layer, much as a skyscraper rises storey by storey. For each layer, a similar cycle of coating, exposing, etching and cleaning is repeated.",
+      "Exposure is usually followed by etching. Here, material is removed at the places not protected by the resist. This is done either with liquids or, for the finest structures, with a plasma of reactive gases that eats its way downwards in a very targeted, vertical way. The remaining resist is then removed.",
+      "Another important step is doping. Foreign atoms such as boron or phosphorus are deliberately introduced into certain areas of the silicon. Usually they are shot into the surface at high speed as electrically charged particles. This creates zones with different conductivity, which together form a transistor.",
+      "Then there is the deposition of new layers. Ultra-thin layers of insulating materials, metals or other substances are applied to the wafer, sometimes one atomic layer at a time. In between, the surface is repeatedly ground flat chemically and mechanically, so that the next layer lies on a perfectly level surface.",
+      "At the very bottom, directly in the silicon, the transistors are formed. They used to lie flat on the surface. Today they stick up as tiny fins so that the current can be controlled better, and the newest generations even surround the current channel on all sides.",
+      "Above them, the transistors are connected to each other. For this, a network of conductor tracks, usually made of copper, is built and spread over a dozen or more levels. The lowest tracks are extremely fine, the upper ones wider and wider. Together, the conductor tracks on a single chip are often many kilometres long.",
+      "In all, a modern chip goes through several hundred to more than a thousand individual process steps. Everything has to be right at every single one. The layers have to sit on top of each other to within a few nanometres, otherwise the connections will not match up. It is as if in a hundred-storey skyscraper every power socket had to be placed precisely above the one below it, to the millimetre.",
+      "Measurements are taken constantly between the steps. Special instruments check the thickness of layers, the width of lines and the position of patterns. If a fault is found, it can sometimes be corrected; sometimes the wafer has to be discarded.",
+      "You often hear that a chip is made in three or two nanometres. These figures, however, are mainly names for a technology generation. They no longer correspond to any particular length on the chip. The actual distances between transistors are usually larger, but still unimaginably small.",
+      "When all the layers are finished, the wafer shimmers in all the colours of the rainbow, because the fine structures diffract the light. It now carries hundreds of finished chips packed closely together. But whether they actually work only becomes clear in the next step."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Jack Kilby built the first integrated circuit in 1958, and since then the number of transistors per chip has doubled again and again.",
+    "Chips need silicon of extreme purity, grown as a perfect crystal and cut into slices called wafers.",
+    "The finest structures are exposed with extreme ultraviolet light, which is produced from tiny tin droplets vaporised by a laser."
+   ]
+  },
+  "15": {
+   "words": 3121,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Chips are found in cars, coffee machines, pacemakers and data centres. When they became scarce in 2021, production lines in car factories ground to a halt. Here you will learn what actually happens inside a chip, how the idea of the integrated circuit came about, how sand becomes perfect silicon crystals, why chip factories are cleaner than any operating theatre, how exposure with light works and how hundreds of process steps turn into a finished circuit."
+     ]
+    },
+    {
+     "heading": "The brain of technology",
+     "paragraphs": [
+      "Almost every electrical device that can do more than switch on and off contains a chip. In English the word originally means a small broken-off piece, a splinter. What is meant is a small plate of silicon, often only a few millimetres across, that holds a complete electrical circuit. That is why experts also speak of integrated circuits.",
+      "The most important building blocks on it are transistors. At its core, a transistor is a switch that lets current flow or blocks it, but without any moving parts and at breakneck speed. It is controlled not by a finger but by an electrical voltage. A modern transistor can switch billions of times per second.",
+      "An astonishing amount can be built from such switches. A switch has two states, on and off, or in the language of computers, one and zero. These two digits can represent all numbers, and with them letters, images, music and videos. Combining transistors cleverly produces circuits that can calculate, compare and store data.",
+      "A single transistor cannot do much. A chip’s power comes from sheer numbers. Modern processors in smartphones or computers contain many billions of transistors. They work together like the nerve cells in a brain, only according to strictly defined rules.",
+      "There are many kinds of chips. Processors are the central computing units of computers and smartphones. Memory chips store data. Graphics chips calculate images and are now also the workhorses of artificial intelligence. On top of these come countless smaller chips that control motors, evaluate sensors or regulate power.",
+      "These inconspicuous chips in particular are everywhere. A modern car often contains more than a thousand of them, for brakes, airbags, electric windows and the navigation system. Washing machines, hearing aids, traffic lights and wind turbines cannot do without them either.",
+      "Just how dependent we are on them became clear from 2020 onwards. During the coronavirus pandemic, demand for laptops and electronics rose sharply while supply chains were thrown into disarray. Chips became scarce, and in 2021 production lines in many car factories stood still at times because individual components costing only a few euros were missing.",
+      "The base material of most chips is silicon. After oxygen, it is the second most common element in the Earth’s crust and is found in quartz sand, for example. Silicon is a semiconductor: it conducts electricity less well than a metal but better than an insulator, and its conductivity can be changed in a targeted way. That is exactly what makes it so suitable for transistors.",
+      "For the switches to be small, fast and economical, they have to be tiny. The finest structures on today’s chips measure only a few nanometres. A nanometre is a millionth of a millimetre. A human hair is about ten thousand times thicker.",
+      "How did anyone come up with the idea of building something like this, and how is it even possible? The story begins with an invention that made valves and wires superfluous."
+     ]
+    },
+    {
+     "heading": "From transistor to chip",
+     "paragraphs": [
+      "The first electronic computers of the 1940s worked with vacuum tubes. These glass tubes got hot, used a lot of power and often broke down. A computer filled entire halls and constantly needed repairs.",
+      "In 1947, researchers at Bell Laboratories in the United States achieved a breakthrough: they built the first transistor from a semiconductor. It could do the same jobs as a vacuum tube but was much smaller, more robust and more economical. The three inventors were later awarded the Nobel Prize in Physics for it.",
+      "Transistors quickly took over electronics, for example in portable radios. But a problem remained. Each transistor was a separate component that had to be soldered to other components by hand. The more complex the circuits became, the more connections were needed, and the more could go wrong.",
+      "The solution came in 1958 from Jack Kilby, a young engineer at the company Texas Instruments in Dallas. Because as a newcomer he was not yet entitled to a summer holiday, he worked almost alone in the lab. That is when he had the idea of making all the components of a circuit from a single piece of semiconductor, instead of connecting them individually.",
+      "In September 1958 he demonstrated the result to his managers. According to the engineering association IEEE, it was an oscillator on a tiny strip of germanium just over a centimetre long and one and a half millimetres wide. For the first time, electronic components had been combined on a common substrate.",
+      "Independently, Robert Noyce at the company Fairchild Semiconductor developed his own version made of silicon a few months later. It had a decisive advantage: the connections were no longer soldered on as wires but applied directly to the chip as thin metal tracks. That made mass production possible. Today both men are regarded as inventors of the integrated circuit.",
+      "In 2000, Kilby received the Nobel Prize in Physics for his part in the invention. Noyce could not share it, because he had died in 1990. In 1968 he had co-founded the company Intel, whose processors shaped the computer age.",
+      "In 1965, Gordon Moore, another co-founder of Intel, observed that the number of components on a chip was doubling at regular intervals. He predicted that this would continue for a while. He later refined this to roughly every two years. This rule of thumb became known as Moore’s law.",
+      "Astonishingly, the rule held for decades. Intel’s first microprocessor, from 1971, had around two thousand three hundred transistors. Today’s chips have many billions. Moore’s law is not a law of nature but rather a promise that the whole industry steered by and kept fulfilling with enormous effort.",
+      "That was only possible because manufacturing became ever more precise. The path from grain of sand to chip is now a chain of hundreds of steps, and it begins with the search for the perfect crystal."
+     ]
+    },
+    {
+     "heading": "From sand to wafer",
+     "paragraphs": [
+      "It all starts with quartz sand or quartz rock, essentially silicon dioxide, a compound of silicon and oxygen. For chips, however, you need pure silicon, and at a level of purity that occurs nowhere in nature.",
+      "In the first step, the quartz is heated together with carbon in an electric arc furnace at very high temperatures. The carbon strips the oxygen from the quartz, leaving what is called metallurgical-grade silicon. It is already around ninety-nine per cent pure. Most of it, by the way, is not used for chips at all but in the steel and aluminium industries, for example.",
+      "For chips, this is nowhere near enough. So the silicon is chemically converted into a gas that can be purified extremely thoroughly by distillation. In a process named after the company Siemens, solid silicon is then deposited from this gas again, onto hot rods in a reactor.",
+      "The result is silicon of unimaginable purity. The benchmark for chips is a purity of nine nines, that is 99.9999999 per cent. That means at most one foreign atom for every billion silicon atoms. For comparison, it would be roughly as if among all the people in Europe and the Americas put together, at most one person were allowed to wear the wrong T-shirt.",
+      "But this silicon is not yet a uniform crystal; it consists of many small crystal grains aligned in different directions. Chips need a single crystal, in which all the atoms are arranged in one perfect, continuous lattice. Only then do the transistors behave the same everywhere.",
+      "For this, a method is usually used that the Polish chemist Jan Czochralski discovered more than a hundred years ago. The silicon is melted in a crucible made of quartz glass, at a little over 1,400 degrees. A small seed crystal is then dipped into the melt and pulled upwards very slowly while being rotated continuously.",
+      "Silicon atoms gradually attach themselves to the seed crystal and take on its lattice structure. In this way a large, cylindrical single crystal grows over many hours. Today’s crystals have a diameter of around thirty centimetres and are often longer than a person is tall. They weigh hundreds of kilograms.",
+      "At the same time, tiny amounts of other substances, such as boron or phosphorus, can be deliberately added to the melt. These foreign atoms change the electrical conductivity of the silicon. What would otherwise be an impurity is intended here and precisely measured out.",
+      "The finished crystal is cut into wafer-thin slices with wire saws coated with diamond particles. These slices are called wafers. A wafer today has a diameter of three hundred millimetres and is less than a millimetre thick.",
+      "The wafers are then ground, etched and polished until their surface is as smooth as a mirror, with unevenness of only a few atomic layers. Depending on the size of the chips, a single wafer will eventually hold dozens to thousands of them. But before that, the wafer has to go to a place where not even a speck of dust is allowed."
+     ]
+    },
+    {
+     "heading": "In the cleanroom",
+     "paragraphs": [
+      "Chips are made in factories that the industry calls fabs. Their heart is the cleanroom. The air there is so clean that an operating theatre seems dirty by comparison. In the cleanest areas, a cubic metre of air may contain only a handful of tiny particles. Normal city air contains millions of them.",
+      "The reason is simple: the structures on a chip are much smaller than a speck of dust. If a single particle lands in the wrong place, it can break a conductor track or cause a short circuit, and the chip is useless.",
+      "To prevent this, air is constantly blown downwards through filters in the ceiling and sucked out through the floor. In this way particles are carried away immediately. Temperature and humidity are precisely controlled, because even small fluctuations can disturb the sensitive processes.",
+      "The biggest source of dirt in the cleanroom is people. We constantly shed skin flakes, hairs and tiny droplets. That is why all staff wear full-body suits with hoods, face masks, gloves and overshoes. Before they are allowed in, they pass through airlocks where air showers blow away the last particles. Make-up and perfume are off-limits.",
+      "In modern fabs, however, people hardly come near the wafers any more. The wafers travel in closed containers that run on rails beneath the ceiling from machine to machine. Robots open them, load the wafers and take them out again. People mainly monitor the equipment and deal with faults.",
+      "Everything else has to be extremely pure too. Chip factories need large quantities of what is called ultrapure water, from which almost all minerals and particles have been removed, to rinse the wafers. In addition there are high-purity gases and chemicals. Even the smallest impurities could reduce the yield of working chips.",
+      "Many factories are located in areas with little risk of earthquakes or are built to be especially free of vibration. Even the slightest tremors, from a passing lorry for instance, could disturb exposure, where fractions of a nanometre matter.",
+      "A modern chip factory is one of the most expensive buildings in the world. A plant that makes the most advanced chips often requires an investment of more than ten billion dollars. A large part of the money goes into the machines, some of which individually cost more than an airliner.",
+      "This investment only pays off if the factory runs around the clock. That is why many fabs operate in shifts every day of the year. A shutdown, for instance due to a power cut, can cause huge losses, because the wafers being processed at the time are often lost.",
+      "It usually takes several months for a wafer to go through all the steps. During this time it travels back and forth hundreds of times between different machines, for exposure, etching, deposition, cleaning and measurement.",
+      "The most important and most expensive of these steps is exposure. It determines how fine the structures on the chip can be, and the progress of the entire industry depends on it."
+     ]
+    },
+    {
+     "heading": "Photography at the nanoscale",
+     "paragraphs": [
+      "The patterns for a chip are not drawn or milled but transferred using light. The process is called photolithography, and in principle it works like photography in the days of film cameras.",
+      "First, the wafer is coated with a thin, light-sensitive layer of resist. Then it is exposed. The light shines through a mask, a kind of stencil carrying the pattern of one layer of the chip. A system of lenses or mirrors reduces the image and projects it onto the wafer.",
+      "Where the light strikes, the resist changes chemically. In a developing bath, depending on the type of resist, either the exposed or the unexposed areas dissolve. What remains is a pattern of resist that determines where material will be removed or added in the next step.",
+      "How fine the structures can be depends above all on the wavelength of the light. The shorter it is, the smaller the details that can be reproduced. That is why the industry has used light of ever shorter wavelengths over the decades. For a long time, ultraviolet light with a wavelength of 193 nanometres was the standard.",
+      "With clever tricks, such as exposing under water or exposing the same layer several times, astonishingly small structures could be produced with it. But at some point this reached its limits. The next big step was extreme ultraviolet light, EUV for short, with a wavelength of just 13.5 nanometres.",
+      "Producing EUV light is a technical feat. There is no lamp and no laser that emits it directly. Instead, in the machines made by the Dutch manufacturer ASML, tiny droplets of molten tin are shot through a vacuum chamber, tens of thousands every second. According to ASML, they fly at around seventy metres per second.",
+      "Each droplet is hit by a laser pulse and flattened, like a small pancake. A second, much more powerful pulse then vaporises it into a plasma hotter than the surface of the sun. This plasma emits the desired EUV light. The powerful lasers for this come from the German company Trumpf.",
+      "Guiding the light is difficult too. EUV radiation is absorbed by almost everything, even air and glass. That is why the entire light path runs in a vacuum, and mirrors are used instead of lenses. They consist of many ultra-thin layers and are among the smoothest surfaces ever made. They are produced by the German optics company Zeiss.",
+      "An EUV system is about the size of a bus, consists of hundreds of thousands of individual parts and costs well over a hundred million euros. For transport it is taken apart and then fills numerous containers. ASML is the only company in the world that makes such machines, which makes it one of the most important companies in the entire technology sector.",
+      "But exposure is only one step of many. To turn the resist patterns into real transistors and conductor tracks, a long sequence of further processes follows, repeated again and again."
+     ]
+    },
+    {
+     "heading": "Layer by layer",
+     "paragraphs": [
+      "A chip is not made in a single operation but layer by layer, much as a skyscraper rises storey by storey. For each layer, a similar cycle of coating, exposing, etching and cleaning is repeated.",
+      "Exposure is usually followed by etching. Here, material is removed at the places not protected by the resist. This is done either with liquids or, for the finest structures, with a plasma of reactive gases that eats its way downwards in a very targeted, vertical way. The remaining resist is then removed.",
+      "Another important step is doping. Foreign atoms such as boron or phosphorus are deliberately introduced into certain areas of the silicon. Usually they are shot into the surface at high speed as electrically charged particles. This creates zones with different conductivity, which together form a transistor.",
+      "Then there is the deposition of new layers. Ultra-thin layers of insulating materials, metals or other substances are applied to the wafer, sometimes one atomic layer at a time. In between, the surface is repeatedly ground flat chemically and mechanically, so that the next layer lies on a perfectly level surface.",
+      "At the very bottom, directly in the silicon, the transistors are formed. They used to lie flat on the surface. Today they stick up as tiny fins so that the current can be controlled better, and the newest generations even surround the current channel on all sides.",
+      "Above them, the transistors are connected to each other. For this, a network of conductor tracks, usually made of copper, is built and spread over a dozen or more levels. The lowest tracks are extremely fine, the upper ones wider and wider. Together, the conductor tracks on a single chip are often many kilometres long.",
+      "In all, a modern chip goes through several hundred to more than a thousand individual process steps. Everything has to be right at every single one. The layers have to sit on top of each other to within a few nanometres, otherwise the connections will not match up. It is as if in a hundred-storey skyscraper every power socket had to be placed precisely above the one below it, to the millimetre.",
+      "Measurements are taken constantly between the steps. Special instruments check the thickness of layers, the width of lines and the position of patterns. If a fault is found, it can sometimes be corrected; sometimes the wafer has to be discarded.",
+      "You often hear that a chip is made in three or two nanometres. These figures, however, are mainly names for a technology generation. They no longer correspond to any particular length on the chip. The actual distances between transistors are usually larger, but still unimaginably small.",
+      "When all the layers are finished, the wafer shimmers in all the colours of the rainbow, because the fine structures diffract the light. It now carries hundreds of finished chips packed closely together. But whether they actually work only becomes clear in the next step."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Transistors are electrical switches, and the art of chipmaking lies in producing billions of them flawlessly in the smallest possible space.",
+    "A single speck of dust can ruin a chip, which is why chip factories work in cleanrooms with filtered air and a high degree of automation.",
+    "Exposure, etching, doping and deposition are repeated hundreds of times until a finished chip with many layers emerges."
+   ]
+  },
+  "20": {
+   "words": 4151,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "In September 1958, a young engineer in Texas showed his managers an unremarkable piece of germanium with a few wires attached. It was the first integrated circuit. Today chips are built in factories that cost billions, using machines that generate light from exploding droplets of tin. In this article you will learn what a chip is, how it was invented, how it is made from sand all the way to the finished component and why the chip industry has become a matter of world politics."
+     ]
+    },
+    {
+     "heading": "The brain of technology",
+     "paragraphs": [
+      "Almost every electrical device that can do more than switch on and off contains a chip. In English the word originally means a small broken-off piece, a splinter. What is meant is a small plate of silicon, often only a few millimetres across, that holds a complete electrical circuit. That is why experts also speak of integrated circuits.",
+      "The most important building blocks on it are transistors. At its core, a transistor is a switch that lets current flow or blocks it, but without any moving parts and at breakneck speed. It is controlled not by a finger but by an electrical voltage. A modern transistor can switch billions of times per second.",
+      "An astonishing amount can be built from such switches. A switch has two states, on and off, or in the language of computers, one and zero. These two digits can represent all numbers, and with them letters, images, music and videos. Combining transistors cleverly produces circuits that can calculate, compare and store data.",
+      "A single transistor cannot do much. A chip’s power comes from sheer numbers. Modern processors in smartphones or computers contain many billions of transistors. They work together like the nerve cells in a brain, only according to strictly defined rules.",
+      "There are many kinds of chips. Processors are the central computing units of computers and smartphones. Memory chips store data. Graphics chips calculate images and are now also the workhorses of artificial intelligence. On top of these come countless smaller chips that control motors, evaluate sensors or regulate power.",
+      "These inconspicuous chips in particular are everywhere. A modern car often contains more than a thousand of them, for brakes, airbags, electric windows and the navigation system. Washing machines, hearing aids, traffic lights and wind turbines cannot do without them either.",
+      "Just how dependent we are on them became clear from 2020 onwards. During the coronavirus pandemic, demand for laptops and electronics rose sharply while supply chains were thrown into disarray. Chips became scarce, and in 2021 production lines in many car factories stood still at times because individual components costing only a few euros were missing.",
+      "The base material of most chips is silicon. After oxygen, it is the second most common element in the Earth’s crust and is found in quartz sand, for example. Silicon is a semiconductor: it conducts electricity less well than a metal but better than an insulator, and its conductivity can be changed in a targeted way. That is exactly what makes it so suitable for transistors.",
+      "For the switches to be small, fast and economical, they have to be tiny. The finest structures on today’s chips measure only a few nanometres. A nanometre is a millionth of a millimetre. A human hair is about ten thousand times thicker.",
+      "How did anyone come up with the idea of building something like this, and how is it even possible? The story begins with an invention that made valves and wires superfluous."
+     ]
+    },
+    {
+     "heading": "From transistor to chip",
+     "paragraphs": [
+      "The first electronic computers of the 1940s worked with vacuum tubes. These glass tubes got hot, used a lot of power and often broke down. A computer filled entire halls and constantly needed repairs.",
+      "In 1947, researchers at Bell Laboratories in the United States achieved a breakthrough: they built the first transistor from a semiconductor. It could do the same jobs as a vacuum tube but was much smaller, more robust and more economical. The three inventors were later awarded the Nobel Prize in Physics for it.",
+      "Transistors quickly took over electronics, for example in portable radios. But a problem remained. Each transistor was a separate component that had to be soldered to other components by hand. The more complex the circuits became, the more connections were needed, and the more could go wrong.",
+      "The solution came in 1958 from Jack Kilby, a young engineer at the company Texas Instruments in Dallas. Because as a newcomer he was not yet entitled to a summer holiday, he worked almost alone in the lab. That is when he had the idea of making all the components of a circuit from a single piece of semiconductor, instead of connecting them individually.",
+      "In September 1958 he demonstrated the result to his managers. According to the engineering association IEEE, it was an oscillator on a tiny strip of germanium just over a centimetre long and one and a half millimetres wide. For the first time, electronic components had been combined on a common substrate.",
+      "Independently, Robert Noyce at the company Fairchild Semiconductor developed his own version made of silicon a few months later. It had a decisive advantage: the connections were no longer soldered on as wires but applied directly to the chip as thin metal tracks. That made mass production possible. Today both men are regarded as inventors of the integrated circuit.",
+      "In 2000, Kilby received the Nobel Prize in Physics for his part in the invention. Noyce could not share it, because he had died in 1990. In 1968 he had co-founded the company Intel, whose processors shaped the computer age.",
+      "In 1965, Gordon Moore, another co-founder of Intel, observed that the number of components on a chip was doubling at regular intervals. He predicted that this would continue for a while. He later refined this to roughly every two years. This rule of thumb became known as Moore’s law.",
+      "Astonishingly, the rule held for decades. Intel’s first microprocessor, from 1971, had around two thousand three hundred transistors. Today’s chips have many billions. Moore’s law is not a law of nature but rather a promise that the whole industry steered by and kept fulfilling with enormous effort.",
+      "That was only possible because manufacturing became ever more precise. The path from grain of sand to chip is now a chain of hundreds of steps, and it begins with the search for the perfect crystal."
+     ]
+    },
+    {
+     "heading": "From sand to wafer",
+     "paragraphs": [
+      "It all starts with quartz sand or quartz rock, essentially silicon dioxide, a compound of silicon and oxygen. For chips, however, you need pure silicon, and at a level of purity that occurs nowhere in nature.",
+      "In the first step, the quartz is heated together with carbon in an electric arc furnace at very high temperatures. The carbon strips the oxygen from the quartz, leaving what is called metallurgical-grade silicon. It is already around ninety-nine per cent pure. Most of it, by the way, is not used for chips at all but in the steel and aluminium industries, for example.",
+      "For chips, this is nowhere near enough. So the silicon is chemically converted into a gas that can be purified extremely thoroughly by distillation. In a process named after the company Siemens, solid silicon is then deposited from this gas again, onto hot rods in a reactor.",
+      "The result is silicon of unimaginable purity. The benchmark for chips is a purity of nine nines, that is 99.9999999 per cent. That means at most one foreign atom for every billion silicon atoms. For comparison, it would be roughly as if among all the people in Europe and the Americas put together, at most one person were allowed to wear the wrong T-shirt.",
+      "But this silicon is not yet a uniform crystal; it consists of many small crystal grains aligned in different directions. Chips need a single crystal, in which all the atoms are arranged in one perfect, continuous lattice. Only then do the transistors behave the same everywhere.",
+      "For this, a method is usually used that the Polish chemist Jan Czochralski discovered more than a hundred years ago. The silicon is melted in a crucible made of quartz glass, at a little over 1,400 degrees. A small seed crystal is then dipped into the melt and pulled upwards very slowly while being rotated continuously.",
+      "Silicon atoms gradually attach themselves to the seed crystal and take on its lattice structure. In this way a large, cylindrical single crystal grows over many hours. Today’s crystals have a diameter of around thirty centimetres and are often longer than a person is tall. They weigh hundreds of kilograms.",
+      "At the same time, tiny amounts of other substances, such as boron or phosphorus, can be deliberately added to the melt. These foreign atoms change the electrical conductivity of the silicon. What would otherwise be an impurity is intended here and precisely measured out.",
+      "The finished crystal is cut into wafer-thin slices with wire saws coated with diamond particles. These slices are called wafers. A wafer today has a diameter of three hundred millimetres and is less than a millimetre thick.",
+      "The wafers are then ground, etched and polished until their surface is as smooth as a mirror, with unevenness of only a few atomic layers. Depending on the size of the chips, a single wafer will eventually hold dozens to thousands of them. But before that, the wafer has to go to a place where not even a speck of dust is allowed."
+     ]
+    },
+    {
+     "heading": "In the cleanroom",
+     "paragraphs": [
+      "Chips are made in factories that the industry calls fabs. Their heart is the cleanroom. The air there is so clean that an operating theatre seems dirty by comparison. In the cleanest areas, a cubic metre of air may contain only a handful of tiny particles. Normal city air contains millions of them.",
+      "The reason is simple: the structures on a chip are much smaller than a speck of dust. If a single particle lands in the wrong place, it can break a conductor track or cause a short circuit, and the chip is useless.",
+      "To prevent this, air is constantly blown downwards through filters in the ceiling and sucked out through the floor. In this way particles are carried away immediately. Temperature and humidity are precisely controlled, because even small fluctuations can disturb the sensitive processes.",
+      "The biggest source of dirt in the cleanroom is people. We constantly shed skin flakes, hairs and tiny droplets. That is why all staff wear full-body suits with hoods, face masks, gloves and overshoes. Before they are allowed in, they pass through airlocks where air showers blow away the last particles. Make-up and perfume are off-limits.",
+      "In modern fabs, however, people hardly come near the wafers any more. The wafers travel in closed containers that run on rails beneath the ceiling from machine to machine. Robots open them, load the wafers and take them out again. People mainly monitor the equipment and deal with faults.",
+      "Everything else has to be extremely pure too. Chip factories need large quantities of what is called ultrapure water, from which almost all minerals and particles have been removed, to rinse the wafers. In addition there are high-purity gases and chemicals. Even the smallest impurities could reduce the yield of working chips.",
+      "Many factories are located in areas with little risk of earthquakes or are built to be especially free of vibration. Even the slightest tremors, from a passing lorry for instance, could disturb exposure, where fractions of a nanometre matter.",
+      "A modern chip factory is one of the most expensive buildings in the world. A plant that makes the most advanced chips often requires an investment of more than ten billion dollars. A large part of the money goes into the machines, some of which individually cost more than an airliner.",
+      "This investment only pays off if the factory runs around the clock. That is why many fabs operate in shifts every day of the year. A shutdown, for instance due to a power cut, can cause huge losses, because the wafers being processed at the time are often lost.",
+      "It usually takes several months for a wafer to go through all the steps. During this time it travels back and forth hundreds of times between different machines, for exposure, etching, deposition, cleaning and measurement.",
+      "The most important and most expensive of these steps is exposure. It determines how fine the structures on the chip can be, and the progress of the entire industry depends on it."
+     ]
+    },
+    {
+     "heading": "Photography at the nanoscale",
+     "paragraphs": [
+      "The patterns for a chip are not drawn or milled but transferred using light. The process is called photolithography, and in principle it works like photography in the days of film cameras.",
+      "First, the wafer is coated with a thin, light-sensitive layer of resist. Then it is exposed. The light shines through a mask, a kind of stencil carrying the pattern of one layer of the chip. A system of lenses or mirrors reduces the image and projects it onto the wafer.",
+      "Where the light strikes, the resist changes chemically. In a developing bath, depending on the type of resist, either the exposed or the unexposed areas dissolve. What remains is a pattern of resist that determines where material will be removed or added in the next step.",
+      "How fine the structures can be depends above all on the wavelength of the light. The shorter it is, the smaller the details that can be reproduced. That is why the industry has used light of ever shorter wavelengths over the decades. For a long time, ultraviolet light with a wavelength of 193 nanometres was the standard.",
+      "With clever tricks, such as exposing under water or exposing the same layer several times, astonishingly small structures could be produced with it. But at some point this reached its limits. The next big step was extreme ultraviolet light, EUV for short, with a wavelength of just 13.5 nanometres.",
+      "Producing EUV light is a technical feat. There is no lamp and no laser that emits it directly. Instead, in the machines made by the Dutch manufacturer ASML, tiny droplets of molten tin are shot through a vacuum chamber, tens of thousands every second. According to ASML, they fly at around seventy metres per second.",
+      "Each droplet is hit by a laser pulse and flattened, like a small pancake. A second, much more powerful pulse then vaporises it into a plasma hotter than the surface of the sun. This plasma emits the desired EUV light. The powerful lasers for this come from the German company Trumpf.",
+      "Guiding the light is difficult too. EUV radiation is absorbed by almost everything, even air and glass. That is why the entire light path runs in a vacuum, and mirrors are used instead of lenses. They consist of many ultra-thin layers and are among the smoothest surfaces ever made. They are produced by the German optics company Zeiss.",
+      "An EUV system is about the size of a bus, consists of hundreds of thousands of individual parts and costs well over a hundred million euros. For transport it is taken apart and then fills numerous containers. ASML is the only company in the world that makes such machines, which makes it one of the most important companies in the entire technology sector.",
+      "But exposure is only one step of many. To turn the resist patterns into real transistors and conductor tracks, a long sequence of further processes follows, repeated again and again."
+     ]
+    },
+    {
+     "heading": "Layer by layer",
+     "paragraphs": [
+      "A chip is not made in a single operation but layer by layer, much as a skyscraper rises storey by storey. For each layer, a similar cycle of coating, exposing, etching and cleaning is repeated.",
+      "Exposure is usually followed by etching. Here, material is removed at the places not protected by the resist. This is done either with liquids or, for the finest structures, with a plasma of reactive gases that eats its way downwards in a very targeted, vertical way. The remaining resist is then removed.",
+      "Another important step is doping. Foreign atoms such as boron or phosphorus are deliberately introduced into certain areas of the silicon. Usually they are shot into the surface at high speed as electrically charged particles. This creates zones with different conductivity, which together form a transistor.",
+      "Then there is the deposition of new layers. Ultra-thin layers of insulating materials, metals or other substances are applied to the wafer, sometimes one atomic layer at a time. In between, the surface is repeatedly ground flat chemically and mechanically, so that the next layer lies on a perfectly level surface.",
+      "At the very bottom, directly in the silicon, the transistors are formed. They used to lie flat on the surface. Today they stick up as tiny fins so that the current can be controlled better, and the newest generations even surround the current channel on all sides.",
+      "Above them, the transistors are connected to each other. For this, a network of conductor tracks, usually made of copper, is built and spread over a dozen or more levels. The lowest tracks are extremely fine, the upper ones wider and wider. Together, the conductor tracks on a single chip are often many kilometres long.",
+      "In all, a modern chip goes through several hundred to more than a thousand individual process steps. Everything has to be right at every single one. The layers have to sit on top of each other to within a few nanometres, otherwise the connections will not match up. It is as if in a hundred-storey skyscraper every power socket had to be placed precisely above the one below it, to the millimetre.",
+      "Measurements are taken constantly between the steps. Special instruments check the thickness of layers, the width of lines and the position of patterns. If a fault is found, it can sometimes be corrected; sometimes the wafer has to be discarded.",
+      "You often hear that a chip is made in three or two nanometres. These figures, however, are mainly names for a technology generation. They no longer correspond to any particular length on the chip. The actual distances between transistors are usually larger, but still unimaginably small.",
+      "When all the layers are finished, the wafer shimmers in all the colours of the rainbow, because the fine structures diffract the light. It now carries hundreds of finished chips packed closely together. But whether they actually work only becomes clear in the next step."
+     ]
+    },
+    {
+     "heading": "Testing, cutting, packaging",
+     "paragraphs": [
+      "Before the wafer is cut up, the chips on it are tested. A machine places fine needles on contact pads of each chip and sends electrical signals through them. This tells it which chips work perfectly and which do not. Faulty ones are marked.",
+      "The proportion of working chips on a wafer is called the yield. It is one of the most important figures for any chip factory. With a new technology generation, the yield is often low at first because not all processes are yet fully mastered. Over time it rises, and only then does production become truly profitable.",
+      "Larger chips have a harder time. Because defects are randomly distributed across the wafer, a large chip is more likely to catch one of them. That is why huge chips are particularly expensive.",
+      "Not every faulty chip ends up in the bin. In processors with many identical cores, a defective core can simply be switched off and the chip sold as a slightly less powerful model. The speed at which a chip runs reliably also varies slightly. Manufacturers sort chips into different performance classes accordingly.",
+      "Testing a single wafer can take hours, and the testing machines themselves are complex and expensive. Manufacturers therefore try to find faults as early as possible, ideally while the wafer is still being processed, so that no further effort is wasted on defective chips.",
+      "Then the wafer is cut up with fine diamond saws or lasers. The individual chips, called dies in industry jargon, are still bare silicon plates at this point. They are delicate and could not be built into a device in this state.",
+      "That is why they are packaged. Each chip is placed on a carrier, connected electrically with fine wires or tiny solder balls and protected with a housing. The package also makes sure heat can be carried away, because modern processors get very hot in operation.",
+      "Packaging used to be regarded as a simple last step. It has since become a high technology in its own right. Instead of building one huge chip, manufacturers today often combine several smaller chips in a single package, known as chiplets. This improves the yield and makes it possible to combine different manufacturing technologies.",
+      "Some chips are even stacked on top of each other and linked by tiny vertical connections. This produces, for example, particularly fast memory of the kind needed for data centres and artificial intelligence. In this way the chip grows, so to speak, into the third dimension.",
+      "Finally there is a last test of the finished, packaged component, sometimes under heat and stress, to weed out early failures. Only then is the chip delivered to device manufacturers.",
+      "From quartz sand to finished chip takes many months, and the product often travels halfway around the world in the process. This global division of labour is a strength of the industry and at the same time its greatest weakness."
+     ]
+    },
+    {
+     "heading": "A global industry under pressure",
+     "paragraphs": [
+      "Hardly any country can make a modern chip entirely on its own. Design often takes place in the United States, the lithography machines come from the Netherlands, mirrors and lasers from Germany, special chemicals and wafers from Japan. The most advanced chips are largely made in Taiwan and often packaged and tested in other Asian countries.",
+      "The Taiwanese company TSMC plays a special role. It does not design chips of its own but manufactures them on behalf of other firms. Many of the world’s most powerful processors, for smartphones, computers and artificial intelligence, are made in its plants.",
+      "This concentration makes supply chains vulnerable. An earthquake, a pandemic or a political conflict in a single region could disrupt supplies for the whole world. The chip crisis from 2020 onwards made this very clear to many governments.",
+      "Chips have therefore also become a matter of world politics. The United States has severely restricted exports of advanced chips and manufacturing equipment to China, and the Netherlands and Japan have introduced similar rules. China, for its part, is investing enormous sums to build up its own chip industry.",
+      "Europe also wants to increase its share of chip manufacturing. The European Union has passed its own Chips Act for this purpose and is subsidising new plants with billions. One focus is Dresden, where several chip factories already stand and the Taiwanese manufacturer TSMC is building a new plant together with European partners.",
+      "Chip factories have their downsides too, however. They consume huge amounts of electricity and water, and some processes use gases that can contribute strongly to global warming. Manufacturers are working on reusing water, switching to renewable energy and replacing harmful gases or rendering them harmless.",
+      "Skilled workers are another bottleneck. Chip factories need thousands of specialists, from engineers and physicists to technicians who maintain the equipment. Many countries that want to attract new plants are therefore setting up degree courses and training programmes at the same time.",
+      "At the same time, miniaturisation is reaching physical limits. Many structures are now only a few dozen atoms wide. At such sizes, effects of quantum physics begin to take hold, and electrons can slip through barriers that are supposed to stop them.",
+      "The industry is therefore looking for new paths. These include new transistor shapes, lithography machines with even greater precision, stacked chips and new materials. Some researchers are working on completely different approaches, such as chips that compute with light instead of electricity.",
+      "Another trend is chips designed for one particular task, such as artificial intelligence, video or encryption. They can do that one job far more efficiently than a general-purpose processor. Large technology companies increasingly design such chips themselves and have them manufactured by contract producers.",
+      "Whether Moore’s law will continue at its old pace is disputed. What is certain is that the demand for computing power keeps growing, not least because of artificial intelligence. So the race for better chips will go on.",
+      "The next time you look at your smartphone, it is worth a brief thought about its journey: from quartz sand via a glowing crystal, through cleanrooms and tin plasma, across hundreds of process steps and several continents, into your hand."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "From wafer to finished component, a chip often goes through months and more than a thousand process steps, ending with testing and packaging.",
+    "A few companies in a few countries control crucial steps, which makes supply chains vulnerable and chips politically important.",
+    "Because structures can hardly get any smaller, the industry is increasingly turning to new transistor shapes and stacked chips."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "title": "Milestones: First Semiconductor Integrated Circuit (IC), 1958",
+   "publisher": "IEEE, Engineering and Technology History Wiki",
+   "url": "https://ethw.org/Milestones:First_Semiconductor_Integrated_Circuit_(IC),_1958",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Scientist of the Day: Jack Kilby",
+   "publisher": "Linda Hall Library",
+   "url": "https://www.lindahall.org/about/news/scientist-of-the-day/jack-kilby",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Silicon Wafer Production",
+   "publisher": "MKS Instruments",
+   "url": "https://www.mks.com/n/silicon-wafer-production",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "The hottest thing about ASML machines",
+   "publisher": "ASML",
+   "url": "https://www.asml.com/en/discover/hot-machines",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "About ASML: Extreme Ultraviolet lithography",
+   "publisher": "Brainport Eindhoven",
+   "url": "https://brainporteindhoven.com/int/work/companies/asml/about-asml",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "EUV lithography: enabling progress in the digital era",
+   "publisher": "TRUMPF (Produktinformation)",
+   "url": "https://www.directindustry.com/prod/trumpf-maquinaria-s-a/product-216245-2255940.html",
+   "accessed": "2026-11-03"
+  }
+ ],
+ "factCheckedAt": "2026-11-03"
+}
