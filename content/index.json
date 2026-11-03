@@ -51,6 +51,39 @@
       }
     },
     {
+      "id": "compound-interest",
+      "category": "tech-economy",
+      "publishedAt": "2026-11-03",
+      "motif": "growth",
+      "tags": [
+        "geld",
+        "börse",
+        "finanzen"
+      ],
+      "title": {
+        "de": "Zinseszins und wie Börsen funktionieren",
+        "en": "Compound Interest and How Stock Markets Work"
+      },
+      "teaser": {
+        "de": "Warum Zeit beim Geld der stärkste Hebel ist und was an der Börse eigentlich passiert.",
+        "en": "Why time is the strongest lever with money, and what actually happens on a stock exchange."
+      },
+      "words": {
+        "de": {
+          "5": 923,
+          "10": 2076,
+          "15": 2784,
+          "20": 3725
+        },
+        "en": {
+          "5": 1063,
+          "10": 2376,
+          "15": 3117,
+          "20": 4166
+        }
+      }
+    },
+    {
       "id": "crispr",
       "category": "science",
       "publishedAt": "2026-11-03",

@@ -1,0 +1,425 @@
+{
+ "id": "compound-interest",
+ "lang": "de",
+ "title": "Zinseszins und wie Börsen funktionieren",
+ "versions": {
+  "5": {
+   "words": 923,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Wer tausend Euro zu fünf Prozent Zinsen anlegt und dreißig Jahre nicht anrührt, hat am Ende mehr als viertausend Euro. Nicht, weil fünf Prozent so viel wären, sondern weil auch die Zinsen selbst wieder Zinsen bringen. Dieser Effekt heißt Zinseszins, und er wirkt in beide Richtungen, beim Sparen wie bei Schulden. In fünf Minuten erfährst du, wie er funktioniert, was Aktien und Börsen damit zu tun haben und warum Streuung so wichtig ist. Wichtig vorab: Das hier ist Wissen, keine Anlageberatung."
+     ]
+    },
+    {
+     "heading": "Die Kraft des Zinseszinses",
+     "paragraphs": [
+      "Zinsen sind der Preis dafür, Geld zu verleihen. Wer Geld auf ein Sparkonto legt, leiht es der Bank und bekommt dafür einen Prozentsatz pro Jahr.",
+      "Beim Zinseszins bekommst du nicht nur Zinsen auf das ursprüngliche Geld, sondern auch auf die Zinsen, die schon dazugekommen sind. Legst du tausend Euro zu fünf Prozent an, hast du nach einem Jahr 1050 Euro. Im zweiten Jahr gibt es Zinsen auf 1050 Euro, und so weiter.",
+      "Am Anfang ist der Unterschied winzig, doch er wächst mit jedem Jahr. Nach dreißig Jahren sind aus tausend Euro rund 4320 Euro geworden. Ohne Zinseszins wären es nur 2500 Euro.",
+      "Eine praktische Faustregel ist die Siebziger-Regel: Teile zweiundsiebzig durch den Zinssatz, dann weißt du ungefähr, nach wie vielen Jahren sich das Geld verdoppelt. Bei sechs Prozent sind es etwa zwölf Jahre.",
+      "Weil das Wachstum immer schneller wird, ist Zeit der stärkste Hebel. Wer zehn Jahre früher mit dem Sparen beginnt, hat am Ende oft fast doppelt so viel, obwohl er nur wenig mehr eingezahlt hat.",
+      "Ein Beispiel: Zwei Personen legen jeden Monat hundert Euro an und erzielen im Schnitt fünf Prozent pro Jahr. Die eine beginnt mit fünfundzwanzig, die andere mit fünfunddreißig, beide hören mit fünfundsechzig auf. Am Ende hat die erste bei diesen Annahmen rund 152.000 Euro, die zweite etwa 83.000 Euro, obwohl sie nur zwölftausend Euro weniger eingezahlt hat.",
+      "Doch der Effekt wirkt auch gegen dich. Teure Schulden, etwa ein überzogenes Konto, wachsen genauso exponentiell. Bei achtzehn Prozent verdoppelt sich eine Schuld in etwa vier Jahren.",
+      "Und auch Inflation und Gebühren wirken wie ein umgekehrter Zinseszins. Bei zwei Prozent Inflation haben tausend Euro nach dreißig Jahren nur noch die Kaufkraft von heute etwa 550 Euro. Kleine jährliche Kosten können über Jahrzehnte viele tausend Euro auffressen."
+     ]
+    },
+    {
+     "heading": "Aktien und Börse",
+     "paragraphs": [
+      "Eine Aktie ist ein Anteil an einem Unternehmen. Wer sie besitzt, ist Miteigentümer, wenn auch meist nur zu einem winzigen Teil. Unternehmen geben Aktien aus, um Geld für ihr Wachstum einzusammeln.",
+      "Aktionäre können auf zwei Wegen profitieren: über die Dividende, also einen Teil des Gewinns, und über einen steigenden Kurs, wenn das Unternehmen wächst. Beides ist aber nicht garantiert. Geht ein Unternehmen pleite, kann die Aktie wertlos werden.",
+      "Wer Geld lieber verleiht, statt sich zu beteiligen, kauft eine Anleihe. Dafür gibt es feste Zinsen, und im Fall einer Pleite werden Anleihegläubiger vor den Aktionären bedient. Dafür fällt die Ertragschance meist geringer aus.",
+      "Als Geburtsstunde des modernen Aktienhandels gilt das Jahr 1602. Damals gründete sich in den Niederlanden die Vereinigte Ostindische Kompanie und verkaufte Anteile an viele Menschen. Diese Anteile konnte man weiterverkaufen, und in Amsterdam entstand so die erste Börse.",
+      "Eine Börse ist ein Marktplatz für Wertpapiere. Der Kurs einer Aktie entsteht durch Angebot und Nachfrage. Wollen mehr Menschen kaufen als verkaufen, steigt er, sonst sinkt er. Heute läuft der Handel fast vollständig über Computer.",
+      "Im Kern spiegeln Kurse Erwartungen über die Zukunft wider. Deshalb reagieren sie stark auf Nachrichten, etwa Geschäftszahlen oder Zinsänderungen. Auch Gier und Angst spielen eine große Rolle.",
+      "Um einen ganzen Markt auf einen Blick zu zeigen, gibt es Indizes. Der bekannteste deutsche ist der DAX mit den vierzig größten Unternehmen an der Frankfurter Börse.",
+      "Privatpersonen handeln nicht selbst an der Börse, sondern über eine Bank oder einen Online-Broker. Dafür braucht man ein Depot, eine Art Konto für Wertpapiere."
+     ]
+    },
+    {
+     "heading": "Risiko und Streuung",
+     "paragraphs": [
+      "Aktienkurse schwanken, manchmal heftig. Die Geschichte kennt viele Crashs, etwa 1929, um das Jahr 2000, 2008 und zu Beginn der Corona-Pandemie 2020. Breit gestreute Märkte haben sich danach in der Vergangenheit wieder erholt, eine Garantie dafür gibt es aber nicht.",
+      "Im Gegenzug für dieses Risiko lassen Aktien langfristig höhere Erträge erwarten als ein Sparkonto. Für Geld, das man in wenigen Jahren sicher braucht, sind sie deshalb weniger geeignet.",
+      "Wer in schwierigen Zeiten verkaufen muss oder aus Angst verkauft, macht Verluste endgültig. Wer durchhalten konnte, sah sein Vermögen in der Vergangenheit in der Regel irgendwann wieder wachsen.",
+      "Das wichtigste Werkzeug gegen das Risiko ist Streuung: nicht alle Eier in einen Korb legen. Wer in Tausende Unternehmen aus vielen Ländern investiert, ist kaum betroffen, wenn eines davon scheitert. Gegen das Auf und Ab des ganzen Marktes schützt Streuung aber nicht.",
+      "Eine einfache Möglichkeit zur Streuung sind Indexfonds, meist als ETFs gehandelt. Sie bilden einen Index nach, etwa einen weltweiten Aktienindex, und sind meist deutlich günstiger als aktiv verwaltete Fonds.",
+      "Viele Fachleute empfehlen eine Reihenfolge: zuerst teure Schulden abbauen, dann eine Notfallrücklage auf einem Tagesgeldkonto bilden und erst danach langfristig investieren.",
+      "Vorsicht bei Angeboten, die hohe Erträge ohne Risiko versprechen. Je höher die mögliche Rendite, desto höher ist immer auch das Risiko.",
+      "Die wichtigsten Regeln klingen unspektakulär: früh anfangen, regelmäßig sparen, breit streuen, auf Kosten achten und in Krisen ruhig bleiben. Dieser Artikel erklärt Zusammenhänge und ist keine Anlageberatung."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Beim Zinseszins bringen auch die bereits verdienten Zinsen wieder Zinsen, deshalb wächst Geld über lange Zeit immer schneller.",
+    "Eine Aktie ist ein Anteil an einem Unternehmen, ihr Kurs schwankt je nachdem, wie Anleger dessen Zukunft einschätzen.",
+    "Wer auf viele Unternehmen streut und lange durchhält, verringert das Risiko, ein Verlust ist aber nie ganz ausgeschlossen."
+   ]
+  },
+  "10": {
+   "words": 2076,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Geld scheint sich manchmal wie von selbst zu vermehren, und manchmal schmilzt es wie von selbst dahin. Hinter beidem steckt oft dieselbe Mathematik. In den nächsten zehn Minuten erfährst du, wie Zinsen und Zinseszinsen funktionieren, warum Schulden, Inflation und Gebühren dieselbe Kraft gegen dich wenden, was eine Aktie eigentlich ist und warum Kurse schwanken. Dieser Artikel erklärt Zusammenhänge und ist keine Anlageberatung."
+     ]
+    },
+    {
+     "heading": "Warum es Zinsen gibt",
+     "paragraphs": [
+      "Wer Geld verleiht, verzichtet darauf, es selbst auszugeben, und geht das Risiko ein, es nicht zurückzubekommen. Zinsen sind im Kern der Preis für diesen Verzicht und dieses Risiko. Wer Geld verleiht, bekommt Zinsen, wer Geld leiht, zahlt sie.",
+      "Auch wer Geld auf ein Sparkonto legt, verleiht es, nämlich an die Bank. Sie gibt es als Kredit weiter, etwa an eine Familie, die ein Haus baut, und gibt einen Teil der Zinsen an die Sparer weiter.",
+      "Zinsen werden meist als Prozentsatz pro Jahr angegeben. Bei fünf Prozent auf tausend Euro erhältst du nach einem Jahr fünfzig Euro. Bei einfacher Verzinsung kommen jedes Jahr wieder fünfzig Euro dazu, nach zehn Jahren also fünfhundert Euro.",
+      "Wie hoch Zinsen sind, hängt vom Risiko, von der Laufzeit und vor allem von der Zentralbank ab. Im Euroraum legt die Europäische Zentralbank den Leitzins fest. Steigt er, werden Kredite teurer und Sparen lohnender.",
+      "Spannend wird es, wenn man die Zinsen nicht abhebt, sondern liegen lässt. Dann wächst das Geld nicht mehr gleichmäßig, sondern immer schneller. Dieser Effekt heißt Zinseszins."
+     ]
+    },
+    {
+     "heading": "Die Kraft des Zinseszinses",
+     "paragraphs": [
+      "Der Zinseszins ist schnell erklärt. Du bekommst nicht nur Zinsen auf das Geld, das du ursprünglich angelegt hast, sondern auch auf die Zinsen, die du bereits verdient hast. Die amerikanische Verbraucherschutzbehörde beschreibt es genau so: Man verdient Zinsen auf das Ersparte und auf die Zinsen, die unterwegs hinzukommen.",
+      "Ein Beispiel: Du legst tausend Euro zu fünf Prozent an. Nach einem Jahr hast du tausendfünfzig Euro. Im zweiten Jahr bekommst du fünf Prozent auf tausendfünfzig Euro, also zweiundfünfzig Euro und fünfzig Cent. Der Unterschied zur einfachen Verzinsung sind nur zweieinhalb Euro. Das wirkt lächerlich wenig.",
+      "Doch der Effekt wächst mit jedem Jahr. Nach zehn Jahren sind aus tausend Euro rund 1630 Euro geworden. Nach zwanzig Jahren sind es etwa 2650 Euro, nach dreißig Jahren rund 4320 Euro und nach vierzig Jahren gut 7000 Euro. Bei einfacher Verzinsung hättest du nach dreißig Jahren nur 2500 Euro.",
+      "Das liegt daran, dass der Zinseszins nicht gleichmäßig, sondern exponentiell wächst. Jedes Jahr wird der Betrag nicht um dieselbe Summe größer, sondern um denselben Anteil. Und weil der Betrag selbst immer größer wird, werden auch die jährlichen Zuwächse immer größer. Die Kurve ist am Anfang flach und wird später immer steiler.",
+      "Mit exponentiellem Wachstum tun sich Menschen schwer. Unser Gefühl rechnet eher in geraden Linien. Ein bekanntes Rätsel zeigt das: Seerosen auf einem Teich verdoppeln jeden Tag ihre Fläche, nach dreißig Tagen ist der Teich voll. Wann war er halb voll? Nicht nach fünfzehn Tagen, sondern am neunundzwanzigsten Tag.",
+      "Für eine grobe Schätzung gibt es einen praktischen Trick, die Siebziger-Regel. Man teilt zweiundsiebzig durch den Zinssatz und erhält ungefähr die Zahl der Jahre, in denen sich das Geld verdoppelt. Bei sechs Prozent sind es etwa zwölf Jahre, bei sieben Prozent gut zehn, bei drei Prozent etwa vierundzwanzig Jahre.",
+      "Die Regel funktioniert auch umgekehrt. Wer in zehn Jahren sein Geld verdoppeln will, braucht ungefähr sieben Prozent pro Jahr. Und sie zeigt, wie stark kleine Unterschiede im Zinssatz über lange Zeit wirken: Ein Prozentpunkt mehr oder weniger kann am Ende über viele tausend Euro entscheiden.",
+      "Wichtig ist eine Voraussetzung: Der Zinseszins wirkt nur, wenn man die Erträge nicht ausgibt, sondern im Topf lässt. Fachleute sprechen von Wiederanlage. Wer die Zinsen jedes Jahr abhebt, bekommt nur einfache Zinsen.",
+      "Wie oft die Zinsen gutgeschrieben werden, spielt ebenfalls eine kleine Rolle. Werden sie monatlich statt jährlich gutgeschrieben, beginnen sie früher selbst Zinsen zu tragen. Der Unterschied ist bei normalen Zinssätzen aber gering. Wer nachrechnen möchte, findet im Netz kostenlose Rechner, etwa bei der amerikanischen Börsenaufsicht.",
+      "Entscheidend für das Ergebnis sind am Ende drei Größen: wie viel man anlegt, zu welchem Zinssatz und vor allem wie lange. Die dritte ist die mächtigste."
+     ]
+    },
+    {
+     "heading": "Die Kehrseite: Schulden, Inflation und Gebühren",
+     "paragraphs": [
+      "Der Zinseszins macht keinen Unterschied, ob er für oder gegen dich arbeitet. Bei Schulden wirkt er genauso, nur dass dann der Schuldenberg exponentiell wächst. Besonders gefährlich sind teure Kredite wie ein überzogenes Girokonto oder offene Beträge auf manchen Kreditkarten. Dort sind Zinsen von zehn bis zwanzig Prozent pro Jahr keine Seltenheit.",
+      "Mit der Siebziger-Regel sieht man sofort, was das bedeutet. Bei achtzehn Prozent verdoppelt sich eine Schuld, die man nicht abbezahlt, in nur etwa vier Jahren. Wer nur die Mindestraten zahlt, kann so jahrelang zahlen, ohne dass die Schuld nennenswert kleiner wird.",
+      "Deshalb gilt eine einfache Faustregel: Teure Schulden zurückzuzahlen, ist meist die beste Geldanlage, die es gibt. Wer zwanzig Prozent Zinsen spart, erzielt praktisch einen sicheren Ertrag von zwanzig Prozent. Das schafft keine seriöse Anlage zuverlässig.",
+      "Die zweite stille Kraft ist die Inflation. Sie beschreibt, wie stark die Preise im Durchschnitt steigen. Wenn die Preise um zwei Prozent im Jahr steigen, kann man sich mit derselben Summe Geld jedes Jahr etwas weniger kaufen. Auch hier wirkt der Zinseszinseffekt, nur rückwärts.",
+      "Nach dreißig Jahren mit zwei Prozent Inflation sind tausend Euro nur noch so viel wert, wie heute etwa 550 Euro. Geld, das ohne Zinsen unter dem Kopfkissen liegt, verliert also fast die Hälfte seiner Kaufkraft. Bei höherer Inflation geht es noch schneller.",
+      "Für Sparer zählt deshalb nicht der Zins, der auf dem Kontoauszug steht, sondern der sogenannte reale Zins. Das ist der Zins abzüglich der Inflation. Bekommt man drei Prozent Zinsen bei zwei Prozent Inflation, wächst die Kaufkraft nur um etwa ein Prozent. Liegt die Inflation höher als der Zins, verliert man trotz Zinsen.",
+      "Die dritte Kraft sind Gebühren. Sie wirken unscheinbar, weil sie meist als kleiner Prozentsatz angegeben werden. Doch sie werden jedes Jahr fällig, und ihr Effekt summiert sich ebenfalls über den Zinseszins.",
+      "Ein Rechenbeispiel: Zehntausend Euro wachsen dreißig Jahre lang um sechs Prozent im Jahr. Ohne Kosten wären es am Ende gut 57.000 Euro. Bei Kosten von 0,2 Prozent pro Jahr bleiben rund 54.000 Euro. Bei Kosten von 1,5 Prozent sind es nur noch etwa 37.000 Euro. Ein scheinbar kleiner Unterschied kostet hier rund siebzehntausend Euro.",
+      "Deshalb lohnt es sich, bei jeder Geldanlage genau auf die Kosten zu schauen: einmalige Gebühren beim Kauf und vor allem die laufenden Kosten pro Jahr. Die Verbraucherzentrale weist immer wieder darauf hin, dass gerade die laufenden Kosten über lange Zeit einen großen Teil des Ertrags aufzehren können.",
+      "Zinseszins, Inflation und Kosten zeigen zusammen: Wer langfristig Vermögen aufbauen möchte, braucht Erträge, die über der Inflation liegen, bei möglichst geringen Kosten. Klassische Sparkonten schaffen das oft nicht. Deshalb richten viele Menschen ihren Blick auf die Börse."
+     ]
+    },
+    {
+     "heading": "Was eine Aktie ist",
+     "paragraphs": [
+      "Eine Aktie ist ein Anteil an einem Unternehmen. Wer eine Aktie besitzt, ist Miteigentümer, wenn auch meist nur zu einem winzigen Bruchteil. Die Verbraucherzentrale beschreibt sie als Wertpapier, das einen Anteil am Grundkapital eines Unternehmens dokumentiert. Unternehmen, die Aktien ausgeben, heißen in Deutschland Aktiengesellschaften.",
+      "Warum geben Unternehmen überhaupt Anteile an Fremde ab? Weil sie Geld brauchen, um zu wachsen, etwa für neue Fabriken, Forschung oder die Eroberung neuer Märkte. Statt einen Kredit aufzunehmen, verkaufen sie Anteile. Die Käufer bekommen dafür keinen festen Zins, sondern eine Beteiligung am künftigen Erfolg.",
+      "Diese Beteiligung zeigt sich auf zwei Wegen. Erstens schütten viele Unternehmen einen Teil ihres Gewinns an die Aktionäre aus, die sogenannte Dividende. Zweitens kann der Wert der Aktie steigen, wenn das Unternehmen wächst und mehr verdient. Beides ist aber nicht garantiert.",
+      "Denn Aktionäre tragen auch das Risiko. Läuft es schlecht, fällt die Dividende weg, und der Kurs sinkt. Geht das Unternehmen pleite, kann die Aktie wertlos werden. Ein Totalverlust ist bei einzelnen Aktien also möglich. Wer Geld verleiht, etwa über eine Anleihe, wird im Insolvenzfall vor den Aktionären bedient.",
+      "Die Idee, Anteile an einem Unternehmen zu verkaufen, ist alt. Als Geburtsstunde des modernen Aktienhandels gilt aber das Jahr 1602. Damals gründeten Kaufleute in den Niederlanden die Vereinigte Ostindische Kompanie, um den riskanten Handel mit Gewürzen aus Asien zu betreiben. Sie bot ihre Anteile breiten Teilen der Bevölkerung an.",
+      "Neu war vor allem, dass man diese Anteile einfach an andere weiterverkaufen konnte. Schon bald entstand in Amsterdam ein lebhafter Handel damit. Der Börsenbetreiber Euronext bezeichnet die Kompanie deshalb als Begründerin der ersten Börse, der Amsterdamer Börse. Die Kompanie war allerdings auch ein Instrument von Kolonialherrschaft und Gewalt, was zu ihrer Geschichte gehört.",
+      "Der Gedanke dahinter war genial einfach. Eine einzelne Schiffsreise nach Asien war extrem riskant, Schiffe konnten sinken oder überfallen werden. Indem viele Menschen sich beteiligten, verteilte sich das Risiko auf viele Schultern. Gleichzeitig konnte das Unternehmen viel mehr Kapital einsammeln, als ein einzelner Kaufmann je hätte aufbringen können.",
+      "Heute gibt es weltweit Zehntausende Aktiengesellschaften, deren Anteile an Börsen gehandelt werden. Darunter sind bekannte Konzerne, aber auch kleinere Firmen. Zusammen sind diese Unternehmen viele Billionen Euro wert.",
+      "Für die Wirtschaft erfüllen Aktien eine wichtige Aufgabe. Sie verbinden Menschen, die Geld übrig haben, mit Unternehmen, die Geld für ihre Ideen brauchen. Und sie ermöglichen es ganz normalen Menschen, am Erfolg großer Unternehmen teilzuhaben.",
+      "Doch wie kommt der Preis einer Aktie eigentlich zustande, und warum ändert er sich ständig? Dafür lohnt ein Blick auf den Ort, an dem Aktien gehandelt werden."
+     ]
+    },
+    {
+     "heading": "Auf und ab: Risiko und Streuung",
+     "paragraphs": [
+      "Wer in Aktien investiert, muss mit Schwankungen leben. Die Verbraucherzentrale betont, dass Aktienkurse auch über mehrere Jahre gleich bleiben oder fallen können. Kursverluste von zehn oder zwanzig Prozent innerhalb weniger Wochen sind keine Seltenheit, und auch Fachleute können die Entwicklung nicht sicher vorhersagen.",
+      "Die Geschichte der Börse ist voller Crashs. Nach 1929 brachen die Kurse in den USA über Jahre ein und trugen zur Weltwirtschaftskrise bei. Um das Jahr 2000 platzte die sogenannte Dotcom-Blase, als überzogene Erwartungen an Internetfirmen in sich zusammenfielen. 2008 löste die Finanzkrise weltweit massive Kursverluste aus, und 2020 stürzten die Märkte zu Beginn der Corona-Pandemie innerhalb weniger Wochen ab.",
+      "Bemerkenswert ist, was danach geschah. Breit gestreute Märkte haben sich nach diesen Einbrüchen in der Vergangenheit wieder erholt, manchmal schnell, manchmal erst nach vielen Jahren. Wer verkaufen musste, als die Kurse unten waren, hat Verluste dauerhaft gemacht. Wer durchhalten konnte, sah sein Vermögen in der Regel irgendwann wieder wachsen. Eine Garantie, dass das immer so bleibt, gibt es aber nicht.",
+      "Warum nehmen Menschen dieses Risiko überhaupt in Kauf? Weil Aktien im Gegenzug langfristig höhere Erträge erwarten lassen als sichere Anlagen. Fachleute nennen den Zusatzertrag Risikoprämie. Eine Untersuchung, auf die sich die Verbraucherzentrale beruft, kommt für Aktien aus einundzwanzig Ländern über sehr lange Zeiträume auf durchschnittlich gut fünf Prozent pro Jahr nach Abzug der Inflation.",
+      "Das ist ein Durchschnitt über viele Jahrzehnte, kein Versprechen für die nächsten zehn Jahre. Es gibt Zeiträume, in denen Aktien deutlich schlechter abgeschnitten haben. Und je kürzer der Zeitraum, desto größer ist das Risiko, mit Verlust dazustehen. Deshalb gilt: Geld, das man in wenigen Jahren sicher braucht, gehört eher nicht in Aktien.",
+      "Das wichtigste Werkzeug gegen das Risiko heißt Streuung, auf Englisch Diversifikation. Die Idee kennt jeder aus dem Sprichwort: Lege nicht alle Eier in einen Korb. Wer nur die Aktie eines einzigen Unternehmens besitzt, ist vollständig von dessen Schicksal abhängig. Geht es pleite, ist das Geld weg.",
+      "Wer dagegen in Hunderte oder Tausende Unternehmen aus verschiedenen Ländern und Branchen investiert, ist viel besser geschützt. Wenn ein Unternehmen scheitert, fällt das kaum ins Gewicht, denn andere wachsen gleichzeitig. Das Risiko einzelner Firmen gleicht sich zu einem großen Teil aus.",
+      "Ganz verschwindet das Risiko allerdings nicht. Wenn die gesamte Weltwirtschaft in eine Krise gerät, fallen fast alle Aktien gleichzeitig. Dieses Marktrisiko bleibt auch bei breiter Streuung bestehen. Streuung verringert also das Risiko einzelner Pleiten, nicht aber das Auf und Ab des gesamten Marktes.",
+      "Ein weiterer Schutz ist Zeit. Je länger man investiert bleibt, desto eher gleichen sich gute und schlechte Jahre aus. Wer regelmäßig über einen Sparplan kauft, kauft zudem in schlechten Zeiten automatisch mehr Anteile zum niedrigen Preis und in guten Zeiten weniger.",
+      "Am Ende ist der größte Gegner vieler Anleger nicht der Markt, sondern das eigene Verhalten: in Panik verkaufen, wenn die Kurse fallen, oder in Euphorie kaufen, wenn alle von Gewinnen schwärmen. Wer das weiß, kann sich mit klaren Regeln davor schützen."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Zinseszins wirkt exponentiell: Mit der Siebziger-Regel lässt sich grob abschätzen, wie schnell sich Geld verdoppelt.",
+    "Dieselbe Mathematik wirkt gegen dich, bei teuren Schulden, bei Inflation und bei laufenden Gebühren.",
+    "Aktien bieten langfristig höhere Ertragschancen als Sparkonten, schwanken aber stark, weshalb breite Streuung so wichtig ist."
+   ]
+  },
+  "15": {
+   "words": 2784,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Kaum ein Thema ist für das eigene Leben so wichtig und wird in der Schule so selten erklärt wie Geld. Dabei sind die Grundideen gar nicht kompliziert. In diesem Artikel erfährst du, warum es Zinsen gibt, wie der Zinseszins aus kleinen Beträgen große macht, warum Zeit dabei der stärkste Hebel ist, welche Kräfte dagegenwirken, was Aktien sind und wie eine Börse funktioniert. Er erklärt Zusammenhänge und ersetzt keine Anlageberatung."
+     ]
+    },
+    {
+     "heading": "Warum es Zinsen gibt",
+     "paragraphs": [
+      "Stell dir vor, eine Freundin bittet dich, ihr tausend Euro für ein Jahr zu leihen. Du hilfst gern, aber du verzichtest damit auf etwas: Du kannst das Geld in dieser Zeit nicht selbst ausgeben, und vielleicht bekommst du es gar nicht zurück. Zinsen sind im Kern der Preis für diesen Verzicht und für dieses Risiko.",
+      "Wer Geld verleiht, bekommt Zinsen. Wer Geld leiht, zahlt sie. Wenn du Geld auf ein Sparkonto legst, leihst du es übrigens auch, nämlich der Bank. Sie gibt es als Kredit an andere weiter, etwa an eine Familie, die ein Haus baut, oder an ein Unternehmen, das eine neue Maschine kauft. Von den Zinsen, die diese zahlen, gibt die Bank einen Teil an dich weiter.",
+      "Zinsen werden meist als Prozentsatz pro Jahr angegeben. Bei fünf Prozent Zinsen auf tausend Euro erhältst du nach einem Jahr fünfzig Euro. Das klingt überschaubar, und bei einfacher Verzinsung bleibt es auch so: Jedes Jahr kommen wieder fünfzig Euro dazu, nach zehn Jahren also fünfhundert Euro.",
+      "Wie hoch Zinsen sind, hängt von vielen Dingen ab. Ein wichtiger Faktor ist das Risiko. Wer einem Unternehmen mit unsicherer Zukunft Geld leiht, verlangt mehr Zinsen als jemand, der einem sehr zuverlässigen Staat Geld leiht. Auch die Dauer spielt eine Rolle: Wer sein Geld länger fest anlegt, bekommt oft etwas mehr.",
+      "Den größten Einfluss haben die Zentralbanken. Im Euroraum ist das die Europäische Zentralbank. Sie legt den Leitzins fest, zu dem sich Banken bei ihr Geld leihen können. Steigt er, werden Kredite teurer und Sparen lohnender. Sinkt er, wird Leihen billiger. Mit diesem Hebel versucht die Zentralbank, die Preise stabil zu halten.",
+      "In den Jahren nach der Finanzkrise und bis Anfang der Zwanzigerjahre waren die Zinsen in Europa extrem niedrig, zeitweise sogar unter null. Sparer bekamen auf dem Konto praktisch nichts. Als die Inflation stark stieg, erhöhte die Zentralbank die Zinsen deutlich, und Sparen brachte wieder etwas ein.",
+      "Zinsen sind übrigens keine moderne Erfindung. Schon in den ältesten Hochkulturen wurden Getreide und Silber gegen Zinsen verliehen. Gleichzeitig galten Zinsen in vielen Kulturen und Religionen lange als anrüchig oder waren verboten, weil man fürchtete, sie würden die Schwachen ausbeuten.",
+      "Diese Sorge ist nicht ganz unbegründet. Zinsen können sehr hilfreich sein, weil sie Menschen ermöglichen, heute etwas zu finanzieren, das sie erst später bezahlen können. Sie können aber auch zur Falle werden, wenn Schulden schneller wachsen, als man sie zurückzahlen kann.",
+      "Der Grund dafür ist ein Effekt, der in beide Richtungen wirkt und den viele Menschen unterschätzen. Er sorgt dafür, dass Geld nicht gleichmäßig, sondern immer schneller wächst, sobald man die Zinsen nicht abhebt.",
+      "Dieser Effekt hat einen etwas altmodischen Namen: Zinseszins. Er ist der Schlüssel zum Verständnis von Sparen, Schulden und Börse."
+     ]
+    },
+    {
+     "heading": "Die Kraft des Zinseszinses",
+     "paragraphs": [
+      "Der Zinseszins ist schnell erklärt. Du bekommst nicht nur Zinsen auf das Geld, das du ursprünglich angelegt hast, sondern auch auf die Zinsen, die du bereits verdient hast. Die amerikanische Verbraucherschutzbehörde beschreibt es genau so: Man verdient Zinsen auf das Ersparte und auf die Zinsen, die unterwegs hinzukommen.",
+      "Ein Beispiel: Du legst tausend Euro zu fünf Prozent an. Nach einem Jahr hast du tausendfünfzig Euro. Im zweiten Jahr bekommst du fünf Prozent auf tausendfünfzig Euro, also zweiundfünfzig Euro und fünfzig Cent. Der Unterschied zur einfachen Verzinsung sind nur zweieinhalb Euro. Das wirkt lächerlich wenig.",
+      "Doch der Effekt wächst mit jedem Jahr. Nach zehn Jahren sind aus tausend Euro rund 1630 Euro geworden. Nach zwanzig Jahren sind es etwa 2650 Euro, nach dreißig Jahren rund 4320 Euro und nach vierzig Jahren gut 7000 Euro. Bei einfacher Verzinsung hättest du nach dreißig Jahren nur 2500 Euro.",
+      "Das liegt daran, dass der Zinseszins nicht gleichmäßig, sondern exponentiell wächst. Jedes Jahr wird der Betrag nicht um dieselbe Summe größer, sondern um denselben Anteil. Und weil der Betrag selbst immer größer wird, werden auch die jährlichen Zuwächse immer größer. Die Kurve ist am Anfang flach und wird später immer steiler.",
+      "Mit exponentiellem Wachstum tun sich Menschen schwer. Unser Gefühl rechnet eher in geraden Linien. Ein bekanntes Rätsel zeigt das: Seerosen auf einem Teich verdoppeln jeden Tag ihre Fläche, nach dreißig Tagen ist der Teich voll. Wann war er halb voll? Nicht nach fünfzehn Tagen, sondern am neunundzwanzigsten Tag.",
+      "Für eine grobe Schätzung gibt es einen praktischen Trick, die Siebziger-Regel. Man teilt zweiundsiebzig durch den Zinssatz und erhält ungefähr die Zahl der Jahre, in denen sich das Geld verdoppelt. Bei sechs Prozent sind es etwa zwölf Jahre, bei sieben Prozent gut zehn, bei drei Prozent etwa vierundzwanzig Jahre.",
+      "Die Regel funktioniert auch umgekehrt. Wer in zehn Jahren sein Geld verdoppeln will, braucht ungefähr sieben Prozent pro Jahr. Und sie zeigt, wie stark kleine Unterschiede im Zinssatz über lange Zeit wirken: Ein Prozentpunkt mehr oder weniger kann am Ende über viele tausend Euro entscheiden.",
+      "Wichtig ist eine Voraussetzung: Der Zinseszins wirkt nur, wenn man die Erträge nicht ausgibt, sondern im Topf lässt. Fachleute sprechen von Wiederanlage. Wer die Zinsen jedes Jahr abhebt, bekommt nur einfache Zinsen.",
+      "Wie oft die Zinsen gutgeschrieben werden, spielt ebenfalls eine kleine Rolle. Werden sie monatlich statt jährlich gutgeschrieben, beginnen sie früher selbst Zinsen zu tragen. Der Unterschied ist bei normalen Zinssätzen aber gering. Wer nachrechnen möchte, findet im Netz kostenlose Rechner, etwa bei der amerikanischen Börsenaufsicht.",
+      "Entscheidend für das Ergebnis sind am Ende drei Größen: wie viel man anlegt, zu welchem Zinssatz und vor allem wie lange. Die dritte ist die mächtigste."
+     ]
+    },
+    {
+     "heading": "Zeit ist der größte Hebel",
+     "paragraphs": [
+      "Beim Zinseszins zählt kaum etwas so sehr wie Zeit. Das zeigt ein Vergleich zweier Personen, nennen wir sie Lea und Tom. Beide legen jeden Monat hundert Euro an und erzielen im Durchschnitt fünf Prozent pro Jahr. Lea beginnt mit fünfundzwanzig, Tom erst mit fünfunddreißig. Beide hören mit fünfundsechzig auf.",
+      "Lea zahlt über vierzig Jahre insgesamt 48.000 Euro ein. Am Ende hat sie bei diesen Annahmen rund 152.000 Euro. Tom zahlt über dreißig Jahre 36.000 Euro ein und kommt auf etwa 83.000 Euro. Lea hat nur zwölftausend Euro mehr eingezahlt, aber fast siebzigtausend Euro mehr am Ende.",
+      "Der Grund: Leas frühe Einzahlungen hatten zehn Jahre länger Zeit zu wachsen, und genau in den letzten Jahren wächst der Betrag am stärksten. Es lohnt sich deshalb, früh anzufangen, auch mit kleinen Beträgen. Wer später einsteigt, muss deutlich mehr einzahlen, um aufzuholen.",
+      "Natürlich ist das ein Rechenbeispiel. In der Wirklichkeit gibt es keine Garantie für gleichmäßige fünf Prozent. Bei einem Sparkonto ist der Zins oft niedriger, bei Aktien schwanken die Erträge stark von Jahr zu Jahr. Das Prinzip aber bleibt: Zeit verstärkt jeden Ertrag.",
+      "Schon im achtzehnten Jahrhundert faszinierte dieser Effekt die Menschen. Der britische Moralphilosoph Richard Price stellte 1772 ein berühmtes Gedankenexperiment vor, das im Deutschen als Josephspfennig bekannt ist. Hätte man zur Zeit von Christi Geburt einen einzigen Pfennig zu fünf Prozent angelegt, wäre daraus bis in seine Zeit eine Menge Gold geworden, die viele Erdkugeln füllen würde.",
+      "Natürlich hat das nie jemand getan, und keine Bank existiert so lange. Das Beispiel zeigt aber, wie extrem exponentielles Wachstum über sehr lange Zeit wird. In der Praxis setzen Kriege, Krisen, Inflation und Steuern dem Wachstum Grenzen.",
+      "Oft liest man, Albert Einstein habe den Zinseszins das achte Weltwunder oder die stärkste Kraft im Universum genannt. Für dieses Zitat gibt es allerdings keinen verlässlichen Beleg. Es ist vermutlich ein Beispiel dafür, wie gern man klugen Menschen kluge Sätze in den Mund legt.",
+      "Für das eigene Leben lässt sich aus der Mathematik eine einfache Erkenntnis ableiten: Regelmäßigkeit schlägt Timing. Wer jeden Monat einen festen Betrag zur Seite legt, profitiert über die Jahre stärker als jemand, der versucht, den perfekten Zeitpunkt abzupassen.",
+      "Viele Menschen nutzen dafür einen Sparplan, bei dem automatisch jeden Monat ein fester Betrag angelegt wird. Der Vorteil ist auch psychologisch: Man muss nicht jedes Mal neu entscheiden, und das Sparen wird zur Gewohnheit.",
+      "Doch so mächtig der Zinseszins für Sparer ist, so gnadenlos kann er sein, wenn er in die andere Richtung wirkt. Und es gibt gleich mehrere Kräfte, die still und leise am Ersparten nagen."
+     ]
+    },
+    {
+     "heading": "Die Kehrseite: Schulden, Inflation und Gebühren",
+     "paragraphs": [
+      "Der Zinseszins macht keinen Unterschied, ob er für oder gegen dich arbeitet. Bei Schulden wirkt er genauso, nur dass dann der Schuldenberg exponentiell wächst. Besonders gefährlich sind teure Kredite wie ein überzogenes Girokonto oder offene Beträge auf manchen Kreditkarten. Dort sind Zinsen von zehn bis zwanzig Prozent pro Jahr keine Seltenheit.",
+      "Mit der Siebziger-Regel sieht man sofort, was das bedeutet. Bei achtzehn Prozent verdoppelt sich eine Schuld, die man nicht abbezahlt, in nur etwa vier Jahren. Wer nur die Mindestraten zahlt, kann so jahrelang zahlen, ohne dass die Schuld nennenswert kleiner wird.",
+      "Deshalb gilt eine einfache Faustregel: Teure Schulden zurückzuzahlen, ist meist die beste Geldanlage, die es gibt. Wer zwanzig Prozent Zinsen spart, erzielt praktisch einen sicheren Ertrag von zwanzig Prozent. Das schafft keine seriöse Anlage zuverlässig.",
+      "Die zweite stille Kraft ist die Inflation. Sie beschreibt, wie stark die Preise im Durchschnitt steigen. Wenn die Preise um zwei Prozent im Jahr steigen, kann man sich mit derselben Summe Geld jedes Jahr etwas weniger kaufen. Auch hier wirkt der Zinseszinseffekt, nur rückwärts.",
+      "Nach dreißig Jahren mit zwei Prozent Inflation sind tausend Euro nur noch so viel wert, wie heute etwa 550 Euro. Geld, das ohne Zinsen unter dem Kopfkissen liegt, verliert also fast die Hälfte seiner Kaufkraft. Bei höherer Inflation geht es noch schneller.",
+      "Für Sparer zählt deshalb nicht der Zins, der auf dem Kontoauszug steht, sondern der sogenannte reale Zins. Das ist der Zins abzüglich der Inflation. Bekommt man drei Prozent Zinsen bei zwei Prozent Inflation, wächst die Kaufkraft nur um etwa ein Prozent. Liegt die Inflation höher als der Zins, verliert man trotz Zinsen.",
+      "Die dritte Kraft sind Gebühren. Sie wirken unscheinbar, weil sie meist als kleiner Prozentsatz angegeben werden. Doch sie werden jedes Jahr fällig, und ihr Effekt summiert sich ebenfalls über den Zinseszins.",
+      "Ein Rechenbeispiel: Zehntausend Euro wachsen dreißig Jahre lang um sechs Prozent im Jahr. Ohne Kosten wären es am Ende gut 57.000 Euro. Bei Kosten von 0,2 Prozent pro Jahr bleiben rund 54.000 Euro. Bei Kosten von 1,5 Prozent sind es nur noch etwa 37.000 Euro. Ein scheinbar kleiner Unterschied kostet hier rund siebzehntausend Euro.",
+      "Deshalb lohnt es sich, bei jeder Geldanlage genau auf die Kosten zu schauen: einmalige Gebühren beim Kauf und vor allem die laufenden Kosten pro Jahr. Die Verbraucherzentrale weist immer wieder darauf hin, dass gerade die laufenden Kosten über lange Zeit einen großen Teil des Ertrags aufzehren können.",
+      "Zinseszins, Inflation und Kosten zeigen zusammen: Wer langfristig Vermögen aufbauen möchte, braucht Erträge, die über der Inflation liegen, bei möglichst geringen Kosten. Klassische Sparkonten schaffen das oft nicht. Deshalb richten viele Menschen ihren Blick auf die Börse."
+     ]
+    },
+    {
+     "heading": "Was eine Aktie ist",
+     "paragraphs": [
+      "Eine Aktie ist ein Anteil an einem Unternehmen. Wer eine Aktie besitzt, ist Miteigentümer, wenn auch meist nur zu einem winzigen Bruchteil. Die Verbraucherzentrale beschreibt sie als Wertpapier, das einen Anteil am Grundkapital eines Unternehmens dokumentiert. Unternehmen, die Aktien ausgeben, heißen in Deutschland Aktiengesellschaften.",
+      "Warum geben Unternehmen überhaupt Anteile an Fremde ab? Weil sie Geld brauchen, um zu wachsen, etwa für neue Fabriken, Forschung oder die Eroberung neuer Märkte. Statt einen Kredit aufzunehmen, verkaufen sie Anteile. Die Käufer bekommen dafür keinen festen Zins, sondern eine Beteiligung am künftigen Erfolg.",
+      "Diese Beteiligung zeigt sich auf zwei Wegen. Erstens schütten viele Unternehmen einen Teil ihres Gewinns an die Aktionäre aus, die sogenannte Dividende. Zweitens kann der Wert der Aktie steigen, wenn das Unternehmen wächst und mehr verdient. Beides ist aber nicht garantiert.",
+      "Denn Aktionäre tragen auch das Risiko. Läuft es schlecht, fällt die Dividende weg, und der Kurs sinkt. Geht das Unternehmen pleite, kann die Aktie wertlos werden. Ein Totalverlust ist bei einzelnen Aktien also möglich. Wer Geld verleiht, etwa über eine Anleihe, wird im Insolvenzfall vor den Aktionären bedient.",
+      "Die Idee, Anteile an einem Unternehmen zu verkaufen, ist alt. Als Geburtsstunde des modernen Aktienhandels gilt aber das Jahr 1602. Damals gründeten Kaufleute in den Niederlanden die Vereinigte Ostindische Kompanie, um den riskanten Handel mit Gewürzen aus Asien zu betreiben. Sie bot ihre Anteile breiten Teilen der Bevölkerung an.",
+      "Neu war vor allem, dass man diese Anteile einfach an andere weiterverkaufen konnte. Schon bald entstand in Amsterdam ein lebhafter Handel damit. Der Börsenbetreiber Euronext bezeichnet die Kompanie deshalb als Begründerin der ersten Börse, der Amsterdamer Börse. Die Kompanie war allerdings auch ein Instrument von Kolonialherrschaft und Gewalt, was zu ihrer Geschichte gehört.",
+      "Der Gedanke dahinter war genial einfach. Eine einzelne Schiffsreise nach Asien war extrem riskant, Schiffe konnten sinken oder überfallen werden. Indem viele Menschen sich beteiligten, verteilte sich das Risiko auf viele Schultern. Gleichzeitig konnte das Unternehmen viel mehr Kapital einsammeln, als ein einzelner Kaufmann je hätte aufbringen können.",
+      "Heute gibt es weltweit Zehntausende Aktiengesellschaften, deren Anteile an Börsen gehandelt werden. Darunter sind bekannte Konzerne, aber auch kleinere Firmen. Zusammen sind diese Unternehmen viele Billionen Euro wert.",
+      "Für die Wirtschaft erfüllen Aktien eine wichtige Aufgabe. Sie verbinden Menschen, die Geld übrig haben, mit Unternehmen, die Geld für ihre Ideen brauchen. Und sie ermöglichen es ganz normalen Menschen, am Erfolg großer Unternehmen teilzuhaben.",
+      "Doch wie kommt der Preis einer Aktie eigentlich zustande, und warum ändert er sich ständig? Dafür lohnt ein Blick auf den Ort, an dem Aktien gehandelt werden."
+     ]
+    },
+    {
+     "heading": "Wie eine Börse funktioniert",
+     "paragraphs": [
+      "Eine Börse ist im Grunde ein Marktplatz, ähnlich wie ein Wochenmarkt. Nur werden dort keine Äpfel verkauft, sondern Wertpapiere wie Aktien und Anleihen. Früher standen Händler tatsächlich in großen Sälen und riefen sich Angebote zu. Heute läuft der Handel fast vollständig über Computer ab, oft in Bruchteilen von Sekunden.",
+      "Der Preis einer Aktie, ihr Kurs, entsteht durch Angebot und Nachfrage. Wer kaufen möchte, sagt, wie viel er höchstens zahlen will. Wer verkaufen möchte, sagt, wie viel er mindestens haben will. Die Börse bringt diese Aufträge zusammen. Wenn mehr Menschen kaufen als verkaufen wollen, steigt der Kurs, im umgekehrten Fall sinkt er.",
+      "Privatpersonen handeln nicht direkt an der Börse, sondern über eine Bank oder einen Online-Broker. Dafür braucht man ein sogenanntes Depot, eine Art Konto für Wertpapiere. Die Bank leitet die Aufträge an die Börse weiter.",
+      "Gehandelt wird an Börsentagen zu festen Zeiten, an vielen Plätzen inzwischen auch bis in den späten Abend. Neben den großen Börsen gibt es außerbörsliche Handelsplätze, über die viele Online-Broker ihre Aufträge abwickeln. Für Anleger zählt vor allem, dass der Preis fair ist und die Gebühren niedrig sind.",
+      "Warum aber wollen Menschen eine Aktie zu einem bestimmten Preis kaufen oder verkaufen? Im Kern geht es um Erwartungen. Der Kurs spiegelt wider, was die Marktteilnehmer über die künftigen Gewinne eines Unternehmens denken. Neue Informationen verändern diese Erwartungen, und damit den Kurs.",
+      "Deshalb reagieren Kurse oft heftig auf Nachrichten: einen Quartalsbericht, ein neues Produkt, eine Gerichtsentscheidung oder eine Zinsänderung der Zentralbank. Manchmal steigt eine Aktie sogar, obwohl das Unternehmen Verluste meldet, weil die Verluste kleiner sind als befürchtet.",
+      "Hinzu kommt die Psychologie. An der Börse handeln Menschen, und Menschen lassen sich von Gier und Angst leiten. In guten Zeiten kaufen viele, weil die Kurse steigen, und treiben sie damit noch höher. In schlechten Zeiten verkaufen viele aus Angst und verstärken den Absturz. Kurse können sich deshalb kurzfristig weit von dem entfernen, was ein Unternehmen eigentlich wert ist.",
+      "Um die Entwicklung eines ganzen Marktes auf einen Blick zu zeigen, gibt es Aktienindizes. Ein Index fasst die Kurse vieler Aktien zu einer einzigen Zahl zusammen. Der bekannteste deutsche Index ist der DAX. Er enthält seit 2021 die vierzig größten Unternehmen, die an der Frankfurter Börse gehandelt werden, vorher waren es dreißig.",
+      "Andere bekannte Indizes sind der amerikanische S&P 500 mit rund fünfhundert großen US-Unternehmen oder der MSCI World, der Tausende Unternehmen aus vielen Industrieländern abbildet. Wenn in den Nachrichten von der Börse die Rede ist, sind meist solche Indizes gemeint.",
+      "Börsen werden streng überwacht. In Deutschland ist die Bundesanstalt für Finanzdienstleistungsaufsicht, kurz BaFin, zuständig. Sie achtet zum Beispiel darauf, dass niemand mit geheimen Informationen handelt und Unternehmen wichtige Nachrichten rechtzeitig veröffentlichen. Das soll dafür sorgen, dass alle Anleger fair behandelt werden.",
+      "Eines kann aber auch die beste Aufsicht nicht verhindern: dass Kurse schwanken, manchmal sehr heftig. Diese Schwankungen sind der Preis für die höheren Ertragschancen von Aktien."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Zinsen sind der Preis dafür, Geld zu verleihen, und der Zinseszins lässt Erträge über die Zeit immer schneller wachsen.",
+    "Je früher man beginnt, desto stärker wirkt der Effekt, schon zehn Jahre Unterschied machen am Ende viel aus.",
+    "Die Börse ist ein Marktplatz für Unternehmensanteile, deren Preise Erwartungen über die Zukunft widerspiegeln."
+   ]
+  },
+  "20": {
+   "words": 3725,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "1602 konnten Bürgerinnen und Bürger in Amsterdam zum ersten Mal Anteile an einem großen Handelsunternehmen kaufen und bald darauf an andere weiterverkaufen. Aus diesem Anfang entstand die Börse, wie wir sie kennen. In diesem Artikel erfährst du, warum es Zinsen gibt, wie der Zinseszins wirkt, warum Zeit, Kosten und Inflation so entscheidend sind, was Aktien sind, wie Kurse entstehen, warum es immer wieder Crashs gibt und wie Streuung das Risiko verringert. Er erklärt Zusammenhänge und ist keine Anlageberatung."
+     ]
+    },
+    {
+     "heading": "Warum es Zinsen gibt",
+     "paragraphs": [
+      "Stell dir vor, eine Freundin bittet dich, ihr tausend Euro für ein Jahr zu leihen. Du hilfst gern, aber du verzichtest damit auf etwas: Du kannst das Geld in dieser Zeit nicht selbst ausgeben, und vielleicht bekommst du es gar nicht zurück. Zinsen sind im Kern der Preis für diesen Verzicht und für dieses Risiko.",
+      "Wer Geld verleiht, bekommt Zinsen. Wer Geld leiht, zahlt sie. Wenn du Geld auf ein Sparkonto legst, leihst du es übrigens auch, nämlich der Bank. Sie gibt es als Kredit an andere weiter, etwa an eine Familie, die ein Haus baut, oder an ein Unternehmen, das eine neue Maschine kauft. Von den Zinsen, die diese zahlen, gibt die Bank einen Teil an dich weiter.",
+      "Zinsen werden meist als Prozentsatz pro Jahr angegeben. Bei fünf Prozent Zinsen auf tausend Euro erhältst du nach einem Jahr fünfzig Euro. Das klingt überschaubar, und bei einfacher Verzinsung bleibt es auch so: Jedes Jahr kommen wieder fünfzig Euro dazu, nach zehn Jahren also fünfhundert Euro.",
+      "Wie hoch Zinsen sind, hängt von vielen Dingen ab. Ein wichtiger Faktor ist das Risiko. Wer einem Unternehmen mit unsicherer Zukunft Geld leiht, verlangt mehr Zinsen als jemand, der einem sehr zuverlässigen Staat Geld leiht. Auch die Dauer spielt eine Rolle: Wer sein Geld länger fest anlegt, bekommt oft etwas mehr.",
+      "Den größten Einfluss haben die Zentralbanken. Im Euroraum ist das die Europäische Zentralbank. Sie legt den Leitzins fest, zu dem sich Banken bei ihr Geld leihen können. Steigt er, werden Kredite teurer und Sparen lohnender. Sinkt er, wird Leihen billiger. Mit diesem Hebel versucht die Zentralbank, die Preise stabil zu halten.",
+      "In den Jahren nach der Finanzkrise und bis Anfang der Zwanzigerjahre waren die Zinsen in Europa extrem niedrig, zeitweise sogar unter null. Sparer bekamen auf dem Konto praktisch nichts. Als die Inflation stark stieg, erhöhte die Zentralbank die Zinsen deutlich, und Sparen brachte wieder etwas ein.",
+      "Zinsen sind übrigens keine moderne Erfindung. Schon in den ältesten Hochkulturen wurden Getreide und Silber gegen Zinsen verliehen. Gleichzeitig galten Zinsen in vielen Kulturen und Religionen lange als anrüchig oder waren verboten, weil man fürchtete, sie würden die Schwachen ausbeuten.",
+      "Diese Sorge ist nicht ganz unbegründet. Zinsen können sehr hilfreich sein, weil sie Menschen ermöglichen, heute etwas zu finanzieren, das sie erst später bezahlen können. Sie können aber auch zur Falle werden, wenn Schulden schneller wachsen, als man sie zurückzahlen kann.",
+      "Der Grund dafür ist ein Effekt, der in beide Richtungen wirkt und den viele Menschen unterschätzen. Er sorgt dafür, dass Geld nicht gleichmäßig, sondern immer schneller wächst, sobald man die Zinsen nicht abhebt.",
+      "Dieser Effekt hat einen etwas altmodischen Namen: Zinseszins. Er ist der Schlüssel zum Verständnis von Sparen, Schulden und Börse."
+     ]
+    },
+    {
+     "heading": "Die Kraft des Zinseszinses",
+     "paragraphs": [
+      "Der Zinseszins ist schnell erklärt. Du bekommst nicht nur Zinsen auf das Geld, das du ursprünglich angelegt hast, sondern auch auf die Zinsen, die du bereits verdient hast. Die amerikanische Verbraucherschutzbehörde beschreibt es genau so: Man verdient Zinsen auf das Ersparte und auf die Zinsen, die unterwegs hinzukommen.",
+      "Ein Beispiel: Du legst tausend Euro zu fünf Prozent an. Nach einem Jahr hast du tausendfünfzig Euro. Im zweiten Jahr bekommst du fünf Prozent auf tausendfünfzig Euro, also zweiundfünfzig Euro und fünfzig Cent. Der Unterschied zur einfachen Verzinsung sind nur zweieinhalb Euro. Das wirkt lächerlich wenig.",
+      "Doch der Effekt wächst mit jedem Jahr. Nach zehn Jahren sind aus tausend Euro rund 1630 Euro geworden. Nach zwanzig Jahren sind es etwa 2650 Euro, nach dreißig Jahren rund 4320 Euro und nach vierzig Jahren gut 7000 Euro. Bei einfacher Verzinsung hättest du nach dreißig Jahren nur 2500 Euro.",
+      "Das liegt daran, dass der Zinseszins nicht gleichmäßig, sondern exponentiell wächst. Jedes Jahr wird der Betrag nicht um dieselbe Summe größer, sondern um denselben Anteil. Und weil der Betrag selbst immer größer wird, werden auch die jährlichen Zuwächse immer größer. Die Kurve ist am Anfang flach und wird später immer steiler.",
+      "Mit exponentiellem Wachstum tun sich Menschen schwer. Unser Gefühl rechnet eher in geraden Linien. Ein bekanntes Rätsel zeigt das: Seerosen auf einem Teich verdoppeln jeden Tag ihre Fläche, nach dreißig Tagen ist der Teich voll. Wann war er halb voll? Nicht nach fünfzehn Tagen, sondern am neunundzwanzigsten Tag.",
+      "Für eine grobe Schätzung gibt es einen praktischen Trick, die Siebziger-Regel. Man teilt zweiundsiebzig durch den Zinssatz und erhält ungefähr die Zahl der Jahre, in denen sich das Geld verdoppelt. Bei sechs Prozent sind es etwa zwölf Jahre, bei sieben Prozent gut zehn, bei drei Prozent etwa vierundzwanzig Jahre.",
+      "Die Regel funktioniert auch umgekehrt. Wer in zehn Jahren sein Geld verdoppeln will, braucht ungefähr sieben Prozent pro Jahr. Und sie zeigt, wie stark kleine Unterschiede im Zinssatz über lange Zeit wirken: Ein Prozentpunkt mehr oder weniger kann am Ende über viele tausend Euro entscheiden.",
+      "Wichtig ist eine Voraussetzung: Der Zinseszins wirkt nur, wenn man die Erträge nicht ausgibt, sondern im Topf lässt. Fachleute sprechen von Wiederanlage. Wer die Zinsen jedes Jahr abhebt, bekommt nur einfache Zinsen.",
+      "Wie oft die Zinsen gutgeschrieben werden, spielt ebenfalls eine kleine Rolle. Werden sie monatlich statt jährlich gutgeschrieben, beginnen sie früher selbst Zinsen zu tragen. Der Unterschied ist bei normalen Zinssätzen aber gering. Wer nachrechnen möchte, findet im Netz kostenlose Rechner, etwa bei der amerikanischen Börsenaufsicht.",
+      "Entscheidend für das Ergebnis sind am Ende drei Größen: wie viel man anlegt, zu welchem Zinssatz und vor allem wie lange. Die dritte ist die mächtigste."
+     ]
+    },
+    {
+     "heading": "Zeit ist der größte Hebel",
+     "paragraphs": [
+      "Beim Zinseszins zählt kaum etwas so sehr wie Zeit. Das zeigt ein Vergleich zweier Personen, nennen wir sie Lea und Tom. Beide legen jeden Monat hundert Euro an und erzielen im Durchschnitt fünf Prozent pro Jahr. Lea beginnt mit fünfundzwanzig, Tom erst mit fünfunddreißig. Beide hören mit fünfundsechzig auf.",
+      "Lea zahlt über vierzig Jahre insgesamt 48.000 Euro ein. Am Ende hat sie bei diesen Annahmen rund 152.000 Euro. Tom zahlt über dreißig Jahre 36.000 Euro ein und kommt auf etwa 83.000 Euro. Lea hat nur zwölftausend Euro mehr eingezahlt, aber fast siebzigtausend Euro mehr am Ende.",
+      "Der Grund: Leas frühe Einzahlungen hatten zehn Jahre länger Zeit zu wachsen, und genau in den letzten Jahren wächst der Betrag am stärksten. Es lohnt sich deshalb, früh anzufangen, auch mit kleinen Beträgen. Wer später einsteigt, muss deutlich mehr einzahlen, um aufzuholen.",
+      "Natürlich ist das ein Rechenbeispiel. In der Wirklichkeit gibt es keine Garantie für gleichmäßige fünf Prozent. Bei einem Sparkonto ist der Zins oft niedriger, bei Aktien schwanken die Erträge stark von Jahr zu Jahr. Das Prinzip aber bleibt: Zeit verstärkt jeden Ertrag.",
+      "Schon im achtzehnten Jahrhundert faszinierte dieser Effekt die Menschen. Der britische Moralphilosoph Richard Price stellte 1772 ein berühmtes Gedankenexperiment vor, das im Deutschen als Josephspfennig bekannt ist. Hätte man zur Zeit von Christi Geburt einen einzigen Pfennig zu fünf Prozent angelegt, wäre daraus bis in seine Zeit eine Menge Gold geworden, die viele Erdkugeln füllen würde.",
+      "Natürlich hat das nie jemand getan, und keine Bank existiert so lange. Das Beispiel zeigt aber, wie extrem exponentielles Wachstum über sehr lange Zeit wird. In der Praxis setzen Kriege, Krisen, Inflation und Steuern dem Wachstum Grenzen.",
+      "Oft liest man, Albert Einstein habe den Zinseszins das achte Weltwunder oder die stärkste Kraft im Universum genannt. Für dieses Zitat gibt es allerdings keinen verlässlichen Beleg. Es ist vermutlich ein Beispiel dafür, wie gern man klugen Menschen kluge Sätze in den Mund legt.",
+      "Für das eigene Leben lässt sich aus der Mathematik eine einfache Erkenntnis ableiten: Regelmäßigkeit schlägt Timing. Wer jeden Monat einen festen Betrag zur Seite legt, profitiert über die Jahre stärker als jemand, der versucht, den perfekten Zeitpunkt abzupassen.",
+      "Viele Menschen nutzen dafür einen Sparplan, bei dem automatisch jeden Monat ein fester Betrag angelegt wird. Der Vorteil ist auch psychologisch: Man muss nicht jedes Mal neu entscheiden, und das Sparen wird zur Gewohnheit.",
+      "Doch so mächtig der Zinseszins für Sparer ist, so gnadenlos kann er sein, wenn er in die andere Richtung wirkt. Und es gibt gleich mehrere Kräfte, die still und leise am Ersparten nagen."
+     ]
+    },
+    {
+     "heading": "Die Kehrseite: Schulden, Inflation und Gebühren",
+     "paragraphs": [
+      "Der Zinseszins macht keinen Unterschied, ob er für oder gegen dich arbeitet. Bei Schulden wirkt er genauso, nur dass dann der Schuldenberg exponentiell wächst. Besonders gefährlich sind teure Kredite wie ein überzogenes Girokonto oder offene Beträge auf manchen Kreditkarten. Dort sind Zinsen von zehn bis zwanzig Prozent pro Jahr keine Seltenheit.",
+      "Mit der Siebziger-Regel sieht man sofort, was das bedeutet. Bei achtzehn Prozent verdoppelt sich eine Schuld, die man nicht abbezahlt, in nur etwa vier Jahren. Wer nur die Mindestraten zahlt, kann so jahrelang zahlen, ohne dass die Schuld nennenswert kleiner wird.",
+      "Deshalb gilt eine einfache Faustregel: Teure Schulden zurückzuzahlen, ist meist die beste Geldanlage, die es gibt. Wer zwanzig Prozent Zinsen spart, erzielt praktisch einen sicheren Ertrag von zwanzig Prozent. Das schafft keine seriöse Anlage zuverlässig.",
+      "Die zweite stille Kraft ist die Inflation. Sie beschreibt, wie stark die Preise im Durchschnitt steigen. Wenn die Preise um zwei Prozent im Jahr steigen, kann man sich mit derselben Summe Geld jedes Jahr etwas weniger kaufen. Auch hier wirkt der Zinseszinseffekt, nur rückwärts.",
+      "Nach dreißig Jahren mit zwei Prozent Inflation sind tausend Euro nur noch so viel wert, wie heute etwa 550 Euro. Geld, das ohne Zinsen unter dem Kopfkissen liegt, verliert also fast die Hälfte seiner Kaufkraft. Bei höherer Inflation geht es noch schneller.",
+      "Für Sparer zählt deshalb nicht der Zins, der auf dem Kontoauszug steht, sondern der sogenannte reale Zins. Das ist der Zins abzüglich der Inflation. Bekommt man drei Prozent Zinsen bei zwei Prozent Inflation, wächst die Kaufkraft nur um etwa ein Prozent. Liegt die Inflation höher als der Zins, verliert man trotz Zinsen.",
+      "Die dritte Kraft sind Gebühren. Sie wirken unscheinbar, weil sie meist als kleiner Prozentsatz angegeben werden. Doch sie werden jedes Jahr fällig, und ihr Effekt summiert sich ebenfalls über den Zinseszins.",
+      "Ein Rechenbeispiel: Zehntausend Euro wachsen dreißig Jahre lang um sechs Prozent im Jahr. Ohne Kosten wären es am Ende gut 57.000 Euro. Bei Kosten von 0,2 Prozent pro Jahr bleiben rund 54.000 Euro. Bei Kosten von 1,5 Prozent sind es nur noch etwa 37.000 Euro. Ein scheinbar kleiner Unterschied kostet hier rund siebzehntausend Euro.",
+      "Deshalb lohnt es sich, bei jeder Geldanlage genau auf die Kosten zu schauen: einmalige Gebühren beim Kauf und vor allem die laufenden Kosten pro Jahr. Die Verbraucherzentrale weist immer wieder darauf hin, dass gerade die laufenden Kosten über lange Zeit einen großen Teil des Ertrags aufzehren können.",
+      "Zinseszins, Inflation und Kosten zeigen zusammen: Wer langfristig Vermögen aufbauen möchte, braucht Erträge, die über der Inflation liegen, bei möglichst geringen Kosten. Klassische Sparkonten schaffen das oft nicht. Deshalb richten viele Menschen ihren Blick auf die Börse."
+     ]
+    },
+    {
+     "heading": "Was eine Aktie ist",
+     "paragraphs": [
+      "Eine Aktie ist ein Anteil an einem Unternehmen. Wer eine Aktie besitzt, ist Miteigentümer, wenn auch meist nur zu einem winzigen Bruchteil. Die Verbraucherzentrale beschreibt sie als Wertpapier, das einen Anteil am Grundkapital eines Unternehmens dokumentiert. Unternehmen, die Aktien ausgeben, heißen in Deutschland Aktiengesellschaften.",
+      "Warum geben Unternehmen überhaupt Anteile an Fremde ab? Weil sie Geld brauchen, um zu wachsen, etwa für neue Fabriken, Forschung oder die Eroberung neuer Märkte. Statt einen Kredit aufzunehmen, verkaufen sie Anteile. Die Käufer bekommen dafür keinen festen Zins, sondern eine Beteiligung am künftigen Erfolg.",
+      "Diese Beteiligung zeigt sich auf zwei Wegen. Erstens schütten viele Unternehmen einen Teil ihres Gewinns an die Aktionäre aus, die sogenannte Dividende. Zweitens kann der Wert der Aktie steigen, wenn das Unternehmen wächst und mehr verdient. Beides ist aber nicht garantiert.",
+      "Denn Aktionäre tragen auch das Risiko. Läuft es schlecht, fällt die Dividende weg, und der Kurs sinkt. Geht das Unternehmen pleite, kann die Aktie wertlos werden. Ein Totalverlust ist bei einzelnen Aktien also möglich. Wer Geld verleiht, etwa über eine Anleihe, wird im Insolvenzfall vor den Aktionären bedient.",
+      "Die Idee, Anteile an einem Unternehmen zu verkaufen, ist alt. Als Geburtsstunde des modernen Aktienhandels gilt aber das Jahr 1602. Damals gründeten Kaufleute in den Niederlanden die Vereinigte Ostindische Kompanie, um den riskanten Handel mit Gewürzen aus Asien zu betreiben. Sie bot ihre Anteile breiten Teilen der Bevölkerung an.",
+      "Neu war vor allem, dass man diese Anteile einfach an andere weiterverkaufen konnte. Schon bald entstand in Amsterdam ein lebhafter Handel damit. Der Börsenbetreiber Euronext bezeichnet die Kompanie deshalb als Begründerin der ersten Börse, der Amsterdamer Börse. Die Kompanie war allerdings auch ein Instrument von Kolonialherrschaft und Gewalt, was zu ihrer Geschichte gehört.",
+      "Der Gedanke dahinter war genial einfach. Eine einzelne Schiffsreise nach Asien war extrem riskant, Schiffe konnten sinken oder überfallen werden. Indem viele Menschen sich beteiligten, verteilte sich das Risiko auf viele Schultern. Gleichzeitig konnte das Unternehmen viel mehr Kapital einsammeln, als ein einzelner Kaufmann je hätte aufbringen können.",
+      "Heute gibt es weltweit Zehntausende Aktiengesellschaften, deren Anteile an Börsen gehandelt werden. Darunter sind bekannte Konzerne, aber auch kleinere Firmen. Zusammen sind diese Unternehmen viele Billionen Euro wert.",
+      "Für die Wirtschaft erfüllen Aktien eine wichtige Aufgabe. Sie verbinden Menschen, die Geld übrig haben, mit Unternehmen, die Geld für ihre Ideen brauchen. Und sie ermöglichen es ganz normalen Menschen, am Erfolg großer Unternehmen teilzuhaben.",
+      "Doch wie kommt der Preis einer Aktie eigentlich zustande, und warum ändert er sich ständig? Dafür lohnt ein Blick auf den Ort, an dem Aktien gehandelt werden."
+     ]
+    },
+    {
+     "heading": "Wie eine Börse funktioniert",
+     "paragraphs": [
+      "Eine Börse ist im Grunde ein Marktplatz, ähnlich wie ein Wochenmarkt. Nur werden dort keine Äpfel verkauft, sondern Wertpapiere wie Aktien und Anleihen. Früher standen Händler tatsächlich in großen Sälen und riefen sich Angebote zu. Heute läuft der Handel fast vollständig über Computer ab, oft in Bruchteilen von Sekunden.",
+      "Der Preis einer Aktie, ihr Kurs, entsteht durch Angebot und Nachfrage. Wer kaufen möchte, sagt, wie viel er höchstens zahlen will. Wer verkaufen möchte, sagt, wie viel er mindestens haben will. Die Börse bringt diese Aufträge zusammen. Wenn mehr Menschen kaufen als verkaufen wollen, steigt der Kurs, im umgekehrten Fall sinkt er.",
+      "Privatpersonen handeln nicht direkt an der Börse, sondern über eine Bank oder einen Online-Broker. Dafür braucht man ein sogenanntes Depot, eine Art Konto für Wertpapiere. Die Bank leitet die Aufträge an die Börse weiter.",
+      "Gehandelt wird an Börsentagen zu festen Zeiten, an vielen Plätzen inzwischen auch bis in den späten Abend. Neben den großen Börsen gibt es außerbörsliche Handelsplätze, über die viele Online-Broker ihre Aufträge abwickeln. Für Anleger zählt vor allem, dass der Preis fair ist und die Gebühren niedrig sind.",
+      "Warum aber wollen Menschen eine Aktie zu einem bestimmten Preis kaufen oder verkaufen? Im Kern geht es um Erwartungen. Der Kurs spiegelt wider, was die Marktteilnehmer über die künftigen Gewinne eines Unternehmens denken. Neue Informationen verändern diese Erwartungen, und damit den Kurs.",
+      "Deshalb reagieren Kurse oft heftig auf Nachrichten: einen Quartalsbericht, ein neues Produkt, eine Gerichtsentscheidung oder eine Zinsänderung der Zentralbank. Manchmal steigt eine Aktie sogar, obwohl das Unternehmen Verluste meldet, weil die Verluste kleiner sind als befürchtet.",
+      "Hinzu kommt die Psychologie. An der Börse handeln Menschen, und Menschen lassen sich von Gier und Angst leiten. In guten Zeiten kaufen viele, weil die Kurse steigen, und treiben sie damit noch höher. In schlechten Zeiten verkaufen viele aus Angst und verstärken den Absturz. Kurse können sich deshalb kurzfristig weit von dem entfernen, was ein Unternehmen eigentlich wert ist.",
+      "Um die Entwicklung eines ganzen Marktes auf einen Blick zu zeigen, gibt es Aktienindizes. Ein Index fasst die Kurse vieler Aktien zu einer einzigen Zahl zusammen. Der bekannteste deutsche Index ist der DAX. Er enthält seit 2021 die vierzig größten Unternehmen, die an der Frankfurter Börse gehandelt werden, vorher waren es dreißig.",
+      "Andere bekannte Indizes sind der amerikanische S&P 500 mit rund fünfhundert großen US-Unternehmen oder der MSCI World, der Tausende Unternehmen aus vielen Industrieländern abbildet. Wenn in den Nachrichten von der Börse die Rede ist, sind meist solche Indizes gemeint.",
+      "Börsen werden streng überwacht. In Deutschland ist die Bundesanstalt für Finanzdienstleistungsaufsicht, kurz BaFin, zuständig. Sie achtet zum Beispiel darauf, dass niemand mit geheimen Informationen handelt und Unternehmen wichtige Nachrichten rechtzeitig veröffentlichen. Das soll dafür sorgen, dass alle Anleger fair behandelt werden.",
+      "Eines kann aber auch die beste Aufsicht nicht verhindern: dass Kurse schwanken, manchmal sehr heftig. Diese Schwankungen sind der Preis für die höheren Ertragschancen von Aktien."
+     ]
+    },
+    {
+     "heading": "Auf und ab: Risiko und Streuung",
+     "paragraphs": [
+      "Wer in Aktien investiert, muss mit Schwankungen leben. Die Verbraucherzentrale betont, dass Aktienkurse auch über mehrere Jahre gleich bleiben oder fallen können. Kursverluste von zehn oder zwanzig Prozent innerhalb weniger Wochen sind keine Seltenheit, und auch Fachleute können die Entwicklung nicht sicher vorhersagen.",
+      "Die Geschichte der Börse ist voller Crashs. Nach 1929 brachen die Kurse in den USA über Jahre ein und trugen zur Weltwirtschaftskrise bei. Um das Jahr 2000 platzte die sogenannte Dotcom-Blase, als überzogene Erwartungen an Internetfirmen in sich zusammenfielen. 2008 löste die Finanzkrise weltweit massive Kursverluste aus, und 2020 stürzten die Märkte zu Beginn der Corona-Pandemie innerhalb weniger Wochen ab.",
+      "Bemerkenswert ist, was danach geschah. Breit gestreute Märkte haben sich nach diesen Einbrüchen in der Vergangenheit wieder erholt, manchmal schnell, manchmal erst nach vielen Jahren. Wer verkaufen musste, als die Kurse unten waren, hat Verluste dauerhaft gemacht. Wer durchhalten konnte, sah sein Vermögen in der Regel irgendwann wieder wachsen. Eine Garantie, dass das immer so bleibt, gibt es aber nicht.",
+      "Warum nehmen Menschen dieses Risiko überhaupt in Kauf? Weil Aktien im Gegenzug langfristig höhere Erträge erwarten lassen als sichere Anlagen. Fachleute nennen den Zusatzertrag Risikoprämie. Eine Untersuchung, auf die sich die Verbraucherzentrale beruft, kommt für Aktien aus einundzwanzig Ländern über sehr lange Zeiträume auf durchschnittlich gut fünf Prozent pro Jahr nach Abzug der Inflation.",
+      "Das ist ein Durchschnitt über viele Jahrzehnte, kein Versprechen für die nächsten zehn Jahre. Es gibt Zeiträume, in denen Aktien deutlich schlechter abgeschnitten haben. Und je kürzer der Zeitraum, desto größer ist das Risiko, mit Verlust dazustehen. Deshalb gilt: Geld, das man in wenigen Jahren sicher braucht, gehört eher nicht in Aktien.",
+      "Das wichtigste Werkzeug gegen das Risiko heißt Streuung, auf Englisch Diversifikation. Die Idee kennt jeder aus dem Sprichwort: Lege nicht alle Eier in einen Korb. Wer nur die Aktie eines einzigen Unternehmens besitzt, ist vollständig von dessen Schicksal abhängig. Geht es pleite, ist das Geld weg.",
+      "Wer dagegen in Hunderte oder Tausende Unternehmen aus verschiedenen Ländern und Branchen investiert, ist viel besser geschützt. Wenn ein Unternehmen scheitert, fällt das kaum ins Gewicht, denn andere wachsen gleichzeitig. Das Risiko einzelner Firmen gleicht sich zu einem großen Teil aus.",
+      "Ganz verschwindet das Risiko allerdings nicht. Wenn die gesamte Weltwirtschaft in eine Krise gerät, fallen fast alle Aktien gleichzeitig. Dieses Marktrisiko bleibt auch bei breiter Streuung bestehen. Streuung verringert also das Risiko einzelner Pleiten, nicht aber das Auf und Ab des gesamten Marktes.",
+      "Ein weiterer Schutz ist Zeit. Je länger man investiert bleibt, desto eher gleichen sich gute und schlechte Jahre aus. Wer regelmäßig über einen Sparplan kauft, kauft zudem in schlechten Zeiten automatisch mehr Anteile zum niedrigen Preis und in guten Zeiten weniger.",
+      "Am Ende ist der größte Gegner vieler Anleger nicht der Markt, sondern das eigene Verhalten: in Panik verkaufen, wenn die Kurse fallen, oder in Euphorie kaufen, wenn alle von Gewinnen schwärmen. Wer das weiß, kann sich mit klaren Regeln davor schützen."
+     ]
+    },
+    {
+     "heading": "Fonds, ETFs und kluge Gewohnheiten",
+     "paragraphs": [
+      "Eine breite Streuung über Tausende Aktien selbst aufzubauen, wäre für die meisten Menschen viel zu aufwendig und teuer. Dafür gibt es Fonds. Ein Investmentfonds sammelt das Geld vieler Anleger ein und investiert es in viele verschiedene Wertpapiere. Jeder Anleger besitzt dann einen Anteil am gesamten Topf.",
+      "Bei klassischen, aktiv verwalteten Fonds wählt ein Fondsmanagement die Aktien aus und versucht, besser abzuschneiden als der Markt. Dafür fallen oft deutlich höhere Kosten an, häufig auch ein Ausgabeaufschlag beim Kauf. Langfristig schaffen es nur wenige Fonds dauerhaft, den Markt nach Kosten zu übertreffen.",
+      "Eine Alternative sind Indexfonds, meist als ETFs gehandelt. Die Abkürzung steht für Exchange Traded Fund, also börsengehandelter Fonds. Ein ETF versucht nicht, den Markt zu schlagen, sondern bildet einfach einen Index nach, etwa den DAX oder einen weltweiten Index. Steigt der Index, steigt der ETF, fällt der Index, fällt auch der ETF.",
+      "Weil dafür kein aufwendiges Management nötig ist, sind ETFs meist deutlich günstiger. Nach Angaben der Verbraucherzentrale fällt bei ihnen kein Ausgabeaufschlag an, und die laufenden Kosten liegen bei breit gestreuten Aktien-ETFs oft bei etwa 0,2 Prozent pro Jahr. Über den Zinseszins kann dieser Kostenvorteil über Jahrzehnte viel ausmachen.",
+      "Auch ETFs schwanken allerdings mit dem Markt, sie sind kein Sparbuch. Und nicht jeder ETF ist breit gestreut. Es gibt auch Fonds auf einzelne Branchen, Länder oder kompliziert berechnete Indizes. Verbraucherschützer raten für den langfristigen Vermögensaufbau zu ETFs, die möglichst weltweit in viele Unternehmen investieren.",
+      "Bevor man überhaupt an Aktien denkt, empfehlen viele Fachleute eine Reihenfolge. Zuerst teure Schulden abbauen. Dann eine Rücklage für Notfälle auf einem Tagesgeldkonto bilden, oft wird eine Summe von drei bis sechs Monatsausgaben genannt. Erst Geld, das man langfristig nicht braucht, kommt für Aktien infrage.",
+      "Die Rücklage ist dabei kein verschenktes Geld. Sie sorgt dafür, dass man bei einer kaputten Waschmaschine oder einem Jobverlust nicht gezwungen ist, Aktien ausgerechnet in einem Crash zu verkaufen. So schützt sie das langfristige Investment.",
+      "Vorsicht ist bei Versprechen geboten, die zu gut klingen, um wahr zu sein. Wer hohe Erträge ohne Risiko verspricht, verschweigt entweder etwas oder plant einen Betrug. Die Grundregel lautet: Je höher die mögliche Rendite, desto höher das Risiko. Hinweise auf unseriöse Angebote veröffentlicht in Deutschland die BaFin.",
+      "Auch Steuern spielen eine Rolle. In Deutschland werden auf Zinsen, Dividenden und Kursgewinne oberhalb eines Freibetrags Steuern fällig. Die genauen Regeln ändern sich gelegentlich, deshalb lohnt sich ein Blick auf aktuelle Informationen der Verbraucherzentralen oder der Finanzbehörden.",
+      "Am Ende lassen sich die wichtigsten Erkenntnisse in wenigen Sätzen zusammenfassen: früh anfangen, regelmäßig sparen, breit streuen, auf Kosten achten und in Krisen ruhig bleiben. Das klingt unspektakulär. Doch genau in dieser Langeweile liegt die Kraft des Zinseszinses."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Zeit, Kosten und Inflation entscheiden mehr über das Ergebnis einer Geldanlage als kurzfristige Kursbewegungen.",
+    "Crashs gehören zur Geschichte der Börse, breit gestreute Märkte haben sich in der Vergangenheit aber wieder erholt, eine Garantie gibt es nicht.",
+    "Indexfonds bündeln viele Aktien zu geringen Kosten, eine Rücklage für Notfälle und ein ruhiger Kopf sind ebenso wichtig."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "title": "How does compound interest work?",
+   "publisher": "Consumer Financial Protection Bureau",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/how-does-compound-interest-work-en-1683/",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Compound Interest Calculator",
+   "publisher": "U.S. Securities and Exchange Commission, Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/compound-interest-calculator",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "417th Anniversary of the Amsterdam Exchange",
+   "publisher": "Euronext",
+   "url": "https://www.euronext.com/blog/417th-anniversary-amsterdam-exchange",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Welche Vorteile und Nachteile haben ETFs?",
+   "publisher": "Verbraucherzentrale",
+   "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/etfs-die-preisleistungssieger-unter-den-fonds-5856",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Finanzglossar: Durchblick von A wie Aktien bis Z wie Zins",
+   "publisher": "Verbraucherzentrale",
+   "url": "https://www.verbraucherzentrale.de/node/15907",
+   "accessed": "2026-11-03"
+  }
+ ],
+ "factCheckedAt": "2026-11-03"
+}

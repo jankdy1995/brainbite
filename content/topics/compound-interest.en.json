@@ -1,0 +1,425 @@
+{
+ "id": "compound-interest",
+ "lang": "en",
+ "title": "Compound Interest and How Stock Markets Work",
+ "versions": {
+  "5": {
+   "words": 1063,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "If you invest a thousand euros at five per cent interest and leave it untouched for thirty years, you end up with more than four thousand euros. Not because five per cent is so much, but because the interest itself earns interest too. This effect is called compound interest, and it works in both directions, for savings and for debts. In five minutes you will find out how it works, what shares and stock markets have to do with it and why spreading your money is so important. One thing first: this is knowledge, not investment advice."
+     ]
+    },
+    {
+     "heading": "The power of compound interest",
+     "paragraphs": [
+      "Interest is the price of lending money. If you put money into a savings account, you lend it to the bank and receive a percentage per year in return.",
+      "With compound interest, you get interest not only on the original money but also on the interest that has already been added. If you invest a thousand euros at five per cent, you have 1,050 euros after one year. In the second year you get interest on 1,050 euros, and so on.",
+      "At first the difference is tiny, but it grows with every year. After thirty years, a thousand euros have become around 4,320 euros. Without compounding it would only be 2,500 euros.",
+      "A handy rule of thumb is the rule of 72: divide seventy-two by the interest rate and you know roughly how many years it takes for the money to double. At six per cent it is about twelve years.",
+      "Because growth gets faster and faster, time is the strongest lever. Someone who starts saving ten years earlier often has almost twice as much at the end, despite paying in only a little more.",
+      "An example: two people invest a hundred euros every month and earn five per cent a year on average. One starts at twenty-five, the other at thirty-five, and both stop at sixty-five. Under these assumptions the first ends up with around 152,000 euros and the second with about 83,000 euros, although the second paid in only twelve thousand euros less.",
+      "But the effect also works against you. Expensive debts, such as an overdrawn account, grow exponentially in just the same way. At eighteen per cent, a debt doubles in about four years.",
+      "Inflation and fees also act like compound interest in reverse. With two per cent inflation, a thousand euros have the purchasing power of only about 550 euros today after thirty years. Small annual costs can eat up many thousands of euros over decades."
+     ]
+    },
+    {
+     "heading": "Shares and the stock market",
+     "paragraphs": [
+      "A share is a stake in a company. Whoever owns one is a co-owner, even if usually only of a tiny part. Companies issue shares to raise money for their growth.",
+      "Shareholders can benefit in two ways: through the dividend, a part of the profit, and through a rising share price if the company grows. But neither is guaranteed. If a company goes bust, the share can become worthless.",
+      "Anyone who would rather lend money than take a stake buys a bond. It pays fixed interest, and if the company goes bust, bondholders are paid before shareholders. In return, the potential return is usually lower.",
+      "The year 1602 is regarded as the birth of modern share trading. That year, the Dutch East India Company was founded in the Netherlands and sold shares to many people. These shares could be sold on, and so the first stock exchange came into being in Amsterdam.",
+      "A stock exchange is a marketplace for securities. The price of a share comes about through supply and demand. If more people want to buy than sell, it rises; otherwise it falls. Today trading happens almost entirely by computer.",
+      "At its core, a share price reflects expectations about the future. That is why prices react strongly to news, such as company results or interest rate changes. Greed and fear also play a big part.",
+      "To show a whole market at a glance, there are indices. The best-known German one is the DAX, made up of the forty largest companies on the Frankfurt Stock Exchange.",
+      "Private individuals do not trade on the exchange themselves but through a bank or an online broker. For that you need a securities account, a kind of account for shares."
+     ]
+    },
+    {
+     "heading": "Risk and diversification",
+     "paragraphs": [
+      "Share prices fluctuate, sometimes violently. History has seen many crashes, such as in 1929, around 2000, in 2008 and at the start of the coronavirus pandemic in 2020. Broadly diversified markets have recovered afterwards in the past, but there is no guarantee of that.",
+      "In return for this risk, shares can be expected to deliver higher returns than a savings account in the long run. That is why they are less suitable for money you will definitely need within a few years.",
+      "Those who have to sell in difficult times, or sell out of fear, lock in their losses for good. Those who could hold on generally saw their wealth grow again at some point in the past.",
+      "The most important tool against risk is diversification: don’t put all your eggs in one basket. If you invest in thousands of companies from many countries, you are hardly affected if one of them fails. But diversification does not protect against the ups and downs of the market as a whole.",
+      "One simple way to diversify is index funds, usually traded as ETFs. They track an index, such as a global share index, and are usually much cheaper than actively managed funds.",
+      "Many experts recommend an order of steps: first pay off expensive debts, then build an emergency fund in an instant-access account, and only then invest for the long term.",
+      "Be careful with offers that promise high returns without risk. The higher the possible return, the higher the risk always is.",
+      "The most important rules sound unspectacular: start early, save regularly, diversify broadly, watch the costs and stay calm in a crisis. This article explains how things work and is not investment advice."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "With compound interest, the interest already earned earns interest too, which is why money grows faster and faster over long periods.",
+    "A share is a stake in a company; its price goes up and down depending on how investors judge the company’s future.",
+    "Spreading money across many companies and staying invested for a long time reduces risk, but losses can never be ruled out entirely."
+   ]
+  },
+  "10": {
+   "words": 2376,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Sometimes money seems to multiply all by itself, and sometimes it seems to melt away all by itself. Behind both, there is often the same mathematics. Over the next ten minutes you will learn how interest and compound interest work, why debts, inflation and fees turn the same force against you, what a share actually is and why prices go up and down. This article explains how things work and is not investment advice."
+     ]
+    },
+    {
+     "heading": "Why interest exists",
+     "paragraphs": [
+      "Whoever lends money gives up the chance to spend it themselves and takes the risk of not getting it back. At its core, interest is the price for this sacrifice and this risk. Whoever lends money receives interest; whoever borrows money pays it.",
+      "Even if you put money into a savings account, you are lending it, namely to the bank. The bank lends it on, for example to a family building a house, and passes part of the interest on to its savers.",
+      "Interest is usually stated as a percentage per year. At five per cent on a thousand euros, you receive fifty euros after one year. With simple interest, another fifty euros are added every year, so five hundred euros after ten years.",
+      "How high interest rates are depends on risk, on the term and above all on the central bank. In the euro area, the European Central Bank sets the key interest rate. If it rises, loans become more expensive and saving more worthwhile.",
+      "Things get exciting when you do not withdraw the interest but leave it where it is. Then the money no longer grows evenly but faster and faster. This effect is called compound interest."
+     ]
+    },
+    {
+     "heading": "The power of compound interest",
+     "paragraphs": [
+      "Compound interest is quickly explained. You receive interest not only on the money you originally invested but also on the interest you have already earned. The US Consumer Financial Protection Bureau describes it in exactly this way: you earn interest on your savings and on the interest added along the way.",
+      "An example: you invest a thousand euros at five per cent. After one year you have one thousand and fifty euros. In the second year you get five per cent on one thousand and fifty euros, that is fifty-two euros and fifty cents. The difference compared with simple interest is just two and a half euros. That seems ridiculously small.",
+      "But the effect grows with every year. After ten years, a thousand euros have become around 1,630 euros. After twenty years it is about 2,650 euros, after thirty years around 4,320 euros and after forty years a little over 7,000 euros. With simple interest you would have only 2,500 euros after thirty years.",
+      "This is because compound interest grows not evenly but exponentially. Each year the amount does not increase by the same sum but by the same proportion. And because the amount itself keeps getting bigger, the yearly gains keep getting bigger too. The curve is flat at the start and becomes steeper and steeper later on.",
+      "People find exponential growth hard to grasp. Our intuition tends to think in straight lines. A well-known puzzle shows this: water lilies on a pond double their area every day, and after thirty days the pond is full. When was it half full? Not after fifteen days, but on the twenty-ninth day.",
+      "For a rough estimate there is a handy trick, the rule of 72. You divide seventy-two by the interest rate and get roughly the number of years it takes for the money to double. At six per cent it is about twelve years, at seven per cent just over ten, and at three per cent about twenty-four years.",
+      "The rule also works the other way round. If you want to double your money in ten years, you need roughly seven per cent a year. And it shows how strongly small differences in the interest rate work over long periods: one percentage point more or less can make a difference of many thousands of euros in the end.",
+      "There is one important condition: compound interest only works if you do not spend the returns but leave them in the pot. Experts call this reinvestment. If you withdraw the interest every year, you only get simple interest.",
+      "How often interest is credited also plays a small role. If it is credited monthly instead of yearly, it starts earning interest itself sooner. At normal interest rates, however, the difference is small. If you want to do the maths yourself, there are free calculators online, for example from the US Securities and Exchange Commission.",
+      "In the end, three quantities decide the result: how much you invest, at what interest rate and above all for how long. The third is the most powerful."
+     ]
+    },
+    {
+     "heading": "The flip side: debt, inflation and fees",
+     "paragraphs": [
+      "Compound interest makes no distinction between working for you and working against you. With debt it works in just the same way, except that it is the mountain of debt that grows exponentially. Expensive loans are particularly dangerous, such as an overdrawn current account or outstanding balances on some credit cards. Interest rates of ten to twenty per cent a year are not unusual there.",
+      "With the rule of 72 you can see at once what that means. At eighteen per cent, a debt that is not paid off doubles in only about four years. Anyone who only pays the minimum instalments can go on paying for years without the debt getting noticeably smaller.",
+      "That is why a simple rule of thumb applies: paying off expensive debt is usually the best investment there is. If you save twenty per cent in interest, you are effectively earning a safe return of twenty per cent. No reputable investment reliably achieves that.",
+      "The second silent force is inflation. It describes how much prices rise on average. If prices rise by two per cent a year, the same amount of money buys a little less each year. Compounding is at work here too, only in reverse.",
+      "After thirty years of two per cent inflation, a thousand euros are worth only about as much as 550 euros today. Money that sits under the mattress without interest therefore loses almost half its purchasing power. With higher inflation it happens even faster.",
+      "For savers, what counts is therefore not the interest rate on the bank statement but the so-called real interest rate. That is the interest rate minus inflation. If you get three per cent interest with two per cent inflation, your purchasing power grows by only about one per cent. If inflation is higher than the interest rate, you lose despite the interest.",
+      "The third force is fees. They look harmless because they are usually stated as a small percentage. But they are charged every year, and their effect also adds up through compounding.",
+      "A worked example: ten thousand euros grow by six per cent a year for thirty years. Without costs, there would be a little over 57,000 euros at the end. With costs of 0.2 per cent a year, around 54,000 euros remain. With costs of 1.5 per cent, it is only about 37,000 euros. A seemingly small difference costs around seventeen thousand euros here.",
+      "That is why it pays to look closely at the costs of any investment: one-off fees when buying and above all the ongoing annual costs. German consumer advice centres repeatedly point out that ongoing costs in particular can eat up a large part of the return over long periods.",
+      "Together, compound interest, inflation and costs show that anyone who wants to build wealth in the long term needs returns above inflation, with costs as low as possible. Traditional savings accounts often fail to achieve this. That is why many people turn their attention to the stock market."
+     ]
+    },
+    {
+     "heading": "What a share is",
+     "paragraphs": [
+      "A share is a stake in a company. Whoever owns a share is a co-owner, even if usually only of a tiny fraction. German consumer advice centres describe it as a security that documents a stake in a company’s share capital. Companies that issue shares are called public limited companies, or Aktiengesellschaften in German.",
+      "Why do companies sell stakes to strangers at all? Because they need money to grow, for new factories, research or breaking into new markets. Instead of taking out a loan, they sell stakes. The buyers do not get a fixed interest rate in return, but a share in future success.",
+      "This share shows itself in two ways. First, many companies pay out part of their profit to shareholders, the so-called dividend. Second, the value of the share can rise if the company grows and earns more. But neither is guaranteed.",
+      "That is because shareholders also bear the risk. If things go badly, the dividend is cut and the price falls. If the company goes bust, the share can become worthless. So a total loss is possible with individual shares. Anyone who lends money instead, through a bond for example, is paid before the shareholders in the event of insolvency.",
+      "The idea of selling stakes in a company is old. But the year 1602 is regarded as the birth of modern share trading. In that year, merchants in the Netherlands founded the Dutch East India Company to carry on the risky spice trade with Asia. It offered its shares to a broad section of the population.",
+      "What was new above all was that these shares could easily be sold on to others. Soon a lively trade in them developed in Amsterdam. The exchange operator Euronext therefore describes the company as the founder of the first stock exchange, the Amsterdam exchange. The company was, however, also an instrument of colonial rule and violence, which is part of its history.",
+      "The thinking behind it was brilliantly simple. A single voyage to Asia was extremely risky; ships could sink or be attacked. By having many people take part, the risk was spread across many shoulders. At the same time, the company could raise far more capital than any single merchant could ever have put together.",
+      "Today there are tens of thousands of public companies worldwide whose shares are traded on stock exchanges. They include well-known corporations but also smaller firms. Together these companies are worth many trillions of euros.",
+      "For the economy, shares fulfil an important role. They connect people who have money to spare with companies that need money for their ideas. And they allow perfectly ordinary people to share in the success of large companies.",
+      "But how does the price of a share actually come about, and why does it change all the time? To answer that, it is worth looking at the place where shares are traded."
+     ]
+    },
+    {
+     "heading": "Ups and downs: risk and diversification",
+     "paragraphs": [
+      "Anyone who invests in shares has to live with fluctuations. German consumer advice centres stress that share prices can also stay flat or fall for several years. Price falls of ten or twenty per cent within a few weeks are not uncommon, and even experts cannot predict how things will develop with any certainty.",
+      "Stock market history is full of crashes. After 1929, prices in the United States collapsed for years and contributed to the Great Depression. Around 2000 the so-called dotcom bubble burst, as exaggerated expectations of internet companies fell apart. In 2008 the financial crisis triggered massive price falls worldwide, and in 2020 markets plunged within a few weeks at the start of the coronavirus pandemic.",
+      "What happened afterwards is remarkable. In the past, broadly diversified markets recovered after these slumps, sometimes quickly, sometimes only after many years. Those who had to sell when prices were at the bottom locked in their losses for good. Those who could hold on generally saw their wealth grow again at some point. But there is no guarantee that it will always stay that way.",
+      "Why do people accept this risk at all? Because in return, shares can be expected to deliver higher returns than safe investments in the long run. Experts call the extra return the equity risk premium. A study cited by German consumer advice centres finds that shares from twenty-one countries returned a little over five per cent a year on average after inflation over very long periods.",
+      "That is an average over many decades, not a promise for the next ten years. There have been periods in which shares performed considerably worse. And the shorter the period, the greater the risk of ending up with a loss. That is why money you will definitely need within a few years generally does not belong in shares.",
+      "The most important tool against risk is called diversification. Everyone knows the idea from the proverb: don’t put all your eggs in one basket. If you own shares in just one company, you depend entirely on its fate. If it goes bust, the money is gone.",
+      "Someone who invests in hundreds or thousands of companies from different countries and sectors, on the other hand, is much better protected. If one company fails, it hardly matters, because others are growing at the same time. The risk of individual firms largely evens out.",
+      "The risk does not disappear completely, though. If the entire world economy gets into a crisis, almost all shares fall at the same time. This market risk remains even with broad diversification. So diversification reduces the risk of individual bankruptcies, but not the ups and downs of the market as a whole.",
+      "Another protection is time. The longer you stay invested, the more likely it is that good and bad years balance out. Those who buy regularly through a savings plan also automatically buy more shares at low prices in bad times and fewer in good times.",
+      "In the end, many investors’ biggest enemy is not the market but their own behaviour: selling in panic when prices fall, or buying in euphoria when everyone is raving about profits. Knowing this, you can protect yourself with clear rules."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Compound interest grows exponentially, and the rule of 72 gives a rough idea of how quickly money doubles.",
+    "The same mathematics works against you with expensive debt, with inflation and with ongoing fees.",
+    "Shares offer higher potential returns than savings accounts in the long run but fluctuate strongly, which is why broad diversification matters so much."
+   ]
+  },
+  "15": {
+   "words": 3117,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Hardly any subject matters so much for your own life and is explained so rarely at school as money. Yet the basic ideas are not complicated at all. In this article you will learn why interest exists, how compound interest turns small sums into large ones, why time is the strongest lever, which forces work against it, what shares are and how a stock exchange works. It explains how things work and is no substitute for investment advice."
+     ]
+    },
+    {
+     "heading": "Why interest exists",
+     "paragraphs": [
+      "Imagine a friend asks you to lend her a thousand euros for a year. You are happy to help, but you are giving something up: you cannot spend the money yourself during that time, and you might not even get it back. At its core, interest is the price for this sacrifice and for this risk.",
+      "Whoever lends money receives interest. Whoever borrows money pays it. When you put money into a savings account, by the way, you are lending it too, namely to the bank. The bank passes it on as loans to others, such as a family building a house or a company buying a new machine. The bank passes part of the interest they pay on to you.",
+      "Interest is usually stated as a percentage per year. At five per cent interest on a thousand euros, you receive fifty euros after one year. That sounds modest, and with simple interest it stays that way: another fifty euros are added each year, so five hundred euros after ten years.",
+      "How high interest rates are depends on many things. One important factor is risk. Someone lending money to a company with an uncertain future demands more interest than someone lending to a very reliable government. The term matters too: if you tie up your money for longer, you often get a little more.",
+      "Central banks have the greatest influence. In the euro area, that is the European Central Bank. It sets the key interest rate at which banks can borrow money from it. If the rate rises, loans become more expensive and saving more worthwhile. If it falls, borrowing becomes cheaper. With this lever, the central bank tries to keep prices stable.",
+      "In the years after the financial crisis and up to the early 2020s, interest rates in Europe were extremely low, at times even below zero. Savers got practically nothing on their accounts. When inflation rose sharply, the central bank raised rates considerably, and saving began to pay something again.",
+      "Interest is not a modern invention, by the way. Even in the oldest civilisations, grain and silver were lent at interest. At the same time, in many cultures and religions interest was long seen as disreputable or was forbidden, because people feared it would exploit the weak.",
+      "That concern is not entirely unfounded. Interest can be very helpful, because it allows people to finance something today that they will only be able to pay for later. But it can also become a trap if debts grow faster than they can be repaid.",
+      "The reason for this is an effect that works in both directions and that many people underestimate. It makes money grow not evenly but faster and faster, as soon as the interest is not withdrawn.",
+      "This effect has a somewhat old-fashioned name: compound interest. It is the key to understanding saving, debt and the stock market."
+     ]
+    },
+    {
+     "heading": "The power of compound interest",
+     "paragraphs": [
+      "Compound interest is quickly explained. You receive interest not only on the money you originally invested but also on the interest you have already earned. The US Consumer Financial Protection Bureau describes it in exactly this way: you earn interest on your savings and on the interest added along the way.",
+      "An example: you invest a thousand euros at five per cent. After one year you have one thousand and fifty euros. In the second year you get five per cent on one thousand and fifty euros, that is fifty-two euros and fifty cents. The difference compared with simple interest is just two and a half euros. That seems ridiculously small.",
+      "But the effect grows with every year. After ten years, a thousand euros have become around 1,630 euros. After twenty years it is about 2,650 euros, after thirty years around 4,320 euros and after forty years a little over 7,000 euros. With simple interest you would have only 2,500 euros after thirty years.",
+      "This is because compound interest grows not evenly but exponentially. Each year the amount does not increase by the same sum but by the same proportion. And because the amount itself keeps getting bigger, the yearly gains keep getting bigger too. The curve is flat at the start and becomes steeper and steeper later on.",
+      "People find exponential growth hard to grasp. Our intuition tends to think in straight lines. A well-known puzzle shows this: water lilies on a pond double their area every day, and after thirty days the pond is full. When was it half full? Not after fifteen days, but on the twenty-ninth day.",
+      "For a rough estimate there is a handy trick, the rule of 72. You divide seventy-two by the interest rate and get roughly the number of years it takes for the money to double. At six per cent it is about twelve years, at seven per cent just over ten, and at three per cent about twenty-four years.",
+      "The rule also works the other way round. If you want to double your money in ten years, you need roughly seven per cent a year. And it shows how strongly small differences in the interest rate work over long periods: one percentage point more or less can make a difference of many thousands of euros in the end.",
+      "There is one important condition: compound interest only works if you do not spend the returns but leave them in the pot. Experts call this reinvestment. If you withdraw the interest every year, you only get simple interest.",
+      "How often interest is credited also plays a small role. If it is credited monthly instead of yearly, it starts earning interest itself sooner. At normal interest rates, however, the difference is small. If you want to do the maths yourself, there are free calculators online, for example from the US Securities and Exchange Commission.",
+      "In the end, three quantities decide the result: how much you invest, at what interest rate and above all for how long. The third is the most powerful."
+     ]
+    },
+    {
+     "heading": "Time is the biggest lever",
+     "paragraphs": [
+      "With compound interest, hardly anything counts as much as time. A comparison of two people shows this; let’s call them Lea and Tom. Both invest a hundred euros every month and earn five per cent a year on average. Lea starts at twenty-five, Tom only at thirty-five. Both stop at sixty-five.",
+      "Over forty years, Lea pays in a total of 48,000 euros. Under these assumptions she ends up with around 152,000 euros. Tom pays in 36,000 euros over thirty years and reaches about 83,000 euros. Lea paid in only twelve thousand euros more but has almost seventy thousand euros more at the end.",
+      "The reason is that Lea’s early contributions had ten years longer to grow, and it is precisely in the final years that the amount grows the most. It is therefore worth starting early, even with small amounts. Anyone who starts later has to pay in considerably more to catch up.",
+      "Of course this is a worked example. In reality there is no guarantee of a steady five per cent. With a savings account the interest is often lower, and with shares returns fluctuate strongly from year to year. But the principle remains: time amplifies every return.",
+      "As early as the eighteenth century this effect fascinated people. In 1772, the British moral philosopher Richard Price presented a famous thought experiment, known in German as the Josephspfennig. Had a single penny been invested at five per cent at the time of Christ’s birth, it would by his day have grown into a quantity of gold that would fill many globes the size of the Earth.",
+      "Naturally nobody ever did this, and no bank has existed for that long. But the example shows how extreme exponential growth becomes over very long periods. In practice, wars, crises, inflation and taxes put limits on growth.",
+      "You often read that Albert Einstein called compound interest the eighth wonder of the world or the most powerful force in the universe. There is, however, no reliable evidence for this quotation. It is probably an example of how much people like to put clever sentences into the mouths of clever people.",
+      "For your own life, a simple insight follows from the mathematics: regularity beats timing. Someone who puts aside a fixed amount every month benefits more over the years than someone who tries to catch the perfect moment.",
+      "Many people use a savings plan for this, in which a fixed amount is automatically invested every month. The advantage is also psychological: you don’t have to decide afresh each time, and saving becomes a habit.",
+      "But as powerful as compound interest is for savers, it can be merciless when it works in the other direction. And there are several forces that quietly eat away at your savings."
+     ]
+    },
+    {
+     "heading": "The flip side: debt, inflation and fees",
+     "paragraphs": [
+      "Compound interest makes no distinction between working for you and working against you. With debt it works in just the same way, except that it is the mountain of debt that grows exponentially. Expensive loans are particularly dangerous, such as an overdrawn current account or outstanding balances on some credit cards. Interest rates of ten to twenty per cent a year are not unusual there.",
+      "With the rule of 72 you can see at once what that means. At eighteen per cent, a debt that is not paid off doubles in only about four years. Anyone who only pays the minimum instalments can go on paying for years without the debt getting noticeably smaller.",
+      "That is why a simple rule of thumb applies: paying off expensive debt is usually the best investment there is. If you save twenty per cent in interest, you are effectively earning a safe return of twenty per cent. No reputable investment reliably achieves that.",
+      "The second silent force is inflation. It describes how much prices rise on average. If prices rise by two per cent a year, the same amount of money buys a little less each year. Compounding is at work here too, only in reverse.",
+      "After thirty years of two per cent inflation, a thousand euros are worth only about as much as 550 euros today. Money that sits under the mattress without interest therefore loses almost half its purchasing power. With higher inflation it happens even faster.",
+      "For savers, what counts is therefore not the interest rate on the bank statement but the so-called real interest rate. That is the interest rate minus inflation. If you get three per cent interest with two per cent inflation, your purchasing power grows by only about one per cent. If inflation is higher than the interest rate, you lose despite the interest.",
+      "The third force is fees. They look harmless because they are usually stated as a small percentage. But they are charged every year, and their effect also adds up through compounding.",
+      "A worked example: ten thousand euros grow by six per cent a year for thirty years. Without costs, there would be a little over 57,000 euros at the end. With costs of 0.2 per cent a year, around 54,000 euros remain. With costs of 1.5 per cent, it is only about 37,000 euros. A seemingly small difference costs around seventeen thousand euros here.",
+      "That is why it pays to look closely at the costs of any investment: one-off fees when buying and above all the ongoing annual costs. German consumer advice centres repeatedly point out that ongoing costs in particular can eat up a large part of the return over long periods.",
+      "Together, compound interest, inflation and costs show that anyone who wants to build wealth in the long term needs returns above inflation, with costs as low as possible. Traditional savings accounts often fail to achieve this. That is why many people turn their attention to the stock market."
+     ]
+    },
+    {
+     "heading": "What a share is",
+     "paragraphs": [
+      "A share is a stake in a company. Whoever owns a share is a co-owner, even if usually only of a tiny fraction. German consumer advice centres describe it as a security that documents a stake in a company’s share capital. Companies that issue shares are called public limited companies, or Aktiengesellschaften in German.",
+      "Why do companies sell stakes to strangers at all? Because they need money to grow, for new factories, research or breaking into new markets. Instead of taking out a loan, they sell stakes. The buyers do not get a fixed interest rate in return, but a share in future success.",
+      "This share shows itself in two ways. First, many companies pay out part of their profit to shareholders, the so-called dividend. Second, the value of the share can rise if the company grows and earns more. But neither is guaranteed.",
+      "That is because shareholders also bear the risk. If things go badly, the dividend is cut and the price falls. If the company goes bust, the share can become worthless. So a total loss is possible with individual shares. Anyone who lends money instead, through a bond for example, is paid before the shareholders in the event of insolvency.",
+      "The idea of selling stakes in a company is old. But the year 1602 is regarded as the birth of modern share trading. In that year, merchants in the Netherlands founded the Dutch East India Company to carry on the risky spice trade with Asia. It offered its shares to a broad section of the population.",
+      "What was new above all was that these shares could easily be sold on to others. Soon a lively trade in them developed in Amsterdam. The exchange operator Euronext therefore describes the company as the founder of the first stock exchange, the Amsterdam exchange. The company was, however, also an instrument of colonial rule and violence, which is part of its history.",
+      "The thinking behind it was brilliantly simple. A single voyage to Asia was extremely risky; ships could sink or be attacked. By having many people take part, the risk was spread across many shoulders. At the same time, the company could raise far more capital than any single merchant could ever have put together.",
+      "Today there are tens of thousands of public companies worldwide whose shares are traded on stock exchanges. They include well-known corporations but also smaller firms. Together these companies are worth many trillions of euros.",
+      "For the economy, shares fulfil an important role. They connect people who have money to spare with companies that need money for their ideas. And they allow perfectly ordinary people to share in the success of large companies.",
+      "But how does the price of a share actually come about, and why does it change all the time? To answer that, it is worth looking at the place where shares are traded."
+     ]
+    },
+    {
+     "heading": "How a stock exchange works",
+     "paragraphs": [
+      "A stock exchange is basically a marketplace, rather like a weekly market. Only instead of apples, securities such as shares and bonds are sold there. In the past, traders actually stood in large halls shouting offers at each other. Today trading takes place almost entirely by computer, often in fractions of a second.",
+      "The price of a share comes about through supply and demand. Anyone who wants to buy says the most they are willing to pay. Anyone who wants to sell says the least they want to receive. The exchange matches these orders. If more people want to buy than sell, the price rises; in the opposite case, it falls.",
+      "Private individuals do not trade directly on the exchange but through a bank or an online broker. For that you need what is called a securities account, a kind of account for shares and other securities. The bank passes the orders on to the exchange.",
+      "Trading takes place on trading days at fixed times, and at many venues it now runs late into the evening. Besides the large exchanges there are off-exchange trading venues through which many online brokers handle their orders. What matters most for investors is that the price is fair and the fees are low.",
+      "But why do people want to buy or sell a share at a particular price? At its core, it is about expectations. The price reflects what market participants think about a company’s future profits. New information changes these expectations, and with them the price.",
+      "That is why prices often react sharply to news: a quarterly report, a new product, a court ruling or an interest rate change by the central bank. Sometimes a share even rises although the company reports losses, because the losses are smaller than feared.",
+      "Then there is psychology. People trade on the stock exchange, and people are driven by greed and fear. In good times many buy because prices are rising, and drive them even higher. In bad times many sell out of fear and make the fall worse. Prices can therefore move a long way in the short term from what a company is really worth.",
+      "To show the development of a whole market at a glance, there are stock indices. An index combines the prices of many shares into a single number. The best-known German index is the DAX. Since 2021 it has included the forty largest companies traded on the Frankfurt Stock Exchange; before that it was thirty.",
+      "Other well-known indices are the American S&P 500, with around five hundred large US companies, and the MSCI World, which covers thousands of companies from many industrialised countries. When the news talks about the stock market, it usually means indices like these.",
+      "Stock exchanges are strictly supervised. In Germany, the Federal Financial Supervisory Authority, BaFin for short, is responsible. It makes sure, for example, that nobody trades on secret information and that companies publish important news in good time. This is meant to ensure that all investors are treated fairly.",
+      "But even the best supervision cannot prevent one thing: prices fluctuating, sometimes very violently. These fluctuations are the price for the higher potential returns of shares."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Interest is the price of lending money, and compound interest makes returns grow faster and faster over time.",
+    "The earlier you start, the stronger the effect; even a ten-year difference makes a big gap at the end.",
+    "A stock exchange is a marketplace for company shares whose prices reflect expectations about the future."
+   ]
+  },
+  "20": {
+   "words": 4166,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "In 1602, citizens of Amsterdam were able for the first time to buy shares in a large trading company and soon afterwards sell them on to others. From this beginning grew the stock exchange as we know it. In this article you will learn why interest exists, how compound interest works, why time, costs and inflation matter so much, what shares are, how prices form, why crashes keep happening and how spreading your money reduces risk. It explains how things work and is not investment advice."
+     ]
+    },
+    {
+     "heading": "Why interest exists",
+     "paragraphs": [
+      "Imagine a friend asks you to lend her a thousand euros for a year. You are happy to help, but you are giving something up: you cannot spend the money yourself during that time, and you might not even get it back. At its core, interest is the price for this sacrifice and for this risk.",
+      "Whoever lends money receives interest. Whoever borrows money pays it. When you put money into a savings account, by the way, you are lending it too, namely to the bank. The bank passes it on as loans to others, such as a family building a house or a company buying a new machine. The bank passes part of the interest they pay on to you.",
+      "Interest is usually stated as a percentage per year. At five per cent interest on a thousand euros, you receive fifty euros after one year. That sounds modest, and with simple interest it stays that way: another fifty euros are added each year, so five hundred euros after ten years.",
+      "How high interest rates are depends on many things. One important factor is risk. Someone lending money to a company with an uncertain future demands more interest than someone lending to a very reliable government. The term matters too: if you tie up your money for longer, you often get a little more.",
+      "Central banks have the greatest influence. In the euro area, that is the European Central Bank. It sets the key interest rate at which banks can borrow money from it. If the rate rises, loans become more expensive and saving more worthwhile. If it falls, borrowing becomes cheaper. With this lever, the central bank tries to keep prices stable.",
+      "In the years after the financial crisis and up to the early 2020s, interest rates in Europe were extremely low, at times even below zero. Savers got practically nothing on their accounts. When inflation rose sharply, the central bank raised rates considerably, and saving began to pay something again.",
+      "Interest is not a modern invention, by the way. Even in the oldest civilisations, grain and silver were lent at interest. At the same time, in many cultures and religions interest was long seen as disreputable or was forbidden, because people feared it would exploit the weak.",
+      "That concern is not entirely unfounded. Interest can be very helpful, because it allows people to finance something today that they will only be able to pay for later. But it can also become a trap if debts grow faster than they can be repaid.",
+      "The reason for this is an effect that works in both directions and that many people underestimate. It makes money grow not evenly but faster and faster, as soon as the interest is not withdrawn.",
+      "This effect has a somewhat old-fashioned name: compound interest. It is the key to understanding saving, debt and the stock market."
+     ]
+    },
+    {
+     "heading": "The power of compound interest",
+     "paragraphs": [
+      "Compound interest is quickly explained. You receive interest not only on the money you originally invested but also on the interest you have already earned. The US Consumer Financial Protection Bureau describes it in exactly this way: you earn interest on your savings and on the interest added along the way.",
+      "An example: you invest a thousand euros at five per cent. After one year you have one thousand and fifty euros. In the second year you get five per cent on one thousand and fifty euros, that is fifty-two euros and fifty cents. The difference compared with simple interest is just two and a half euros. That seems ridiculously small.",
+      "But the effect grows with every year. After ten years, a thousand euros have become around 1,630 euros. After twenty years it is about 2,650 euros, after thirty years around 4,320 euros and after forty years a little over 7,000 euros. With simple interest you would have only 2,500 euros after thirty years.",
+      "This is because compound interest grows not evenly but exponentially. Each year the amount does not increase by the same sum but by the same proportion. And because the amount itself keeps getting bigger, the yearly gains keep getting bigger too. The curve is flat at the start and becomes steeper and steeper later on.",
+      "People find exponential growth hard to grasp. Our intuition tends to think in straight lines. A well-known puzzle shows this: water lilies on a pond double their area every day, and after thirty days the pond is full. When was it half full? Not after fifteen days, but on the twenty-ninth day.",
+      "For a rough estimate there is a handy trick, the rule of 72. You divide seventy-two by the interest rate and get roughly the number of years it takes for the money to double. At six per cent it is about twelve years, at seven per cent just over ten, and at three per cent about twenty-four years.",
+      "The rule also works the other way round. If you want to double your money in ten years, you need roughly seven per cent a year. And it shows how strongly small differences in the interest rate work over long periods: one percentage point more or less can make a difference of many thousands of euros in the end.",
+      "There is one important condition: compound interest only works if you do not spend the returns but leave them in the pot. Experts call this reinvestment. If you withdraw the interest every year, you only get simple interest.",
+      "How often interest is credited also plays a small role. If it is credited monthly instead of yearly, it starts earning interest itself sooner. At normal interest rates, however, the difference is small. If you want to do the maths yourself, there are free calculators online, for example from the US Securities and Exchange Commission.",
+      "In the end, three quantities decide the result: how much you invest, at what interest rate and above all for how long. The third is the most powerful."
+     ]
+    },
+    {
+     "heading": "Time is the biggest lever",
+     "paragraphs": [
+      "With compound interest, hardly anything counts as much as time. A comparison of two people shows this; let’s call them Lea and Tom. Both invest a hundred euros every month and earn five per cent a year on average. Lea starts at twenty-five, Tom only at thirty-five. Both stop at sixty-five.",
+      "Over forty years, Lea pays in a total of 48,000 euros. Under these assumptions she ends up with around 152,000 euros. Tom pays in 36,000 euros over thirty years and reaches about 83,000 euros. Lea paid in only twelve thousand euros more but has almost seventy thousand euros more at the end.",
+      "The reason is that Lea’s early contributions had ten years longer to grow, and it is precisely in the final years that the amount grows the most. It is therefore worth starting early, even with small amounts. Anyone who starts later has to pay in considerably more to catch up.",
+      "Of course this is a worked example. In reality there is no guarantee of a steady five per cent. With a savings account the interest is often lower, and with shares returns fluctuate strongly from year to year. But the principle remains: time amplifies every return.",
+      "As early as the eighteenth century this effect fascinated people. In 1772, the British moral philosopher Richard Price presented a famous thought experiment, known in German as the Josephspfennig. Had a single penny been invested at five per cent at the time of Christ’s birth, it would by his day have grown into a quantity of gold that would fill many globes the size of the Earth.",
+      "Naturally nobody ever did this, and no bank has existed for that long. But the example shows how extreme exponential growth becomes over very long periods. In practice, wars, crises, inflation and taxes put limits on growth.",
+      "You often read that Albert Einstein called compound interest the eighth wonder of the world or the most powerful force in the universe. There is, however, no reliable evidence for this quotation. It is probably an example of how much people like to put clever sentences into the mouths of clever people.",
+      "For your own life, a simple insight follows from the mathematics: regularity beats timing. Someone who puts aside a fixed amount every month benefits more over the years than someone who tries to catch the perfect moment.",
+      "Many people use a savings plan for this, in which a fixed amount is automatically invested every month. The advantage is also psychological: you don’t have to decide afresh each time, and saving becomes a habit.",
+      "But as powerful as compound interest is for savers, it can be merciless when it works in the other direction. And there are several forces that quietly eat away at your savings."
+     ]
+    },
+    {
+     "heading": "The flip side: debt, inflation and fees",
+     "paragraphs": [
+      "Compound interest makes no distinction between working for you and working against you. With debt it works in just the same way, except that it is the mountain of debt that grows exponentially. Expensive loans are particularly dangerous, such as an overdrawn current account or outstanding balances on some credit cards. Interest rates of ten to twenty per cent a year are not unusual there.",
+      "With the rule of 72 you can see at once what that means. At eighteen per cent, a debt that is not paid off doubles in only about four years. Anyone who only pays the minimum instalments can go on paying for years without the debt getting noticeably smaller.",
+      "That is why a simple rule of thumb applies: paying off expensive debt is usually the best investment there is. If you save twenty per cent in interest, you are effectively earning a safe return of twenty per cent. No reputable investment reliably achieves that.",
+      "The second silent force is inflation. It describes how much prices rise on average. If prices rise by two per cent a year, the same amount of money buys a little less each year. Compounding is at work here too, only in reverse.",
+      "After thirty years of two per cent inflation, a thousand euros are worth only about as much as 550 euros today. Money that sits under the mattress without interest therefore loses almost half its purchasing power. With higher inflation it happens even faster.",
+      "For savers, what counts is therefore not the interest rate on the bank statement but the so-called real interest rate. That is the interest rate minus inflation. If you get three per cent interest with two per cent inflation, your purchasing power grows by only about one per cent. If inflation is higher than the interest rate, you lose despite the interest.",
+      "The third force is fees. They look harmless because they are usually stated as a small percentage. But they are charged every year, and their effect also adds up through compounding.",
+      "A worked example: ten thousand euros grow by six per cent a year for thirty years. Without costs, there would be a little over 57,000 euros at the end. With costs of 0.2 per cent a year, around 54,000 euros remain. With costs of 1.5 per cent, it is only about 37,000 euros. A seemingly small difference costs around seventeen thousand euros here.",
+      "That is why it pays to look closely at the costs of any investment: one-off fees when buying and above all the ongoing annual costs. German consumer advice centres repeatedly point out that ongoing costs in particular can eat up a large part of the return over long periods.",
+      "Together, compound interest, inflation and costs show that anyone who wants to build wealth in the long term needs returns above inflation, with costs as low as possible. Traditional savings accounts often fail to achieve this. That is why many people turn their attention to the stock market."
+     ]
+    },
+    {
+     "heading": "What a share is",
+     "paragraphs": [
+      "A share is a stake in a company. Whoever owns a share is a co-owner, even if usually only of a tiny fraction. German consumer advice centres describe it as a security that documents a stake in a company’s share capital. Companies that issue shares are called public limited companies, or Aktiengesellschaften in German.",
+      "Why do companies sell stakes to strangers at all? Because they need money to grow, for new factories, research or breaking into new markets. Instead of taking out a loan, they sell stakes. The buyers do not get a fixed interest rate in return, but a share in future success.",
+      "This share shows itself in two ways. First, many companies pay out part of their profit to shareholders, the so-called dividend. Second, the value of the share can rise if the company grows and earns more. But neither is guaranteed.",
+      "That is because shareholders also bear the risk. If things go badly, the dividend is cut and the price falls. If the company goes bust, the share can become worthless. So a total loss is possible with individual shares. Anyone who lends money instead, through a bond for example, is paid before the shareholders in the event of insolvency.",
+      "The idea of selling stakes in a company is old. But the year 1602 is regarded as the birth of modern share trading. In that year, merchants in the Netherlands founded the Dutch East India Company to carry on the risky spice trade with Asia. It offered its shares to a broad section of the population.",
+      "What was new above all was that these shares could easily be sold on to others. Soon a lively trade in them developed in Amsterdam. The exchange operator Euronext therefore describes the company as the founder of the first stock exchange, the Amsterdam exchange. The company was, however, also an instrument of colonial rule and violence, which is part of its history.",
+      "The thinking behind it was brilliantly simple. A single voyage to Asia was extremely risky; ships could sink or be attacked. By having many people take part, the risk was spread across many shoulders. At the same time, the company could raise far more capital than any single merchant could ever have put together.",
+      "Today there are tens of thousands of public companies worldwide whose shares are traded on stock exchanges. They include well-known corporations but also smaller firms. Together these companies are worth many trillions of euros.",
+      "For the economy, shares fulfil an important role. They connect people who have money to spare with companies that need money for their ideas. And they allow perfectly ordinary people to share in the success of large companies.",
+      "But how does the price of a share actually come about, and why does it change all the time? To answer that, it is worth looking at the place where shares are traded."
+     ]
+    },
+    {
+     "heading": "How a stock exchange works",
+     "paragraphs": [
+      "A stock exchange is basically a marketplace, rather like a weekly market. Only instead of apples, securities such as shares and bonds are sold there. In the past, traders actually stood in large halls shouting offers at each other. Today trading takes place almost entirely by computer, often in fractions of a second.",
+      "The price of a share comes about through supply and demand. Anyone who wants to buy says the most they are willing to pay. Anyone who wants to sell says the least they want to receive. The exchange matches these orders. If more people want to buy than sell, the price rises; in the opposite case, it falls.",
+      "Private individuals do not trade directly on the exchange but through a bank or an online broker. For that you need what is called a securities account, a kind of account for shares and other securities. The bank passes the orders on to the exchange.",
+      "Trading takes place on trading days at fixed times, and at many venues it now runs late into the evening. Besides the large exchanges there are off-exchange trading venues through which many online brokers handle their orders. What matters most for investors is that the price is fair and the fees are low.",
+      "But why do people want to buy or sell a share at a particular price? At its core, it is about expectations. The price reflects what market participants think about a company’s future profits. New information changes these expectations, and with them the price.",
+      "That is why prices often react sharply to news: a quarterly report, a new product, a court ruling or an interest rate change by the central bank. Sometimes a share even rises although the company reports losses, because the losses are smaller than feared.",
+      "Then there is psychology. People trade on the stock exchange, and people are driven by greed and fear. In good times many buy because prices are rising, and drive them even higher. In bad times many sell out of fear and make the fall worse. Prices can therefore move a long way in the short term from what a company is really worth.",
+      "To show the development of a whole market at a glance, there are stock indices. An index combines the prices of many shares into a single number. The best-known German index is the DAX. Since 2021 it has included the forty largest companies traded on the Frankfurt Stock Exchange; before that it was thirty.",
+      "Other well-known indices are the American S&P 500, with around five hundred large US companies, and the MSCI World, which covers thousands of companies from many industrialised countries. When the news talks about the stock market, it usually means indices like these.",
+      "Stock exchanges are strictly supervised. In Germany, the Federal Financial Supervisory Authority, BaFin for short, is responsible. It makes sure, for example, that nobody trades on secret information and that companies publish important news in good time. This is meant to ensure that all investors are treated fairly.",
+      "But even the best supervision cannot prevent one thing: prices fluctuating, sometimes very violently. These fluctuations are the price for the higher potential returns of shares."
+     ]
+    },
+    {
+     "heading": "Ups and downs: risk and diversification",
+     "paragraphs": [
+      "Anyone who invests in shares has to live with fluctuations. German consumer advice centres stress that share prices can also stay flat or fall for several years. Price falls of ten or twenty per cent within a few weeks are not uncommon, and even experts cannot predict how things will develop with any certainty.",
+      "Stock market history is full of crashes. After 1929, prices in the United States collapsed for years and contributed to the Great Depression. Around 2000 the so-called dotcom bubble burst, as exaggerated expectations of internet companies fell apart. In 2008 the financial crisis triggered massive price falls worldwide, and in 2020 markets plunged within a few weeks at the start of the coronavirus pandemic.",
+      "What happened afterwards is remarkable. In the past, broadly diversified markets recovered after these slumps, sometimes quickly, sometimes only after many years. Those who had to sell when prices were at the bottom locked in their losses for good. Those who could hold on generally saw their wealth grow again at some point. But there is no guarantee that it will always stay that way.",
+      "Why do people accept this risk at all? Because in return, shares can be expected to deliver higher returns than safe investments in the long run. Experts call the extra return the equity risk premium. A study cited by German consumer advice centres finds that shares from twenty-one countries returned a little over five per cent a year on average after inflation over very long periods.",
+      "That is an average over many decades, not a promise for the next ten years. There have been periods in which shares performed considerably worse. And the shorter the period, the greater the risk of ending up with a loss. That is why money you will definitely need within a few years generally does not belong in shares.",
+      "The most important tool against risk is called diversification. Everyone knows the idea from the proverb: don’t put all your eggs in one basket. If you own shares in just one company, you depend entirely on its fate. If it goes bust, the money is gone.",
+      "Someone who invests in hundreds or thousands of companies from different countries and sectors, on the other hand, is much better protected. If one company fails, it hardly matters, because others are growing at the same time. The risk of individual firms largely evens out.",
+      "The risk does not disappear completely, though. If the entire world economy gets into a crisis, almost all shares fall at the same time. This market risk remains even with broad diversification. So diversification reduces the risk of individual bankruptcies, but not the ups and downs of the market as a whole.",
+      "Another protection is time. The longer you stay invested, the more likely it is that good and bad years balance out. Those who buy regularly through a savings plan also automatically buy more shares at low prices in bad times and fewer in good times.",
+      "In the end, many investors’ biggest enemy is not the market but their own behaviour: selling in panic when prices fall, or buying in euphoria when everyone is raving about profits. Knowing this, you can protect yourself with clear rules."
+     ]
+    },
+    {
+     "heading": "Funds, ETFs and sensible habits",
+     "paragraphs": [
+      "Building broad diversification across thousands of shares yourself would be far too laborious and expensive for most people. That is what funds are for. An investment fund collects the money of many investors and invests it in many different securities. Each investor then owns a share of the whole pot.",
+      "With traditional, actively managed funds, a fund manager picks the shares and tries to do better than the market. This often involves considerably higher costs, frequently including a front-end charge when buying. In the long run, only a few funds manage to beat the market consistently after costs.",
+      "An alternative is index funds, usually traded as ETFs. The abbreviation stands for exchange-traded fund. An ETF does not try to beat the market but simply tracks an index, such as the DAX or a global index. If the index rises, the ETF rises; if the index falls, the ETF falls too.",
+      "Because no elaborate management is needed, ETFs are usually much cheaper. According to German consumer advice centres, there is no front-end charge, and ongoing costs for broadly diversified equity ETFs are often around 0.2 per cent a year. Through compounding, this cost advantage can add up to a lot over decades.",
+      "ETFs still fluctuate with the market, though; they are not a savings account. And not every ETF is broadly diversified. There are also funds that cover single sectors, countries or indices calculated in complicated ways. For building wealth over the long term, consumer advocates recommend ETFs that invest as globally as possible in many companies.",
+      "Before even thinking about shares, many experts recommend an order of steps. First, pay off expensive debt. Then build an emergency fund in an instant-access savings account; a sum of three to six months’ expenses is often suggested. Only money you will not need for a long time is suitable for shares.",
+      "The emergency fund is not wasted money. It means that if the washing machine breaks or you lose your job, you are not forced to sell shares in the middle of a crash, of all times. In this way it protects the long-term investment.",
+      "Be careful with promises that sound too good to be true. Anyone who promises high returns without risk is either hiding something or planning a fraud. The basic rule is: the higher the possible return, the higher the risk. In Germany, BaFin publishes warnings about dubious offers.",
+      "Taxes play a role too. In Germany, tax is due on interest, dividends and capital gains above a tax-free allowance. The exact rules change from time to time, so it is worth checking current information from consumer advice centres or the tax authorities.",
+      "In the end, the most important insights can be summed up in a few sentences: start early, save regularly, diversify broadly, keep an eye on costs and stay calm in a crisis. That sounds unspectacular. But it is precisely in this dullness that the power of compound interest lies."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Time, costs and inflation decide more about the result of an investment than short-term price movements do.",
+    "Crashes are part of stock market history; broadly diversified markets have recovered in the past, but there is no guarantee.",
+    "Index funds bundle many shares at low cost, and an emergency fund and a calm head are just as important."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "title": "How does compound interest work?",
+   "publisher": "Consumer Financial Protection Bureau",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/how-does-compound-interest-work-en-1683/",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Compound Interest Calculator",
+   "publisher": "U.S. Securities and Exchange Commission, Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/compound-interest-calculator",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "417th Anniversary of the Amsterdam Exchange",
+   "publisher": "Euronext",
+   "url": "https://www.euronext.com/blog/417th-anniversary-amsterdam-exchange",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Welche Vorteile und Nachteile haben ETFs?",
+   "publisher": "Verbraucherzentrale",
+   "url": "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/etfs-die-preisleistungssieger-unter-den-fonds-5856",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Finanzglossar: Durchblick von A wie Aktien bis Z wie Zins",
+   "publisher": "Verbraucherzentrale",
+   "url": "https://www.verbraucherzentrale.de/node/15907",
+   "accessed": "2026-11-03"
+  }
+ ],
+ "factCheckedAt": "2026-11-03"
+}
