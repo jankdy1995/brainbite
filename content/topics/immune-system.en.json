@@ -1,0 +1,444 @@
+{
+ "id": "immune-system",
+ "lang": "en",
+ "title": "How Our Immune System Works",
+ "versions": {
+  "5": {
+   "words": 1042,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Right now, countless bacteria, viruses and fungi are landing on your skin, in your nose and in your mouth. You never notice the vast majority of them. That is thanks to one of the most astonishing systems in your body: your immune defences. In the next five minutes you will find out how they are organised, how they recognise intruders and why they remember some diseases for a lifetime."
+     ]
+    },
+    {
+     "heading": "Who defends you",
+     "paragraphs": [
+      "The immune system is not a single organ but a network of organs, cells and messenger substances throughout the body. There is no headquarters. Immune cells are produced in the bone marrow and patrol the body through the blood and the lymphatic vessels.",
+      "Besides the bone marrow, the organs of the immune system include the thymus gland, the spleen, the tonsils and the lymph nodes. When the lymph nodes in your neck swell up during a cold, you can, in a sense, see that work is going on there.",
+      "The first line of defence is a set of barriers. The skin is a dense wall, mucous membranes in the nose, mouth and gut trap germs in sticky mucus, and stomach acid kills many germs. Coughing and sneezing throw intruders back out.",
+      "Most intruders fail at these walls without us noticing anything. Only when one of them is breached are the immune cells needed.",
+      "The many useful bacteria living on and in us protect us too. They occupy the places where germs might otherwise settle.",
+      "If a germ overcomes these hurdles, for example through a wound, it meets the innate defences. They are present from birth and react within minutes to hours. Scavenger cells engulf bacteria and break them down.",
+      "Pus, by the way, consists largely of dead immune cells that have done their job and are being cleared away by the body.",
+      "At the same time, immune cells raise the alarm. Inflammation develops: the area becomes red, warm, swollen and painful. That is unpleasant, but it brings more blood and more immune cells to the scene.",
+      "Fever is part of this too. The higher temperature makes life hard for many germs.",
+      "Against viruses that hide inside the body’s cells, there are also natural killer cells. They recognise infected cells and make them break themselves down, so that the virus can no longer multiply inside them."
+     ]
+    },
+    {
+     "heading": "The special forces and their memory",
+     "paragraphs": [
+      "If the fast defences are not enough, the adaptive defences come into play. Their fighters are called B cells and T cells. They don’t recognise general features but very specific structures of a single germ, like a key that only fits one lock.",
+      "The body keeps millions of such cells ready, each with a different key. When a matching cell meets the germ, it divides at a furious pace. B cells then produce antibodies, Y-shaped proteins that latch onto the germ and make it harmless. T cells coordinate the defence or destroy cells infected by viruses.",
+      "Before these cells start work, they are strictly tested. Cells that react to the body’s own structures are largely weeded out. That way the defences are meant to spare the body itself.",
+      "The fact that we feel better afterwards is often because enough matching antibodies and immune cells are now in action.",
+      "The first time, this takes a few days. During that time we often feel ill.",
+      "After the infection, some of these cells remain as memory cells, some for decades. If the same germ comes back, the defences react much faster and more strongly, often before we notice anything at all. That is why, for example, people usually only get chickenpox once.",
+      "For the same reason, the flu vaccine is adapted every year to the variants of the virus that experts expect to circulate.",
+      "The reason we still keep catching colds is variety: hundreds of different viruses can cause them. And the flu virus is constantly changing, so the memory only partly recognises it.",
+      "Even babies benefit from someone else’s memory: through the placenta and breast milk they receive antibodies from their mother. This so-called nest protection lasts for a few months."
+     ]
+    },
+    {
+     "heading": "Vaccines, and when the defences get it wrong",
+     "paragraphs": [
+      "Vaccines make use of immune memory. You show the immune system a germ or parts of one without becoming ill. It forms antibodies and memory cells and is prepared when the real germ arrives.",
+      "That way the defences learn without anyone having to go through the disease itself.",
+      "It all started in England in 1796. The doctor Edward Jenner put fluid from a harmless cowpox blister into a boy’s skin. Later, the boy did not fall ill with dangerous real smallpox. The word vaccine comes from the Latin word for cow. In 1980, after a worldwide vaccination campaign, the World Health Organization declared smallpox eradicated.",
+      "Today there are vaccines against many diseases. Some contain weakened or killed germs, others only fragments of them. Newer mRNA vaccines contain building instructions for a single protein of the virus, which the body produces itself for a short time.",
+      "Sometimes, though, the defences get it wrong. With allergies, they mistake harmless substances such as pollen for dangerous ones. With autoimmune diseases, they attack the body itself, as in type 1 diabetes. And with immunodeficiency, they are too weak to fend off germs.",
+      "Cancer medicine now makes use of the immune system too. New medicines release brakes that tumours use to switch off the defences, so that T cells can attack the cancer.",
+      "Anyone who suspects such a problem, or has questions about their own vaccinations, is best advised to talk to a doctor.",
+      "Most of the time, though, the immune system works day and night, unnoticed and fairly reliably, and a fever or a swollen lymph node is often simply a sign that it is doing its job.",
+      "Once you understand this, you see such symptoms with very different eyes, as signs of a defence system at work rather than simply as a nuisance."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "The immune system consists of fast innate defences and targeted adaptive defences that work closely together.",
+    "The adaptive defences form memory cells and so react much faster the second time they meet a germ.",
+    "Vaccines use this memory by preparing the immune system for a germ without the danger of the disease."
+   ]
+  },
+  "10": {
+   "words": 2447,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "A cold, a scratch, some food that has gone off: germs are constantly trying to get into your body. Usually they fail without you noticing anything. When they don’t, you feel a fever, a runny nose or a swollen wound. All of this is your immune system at work. Over the next ten minutes you will learn how the fast innate defences work, how the targeted adaptive defences recognise germs, how immune memory works and why vaccines are so effective."
+     ]
+    },
+    {
+     "heading": "A defence network without a headquarters",
+     "paragraphs": [
+      "The immune system is not a single organ but a network of organs, cells and messenger substances spread throughout the body. It is not controlled from a headquarters. Its parts communicate with each other through messenger substances and direct contact.",
+      "Its most important job is to fend off germs such as bacteria, viruses, fungi and parasites. It also clears away dead cells and recognises altered cells that could turn into cancer. To do this, it constantly has to decide: does this belong to me or not?",
+      "All immune cells are produced in the bone marrow. Certain cells, the T cells, are trained in the thymus gland behind the breastbone. Then there are the lymph nodes, the spleen, the tonsils and large areas of the gut wall, where a large share of immune cells is found. Everything is connected through the blood and the lymphatic system.",
+      "Before a germ even meets immune cells, it has to get past the first line of defence. The skin is a dense wall, mucous membranes trap germs in sticky mucus and stomach acid kills many germs. Coughing, sneezing and the many useful bacteria living on and in us also help keep intruders out.",
+      "Only when a germ gets past these barriers, for example through a wound, do the immune cells come into play. Experts distinguish between two large parts.",
+      "The innate defences are present from birth and react within minutes to hours. They act fairly crudely and treat many germs according to a similar pattern. The adaptive defences develop over the course of life. The first time, they need a few days, but then they act very precisely and can remember the germ.",
+      "The two parts work closely together. The innate defences raise the alarm, keep the germ in check and inform the adaptive defences about what they are dealing with.",
+      "Most of the time we notice none of this. The immune system only becomes noticeable when it is fighting with full force, for example with fever or swollen lymph nodes, or when something isn’t working smoothly. The following sections show how each of the troops works."
+     ]
+    },
+    {
+     "heading": "The rapid response force",
+     "paragraphs": [
+      "Once a germ has got into the body, it first meets the innate defences. They are present from birth and ready for action immediately. Their strength is speed: they can respond within minutes to hours. In return, they act fairly non-specifically. They treat many different germs according to a similar pattern.",
+      "The best-known fighters of this force are the scavenger cells, which experts call phagocytes. One important kind is the macrophage, which means something like big eater. Macrophages engulf bacteria or cell debris, take them inside and break them down with aggressive substances. Another kind, the neutrophils, rushes to the scene in large numbers during an infection.",
+      "How do these cells know what is foreign? They carry sensors on their surface that recognise typical features of germs. These might be certain building blocks of a bacterial wall or genetic material of a kind found only in viruses. Such features are similar in many germs, so the innate defences can recognise them without knowing the specific germ.",
+      "Once immune cells have spotted an intruder, they raise the alarm. They release messenger substances that call in more immune cells and make the blood vessels in the area widen. This creates inflammation. You know its typical signs from an inflamed wound: the area becomes red, warm, swollen and painful.",
+      "Unpleasant as that is, it has a purpose. Wider vessels bring more blood and more immune cells to the scene. The swelling happens because fluid and cells leak out into the tissue. The pain makes sure we protect the injured area. Pus, by the way, consists largely of dead immune cells that have done their job.",
+      "Fever is another weapon of the innate defences. Messenger substances from immune cells reset the body’s thermostat in the brain, so to speak. The higher temperature makes life hard for many germs and at the same time speeds up some defence processes. That is why fever is often a sign that the immune system is at work.",
+      "Another part of the innate defences is the so-called complement system. It consists of proteins floating in the blood. When they meet a germ, they trigger a chain reaction. In the end they mark the intruder for the scavenger cells or even punch holes in its outer layer.",
+      "Against viruses, the innate defences have another special unit: natural killer cells. Viruses hide inside the body’s cells, where scavenger cells can’t reach them. Killer cells recognise such infected cells by changes on their surface and make them break themselves down. Some cancer cells are removed in this way too.",
+      "Often, the innate defences are enough to end an infection. But some germs have developed tricks to escape them, or they multiply too quickly. Then the innate defences call for reinforcements.",
+      "So-called dendritic cells play a special role here. They take up fragments of the germ and carry them to the lymph nodes. There they show what they have found to the cells of the adaptive defences, like a messenger delivering a description of the enemy."
+     ]
+    },
+    {
+     "heading": "The special forces",
+     "paragraphs": [
+      "The adaptive defences are the immune system’s special forces. Their fighters are the lymphocytes, which come in two main types: B cells and T cells. Unlike the scavenger cells, they don’t recognise general features but very specific structures of a single germ. Such structures are called antigens.",
+      "The astonishing thing is that the body produces lymphocytes with millions of different recognition sites, and it does so before it has even encountered a germ. Each cell has its own sensor that fits exactly one kind of antigen, like a key in a lock. This variety arises from random reshuffling of sections of genes as the cells develop.",
+      "Before these cells start work, they are strictly tested. Lymphocytes whose sensor reacts to the body’s own structures are largely weeded out. For T cells, this schooling takes place in the thymus gland. The aim is to prevent the defences from attacking the body itself.",
+      "When a dendritic cell brings fragments of a germ into a lymph node, the lymphocytes search among millions of candidates for those whose sensor fits. These few cells are activated and begin dividing at a furious pace. Within a few days, thousands of identical copies emerge from a single matching cell.",
+      "In the process, B cells turn into veritable factories. They produce antibodies, Y-shaped proteins that fit the germ’s antigen precisely. Antibodies float in the blood and other body fluids. They latch onto germs, clump them together, stop viruses from entering cells and mark the intruders for scavenger cells and the complement system.",
+      "T cells work differently. There are two important groups. Helper T cells are the coordinators of the defence. They release messenger substances that support B cells in producing antibodies and spur on other immune cells. Without them the adaptive defences barely function. This becomes clear in the disease AIDS, in which a virus destroys exactly these helper cells.",
+      "The second group are cytotoxic T cells, often called killer T cells. They recognise body cells that have been infected by a virus. Such cells display fragments of whatever is being produced inside them on their surface, like a shop window. If a killer T cell spots a foreign fragment there, it makes the infected cell destroy itself.",
+      "All this takes time. The first time the body meets a new germ, it usually takes a few days to one or two weeks for the adaptive defences to get fully up to speed. During this time we often feel ill. The fact that we feel better afterwards is often because there are now enough matching antibodies and T cells in action.",
+      "Once the germ has been defeated, most of the newly formed cells die off again. Otherwise the body would soon be full of immune cells. But a few remain, and they are the key to immune memory.",
+      "You can compare the adaptive defences to a library that already holds a book for every conceivable enemy. In an emergency, the right book is found and reprinted in a huge print run."
+     ]
+    },
+    {
+     "heading": "A memory for life",
+     "paragraphs": [
+      "Anyone who has had chickenpox usually won’t get it a second time. This old observation describes one of the immune system’s most remarkable abilities: it can remember. Experts call this immune memory.",
+      "It is based on so-called memory cells. After an infection has been overcome, some of the B cells and T cells that fought the germ remain in the body. They are long-lived, and some last for decades. They wait on standby, so to speak, for another encounter with the same enemy.",
+      "If the germ really does come back, the adaptive defences don’t have to start from scratch. Instead of searching among millions of cells for the right ones, those cells are already present in larger numbers and quickly activated. So the response is much faster and stronger. Often the germ is eliminated before we notice any signs of illness at all.",
+      "In addition, certain cells remain in the bone marrow and keep producing antibodies for a long time. That is why antibodies can still be detected in many people’s blood years after an infection or vaccination.",
+      "This protection is called immunity. You are immune to that one germ, meaning protected. Importantly, the memory is very specific. Being immune to measles doesn’t protect you against mumps. The immune system has to build a separate memory for each germ.",
+      "So why do we keep catching colds? The main reason is variety. There are hundreds of different viruses that can cause colds. After an infection you may be protected against one of them for a while, but next time it’s a different one. On top of that, the memory against some cold viruses is not very long-lasting.",
+      "Other germs are constantly changing. The flu virus, for example, alters its surface slightly from year to year. The memory cells then only partly recognise the new variant. That is why the flu vaccine is adapted every year to the variants that are expected.",
+      "The length of protection also varies. Against some diseases it lasts practically a lifetime; against others it fades after a few years. A booster can then make sense. How long protection lasts depends on the germ and also on how strong the original immune response was.",
+      "Even babies benefit from someone else’s memory. Through the placenta, and later through breast milk, they receive antibodies from their mother. This so-called nest protection helps them in the first months of life, until their own immune system has gathered more experience. It wears off after a few months, though.",
+      "Immune memory is also the reason why one of the most effective inventions in medicine works at all: vaccination."
+     ]
+    },
+    {
+     "heading": "Vaccination: training without disease",
+     "paragraphs": [
+      "The idea behind a vaccine is simple: you show the immune system a germ or parts of one without becoming seriously ill. The immune system responds and forms antibodies and memory cells. When the real germ comes along later, the defences are already prepared.",
+      "The history of vaccination begins with a disease that spread fear and horror for centuries: smallpox. It was highly contagious, many of those who caught it died, and survivors were often left with deep scars or went blind. In the twentieth century alone, an estimated 300 million people died of smallpox.",
+      "The English country doctor Edward Jenner had noticed that milkmaids who had caught the harmless cowpox apparently didn’t fall ill with real smallpox. In May 1796 he carried out an experiment. He took some fluid from a cowpox blister on a milkmaid’s hand and put it into small cuts on the arm of an eight-year-old boy, James Phipps.",
+      "The boy developed a mild fever but recovered quickly. A few weeks later Jenner exposed him to real smallpox, and the boy did not fall ill. By today’s standards, such an experiment on a child would be unacceptable. At the time it marked the beginning of a new kind of medicine. The word vaccine, by the way, comes from the Latin word for cow, vacca.",
+      "Almost two centuries later, what Jenner had predicted came true. After a worldwide vaccination campaign, the World Health Organization declared smallpox eradicated in 1980. It was the first time that humanity had completely defeated an infectious disease.",
+      "Today there are vaccines against many diseases, and they work in different ways. Some contain weakened germs that can barely multiply. Others contain killed germs or only certain fragments, such as proteins from their surface. Still others contain toxins that have been made harmless, against which the defences are meant to act.",
+      "A newer technique is mRNA vaccines, which became known worldwide during the coronavirus pandemic. They don’t contain germs but a kind of building instruction for a single protein of the virus. Body cells produce this protein themselves for a short time, the immune system gets to know it, and the instructions are then broken down again.",
+      "After a vaccination people sometimes feel a bit run-down for a day or two, have a swollen arm or a slight fever. This is usually no cause for concern but a sign that the immune system is working. Serious side effects are rare. Vaccines are tested in large trials before approval and continue to be monitored afterwards.",
+      "Vaccines don’t only protect individuals. When a very large share of a population is vaccinated, a germ can hardly spread any more. That also benefits people who cannot be vaccinated themselves, such as newborns or people with weakened immune systems. Experts call this community protection or herd immunity.",
+      "Which vaccinations are recommended for whom is decided in Germany by the experts of the Standing Committee on Vaccination. Anyone with questions about their own vaccination protection is best advised to discuss them with a doctor."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "The innate defences react immediately but non-specifically, for example with scavenger cells, inflammation and fever.",
+    "B cells and T cells of the adaptive defences recognise germs very precisely and form a long-lasting immune memory.",
+    "Vaccines train this memory without disease, which is how smallpox, for example, was wiped out worldwide."
+   ]
+  },
+  "15": {
+   "words": 3111,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Your body is a fortress that is under constant siege. Bacteria, viruses, fungi and parasites are always looking for a way in. To stop them doing harm, an army of trillions of cells works together, without any central command. Here you will learn how this defence system is organised, which walls it puts up first, how the fast troops and the specialised troops work together, how immune memory forms and what vaccines have to do with it."
+     ]
+    },
+    {
+     "heading": "A defence system without a headquarters",
+     "paragraphs": [
+      "The immune system is not a single organ that you could see on an X-ray. It is a network of organs, cells and messenger substances spread throughout the body. It is not controlled from a central headquarters. Its parts communicate with one another, rather like a flock of birds that flies in the same direction without a leader.",
+      "Its most important job is to fend off germs. These include bacteria, viruses, fungi and parasites. It also clears away dead cells and recognises altered cells of the body’s own that could turn into cancer. To do all this, it constantly has to answer a tricky question: does this belong to me or not?",
+      "The organs of the immune system include the bone marrow. That is where all immune cells are produced, much like red blood cells. Another important organ is the thymus gland behind the breastbone. Certain immune cells called T cells are trained here. The letter T stands for thymus.",
+      "Its cells are among the most mobile in the whole body.",
+      "Then there are the lymph nodes, small bean-shaped stations spread across the body, for example in the neck, the armpits and the groin. They act as filters and meeting points where immune cells encounter intruders. When you have a cold and the lymph nodes in your neck swell up, you can, in a sense, see that work is going on there.",
+      "Other parts include the spleen, which monitors the blood, the tonsils in the throat and large areas of the gut wall. The gut in particular is an important place for defence, because foreign substances and germs are constantly entering the body with our food. A large share of all immune cells spends its time there.",
+      "All of this is connected through the blood and through the lymphatic system, a separate network of fine vessels. It carries lymph, a pale fluid drained from the tissues. Immune cells use both routes to patrol the body. They can also leave the bloodstream and move directly into the tissue where they are needed.",
+      "Taken together, there are many billions of immune cells in the body at any one time, constantly being renewed. Some live only a few days, others for many years.",
+      "Immune cells are also called white blood cells or leukocytes. There are many different kinds with different tasks. Some eat intruders, others produce weapons, and still others give orders or destroy infected cells. Together they form a finely tuned team.",
+      "Experts divide this team into two large parts. The innate defences are present from birth and react very quickly, but rather crudely. The adaptive defences develop over the course of life; they take longer the first time but act very precisely and can remember. The two work closely together.",
+      "It is a story full of clever tricks on both sides, because germs are constantly evolving new ways to slip past.",
+      "Most of the time, the immune system does its work completely unnoticed. We only become aware of it when it is fighting a germ with full force or when something isn’t running smoothly.",
+      "In the following sections we will follow a germ on its way into the body and see which defences it encounters along the way."
+     ]
+    },
+    {
+     "heading": "The first line of defence",
+     "paragraphs": [
+      "Before a germ can even come into contact with immune cells, it first has to get into the body. And that is harder than it sounds. The body has a series of walls and traps that stop the vast majority of intruders right at the entrance.",
+      "The most important wall is the skin. Its outer layer consists of dead, hardened cells packed tightly together. For bacteria and viruses, that is a difficult barrier to overcome. The surface of the skin is also slightly acidic, which many germs don’t like. Old skin cells are constantly flaking off, taking germs with them.",
+      "Things are trickier where the body has to be open: in the nose, mouth, throat, lungs, gut and urinary tract. These areas are lined with mucous membranes. The mucus is sticky and traps dust and germs. In the airways, tiny hairs beat constantly in rhythm and carry the mucus and its cargo up to the throat, where it is swallowed or coughed up.",
+      "Body fluids help too. Tears, saliva and nasal secretions contain substances that can attack bacteria. One example is an enzyme called lysozyme, which breaks down the cell walls of some bacteria. And if you have ever eaten something that had gone off, it landed in your stomach in a bath of acid that kills many germs.",
+      "Reflexes are also part of this first line. Coughing and sneezing hurl intruders out of the airways. Vomiting and diarrhoea are unpleasant, but they quickly get germs out of the gut. The flow of urine also flushes out the urinary tract regularly.",
+      "Even the eyelids and eyelashes help, by sweeping away particles that could carry germs into the eye.",
+      "A particularly interesting form of protection comes from the many useful microorganisms that live on and in us. Trillions of bacteria live on the skin, in the mouth and above all in the gut. Most of them are harmless or even helpful. They occupy the places where germs would otherwise settle and compete with them for food.",
+      "Some of these lodgers even produce substances that inhibit harmful bacteria. If this community is disrupted, for example by taking antibiotics for a long time, germs can spread more easily. Research into these microbes, often called the microbiome, has grown enormously in recent years.",
+      "Only when a germ overcomes all these hurdles, for example through a wound in the skin or at a vulnerable spot in a mucous membrane, do the immune cells come into play. A cut on your finger is therefore like an open gate for bacteria.",
+      "Most of the time, this first line works so well that we never notice the countless germs it stops every single day.",
+      "You can compare the first line to the walls, moats and guards of a castle. They keep most attackers outside, and behind them the next line of defence is already waiting."
+     ]
+    },
+    {
+     "heading": "The rapid response force",
+     "paragraphs": [
+      "Once a germ has got into the body, it first meets the innate defences. They are present from birth and ready for action immediately. Their strength is speed: they can respond within minutes to hours. In return, they act fairly non-specifically. They treat many different germs according to a similar pattern.",
+      "The best-known fighters of this force are the scavenger cells, which experts call phagocytes. One important kind is the macrophage, which means something like big eater. Macrophages engulf bacteria or cell debris, take them inside and break them down with aggressive substances. Another kind, the neutrophils, rushes to the scene in large numbers during an infection.",
+      "How do these cells know what is foreign? They carry sensors on their surface that recognise typical features of germs. These might be certain building blocks of a bacterial wall or genetic material of a kind found only in viruses. Such features are similar in many germs, so the innate defences can recognise them without knowing the specific germ.",
+      "Once immune cells have spotted an intruder, they raise the alarm. They release messenger substances that call in more immune cells and make the blood vessels in the area widen. This creates inflammation. You know its typical signs from an inflamed wound: the area becomes red, warm, swollen and painful.",
+      "Unpleasant as that is, it has a purpose. Wider vessels bring more blood and more immune cells to the scene. The swelling happens because fluid and cells leak out into the tissue. The pain makes sure we protect the injured area. Pus, by the way, consists largely of dead immune cells that have done their job.",
+      "Fever is another weapon of the innate defences. Messenger substances from immune cells reset the body’s thermostat in the brain, so to speak. The higher temperature makes life hard for many germs and at the same time speeds up some defence processes. That is why fever is often a sign that the immune system is at work.",
+      "Another part of the innate defences is the so-called complement system. It consists of proteins floating in the blood. When they meet a germ, they trigger a chain reaction. In the end they mark the intruder for the scavenger cells or even punch holes in its outer layer.",
+      "Against viruses, the innate defences have another special unit: natural killer cells. Viruses hide inside the body’s cells, where scavenger cells can’t reach them. Killer cells recognise such infected cells by changes on their surface and make them break themselves down. Some cancer cells are removed in this way too.",
+      "Often, the innate defences are enough to end an infection. But some germs have developed tricks to escape them, or they multiply too quickly. Then the innate defences call for reinforcements.",
+      "So-called dendritic cells play a special role here. They take up fragments of the germ and carry them to the lymph nodes. There they show what they have found to the cells of the adaptive defences, like a messenger delivering a description of the enemy."
+     ]
+    },
+    {
+     "heading": "The special forces",
+     "paragraphs": [
+      "The adaptive defences are the immune system’s special forces. Their fighters are the lymphocytes, which come in two main types: B cells and T cells. Unlike the scavenger cells, they don’t recognise general features but very specific structures of a single germ. Such structures are called antigens.",
+      "The astonishing thing is that the body produces lymphocytes with millions of different recognition sites, and it does so before it has even encountered a germ. Each cell has its own sensor that fits exactly one kind of antigen, like a key in a lock. This variety arises from random reshuffling of sections of genes as the cells develop.",
+      "Before these cells start work, they are strictly tested. Lymphocytes whose sensor reacts to the body’s own structures are largely weeded out. For T cells, this schooling takes place in the thymus gland. The aim is to prevent the defences from attacking the body itself.",
+      "When a dendritic cell brings fragments of a germ into a lymph node, the lymphocytes search among millions of candidates for those whose sensor fits. These few cells are activated and begin dividing at a furious pace. Within a few days, thousands of identical copies emerge from a single matching cell.",
+      "In the process, B cells turn into veritable factories. They produce antibodies, Y-shaped proteins that fit the germ’s antigen precisely. Antibodies float in the blood and other body fluids. They latch onto germs, clump them together, stop viruses from entering cells and mark the intruders for scavenger cells and the complement system.",
+      "T cells work differently. There are two important groups. Helper T cells are the coordinators of the defence. They release messenger substances that support B cells in producing antibodies and spur on other immune cells. Without them the adaptive defences barely function. This becomes clear in the disease AIDS, in which a virus destroys exactly these helper cells.",
+      "The second group are cytotoxic T cells, often called killer T cells. They recognise body cells that have been infected by a virus. Such cells display fragments of whatever is being produced inside them on their surface, like a shop window. If a killer T cell spots a foreign fragment there, it makes the infected cell destroy itself.",
+      "All this takes time. The first time the body meets a new germ, it usually takes a few days to one or two weeks for the adaptive defences to get fully up to speed. During this time we often feel ill. The fact that we feel better afterwards is often because there are now enough matching antibodies and T cells in action.",
+      "Once the germ has been defeated, most of the newly formed cells die off again. Otherwise the body would soon be full of immune cells. But a few remain, and they are the key to immune memory.",
+      "You can compare the adaptive defences to a library that already holds a book for every conceivable enemy. In an emergency, the right book is found and reprinted in a huge print run."
+     ]
+    },
+    {
+     "heading": "A memory for life",
+     "paragraphs": [
+      "Anyone who has had chickenpox usually won’t get it a second time. This old observation describes one of the immune system’s most remarkable abilities: it can remember. Experts call this immune memory.",
+      "It is based on so-called memory cells. After an infection has been overcome, some of the B cells and T cells that fought the germ remain in the body. They are long-lived, and some last for decades. They wait on standby, so to speak, for another encounter with the same enemy.",
+      "If the germ really does come back, the adaptive defences don’t have to start from scratch. Instead of searching among millions of cells for the right ones, those cells are already present in larger numbers and quickly activated. So the response is much faster and stronger. Often the germ is eliminated before we notice any signs of illness at all.",
+      "In addition, certain cells remain in the bone marrow and keep producing antibodies for a long time. That is why antibodies can still be detected in many people’s blood years after an infection or vaccination.",
+      "This protection is called immunity. You are immune to that one germ, meaning protected. Importantly, the memory is very specific. Being immune to measles doesn’t protect you against mumps. The immune system has to build a separate memory for each germ.",
+      "So why do we keep catching colds? The main reason is variety. There are hundreds of different viruses that can cause colds. After an infection you may be protected against one of them for a while, but next time it’s a different one. On top of that, the memory against some cold viruses is not very long-lasting.",
+      "Other germs are constantly changing. The flu virus, for example, alters its surface slightly from year to year. The memory cells then only partly recognise the new variant. That is why the flu vaccine is adapted every year to the variants that are expected.",
+      "The length of protection also varies. Against some diseases it lasts practically a lifetime; against others it fades after a few years. A booster can then make sense. How long protection lasts depends on the germ and also on how strong the original immune response was.",
+      "Even babies benefit from someone else’s memory. Through the placenta, and later through breast milk, they receive antibodies from their mother. This so-called nest protection helps them in the first months of life, until their own immune system has gathered more experience. It wears off after a few months, though.",
+      "Immune memory is also the reason why one of the most effective inventions in medicine works at all: vaccination."
+     ]
+    },
+    {
+     "heading": "Vaccination: training without disease",
+     "paragraphs": [
+      "The idea behind a vaccine is simple: you show the immune system a germ or parts of one without becoming seriously ill. The immune system responds and forms antibodies and memory cells. When the real germ comes along later, the defences are already prepared.",
+      "The history of vaccination begins with a disease that spread fear and horror for centuries: smallpox. It was highly contagious, many of those who caught it died, and survivors were often left with deep scars or went blind. In the twentieth century alone, an estimated 300 million people died of smallpox.",
+      "The English country doctor Edward Jenner had noticed that milkmaids who had caught the harmless cowpox apparently didn’t fall ill with real smallpox. In May 1796 he carried out an experiment. He took some fluid from a cowpox blister on a milkmaid’s hand and put it into small cuts on the arm of an eight-year-old boy, James Phipps.",
+      "The boy developed a mild fever but recovered quickly. A few weeks later Jenner exposed him to real smallpox, and the boy did not fall ill. By today’s standards, such an experiment on a child would be unacceptable. At the time it marked the beginning of a new kind of medicine. The word vaccine, by the way, comes from the Latin word for cow, vacca.",
+      "Almost two centuries later, what Jenner had predicted came true. After a worldwide vaccination campaign, the World Health Organization declared smallpox eradicated in 1980. It was the first time that humanity had completely defeated an infectious disease.",
+      "Today there are vaccines against many diseases, and they work in different ways. Some contain weakened germs that can barely multiply. Others contain killed germs or only certain fragments, such as proteins from their surface. Still others contain toxins that have been made harmless, against which the defences are meant to act.",
+      "A newer technique is mRNA vaccines, which became known worldwide during the coronavirus pandemic. They don’t contain germs but a kind of building instruction for a single protein of the virus. Body cells produce this protein themselves for a short time, the immune system gets to know it, and the instructions are then broken down again.",
+      "After a vaccination people sometimes feel a bit run-down for a day or two, have a swollen arm or a slight fever. This is usually no cause for concern but a sign that the immune system is working. Serious side effects are rare. Vaccines are tested in large trials before approval and continue to be monitored afterwards.",
+      "Vaccines don’t only protect individuals. When a very large share of a population is vaccinated, a germ can hardly spread any more. That also benefits people who cannot be vaccinated themselves, such as newborns or people with weakened immune systems. Experts call this community protection or herd immunity.",
+      "Which vaccinations are recommended for whom is decided in Germany by the experts of the Standing Committee on Vaccination. Anyone with questions about their own vaccination protection is best advised to discuss them with a doctor."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Skin and mucous membranes keep most germs out, and the innate defences fight intruders within minutes to hours.",
+    "The adaptive defences need a few days the first time, but afterwards they often remember the germ for years.",
+    "Vaccines prepare the immune system safely and have defeated diseases such as smallpox."
+   ]
+  },
+  "20": {
+   "words": 4144,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Without an immune system, a simple cut on your finger could be life-threatening. The fact that we stay healthy most of the time is thanks to a defence network that constantly has to tell friend from foe. In this article you will learn how this system is organised, how it recognises and fights intruders, how it remembers earlier enemies, why vaccines are one of medicine’s greatest success stories, what happens when the defences make mistakes and which questions researchers are working on today."
+     ]
+    },
+    {
+     "heading": "A defence system without a headquarters",
+     "paragraphs": [
+      "The immune system is not a single organ that you could see on an X-ray. It is a network of organs, cells and messenger substances spread throughout the body. It is not controlled from a central headquarters. Its parts communicate with one another, rather like a flock of birds that flies in the same direction without a leader.",
+      "Its most important job is to fend off germs. These include bacteria, viruses, fungi and parasites. It also clears away dead cells and recognises altered cells of the body’s own that could turn into cancer. To do all this, it constantly has to answer a tricky question: does this belong to me or not?",
+      "The organs of the immune system include the bone marrow. That is where all immune cells are produced, much like red blood cells. Another important organ is the thymus gland behind the breastbone. Certain immune cells called T cells are trained here. The letter T stands for thymus.",
+      "Its cells are among the most mobile in the whole body.",
+      "Then there are the lymph nodes, small bean-shaped stations spread across the body, for example in the neck, the armpits and the groin. They act as filters and meeting points where immune cells encounter intruders. When you have a cold and the lymph nodes in your neck swell up, you can, in a sense, see that work is going on there.",
+      "Other parts include the spleen, which monitors the blood, the tonsils in the throat and large areas of the gut wall. The gut in particular is an important place for defence, because foreign substances and germs are constantly entering the body with our food. A large share of all immune cells spends its time there.",
+      "All of this is connected through the blood and through the lymphatic system, a separate network of fine vessels. It carries lymph, a pale fluid drained from the tissues. Immune cells use both routes to patrol the body. They can also leave the bloodstream and move directly into the tissue where they are needed.",
+      "Taken together, there are many billions of immune cells in the body at any one time, constantly being renewed. Some live only a few days, others for many years.",
+      "Immune cells are also called white blood cells or leukocytes. There are many different kinds with different tasks. Some eat intruders, others produce weapons, and still others give orders or destroy infected cells. Together they form a finely tuned team.",
+      "Experts divide this team into two large parts. The innate defences are present from birth and react very quickly, but rather crudely. The adaptive defences develop over the course of life; they take longer the first time but act very precisely and can remember. The two work closely together.",
+      "It is a story full of clever tricks on both sides, because germs are constantly evolving new ways to slip past.",
+      "Most of the time, the immune system does its work completely unnoticed. We only become aware of it when it is fighting a germ with full force or when something isn’t running smoothly.",
+      "In the following sections we will follow a germ on its way into the body and see which defences it encounters along the way."
+     ]
+    },
+    {
+     "heading": "The first line of defence",
+     "paragraphs": [
+      "Before a germ can even come into contact with immune cells, it first has to get into the body. And that is harder than it sounds. The body has a series of walls and traps that stop the vast majority of intruders right at the entrance.",
+      "The most important wall is the skin. Its outer layer consists of dead, hardened cells packed tightly together. For bacteria and viruses, that is a difficult barrier to overcome. The surface of the skin is also slightly acidic, which many germs don’t like. Old skin cells are constantly flaking off, taking germs with them.",
+      "Things are trickier where the body has to be open: in the nose, mouth, throat, lungs, gut and urinary tract. These areas are lined with mucous membranes. The mucus is sticky and traps dust and germs. In the airways, tiny hairs beat constantly in rhythm and carry the mucus and its cargo up to the throat, where it is swallowed or coughed up.",
+      "Body fluids help too. Tears, saliva and nasal secretions contain substances that can attack bacteria. One example is an enzyme called lysozyme, which breaks down the cell walls of some bacteria. And if you have ever eaten something that had gone off, it landed in your stomach in a bath of acid that kills many germs.",
+      "Reflexes are also part of this first line. Coughing and sneezing hurl intruders out of the airways. Vomiting and diarrhoea are unpleasant, but they quickly get germs out of the gut. The flow of urine also flushes out the urinary tract regularly.",
+      "Even the eyelids and eyelashes help, by sweeping away particles that could carry germs into the eye.",
+      "A particularly interesting form of protection comes from the many useful microorganisms that live on and in us. Trillions of bacteria live on the skin, in the mouth and above all in the gut. Most of them are harmless or even helpful. They occupy the places where germs would otherwise settle and compete with them for food.",
+      "Some of these lodgers even produce substances that inhibit harmful bacteria. If this community is disrupted, for example by taking antibiotics for a long time, germs can spread more easily. Research into these microbes, often called the microbiome, has grown enormously in recent years.",
+      "Only when a germ overcomes all these hurdles, for example through a wound in the skin or at a vulnerable spot in a mucous membrane, do the immune cells come into play. A cut on your finger is therefore like an open gate for bacteria.",
+      "Most of the time, this first line works so well that we never notice the countless germs it stops every single day.",
+      "You can compare the first line to the walls, moats and guards of a castle. They keep most attackers outside, and behind them the next line of defence is already waiting."
+     ]
+    },
+    {
+     "heading": "The rapid response force",
+     "paragraphs": [
+      "Once a germ has got into the body, it first meets the innate defences. They are present from birth and ready for action immediately. Their strength is speed: they can respond within minutes to hours. In return, they act fairly non-specifically. They treat many different germs according to a similar pattern.",
+      "The best-known fighters of this force are the scavenger cells, which experts call phagocytes. One important kind is the macrophage, which means something like big eater. Macrophages engulf bacteria or cell debris, take them inside and break them down with aggressive substances. Another kind, the neutrophils, rushes to the scene in large numbers during an infection.",
+      "How do these cells know what is foreign? They carry sensors on their surface that recognise typical features of germs. These might be certain building blocks of a bacterial wall or genetic material of a kind found only in viruses. Such features are similar in many germs, so the innate defences can recognise them without knowing the specific germ.",
+      "Once immune cells have spotted an intruder, they raise the alarm. They release messenger substances that call in more immune cells and make the blood vessels in the area widen. This creates inflammation. You know its typical signs from an inflamed wound: the area becomes red, warm, swollen and painful.",
+      "Unpleasant as that is, it has a purpose. Wider vessels bring more blood and more immune cells to the scene. The swelling happens because fluid and cells leak out into the tissue. The pain makes sure we protect the injured area. Pus, by the way, consists largely of dead immune cells that have done their job.",
+      "Fever is another weapon of the innate defences. Messenger substances from immune cells reset the body’s thermostat in the brain, so to speak. The higher temperature makes life hard for many germs and at the same time speeds up some defence processes. That is why fever is often a sign that the immune system is at work.",
+      "Another part of the innate defences is the so-called complement system. It consists of proteins floating in the blood. When they meet a germ, they trigger a chain reaction. In the end they mark the intruder for the scavenger cells or even punch holes in its outer layer.",
+      "Against viruses, the innate defences have another special unit: natural killer cells. Viruses hide inside the body’s cells, where scavenger cells can’t reach them. Killer cells recognise such infected cells by changes on their surface and make them break themselves down. Some cancer cells are removed in this way too.",
+      "Often, the innate defences are enough to end an infection. But some germs have developed tricks to escape them, or they multiply too quickly. Then the innate defences call for reinforcements.",
+      "So-called dendritic cells play a special role here. They take up fragments of the germ and carry them to the lymph nodes. There they show what they have found to the cells of the adaptive defences, like a messenger delivering a description of the enemy."
+     ]
+    },
+    {
+     "heading": "The special forces",
+     "paragraphs": [
+      "The adaptive defences are the immune system’s special forces. Their fighters are the lymphocytes, which come in two main types: B cells and T cells. Unlike the scavenger cells, they don’t recognise general features but very specific structures of a single germ. Such structures are called antigens.",
+      "The astonishing thing is that the body produces lymphocytes with millions of different recognition sites, and it does so before it has even encountered a germ. Each cell has its own sensor that fits exactly one kind of antigen, like a key in a lock. This variety arises from random reshuffling of sections of genes as the cells develop.",
+      "Before these cells start work, they are strictly tested. Lymphocytes whose sensor reacts to the body’s own structures are largely weeded out. For T cells, this schooling takes place in the thymus gland. The aim is to prevent the defences from attacking the body itself.",
+      "When a dendritic cell brings fragments of a germ into a lymph node, the lymphocytes search among millions of candidates for those whose sensor fits. These few cells are activated and begin dividing at a furious pace. Within a few days, thousands of identical copies emerge from a single matching cell.",
+      "In the process, B cells turn into veritable factories. They produce antibodies, Y-shaped proteins that fit the germ’s antigen precisely. Antibodies float in the blood and other body fluids. They latch onto germs, clump them together, stop viruses from entering cells and mark the intruders for scavenger cells and the complement system.",
+      "T cells work differently. There are two important groups. Helper T cells are the coordinators of the defence. They release messenger substances that support B cells in producing antibodies and spur on other immune cells. Without them the adaptive defences barely function. This becomes clear in the disease AIDS, in which a virus destroys exactly these helper cells.",
+      "The second group are cytotoxic T cells, often called killer T cells. They recognise body cells that have been infected by a virus. Such cells display fragments of whatever is being produced inside them on their surface, like a shop window. If a killer T cell spots a foreign fragment there, it makes the infected cell destroy itself.",
+      "All this takes time. The first time the body meets a new germ, it usually takes a few days to one or two weeks for the adaptive defences to get fully up to speed. During this time we often feel ill. The fact that we feel better afterwards is often because there are now enough matching antibodies and T cells in action.",
+      "Once the germ has been defeated, most of the newly formed cells die off again. Otherwise the body would soon be full of immune cells. But a few remain, and they are the key to immune memory.",
+      "You can compare the adaptive defences to a library that already holds a book for every conceivable enemy. In an emergency, the right book is found and reprinted in a huge print run."
+     ]
+    },
+    {
+     "heading": "A memory for life",
+     "paragraphs": [
+      "Anyone who has had chickenpox usually won’t get it a second time. This old observation describes one of the immune system’s most remarkable abilities: it can remember. Experts call this immune memory.",
+      "It is based on so-called memory cells. After an infection has been overcome, some of the B cells and T cells that fought the germ remain in the body. They are long-lived, and some last for decades. They wait on standby, so to speak, for another encounter with the same enemy.",
+      "If the germ really does come back, the adaptive defences don’t have to start from scratch. Instead of searching among millions of cells for the right ones, those cells are already present in larger numbers and quickly activated. So the response is much faster and stronger. Often the germ is eliminated before we notice any signs of illness at all.",
+      "In addition, certain cells remain in the bone marrow and keep producing antibodies for a long time. That is why antibodies can still be detected in many people’s blood years after an infection or vaccination.",
+      "This protection is called immunity. You are immune to that one germ, meaning protected. Importantly, the memory is very specific. Being immune to measles doesn’t protect you against mumps. The immune system has to build a separate memory for each germ.",
+      "So why do we keep catching colds? The main reason is variety. There are hundreds of different viruses that can cause colds. After an infection you may be protected against one of them for a while, but next time it’s a different one. On top of that, the memory against some cold viruses is not very long-lasting.",
+      "Other germs are constantly changing. The flu virus, for example, alters its surface slightly from year to year. The memory cells then only partly recognise the new variant. That is why the flu vaccine is adapted every year to the variants that are expected.",
+      "The length of protection also varies. Against some diseases it lasts practically a lifetime; against others it fades after a few years. A booster can then make sense. How long protection lasts depends on the germ and also on how strong the original immune response was.",
+      "Even babies benefit from someone else’s memory. Through the placenta, and later through breast milk, they receive antibodies from their mother. This so-called nest protection helps them in the first months of life, until their own immune system has gathered more experience. It wears off after a few months, though.",
+      "Immune memory is also the reason why one of the most effective inventions in medicine works at all: vaccination."
+     ]
+    },
+    {
+     "heading": "Vaccination: training without disease",
+     "paragraphs": [
+      "The idea behind a vaccine is simple: you show the immune system a germ or parts of one without becoming seriously ill. The immune system responds and forms antibodies and memory cells. When the real germ comes along later, the defences are already prepared.",
+      "The history of vaccination begins with a disease that spread fear and horror for centuries: smallpox. It was highly contagious, many of those who caught it died, and survivors were often left with deep scars or went blind. In the twentieth century alone, an estimated 300 million people died of smallpox.",
+      "The English country doctor Edward Jenner had noticed that milkmaids who had caught the harmless cowpox apparently didn’t fall ill with real smallpox. In May 1796 he carried out an experiment. He took some fluid from a cowpox blister on a milkmaid’s hand and put it into small cuts on the arm of an eight-year-old boy, James Phipps.",
+      "The boy developed a mild fever but recovered quickly. A few weeks later Jenner exposed him to real smallpox, and the boy did not fall ill. By today’s standards, such an experiment on a child would be unacceptable. At the time it marked the beginning of a new kind of medicine. The word vaccine, by the way, comes from the Latin word for cow, vacca.",
+      "Almost two centuries later, what Jenner had predicted came true. After a worldwide vaccination campaign, the World Health Organization declared smallpox eradicated in 1980. It was the first time that humanity had completely defeated an infectious disease.",
+      "Today there are vaccines against many diseases, and they work in different ways. Some contain weakened germs that can barely multiply. Others contain killed germs or only certain fragments, such as proteins from their surface. Still others contain toxins that have been made harmless, against which the defences are meant to act.",
+      "A newer technique is mRNA vaccines, which became known worldwide during the coronavirus pandemic. They don’t contain germs but a kind of building instruction for a single protein of the virus. Body cells produce this protein themselves for a short time, the immune system gets to know it, and the instructions are then broken down again.",
+      "After a vaccination people sometimes feel a bit run-down for a day or two, have a swollen arm or a slight fever. This is usually no cause for concern but a sign that the immune system is working. Serious side effects are rare. Vaccines are tested in large trials before approval and continue to be monitored afterwards.",
+      "Vaccines don’t only protect individuals. When a very large share of a population is vaccinated, a germ can hardly spread any more. That also benefits people who cannot be vaccinated themselves, such as newborns or people with weakened immune systems. Experts call this community protection or herd immunity.",
+      "Which vaccinations are recommended for whom is decided in Germany by the experts of the Standing Committee on Vaccination. Anyone with questions about their own vaccination protection is best advised to discuss them with a doctor."
+     ]
+    },
+    {
+     "heading": "When the defences get it wrong",
+     "paragraphs": [
+      "Impressive as the immune system is, it also makes mistakes. Sometimes it reacts to things that are actually harmless. Sometimes it attacks the body itself. And sometimes it is too weak to fight off germs.",
+      "Scientists have learned a great deal from these mistakes about how the healthy immune system works.",
+      "Allergies are the most common problem. Here, the immune system mistakes harmless substances for dangerous ones, such as pollen, house dust, animal hair or certain foods. On first contact it produces a special kind of antibody. On every later contact, these trigger a violent reaction, with sneezing, watery eyes, itching or a rash.",
+      "In the worst case, an allergic reaction can affect the whole body and become life-threatening, for example in some people after a wasp sting or from nuts. Doctors call this anaphylactic shock. People affected by it therefore often carry an emergency kit with them.",
+      "In autoimmune diseases, the defences turn against the body’s own tissue. Although most lymphocytes that react to the body’s own structures are weeded out, this control doesn’t always work perfectly. In type 1 diabetes, the immune system destroys the cells of the pancreas that produce insulin. In multiple sclerosis, it attacks the protective sheaths around nerve fibres.",
+      "Exactly why such diseases develop is often not yet fully understood. Genes, environmental influences and sometimes earlier infections probably all play a part. Many autoimmune diseases can now be treated well with medicines that dampen the immune system in a targeted way.",
+      "The opposite is immunodeficiency. Here the defences are too weak, and even harmless germs can become dangerous. Some people are born with such a weakness. More often it develops during life, for example through certain infections, through medicines or through chemotherapy for cancer.",
+      "An excessive reaction can be dangerous too. In sepsis, often called blood poisoning, the body’s response to an infection spirals out of control and damages its own organs in the process. Sepsis is a medical emergency that needs to be treated quickly.",
+      "Sometimes the defences are simply too thorough. After an organ transplant, the immune system recognises the new organ as foreign and tries to reject it. People with a donor organ therefore have to take medicines permanently that slow down the immune system. That reduces the risk of rejection but makes them more vulnerable to infections.",
+      "These examples show how delicate the balance is. The immune system has to be strong enough to defeat germs, yet restrained enough to spare the body itself and harmless substances.",
+      "Researchers are working hard to understand these errors better, because doing so could lead to new treatments for millions of people.",
+      "Anyone who suspects they have an allergy, an autoimmune disease or a weakened immune system should have it checked by a doctor. Self-diagnosis rarely helps here.",
+      "Understanding them better is one of the big goals of immunology."
+     ]
+    },
+    {
+     "heading": "A system that keeps changing",
+     "paragraphs": [
+      "The immune system changes over the course of life. In newborns, the adaptive defences are still inexperienced. With every infection overcome and every vaccination, they learn something new. Frequent infections at nursery age are therefore perfectly normal. The immune system gathers a great deal of experience during this time.",
+      "In old age, its performance declines again. Fewer new immune cells are produced, and the existing ones react more slowly. Older people therefore fall seriously ill more often with infections such as flu or pneumonia, and some vaccines work somewhat less well in them. Experts speak of the ageing of the immune system.",
+      "Even so, many older people remain well protected, especially if their vaccinations are kept up to date.",
+      "A lot of attention is currently being paid to the interplay between the immune system and the microbes in the gut. These lodgers apparently train the defences from the very first years of life. Some researchers suspect that too little contact with diverse microbes in childhood could increase the risk of allergies. This has not yet been proven in every detail, though.",
+      "Research has achieved a major breakthrough in cancer medicine. Cancer cells are altered body cells, and in principle the immune system can recognise them. But many tumours have developed tricks to put the brakes on the defences. New medicines release these brakes and allow T cells to go after the cancer.",
+      "In another method, T cells are taken from a patient’s blood, modified in the laboratory so that they recognise the cancer cells better, and then given back. Such immunotherapies have helped some people for whom other treatments had failed. But they don’t work for all types of cancer and can have severe side effects.",
+      "Some of these approaches are already approved, while many others are still being tested in clinical trials.",
+      "Vaccine research is also moving forward. Experience with mRNA vaccines has shown how quickly new vaccines can be produced. Researchers are now investigating whether similar methods can be used against other infections or even against cancer.",
+      "At the same time, big challenges remain. Against some germs, such as HIV, there is still no effective vaccine despite decades of research. And bacteria that antibiotics no longer work against are a worry for experts around the world. That makes it all the more important to understand the immune system and its allies well.",
+      "People often ask how they can strengthen their immune system. Many products promise to do so but don’t deliver. According to current knowledge, what helps most are general things that are good for your health as a whole, such as getting enough sleep, exercising, eating a balanced diet and not smoking. There is no miracle cure.",
+      "How well the immune system works also depends on many things we can only partly influence, such as our genes, our age and the infections we have had before.",
+      "One thing is certain: the immune system is one of the most complex systems in our bodies. It works day and night, mostly unnoticed, and it keeps surprising researchers.",
+      "Once you understand how it works, you see a fever, swollen lymph nodes or a sore arm after a vaccination with different eyes: as a sign that your defences are doing their job."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "The immune system works without a headquarters, using barriers, fast innate defences and targeted adaptive defences.",
+    "Its memory makes vaccination possible, one of the most successful inventions in medicine.",
+    "When the defences make mistakes, allergies or autoimmune diseases can develop, and new therapies even turn the immune system against cancer."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "title": "Wie funktioniert das Immunsystem?",
+   "publisher": "Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (gesundheitsinformation.de)",
+   "url": "https://www.gesundheitsinformation.de/wie-funktioniert-das-immunsystem.html",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Das Immunsystem und seine Aufgaben",
+   "publisher": "Gesundheitsportal Österreich (gesundheit.gv.at)",
+   "url": "https://www.gesundheit.gv.at/krankheiten/immunsystem/Das-Immunsystem-und-seine-Aufgaben.html",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Überblick über das Immunsystem",
+   "publisher": "MSD Manual",
+   "url": "https://www.msdmanuals.com/de-de/profi/immunologie,-allergien/biologie-des-immunsystems/%C3%BCberblick-%C3%BCber-das-immunsystem",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Putting smallpox out to pasture (Milestone 2)",
+   "publisher": "Nature",
+   "url": "https://www.nature.com/articles/d42859-020-00007-6",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Dr Edward Jenner carrying out his first smallpox vaccination",
+   "publisher": "British Red Cross Museum and Archives",
+   "url": "https://museumandarchives.redcross.org.uk/objects/46915",
+   "accessed": "2026-11-03"
+  }
+ ],
+ "factCheckedAt": "2026-11-03"
+}

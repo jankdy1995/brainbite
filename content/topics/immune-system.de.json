@@ -1,0 +1,429 @@
+{
+ "id": "immune-system",
+ "lang": "de",
+ "title": "Wie unser Immunsystem arbeitet",
+ "versions": {
+  "5": {
+   "words": 906,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "In diesem Moment landen auf deiner Haut, in deiner Nase und in deinem Mund unzählige Bakterien, Viren und Pilze. Die allermeisten davon bemerkst du nie. Das liegt an einem der erstaunlichsten Systeme deines Körpers: der Immunabwehr. In fünf Minuten erfährst du, wie sie aufgebaut ist, wie sie Eindringlinge erkennt und warum sie sich an manche Krankheiten ein Leben lang erinnert."
+     ]
+    },
+    {
+     "heading": "Wer dich verteidigt",
+     "paragraphs": [
+      "Das Immunsystem ist kein einzelnes Organ, sondern ein Netzwerk aus Organen, Zellen und Botenstoffen im ganzen Körper. Eine Zentrale gibt es nicht. Die Abwehrzellen entstehen im Knochenmark und patrouillieren über Blut und Lymphgefäße durch den Körper.",
+      "Zu den Organen der Abwehr gehören neben dem Knochenmark auch die Thymusdrüse, die Milz, die Mandeln und die Lymphknoten. Wenn bei einer Erkältung die Lymphknoten am Hals anschwellen, siehst du gewissermaßen, dass dort gerade gearbeitet wird.",
+      "Die erste Verteidigungslinie sind Barrieren. Die Haut ist eine dichte Mauer, Schleimhäute in Nase, Mund und Darm fangen Keime mit klebrigem Schleim ein, und die Magensäure tötet viele Erreger ab. Husten und Niesen befördern Eindringlinge wieder hinaus.",
+      "Die meisten Eindringlinge scheitern schon an diesen Mauern, ohne dass wir etwas davon bemerken. Erst wenn eine davon durchbrochen wird, braucht es die Abwehrzellen.",
+      "Auch die vielen nützlichen Bakterien auf und in uns schützen uns. Sie besetzen die Plätze, an denen sich Krankheitserreger festsetzen könnten.",
+      "Überwindet ein Erreger diese Hürden, etwa durch eine Wunde, trifft er auf die angeborene Abwehr. Sie ist von Geburt an da und reagiert innerhalb von Minuten bis Stunden. Fresszellen umschließen Bakterien und zersetzen sie.",
+      "Eiter besteht übrigens zu einem großen Teil aus abgestorbenen Abwehrzellen, die ihren Dienst getan haben.",
+      "Gleichzeitig schlagen die Abwehrzellen Alarm. Es entsteht eine Entzündung: Die Stelle wird rot, warm, geschwollen und schmerzt. Das ist unangenehm, bringt aber mehr Blut und mehr Abwehrzellen an den Ort des Geschehens.",
+      "Auch Fieber gehört dazu. Die höhere Temperatur macht vielen Erregern das Leben schwer.",
+      "Gegen Viren, die sich in Körperzellen verstecken, gibt es außerdem natürliche Killerzellen. Sie erkennen befallene Zellen und bringen sie dazu, sich selbst aufzulösen."
+     ]
+    },
+    {
+     "heading": "Die Spezialeinheit und ihr Gedächtnis",
+     "paragraphs": [
+      "Reicht die schnelle Abwehr nicht aus, kommt die erworbene Abwehr ins Spiel. Ihre Kämpfer heißen B-Zellen und T-Zellen. Sie erkennen nicht allgemeine Merkmale, sondern ganz bestimmte Strukturen eines einzelnen Erregers, wie ein Schlüssel, der nur in ein Schloss passt.",
+      "Der Körper hält Millionen solcher Zellen mit unterschiedlichen Schlüsseln bereit. Trifft eine passende Zelle auf den Erreger, teilt sie sich rasend schnell. B-Zellen stellen dann Antikörper her, Y-förmige Eiweiße, die sich an den Erreger heften und ihn unschädlich machen. T-Zellen koordinieren die Abwehr oder vernichten von Viren befallene Zellen.",
+      "Bevor diese Zellen ihren Dienst antreten, werden sie streng geprüft. Zellen, die auf körpereigene Strukturen reagieren, werden größtenteils aussortiert. So soll die Abwehr den eigenen Körper verschonen.",
+      "Dass es uns danach besser geht, liegt oft daran, dass jetzt genug passende Antikörper und Abwehrzellen im Einsatz sind.",
+      "Beim ersten Kontakt dauert das einige Tage. In dieser Zeit fühlen wir uns oft krank.",
+      "Nach der Infektion bleiben einige dieser Zellen als Gedächtniszellen zurück, manche jahrzehntelang. Kommt derselbe Erreger wieder, reagiert die Abwehr viel schneller und kräftiger, oft bevor wir überhaupt etwas merken. Deshalb bekommt man zum Beispiel Windpocken meist nur einmal.",
+      "Aus diesem Grund wird auch die Grippeimpfung jedes Jahr an die erwarteten Virusvarianten angepasst.",
+      "Dass man trotzdem immer wieder Schnupfen bekommt, liegt an der Vielfalt: Hunderte verschiedene Viren können Erkältungen auslösen. Und das Grippevirus verändert sich ständig, sodass das Gedächtnis es nur teilweise wiedererkennt.",
+      "Schon Babys profitieren übrigens vom Gedächtnis anderer: Über die Plazenta und die Muttermilch bekommen sie Antikörper ihrer Mutter mit. Dieser Nestschutz hält einige Monate.",
+      "Das Gedächtnis ist also sehr genau, aber nicht allwissend."
+     ]
+    },
+    {
+     "heading": "Impfen und wenn die Abwehr irrt",
+     "paragraphs": [
+      "Impfungen nutzen das Immungedächtnis. Man zeigt dem Immunsystem einen Erreger oder Teile davon, ohne krank zu werden. Es bildet Antikörper und Gedächtniszellen und ist vorbereitet, wenn der echte Erreger kommt.",
+      "So lernt die Abwehr, ohne dass man die Krankheit selbst durchmachen muss.",
+      "Angefangen hat das 1796 in England. Der Arzt Edward Jenner brachte einem Jungen Flüssigkeit aus einer harmlosen Kuhpockenblase in die Haut. Später erkrankte der Junge nicht an den gefährlichen echten Pocken. Das Wort Vakzine kommt vom lateinischen Wort für Kuh. 1980 erklärte die Weltgesundheitsorganisation die Pocken nach einer weltweiten Impfkampagne für ausgerottet.",
+      "Heute gibt es Impfstoffe gegen viele Krankheiten. Manche enthalten abgeschwächte oder abgetötete Erreger, andere nur Bruchstücke. Neuere mRNA-Impfstoffe enthalten eine Bauanleitung für ein einzelnes Eiweiß des Virus, das der Körper kurz selbst herstellt.",
+      "Manchmal irrt die Abwehr aber auch. Bei Allergien hält sie harmlose Stoffe wie Pollen für gefährlich. Bei Autoimmunkrankheiten greift sie den eigenen Körper an, etwa bei Diabetes vom Typ eins. Und bei einer Immunschwäche ist sie zu schwach, um Erreger abzuwehren.",
+      "Auch die Krebsmedizin nutzt das Immunsystem inzwischen. Neue Medikamente lösen Bremsen, mit denen Tumoren die Abwehr ausschalten, sodass T-Zellen den Krebs angreifen können.",
+      "Wer den Verdacht auf eine solche Störung hat oder Fragen zum eigenen Impfschutz hat, bespricht das am besten mit einer Ärztin oder einem Arzt.",
+      "Meist aber arbeitet das Immunsystem Tag und Nacht unbemerkt und ziemlich zuverlässig, und Fieber oder ein geschwollener Lymphknoten sind oft einfach Zeichen, dass es gerade seine Arbeit tut.",
+      "Wer das versteht, sieht solche Beschwerden mit anderen Augen."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Das Immunsystem besteht aus einer schnellen angeborenen Abwehr und einer gezielten erworbenen Abwehr, die eng zusammenarbeiten.",
+    "Die erworbene Abwehr bildet Gedächtniszellen und reagiert deshalb beim zweiten Kontakt mit einem Erreger viel schneller.",
+    "Impfungen nutzen dieses Gedächtnis, indem sie das Immunsystem gefahrlos auf einen Erreger vorbereiten."
+   ]
+  },
+  "10": {
+   "words": 2177,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Eine Erkältung, ein Kratzer, ein verdorbenes Essen: Ständig versuchen Krankheitserreger, in deinen Körper einzudringen. Meist scheitern sie, ohne dass du etwas merkst. Wenn doch, spürst du Fieber, Schnupfen oder eine geschwollene Wunde. All das ist die Arbeit deines Immunsystems. In den nächsten zehn Minuten erfährst du, wie die schnelle angeborene Abwehr arbeitet, wie die gezielte erworbene Abwehr Erreger erkennt, wie das Immungedächtnis funktioniert und warum Impfungen so wirksam sind."
+     ]
+    },
+    {
+     "heading": "Ein Abwehrnetz ohne Zentrale",
+     "paragraphs": [
+      "Das Immunsystem ist kein einzelnes Organ, sondern ein Netzwerk aus Organen, Zellen und Botenstoffen, das über den ganzen Körper verteilt ist. Gesteuert wird es nicht von einer Zentrale. Seine Teile verständigen sich untereinander über Botenstoffe und direkten Kontakt.",
+      "Seine wichtigste Aufgabe ist, Krankheitserreger wie Bakterien, Viren, Pilze und Parasiten abzuwehren. Außerdem räumt es abgestorbene Zellen auf und erkennt veränderte Zellen, aus denen Krebs entstehen könnte. Dafür muss es ständig unterscheiden: Gehört das zu mir oder nicht?",
+      "Alle Abwehrzellen entstehen im Knochenmark. Bestimmte Zellen, die T-Zellen, werden in der Thymusdrüse hinter dem Brustbein ausgebildet. Dazu kommen Lymphknoten, Milz, Mandeln und große Bereiche der Darmwand, wo ein großer Teil der Abwehrzellen sitzt. Verbunden ist alles über das Blut und das Lymphsystem.",
+      "Bevor ein Erreger überhaupt auf Abwehrzellen trifft, muss er an der ersten Verteidigungslinie vorbei. Die Haut ist eine dichte Mauer, Schleimhäute fangen Keime mit klebrigem Schleim ein, und die Magensäure tötet viele Erreger ab. Auch Husten, Niesen und die vielen nützlichen Bakterien auf und in uns halten Eindringlinge fern.",
+      "Die angeborene Abwehr ist von Geburt an vorhanden und reagiert innerhalb von Minuten bis Stunden. Sie geht eher grob vor und behandelt viele Erreger nach einem ähnlichen Schema. Die erworbene Abwehr entwickelt sich im Laufe des Lebens. Beim ersten Kontakt braucht sie einige Tage, geht dann aber sehr gezielt vor und kann sich an den Erreger erinnern.",
+      "Die meiste Zeit merken wir von alldem nichts. Spürbar wird das Immunsystem erst, wenn es mit voller Kraft kämpft, etwa mit Fieber oder geschwollenen Lymphknoten, oder wenn etwas nicht reibungslos funktioniert. Wie die einzelnen Truppen arbeiten, zeigen die folgenden Abschnitte."
+     ]
+    },
+    {
+     "heading": "Die schnelle Eingreiftruppe",
+     "paragraphs": [
+      "Ist ein Erreger in den Körper eingedrungen, trifft er zuerst auf die angeborene Abwehr. Sie ist von Geburt an vorhanden und sofort einsatzbereit. Ihre Stärke ist die Geschwindigkeit: Innerhalb von Minuten bis Stunden kann sie reagieren. Dafür geht sie eher unspezifisch vor. Sie behandelt viele verschiedene Erreger nach einem ähnlichen Schema.",
+      "Die bekanntesten Kämpfer dieser Truppe sind die Fresszellen. Fachleute nennen sie Phagozyten. Eine wichtige Sorte sind die Makrophagen, was so viel wie große Fresser bedeutet. Sie umschließen Bakterien oder Zelltrümmer, nehmen sie in sich auf und zersetzen sie im Inneren mit aggressiven Stoffen. Eine andere Sorte, die neutrophilen Granulozyten, strömt bei einer Infektion in großer Zahl herbei.",
+      "Woher wissen diese Zellen, was fremd ist? Sie tragen auf ihrer Oberfläche Sensoren, die typische Merkmale von Krankheitserregern erkennen. Das können bestimmte Bausteine der Bakterienwand sein oder Erbgut, wie es nur in Viren vorkommt. Solche Merkmale sind bei vielen Erregern ähnlich, deshalb kann die angeborene Abwehr sie erkennen, ohne den konkreten Erreger zu kennen.",
+      "Haben die Abwehrzellen einen Eindringling entdeckt, schlagen sie Alarm. Sie schütten Botenstoffe aus, die weitere Abwehrzellen herbeirufen und die Blutgefäße in der Umgebung weiter werden lassen. So entsteht eine Entzündung. Ihre typischen Zeichen kennst du von einer entzündeten Wunde: Die Stelle wird rot, warm, geschwollen und schmerzt.",
+      "So unangenehm das ist, es hat einen Sinn. Durch die weiteren Gefäße kommen mehr Blut und mehr Abwehrzellen an den Ort des Geschehens. Die Schwellung entsteht, weil Flüssigkeit und Zellen ins Gewebe austreten. Der Schmerz sorgt dafür, dass wir die verletzte Stelle schonen. Eiter besteht übrigens zu einem großen Teil aus abgestorbenen Abwehrzellen, die ihren Dienst getan haben.",
+      "Auch Fieber gehört zu den Waffen der angeborenen Abwehr. Botenstoffe der Abwehrzellen verstellen im Gehirn gewissermaßen den Thermostat des Körpers. Die höhere Temperatur macht vielen Erregern das Leben schwer und beschleunigt gleichzeitig manche Abwehrvorgänge. Deshalb ist Fieber oft ein Zeichen, dass das Immunsystem arbeitet.",
+      "Ein weiterer Teil der angeborenen Abwehr ist das sogenannte Komplementsystem. Es besteht aus Eiweißen, die im Blut schwimmen. Treffen sie auf einen Erreger, lösen sie eine Kettenreaktion aus. Am Ende markieren sie den Eindringling für die Fresszellen oder stanzen sogar Löcher in seine Hülle.",
+      "Gegen Viren hat die angeborene Abwehr noch eine weitere Spezialtruppe: die natürlichen Killerzellen. Viren verstecken sich im Inneren von Körperzellen, wo Fresszellen sie nicht erreichen. Killerzellen erkennen solche befallenen Zellen an Veränderungen auf ihrer Oberfläche und bringen sie dazu, sich selbst aufzulösen. Auch manche Krebszellen werden so beseitigt.",
+      "Häufig reicht die angeborene Abwehr aus, um eine Infektion zu beenden. Manche Erreger haben aber Tricks entwickelt, um ihr zu entgehen, oder sie vermehren sich zu schnell. Dann holt die angeborene Abwehr Verstärkung.",
+      "Eine besondere Rolle spielen dabei die sogenannten dendritischen Zellen. Sie nehmen Bruchstücke des Erregers auf und wandern damit in die Lymphknoten. Dort zeigen sie ihre Fundstücke den Zellen der erworbenen Abwehr, wie ein Bote, der eine Beschreibung des Feindes überbringt."
+     ]
+    },
+    {
+     "heading": "Die Spezialeinheit",
+     "paragraphs": [
+      "Die erworbene Abwehr ist die Spezialeinheit des Immunsystems. Ihre Kämpfer sind die Lymphozyten, und davon gibt es zwei Hauptsorten: B-Zellen und T-Zellen. Anders als die Fresszellen erkennen sie nicht allgemeine Merkmale, sondern ganz bestimmte Strukturen eines einzelnen Erregers. Solche Strukturen nennt man Antigene.",
+      "Das Erstaunliche: Der Körper bildet Lymphozyten mit Millionen verschiedener Erkennungsstellen, und zwar bevor er einem Erreger überhaupt begegnet ist. Jede Zelle hat ihren eigenen Sensor, der auf genau eine Art von Antigen passt, wie ein Schlüssel auf ein Schloss. Diese Vielfalt entsteht durch ein zufälliges Neukombinieren von Genabschnitten bei der Entwicklung der Zellen.",
+      "Bevor die Zellen ihren Dienst antreten, werden sie streng geprüft. Lymphozyten, deren Sensor auf körpereigene Strukturen reagiert, werden größtenteils aussortiert. Für die T-Zellen findet diese Schule in der Thymusdrüse statt. So soll verhindert werden, dass die Abwehr den eigenen Körper angreift.",
+      "Wenn eine dendritische Zelle Bruchstücke eines Erregers in den Lymphknoten bringt, suchen die Lymphozyten unter Millionen von Kandidaten diejenigen, deren Sensor passt. Diese wenigen Zellen werden aktiviert und beginnen, sich rasend schnell zu teilen. Aus einer einzigen passenden Zelle entstehen in wenigen Tagen Tausende identische Kopien.",
+      "Die B-Zellen verwandeln sich dabei in regelrechte Fabriken. Sie stellen Antikörper her, Y-förmige Eiweiße, die genau auf das Antigen des Erregers passen. Antikörper schwimmen im Blut und in Körperflüssigkeiten. Sie heften sich an Erreger, verkleben sie miteinander, hindern Viren daran, in Zellen einzudringen, und markieren die Eindringlinge für Fresszellen und das Komplementsystem.",
+      "Die T-Zellen arbeiten anders. Es gibt zwei wichtige Gruppen. Die T-Helferzellen sind die Koordinatoren der Abwehr. Sie schütten Botenstoffe aus, die B-Zellen bei der Antikörperproduktion unterstützen und andere Abwehrzellen antreiben. Ohne sie läuft die erworbene Abwehr kaum. Das zeigt sich bei der Krankheit Aids, bei der ein Virus genau diese Helferzellen zerstört.",
+      "Die zweite Gruppe sind die zytotoxischen T-Zellen, oft Killer-T-Zellen genannt. Sie erkennen Körperzellen, die von einem Virus befallen sind. Solche Zellen präsentieren auf ihrer Oberfläche Bruchstücke dessen, was in ihrem Inneren hergestellt wird, wie ein Schaufenster. Entdeckt eine Killer-T-Zelle dort ein fremdes Bruchstück, bringt sie die befallene Zelle dazu, sich selbst zu zerstören.",
+      "All das braucht Zeit. Beim ersten Kontakt mit einem neuen Erreger dauert es meist einige Tage bis zu ein bis zwei Wochen, bis die erworbene Abwehr voll in Fahrt ist. In dieser Zeit fühlen wir uns oft krank. Dass es uns danach besser geht, liegt häufig daran, dass jetzt genug passende Antikörper und T-Zellen im Einsatz sind.",
+      "Ist der Erreger besiegt, gehen die meisten der neu gebildeten Zellen wieder zugrunde. Sonst wäre der Körper bald voll von Abwehrzellen. Einige wenige bleiben aber übrig, und genau sie sind der Schlüssel zum Immungedächtnis.",
+      "Man kann die erworbene Abwehr mit einer Bibliothek vergleichen, die für jeden denkbaren Gegner schon ein Buch bereithält. Im Ernstfall wird das passende Buch gefunden und in großer Auflage nachgedruckt."
+     ]
+    },
+    {
+     "heading": "Ein Gedächtnis fürs Leben",
+     "paragraphs": [
+      "Wer einmal Windpocken hatte, bekommt sie in der Regel kein zweites Mal. Diese alte Beobachtung beschreibt eine der bemerkenswertesten Fähigkeiten des Immunsystems: Es kann sich erinnern. Fachleute sprechen vom Immungedächtnis.",
+      "Grundlage dafür sind die sogenannten Gedächtniszellen. Nach einer überstandenen Infektion bleiben einige der B-Zellen und T-Zellen, die gegen den Erreger gekämpft haben, im Körper zurück. Sie sind langlebig, manche halten Jahrzehnte. Sie warten gewissermaßen in Bereitschaft darauf, demselben Gegner noch einmal zu begegnen.",
+      "Kommt der Erreger tatsächlich wieder, muss die erworbene Abwehr nicht von vorn anfangen. Statt unter Millionen von Zellen die passenden zu suchen, sind diese schon in größerer Zahl vorhanden und schnell aktiviert. Die Antwort kommt deshalb viel schneller und kräftiger. Oft wird der Erreger beseitigt, bevor wir überhaupt Krankheitszeichen bemerken.",
+      "Zusätzlich bleiben bestimmte Zellen im Knochenmark zurück, die über lange Zeit weiter Antikörper herstellen. Deshalb lassen sich bei vielen Menschen noch Jahre nach einer Infektion oder Impfung Antikörper im Blut nachweisen.",
+      "Dieser Schutz heißt Immunität. Man ist gegen diesen einen Erreger immun, also geschützt. Wichtig ist: Das Gedächtnis ist sehr spezifisch. Wer gegen Masern immun ist, ist deshalb nicht gegen Mumps geschützt. Für jeden Erreger muss das Immunsystem ein eigenes Gedächtnis anlegen.",
+      "Warum bekommt man dann immer wieder Schnupfen? Der wichtigste Grund ist die Vielfalt. Es gibt Hunderte verschiedener Viren, die Erkältungen auslösen können. Gegen eines davon bist du nach einer Infektion vielleicht eine Weile geschützt, aber beim nächsten Mal ist es ein anderes. Außerdem ist das Gedächtnis gegen manche Erkältungsviren nicht sehr dauerhaft.",
+      "Andere Erreger verändern sich ständig. Das Grippevirus zum Beispiel wandelt seine Oberfläche von Jahr zu Jahr leicht ab. Die Gedächtniszellen erkennen die neue Variante dann nur noch teilweise. Deshalb wird die Grippeimpfung jedes Jahr an die erwarteten Varianten angepasst.",
+      "Auch die Dauer des Schutzes unterscheidet sich. Gegen manche Krankheiten hält er praktisch ein Leben lang, gegen andere lässt er nach einigen Jahren nach. Dann kann eine Auffrischung sinnvoll sein. Wie lange ein Schutz hält, hängt vom Erreger ab und auch davon, wie stark die ursprüngliche Immunantwort war.",
+      "Schon Babys profitieren vom Gedächtnis anderer. Über die Plazenta und später über die Muttermilch bekommen sie Antikörper ihrer Mutter mit. Dieser sogenannte Nestschutz hilft ihnen in den ersten Lebensmonaten, bis ihr eigenes Immunsystem mehr Erfahrungen gesammelt hat. Er lässt aber nach einigen Monaten nach.",
+      "Das Immungedächtnis ist auch der Grund, warum eine der wirksamsten Erfindungen der Medizin überhaupt funktioniert: die Impfung."
+     ]
+    },
+    {
+     "heading": "Impfen: Training ohne Krankheit",
+     "paragraphs": [
+      "Die Idee hinter einer Impfung ist einfach: Man zeigt dem Immunsystem einen Erreger oder Teile davon, ohne dass man ernsthaft krank wird. Das Immunsystem reagiert, bildet Antikörper und Gedächtniszellen. Kommt später der echte Erreger, ist die Abwehr schon vorbereitet.",
+      "Die Geschichte des Impfens beginnt mit einer Krankheit, die über Jahrhunderte Angst und Schrecken verbreitete: den Pocken. Sie war hoch ansteckend, viele Erkrankte starben, und Überlebende behielten oft tiefe Narben oder erblindeten. Allein im zwanzigsten Jahrhundert starben nach Schätzungen rund 300 Millionen Menschen an den Pocken.",
+      "Der englische Landarzt Edward Jenner hatte beobachtet, dass Melkerinnen, die sich mit den harmlosen Kuhpocken angesteckt hatten, offenbar nicht an den echten Pocken erkrankten. Im Mai 1796 machte er ein Experiment. Er nahm etwas Flüssigkeit aus einer Kuhpockenblase an der Hand einer Melkerin und brachte sie in kleine Schnitte am Arm des achtjährigen James Phipps.",
+      "Der Junge bekam leichtes Fieber, erholte sich aber schnell. Einige Wochen später setzte Jenner ihn den echten Pocken aus, und der Junge erkrankte nicht. Nach heutigen Maßstäben wäre ein solcher Versuch an einem Kind unvertretbar. Damals wurde er zum Anfang einer neuen Medizin. Das Wort Vakzine leitet sich übrigens vom lateinischen Wort für Kuh ab, vacca.",
+      "Fast zwei Jahrhunderte später erfüllte sich, was Jenner vorhergesagt hatte. Nach einer weltweiten Impfkampagne erklärte die Weltgesundheitsorganisation die Pocken 1980 für ausgerottet. Es war das erste Mal, dass die Menschheit eine Infektionskrankheit vollständig besiegt hatte.",
+      "Heute gibt es Impfstoffe gegen viele Krankheiten, und sie funktionieren auf unterschiedliche Weise. Manche enthalten abgeschwächte Erreger, die sich kaum noch vermehren können. Andere enthalten abgetötete Erreger oder nur bestimmte Bruchstücke, etwa Eiweiße von ihrer Oberfläche. Wieder andere enthalten unschädlich gemachte Gifte, gegen die sich die Abwehr richten soll.",
+      "Eine neuere Technik sind mRNA-Impfstoffe, die während der Corona-Pandemie weltweit bekannt wurden. Sie enthalten keine Erreger, sondern eine Art Bauanleitung für ein einzelnes Eiweiß des Virus. Körperzellen stellen dieses Eiweiß für kurze Zeit selbst her, das Immunsystem lernt es kennen, und die Bauanleitung wird danach wieder abgebaut.",
+      "Nach einer Impfung fühlt man sich manchmal ein bis zwei Tage etwas schlapp, hat einen geschwollenen Arm oder leichtes Fieber. Das ist meist kein Grund zur Sorge, sondern ein Zeichen, dass das Immunsystem arbeitet. Ernste Nebenwirkungen sind selten. Impfstoffe werden vor der Zulassung in großen Studien geprüft und auch danach weiter überwacht.",
+      "Impfungen schützen nicht nur einzelne Menschen. Wenn sehr viele in einer Bevölkerung geimpft sind, kann sich ein Erreger kaum noch ausbreiten. Davon profitieren auch die, die selbst nicht geimpft werden können, etwa Neugeborene oder Menschen mit geschwächter Abwehr. Fachleute sprechen von Gemeinschaftsschutz.",
+      "Welche Impfungen für wen empfohlen sind, legen in Deutschland Fachleute der Ständigen Impfkommission fest. Wer Fragen zu seinem eigenen Impfschutz hat, bespricht das am besten mit einer Ärztin oder einem Arzt."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Die angeborene Abwehr reagiert sofort, aber unspezifisch, etwa mit Fresszellen, Entzündung und Fieber.",
+    "B-Zellen und T-Zellen der erworbenen Abwehr erkennen Erreger ganz gezielt und bilden ein langlebiges Immungedächtnis.",
+    "Impfungen trainieren dieses Gedächtnis ohne Krankheit, so wurden zum Beispiel die Pocken weltweit ausgerottet."
+   ]
+  },
+  "15": {
+   "words": 2754,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Dein Körper ist eine Festung, die ununterbrochen belagert wird. Bakterien, Viren, Pilze und Parasiten suchen nach einem Weg hinein. Damit sie keinen Schaden anrichten, arbeitet eine Armee aus Billionen Zellen zusammen, ganz ohne zentrales Kommando. Hier erfährst du, wie dieses Abwehrsystem aufgebaut ist, welche Mauern es zuerst errichtet, wie die schnellen und die spezialisierten Truppen zusammenwirken, wie das Immungedächtnis entsteht und was Impfungen damit zu tun haben."
+     ]
+    },
+    {
+     "heading": "Ein Abwehrsystem ohne Zentrale",
+     "paragraphs": [
+      "Das Immunsystem ist kein einzelnes Organ, das man auf einem Röntgenbild sehen könnte. Es ist ein Netzwerk aus Organen, Zellen und Botenstoffen, das über den ganzen Körper verteilt ist. Gesteuert wird es nicht von einer Zentrale. Seine Teile verständigen sich untereinander, ähnlich wie ein Schwarm, der ohne Anführer in dieselbe Richtung fliegt.",
+      "Seine wichtigste Aufgabe ist es, Krankheitserreger abzuwehren. Dazu zählen Bakterien, Viren, Pilze und Parasiten. Außerdem räumt es abgestorbene Zellen auf und erkennt veränderte körpereigene Zellen, aus denen Krebs entstehen könnte. Dafür muss es ständig eine schwierige Frage beantworten: Gehört das zu mir oder nicht?",
+      "Zu den Organen des Immunsystems gehört das Knochenmark. Dort entstehen alle Abwehrzellen, ähnlich wie die roten Blutkörperchen. Ein weiteres wichtiges Organ ist die Thymusdrüse hinter dem Brustbein. Hier werden bestimmte Abwehrzellen ausgebildet, die T-Zellen. Der Buchstabe T steht für Thymus.",
+      "Dazu kommen die Lymphknoten, kleine bohnenförmige Stationen, die über den ganzen Körper verteilt sind, etwa am Hals, in den Achseln und in den Leisten. Sie sind wie Filter- und Treffpunkte, an denen Abwehrzellen auf Eindringlinge treffen. Wenn du erkältet bist und die Lymphknoten am Hals anschwellen, siehst du gewissermaßen, dass dort gerade gearbeitet wird.",
+      "Weitere Teile sind die Milz, die das Blut kontrolliert, die Mandeln im Rachen und große Bereiche der Darmwand. Gerade der Darm ist ein wichtiger Ort der Abwehr, denn mit der Nahrung gelangen ständig fremde Stoffe und Keime in den Körper. Ein großer Teil aller Abwehrzellen hält sich dort auf.",
+      "Verbunden ist all das über das Blut und über das Lymphsystem, ein eigenes Netz feiner Gefäße. Darin fließt die Lymphe, eine helle Flüssigkeit, die aus dem Gewebe abtransportiert wird. Abwehrzellen nutzen beide Wege, um durch den Körper zu patrouillieren. Sie können die Blutbahn außerdem verlassen und direkt ins Gewebe wandern, wo sie gebraucht werden.",
+      "Die Abwehrzellen nennt man auch weiße Blutkörperchen oder Leukozyten. Es gibt viele verschiedene Sorten mit unterschiedlichen Aufgaben. Manche fressen Eindringlinge auf, andere stellen Waffen her, wieder andere geben Befehle oder vernichten infizierte Zellen. Gemeinsam bilden sie ein fein abgestimmtes Team.",
+      "Fachleute unterscheiden zwei große Teile dieses Teams. Die angeborene Abwehr ist von Geburt an da, reagiert sehr schnell, aber eher grob. Die erworbene Abwehr entwickelt sich im Laufe des Lebens, braucht beim ersten Kontakt länger, geht dafür aber sehr gezielt vor und kann sich erinnern. Beide arbeiten eng zusammen.",
+      "Die meiste Zeit erledigt das Immunsystem seine Arbeit völlig unbemerkt. Zu spüren bekommen wir es erst, wenn es mit voller Kraft gegen einen Erreger kämpft oder wenn etwas nicht reibungslos funktioniert.",
+      "In den folgenden Abschnitten folgen wir einem Erreger auf seinem Weg in den Körper und sehen uns an, auf welche Abwehr er dabei trifft."
+     ]
+    },
+    {
+     "heading": "Die erste Verteidigungslinie",
+     "paragraphs": [
+      "Bevor ein Erreger überhaupt mit Abwehrzellen in Kontakt kommt, muss er erst einmal in den Körper gelangen. Und das ist schwieriger, als es klingt. Der Körper hat eine Reihe von Mauern und Fallen, die die allermeisten Eindringlinge schon am Eingang stoppen.",
+      "Die wichtigste Mauer ist die Haut. Ihre äußere Schicht besteht aus abgestorbenen, verhornten Zellen, die dicht aneinanderliegen. Für Bakterien und Viren ist das eine schwer zu überwindende Barriere. Außerdem ist die Hautoberfläche leicht sauer, und viele Keime mögen das nicht. Ständig schuppen sich alte Hautzellen ab und nehmen Keime gleich mit.",
+      "Schwieriger ist es dort, wo der Körper offen sein muss: in Nase, Mund, Rachen, Lunge, Darm und den Harnwegen. Diese Bereiche sind mit Schleimhäuten ausgekleidet. Der Schleim ist klebrig und fängt Staub und Keime ein. In den Atemwegen schlagen winzige Härchen ständig im Takt und transportieren den Schleim samt Fracht nach oben in den Rachen, wo er verschluckt oder abgehustet wird.",
+      "Auch Körperflüssigkeiten helfen. Tränen, Speichel und Nasensekret enthalten Stoffe, die Bakterien angreifen können. Ein Beispiel ist ein Enzym namens Lysozym, das die Zellwände mancher Bakterien auflöst. Und wer einmal etwas Verdorbenes gegessen hat, landet im Magen in einem Bad aus Säure, die viele Keime abtötet.",
+      "Reflexe gehören ebenfalls zu dieser ersten Linie. Husten und Niesen schleudern Eindringlinge aus den Atemwegen hinaus. Erbrechen und Durchfall sind unangenehm, befördern aber Erreger schnell wieder aus dem Darm. Auch der Harnfluss spült die Harnwege regelmäßig aus.",
+      "Ein besonders interessanter Schutz sind die vielen nützlichen Mikroorganismen, die auf und in uns leben. Auf der Haut, im Mund und vor allem im Darm siedeln Billionen von Bakterien. Die meisten sind harmlos oder sogar hilfreich. Sie besetzen die Plätze, an denen sich sonst Krankheitserreger festsetzen könnten, und machen ihnen die Nahrung streitig.",
+      "Manche dieser Mitbewohner bilden sogar Stoffe, die schädliche Bakterien hemmen. Wird diese Gemeinschaft gestört, etwa durch eine längere Einnahme von Antibiotika, können sich Krankheitserreger leichter ausbreiten. Die Forschung zu diesen Mikroben, oft Mikrobiom genannt, ist in den letzten Jahren stark gewachsen.",
+      "Erst wenn ein Erreger alle diese Hürden überwindet, etwa durch eine Wunde in der Haut oder an einer verletzlichen Stelle der Schleimhaut, kommen die Abwehrzellen ins Spiel. Ein Schnitt in den Finger ist deshalb für Bakterien wie ein offenes Tor.",
+      "Man kann die erste Linie mit den Mauern, Gräben und Wachen einer Burg vergleichen. Sie halten die meisten Angreifer draußen, und dahinter wartet schon die nächste Verteidigung."
+     ]
+    },
+    {
+     "heading": "Die schnelle Eingreiftruppe",
+     "paragraphs": [
+      "Ist ein Erreger in den Körper eingedrungen, trifft er zuerst auf die angeborene Abwehr. Sie ist von Geburt an vorhanden und sofort einsatzbereit. Ihre Stärke ist die Geschwindigkeit: Innerhalb von Minuten bis Stunden kann sie reagieren. Dafür geht sie eher unspezifisch vor. Sie behandelt viele verschiedene Erreger nach einem ähnlichen Schema.",
+      "Die bekanntesten Kämpfer dieser Truppe sind die Fresszellen. Fachleute nennen sie Phagozyten. Eine wichtige Sorte sind die Makrophagen, was so viel wie große Fresser bedeutet. Sie umschließen Bakterien oder Zelltrümmer, nehmen sie in sich auf und zersetzen sie im Inneren mit aggressiven Stoffen. Eine andere Sorte, die neutrophilen Granulozyten, strömt bei einer Infektion in großer Zahl herbei.",
+      "Woher wissen diese Zellen, was fremd ist? Sie tragen auf ihrer Oberfläche Sensoren, die typische Merkmale von Krankheitserregern erkennen. Das können bestimmte Bausteine der Bakterienwand sein oder Erbgut, wie es nur in Viren vorkommt. Solche Merkmale sind bei vielen Erregern ähnlich, deshalb kann die angeborene Abwehr sie erkennen, ohne den konkreten Erreger zu kennen.",
+      "Haben die Abwehrzellen einen Eindringling entdeckt, schlagen sie Alarm. Sie schütten Botenstoffe aus, die weitere Abwehrzellen herbeirufen und die Blutgefäße in der Umgebung weiter werden lassen. So entsteht eine Entzündung. Ihre typischen Zeichen kennst du von einer entzündeten Wunde: Die Stelle wird rot, warm, geschwollen und schmerzt.",
+      "So unangenehm das ist, es hat einen Sinn. Durch die weiteren Gefäße kommen mehr Blut und mehr Abwehrzellen an den Ort des Geschehens. Die Schwellung entsteht, weil Flüssigkeit und Zellen ins Gewebe austreten. Der Schmerz sorgt dafür, dass wir die verletzte Stelle schonen. Eiter besteht übrigens zu einem großen Teil aus abgestorbenen Abwehrzellen, die ihren Dienst getan haben.",
+      "Auch Fieber gehört zu den Waffen der angeborenen Abwehr. Botenstoffe der Abwehrzellen verstellen im Gehirn gewissermaßen den Thermostat des Körpers. Die höhere Temperatur macht vielen Erregern das Leben schwer und beschleunigt gleichzeitig manche Abwehrvorgänge. Deshalb ist Fieber oft ein Zeichen, dass das Immunsystem arbeitet.",
+      "Ein weiterer Teil der angeborenen Abwehr ist das sogenannte Komplementsystem. Es besteht aus Eiweißen, die im Blut schwimmen. Treffen sie auf einen Erreger, lösen sie eine Kettenreaktion aus. Am Ende markieren sie den Eindringling für die Fresszellen oder stanzen sogar Löcher in seine Hülle.",
+      "Gegen Viren hat die angeborene Abwehr noch eine weitere Spezialtruppe: die natürlichen Killerzellen. Viren verstecken sich im Inneren von Körperzellen, wo Fresszellen sie nicht erreichen. Killerzellen erkennen solche befallenen Zellen an Veränderungen auf ihrer Oberfläche und bringen sie dazu, sich selbst aufzulösen. Auch manche Krebszellen werden so beseitigt.",
+      "Häufig reicht die angeborene Abwehr aus, um eine Infektion zu beenden. Manche Erreger haben aber Tricks entwickelt, um ihr zu entgehen, oder sie vermehren sich zu schnell. Dann holt die angeborene Abwehr Verstärkung.",
+      "Eine besondere Rolle spielen dabei die sogenannten dendritischen Zellen. Sie nehmen Bruchstücke des Erregers auf und wandern damit in die Lymphknoten. Dort zeigen sie ihre Fundstücke den Zellen der erworbenen Abwehr, wie ein Bote, der eine Beschreibung des Feindes überbringt."
+     ]
+    },
+    {
+     "heading": "Die Spezialeinheit",
+     "paragraphs": [
+      "Die erworbene Abwehr ist die Spezialeinheit des Immunsystems. Ihre Kämpfer sind die Lymphozyten, und davon gibt es zwei Hauptsorten: B-Zellen und T-Zellen. Anders als die Fresszellen erkennen sie nicht allgemeine Merkmale, sondern ganz bestimmte Strukturen eines einzelnen Erregers. Solche Strukturen nennt man Antigene.",
+      "Das Erstaunliche: Der Körper bildet Lymphozyten mit Millionen verschiedener Erkennungsstellen, und zwar bevor er einem Erreger überhaupt begegnet ist. Jede Zelle hat ihren eigenen Sensor, der auf genau eine Art von Antigen passt, wie ein Schlüssel auf ein Schloss. Diese Vielfalt entsteht durch ein zufälliges Neukombinieren von Genabschnitten bei der Entwicklung der Zellen.",
+      "Bevor die Zellen ihren Dienst antreten, werden sie streng geprüft. Lymphozyten, deren Sensor auf körpereigene Strukturen reagiert, werden größtenteils aussortiert. Für die T-Zellen findet diese Schule in der Thymusdrüse statt. So soll verhindert werden, dass die Abwehr den eigenen Körper angreift.",
+      "Wenn eine dendritische Zelle Bruchstücke eines Erregers in den Lymphknoten bringt, suchen die Lymphozyten unter Millionen von Kandidaten diejenigen, deren Sensor passt. Diese wenigen Zellen werden aktiviert und beginnen, sich rasend schnell zu teilen. Aus einer einzigen passenden Zelle entstehen in wenigen Tagen Tausende identische Kopien.",
+      "Die B-Zellen verwandeln sich dabei in regelrechte Fabriken. Sie stellen Antikörper her, Y-förmige Eiweiße, die genau auf das Antigen des Erregers passen. Antikörper schwimmen im Blut und in Körperflüssigkeiten. Sie heften sich an Erreger, verkleben sie miteinander, hindern Viren daran, in Zellen einzudringen, und markieren die Eindringlinge für Fresszellen und das Komplementsystem.",
+      "Die T-Zellen arbeiten anders. Es gibt zwei wichtige Gruppen. Die T-Helferzellen sind die Koordinatoren der Abwehr. Sie schütten Botenstoffe aus, die B-Zellen bei der Antikörperproduktion unterstützen und andere Abwehrzellen antreiben. Ohne sie läuft die erworbene Abwehr kaum. Das zeigt sich bei der Krankheit Aids, bei der ein Virus genau diese Helferzellen zerstört.",
+      "Die zweite Gruppe sind die zytotoxischen T-Zellen, oft Killer-T-Zellen genannt. Sie erkennen Körperzellen, die von einem Virus befallen sind. Solche Zellen präsentieren auf ihrer Oberfläche Bruchstücke dessen, was in ihrem Inneren hergestellt wird, wie ein Schaufenster. Entdeckt eine Killer-T-Zelle dort ein fremdes Bruchstück, bringt sie die befallene Zelle dazu, sich selbst zu zerstören.",
+      "All das braucht Zeit. Beim ersten Kontakt mit einem neuen Erreger dauert es meist einige Tage bis zu ein bis zwei Wochen, bis die erworbene Abwehr voll in Fahrt ist. In dieser Zeit fühlen wir uns oft krank. Dass es uns danach besser geht, liegt häufig daran, dass jetzt genug passende Antikörper und T-Zellen im Einsatz sind.",
+      "Ist der Erreger besiegt, gehen die meisten der neu gebildeten Zellen wieder zugrunde. Sonst wäre der Körper bald voll von Abwehrzellen. Einige wenige bleiben aber übrig, und genau sie sind der Schlüssel zum Immungedächtnis.",
+      "Man kann die erworbene Abwehr mit einer Bibliothek vergleichen, die für jeden denkbaren Gegner schon ein Buch bereithält. Im Ernstfall wird das passende Buch gefunden und in großer Auflage nachgedruckt."
+     ]
+    },
+    {
+     "heading": "Ein Gedächtnis fürs Leben",
+     "paragraphs": [
+      "Wer einmal Windpocken hatte, bekommt sie in der Regel kein zweites Mal. Diese alte Beobachtung beschreibt eine der bemerkenswertesten Fähigkeiten des Immunsystems: Es kann sich erinnern. Fachleute sprechen vom Immungedächtnis.",
+      "Grundlage dafür sind die sogenannten Gedächtniszellen. Nach einer überstandenen Infektion bleiben einige der B-Zellen und T-Zellen, die gegen den Erreger gekämpft haben, im Körper zurück. Sie sind langlebig, manche halten Jahrzehnte. Sie warten gewissermaßen in Bereitschaft darauf, demselben Gegner noch einmal zu begegnen.",
+      "Kommt der Erreger tatsächlich wieder, muss die erworbene Abwehr nicht von vorn anfangen. Statt unter Millionen von Zellen die passenden zu suchen, sind diese schon in größerer Zahl vorhanden und schnell aktiviert. Die Antwort kommt deshalb viel schneller und kräftiger. Oft wird der Erreger beseitigt, bevor wir überhaupt Krankheitszeichen bemerken.",
+      "Zusätzlich bleiben bestimmte Zellen im Knochenmark zurück, die über lange Zeit weiter Antikörper herstellen. Deshalb lassen sich bei vielen Menschen noch Jahre nach einer Infektion oder Impfung Antikörper im Blut nachweisen.",
+      "Dieser Schutz heißt Immunität. Man ist gegen diesen einen Erreger immun, also geschützt. Wichtig ist: Das Gedächtnis ist sehr spezifisch. Wer gegen Masern immun ist, ist deshalb nicht gegen Mumps geschützt. Für jeden Erreger muss das Immunsystem ein eigenes Gedächtnis anlegen.",
+      "Warum bekommt man dann immer wieder Schnupfen? Der wichtigste Grund ist die Vielfalt. Es gibt Hunderte verschiedener Viren, die Erkältungen auslösen können. Gegen eines davon bist du nach einer Infektion vielleicht eine Weile geschützt, aber beim nächsten Mal ist es ein anderes. Außerdem ist das Gedächtnis gegen manche Erkältungsviren nicht sehr dauerhaft.",
+      "Andere Erreger verändern sich ständig. Das Grippevirus zum Beispiel wandelt seine Oberfläche von Jahr zu Jahr leicht ab. Die Gedächtniszellen erkennen die neue Variante dann nur noch teilweise. Deshalb wird die Grippeimpfung jedes Jahr an die erwarteten Varianten angepasst.",
+      "Auch die Dauer des Schutzes unterscheidet sich. Gegen manche Krankheiten hält er praktisch ein Leben lang, gegen andere lässt er nach einigen Jahren nach. Dann kann eine Auffrischung sinnvoll sein. Wie lange ein Schutz hält, hängt vom Erreger ab und auch davon, wie stark die ursprüngliche Immunantwort war.",
+      "Schon Babys profitieren vom Gedächtnis anderer. Über die Plazenta und später über die Muttermilch bekommen sie Antikörper ihrer Mutter mit. Dieser sogenannte Nestschutz hilft ihnen in den ersten Lebensmonaten, bis ihr eigenes Immunsystem mehr Erfahrungen gesammelt hat. Er lässt aber nach einigen Monaten nach.",
+      "Das Immungedächtnis ist auch der Grund, warum eine der wirksamsten Erfindungen der Medizin überhaupt funktioniert: die Impfung."
+     ]
+    },
+    {
+     "heading": "Impfen: Training ohne Krankheit",
+     "paragraphs": [
+      "Die Idee hinter einer Impfung ist einfach: Man zeigt dem Immunsystem einen Erreger oder Teile davon, ohne dass man ernsthaft krank wird. Das Immunsystem reagiert, bildet Antikörper und Gedächtniszellen. Kommt später der echte Erreger, ist die Abwehr schon vorbereitet.",
+      "Die Geschichte des Impfens beginnt mit einer Krankheit, die über Jahrhunderte Angst und Schrecken verbreitete: den Pocken. Sie war hoch ansteckend, viele Erkrankte starben, und Überlebende behielten oft tiefe Narben oder erblindeten. Allein im zwanzigsten Jahrhundert starben nach Schätzungen rund 300 Millionen Menschen an den Pocken.",
+      "Der englische Landarzt Edward Jenner hatte beobachtet, dass Melkerinnen, die sich mit den harmlosen Kuhpocken angesteckt hatten, offenbar nicht an den echten Pocken erkrankten. Im Mai 1796 machte er ein Experiment. Er nahm etwas Flüssigkeit aus einer Kuhpockenblase an der Hand einer Melkerin und brachte sie in kleine Schnitte am Arm des achtjährigen James Phipps.",
+      "Der Junge bekam leichtes Fieber, erholte sich aber schnell. Einige Wochen später setzte Jenner ihn den echten Pocken aus, und der Junge erkrankte nicht. Nach heutigen Maßstäben wäre ein solcher Versuch an einem Kind unvertretbar. Damals wurde er zum Anfang einer neuen Medizin. Das Wort Vakzine leitet sich übrigens vom lateinischen Wort für Kuh ab, vacca.",
+      "Fast zwei Jahrhunderte später erfüllte sich, was Jenner vorhergesagt hatte. Nach einer weltweiten Impfkampagne erklärte die Weltgesundheitsorganisation die Pocken 1980 für ausgerottet. Es war das erste Mal, dass die Menschheit eine Infektionskrankheit vollständig besiegt hatte.",
+      "Heute gibt es Impfstoffe gegen viele Krankheiten, und sie funktionieren auf unterschiedliche Weise. Manche enthalten abgeschwächte Erreger, die sich kaum noch vermehren können. Andere enthalten abgetötete Erreger oder nur bestimmte Bruchstücke, etwa Eiweiße von ihrer Oberfläche. Wieder andere enthalten unschädlich gemachte Gifte, gegen die sich die Abwehr richten soll.",
+      "Eine neuere Technik sind mRNA-Impfstoffe, die während der Corona-Pandemie weltweit bekannt wurden. Sie enthalten keine Erreger, sondern eine Art Bauanleitung für ein einzelnes Eiweiß des Virus. Körperzellen stellen dieses Eiweiß für kurze Zeit selbst her, das Immunsystem lernt es kennen, und die Bauanleitung wird danach wieder abgebaut.",
+      "Nach einer Impfung fühlt man sich manchmal ein bis zwei Tage etwas schlapp, hat einen geschwollenen Arm oder leichtes Fieber. Das ist meist kein Grund zur Sorge, sondern ein Zeichen, dass das Immunsystem arbeitet. Ernste Nebenwirkungen sind selten. Impfstoffe werden vor der Zulassung in großen Studien geprüft und auch danach weiter überwacht.",
+      "Impfungen schützen nicht nur einzelne Menschen. Wenn sehr viele in einer Bevölkerung geimpft sind, kann sich ein Erreger kaum noch ausbreiten. Davon profitieren auch die, die selbst nicht geimpft werden können, etwa Neugeborene oder Menschen mit geschwächter Abwehr. Fachleute sprechen von Gemeinschaftsschutz.",
+      "Welche Impfungen für wen empfohlen sind, legen in Deutschland Fachleute der Ständigen Impfkommission fest. Wer Fragen zu seinem eigenen Impfschutz hat, bespricht das am besten mit einer Ärztin oder einem Arzt."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Haut und Schleimhäute halten die meisten Erreger fern, und die angeborene Abwehr bekämpft Eindringlinge innerhalb von Minuten bis Stunden.",
+    "Die erworbene Abwehr braucht beim ersten Kontakt einige Tage, erinnert sich danach aber oft jahrelang an den Erreger.",
+    "Impfungen bereiten das Immunsystem gefahrlos vor und haben Krankheiten wie die Pocken besiegt."
+   ]
+  },
+  "20": {
+   "words": 3601,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Ohne Immunsystem würde ein einfacher Schnitt in den Finger zur Lebensgefahr. Dass wir die meiste Zeit gesund bleiben, verdanken wir einem Abwehrnetz, das ständig Freund von Feind unterscheiden muss. In diesem Artikel erfährst du, wie dieses System aufgebaut ist, wie es Eindringlinge erkennt und bekämpft, wie es sich an frühere Gegner erinnert, warum Impfungen eine der größten Erfolgsgeschichten der Medizin sind, was passiert, wenn die Abwehr irrt, und welche Fragen die Forschung heute beschäftigen."
+     ]
+    },
+    {
+     "heading": "Ein Abwehrsystem ohne Zentrale",
+     "paragraphs": [
+      "Das Immunsystem ist kein einzelnes Organ, das man auf einem Röntgenbild sehen könnte. Es ist ein Netzwerk aus Organen, Zellen und Botenstoffen, das über den ganzen Körper verteilt ist. Gesteuert wird es nicht von einer Zentrale. Seine Teile verständigen sich untereinander, ähnlich wie ein Schwarm, der ohne Anführer in dieselbe Richtung fliegt.",
+      "Seine wichtigste Aufgabe ist es, Krankheitserreger abzuwehren. Dazu zählen Bakterien, Viren, Pilze und Parasiten. Außerdem räumt es abgestorbene Zellen auf und erkennt veränderte körpereigene Zellen, aus denen Krebs entstehen könnte. Dafür muss es ständig eine schwierige Frage beantworten: Gehört das zu mir oder nicht?",
+      "Zu den Organen des Immunsystems gehört das Knochenmark. Dort entstehen alle Abwehrzellen, ähnlich wie die roten Blutkörperchen. Ein weiteres wichtiges Organ ist die Thymusdrüse hinter dem Brustbein. Hier werden bestimmte Abwehrzellen ausgebildet, die T-Zellen. Der Buchstabe T steht für Thymus.",
+      "Dazu kommen die Lymphknoten, kleine bohnenförmige Stationen, die über den ganzen Körper verteilt sind, etwa am Hals, in den Achseln und in den Leisten. Sie sind wie Filter- und Treffpunkte, an denen Abwehrzellen auf Eindringlinge treffen. Wenn du erkältet bist und die Lymphknoten am Hals anschwellen, siehst du gewissermaßen, dass dort gerade gearbeitet wird.",
+      "Weitere Teile sind die Milz, die das Blut kontrolliert, die Mandeln im Rachen und große Bereiche der Darmwand. Gerade der Darm ist ein wichtiger Ort der Abwehr, denn mit der Nahrung gelangen ständig fremde Stoffe und Keime in den Körper. Ein großer Teil aller Abwehrzellen hält sich dort auf.",
+      "Verbunden ist all das über das Blut und über das Lymphsystem, ein eigenes Netz feiner Gefäße. Darin fließt die Lymphe, eine helle Flüssigkeit, die aus dem Gewebe abtransportiert wird. Abwehrzellen nutzen beide Wege, um durch den Körper zu patrouillieren. Sie können die Blutbahn außerdem verlassen und direkt ins Gewebe wandern, wo sie gebraucht werden.",
+      "Die Abwehrzellen nennt man auch weiße Blutkörperchen oder Leukozyten. Es gibt viele verschiedene Sorten mit unterschiedlichen Aufgaben. Manche fressen Eindringlinge auf, andere stellen Waffen her, wieder andere geben Befehle oder vernichten infizierte Zellen. Gemeinsam bilden sie ein fein abgestimmtes Team.",
+      "Fachleute unterscheiden zwei große Teile dieses Teams. Die angeborene Abwehr ist von Geburt an da, reagiert sehr schnell, aber eher grob. Die erworbene Abwehr entwickelt sich im Laufe des Lebens, braucht beim ersten Kontakt länger, geht dafür aber sehr gezielt vor und kann sich erinnern. Beide arbeiten eng zusammen.",
+      "Die meiste Zeit erledigt das Immunsystem seine Arbeit völlig unbemerkt. Zu spüren bekommen wir es erst, wenn es mit voller Kraft gegen einen Erreger kämpft oder wenn etwas nicht reibungslos funktioniert.",
+      "In den folgenden Abschnitten folgen wir einem Erreger auf seinem Weg in den Körper und sehen uns an, auf welche Abwehr er dabei trifft."
+     ]
+    },
+    {
+     "heading": "Die erste Verteidigungslinie",
+     "paragraphs": [
+      "Bevor ein Erreger überhaupt mit Abwehrzellen in Kontakt kommt, muss er erst einmal in den Körper gelangen. Und das ist schwieriger, als es klingt. Der Körper hat eine Reihe von Mauern und Fallen, die die allermeisten Eindringlinge schon am Eingang stoppen.",
+      "Die wichtigste Mauer ist die Haut. Ihre äußere Schicht besteht aus abgestorbenen, verhornten Zellen, die dicht aneinanderliegen. Für Bakterien und Viren ist das eine schwer zu überwindende Barriere. Außerdem ist die Hautoberfläche leicht sauer, und viele Keime mögen das nicht. Ständig schuppen sich alte Hautzellen ab und nehmen Keime gleich mit.",
+      "Schwieriger ist es dort, wo der Körper offen sein muss: in Nase, Mund, Rachen, Lunge, Darm und den Harnwegen. Diese Bereiche sind mit Schleimhäuten ausgekleidet. Der Schleim ist klebrig und fängt Staub und Keime ein. In den Atemwegen schlagen winzige Härchen ständig im Takt und transportieren den Schleim samt Fracht nach oben in den Rachen, wo er verschluckt oder abgehustet wird.",
+      "Auch Körperflüssigkeiten helfen. Tränen, Speichel und Nasensekret enthalten Stoffe, die Bakterien angreifen können. Ein Beispiel ist ein Enzym namens Lysozym, das die Zellwände mancher Bakterien auflöst. Und wer einmal etwas Verdorbenes gegessen hat, landet im Magen in einem Bad aus Säure, die viele Keime abtötet.",
+      "Reflexe gehören ebenfalls zu dieser ersten Linie. Husten und Niesen schleudern Eindringlinge aus den Atemwegen hinaus. Erbrechen und Durchfall sind unangenehm, befördern aber Erreger schnell wieder aus dem Darm. Auch der Harnfluss spült die Harnwege regelmäßig aus.",
+      "Ein besonders interessanter Schutz sind die vielen nützlichen Mikroorganismen, die auf und in uns leben. Auf der Haut, im Mund und vor allem im Darm siedeln Billionen von Bakterien. Die meisten sind harmlos oder sogar hilfreich. Sie besetzen die Plätze, an denen sich sonst Krankheitserreger festsetzen könnten, und machen ihnen die Nahrung streitig.",
+      "Manche dieser Mitbewohner bilden sogar Stoffe, die schädliche Bakterien hemmen. Wird diese Gemeinschaft gestört, etwa durch eine längere Einnahme von Antibiotika, können sich Krankheitserreger leichter ausbreiten. Die Forschung zu diesen Mikroben, oft Mikrobiom genannt, ist in den letzten Jahren stark gewachsen.",
+      "Erst wenn ein Erreger alle diese Hürden überwindet, etwa durch eine Wunde in der Haut oder an einer verletzlichen Stelle der Schleimhaut, kommen die Abwehrzellen ins Spiel. Ein Schnitt in den Finger ist deshalb für Bakterien wie ein offenes Tor.",
+      "Man kann die erste Linie mit den Mauern, Gräben und Wachen einer Burg vergleichen. Sie halten die meisten Angreifer draußen, und dahinter wartet schon die nächste Verteidigung."
+     ]
+    },
+    {
+     "heading": "Die schnelle Eingreiftruppe",
+     "paragraphs": [
+      "Ist ein Erreger in den Körper eingedrungen, trifft er zuerst auf die angeborene Abwehr. Sie ist von Geburt an vorhanden und sofort einsatzbereit. Ihre Stärke ist die Geschwindigkeit: Innerhalb von Minuten bis Stunden kann sie reagieren. Dafür geht sie eher unspezifisch vor. Sie behandelt viele verschiedene Erreger nach einem ähnlichen Schema.",
+      "Die bekanntesten Kämpfer dieser Truppe sind die Fresszellen. Fachleute nennen sie Phagozyten. Eine wichtige Sorte sind die Makrophagen, was so viel wie große Fresser bedeutet. Sie umschließen Bakterien oder Zelltrümmer, nehmen sie in sich auf und zersetzen sie im Inneren mit aggressiven Stoffen. Eine andere Sorte, die neutrophilen Granulozyten, strömt bei einer Infektion in großer Zahl herbei.",
+      "Woher wissen diese Zellen, was fremd ist? Sie tragen auf ihrer Oberfläche Sensoren, die typische Merkmale von Krankheitserregern erkennen. Das können bestimmte Bausteine der Bakterienwand sein oder Erbgut, wie es nur in Viren vorkommt. Solche Merkmale sind bei vielen Erregern ähnlich, deshalb kann die angeborene Abwehr sie erkennen, ohne den konkreten Erreger zu kennen.",
+      "Haben die Abwehrzellen einen Eindringling entdeckt, schlagen sie Alarm. Sie schütten Botenstoffe aus, die weitere Abwehrzellen herbeirufen und die Blutgefäße in der Umgebung weiter werden lassen. So entsteht eine Entzündung. Ihre typischen Zeichen kennst du von einer entzündeten Wunde: Die Stelle wird rot, warm, geschwollen und schmerzt.",
+      "So unangenehm das ist, es hat einen Sinn. Durch die weiteren Gefäße kommen mehr Blut und mehr Abwehrzellen an den Ort des Geschehens. Die Schwellung entsteht, weil Flüssigkeit und Zellen ins Gewebe austreten. Der Schmerz sorgt dafür, dass wir die verletzte Stelle schonen. Eiter besteht übrigens zu einem großen Teil aus abgestorbenen Abwehrzellen, die ihren Dienst getan haben.",
+      "Auch Fieber gehört zu den Waffen der angeborenen Abwehr. Botenstoffe der Abwehrzellen verstellen im Gehirn gewissermaßen den Thermostat des Körpers. Die höhere Temperatur macht vielen Erregern das Leben schwer und beschleunigt gleichzeitig manche Abwehrvorgänge. Deshalb ist Fieber oft ein Zeichen, dass das Immunsystem arbeitet.",
+      "Ein weiterer Teil der angeborenen Abwehr ist das sogenannte Komplementsystem. Es besteht aus Eiweißen, die im Blut schwimmen. Treffen sie auf einen Erreger, lösen sie eine Kettenreaktion aus. Am Ende markieren sie den Eindringling für die Fresszellen oder stanzen sogar Löcher in seine Hülle.",
+      "Gegen Viren hat die angeborene Abwehr noch eine weitere Spezialtruppe: die natürlichen Killerzellen. Viren verstecken sich im Inneren von Körperzellen, wo Fresszellen sie nicht erreichen. Killerzellen erkennen solche befallenen Zellen an Veränderungen auf ihrer Oberfläche und bringen sie dazu, sich selbst aufzulösen. Auch manche Krebszellen werden so beseitigt.",
+      "Häufig reicht die angeborene Abwehr aus, um eine Infektion zu beenden. Manche Erreger haben aber Tricks entwickelt, um ihr zu entgehen, oder sie vermehren sich zu schnell. Dann holt die angeborene Abwehr Verstärkung.",
+      "Eine besondere Rolle spielen dabei die sogenannten dendritischen Zellen. Sie nehmen Bruchstücke des Erregers auf und wandern damit in die Lymphknoten. Dort zeigen sie ihre Fundstücke den Zellen der erworbenen Abwehr, wie ein Bote, der eine Beschreibung des Feindes überbringt."
+     ]
+    },
+    {
+     "heading": "Die Spezialeinheit",
+     "paragraphs": [
+      "Die erworbene Abwehr ist die Spezialeinheit des Immunsystems. Ihre Kämpfer sind die Lymphozyten, und davon gibt es zwei Hauptsorten: B-Zellen und T-Zellen. Anders als die Fresszellen erkennen sie nicht allgemeine Merkmale, sondern ganz bestimmte Strukturen eines einzelnen Erregers. Solche Strukturen nennt man Antigene.",
+      "Das Erstaunliche: Der Körper bildet Lymphozyten mit Millionen verschiedener Erkennungsstellen, und zwar bevor er einem Erreger überhaupt begegnet ist. Jede Zelle hat ihren eigenen Sensor, der auf genau eine Art von Antigen passt, wie ein Schlüssel auf ein Schloss. Diese Vielfalt entsteht durch ein zufälliges Neukombinieren von Genabschnitten bei der Entwicklung der Zellen.",
+      "Bevor die Zellen ihren Dienst antreten, werden sie streng geprüft. Lymphozyten, deren Sensor auf körpereigene Strukturen reagiert, werden größtenteils aussortiert. Für die T-Zellen findet diese Schule in der Thymusdrüse statt. So soll verhindert werden, dass die Abwehr den eigenen Körper angreift.",
+      "Wenn eine dendritische Zelle Bruchstücke eines Erregers in den Lymphknoten bringt, suchen die Lymphozyten unter Millionen von Kandidaten diejenigen, deren Sensor passt. Diese wenigen Zellen werden aktiviert und beginnen, sich rasend schnell zu teilen. Aus einer einzigen passenden Zelle entstehen in wenigen Tagen Tausende identische Kopien.",
+      "Die B-Zellen verwandeln sich dabei in regelrechte Fabriken. Sie stellen Antikörper her, Y-förmige Eiweiße, die genau auf das Antigen des Erregers passen. Antikörper schwimmen im Blut und in Körperflüssigkeiten. Sie heften sich an Erreger, verkleben sie miteinander, hindern Viren daran, in Zellen einzudringen, und markieren die Eindringlinge für Fresszellen und das Komplementsystem.",
+      "Die T-Zellen arbeiten anders. Es gibt zwei wichtige Gruppen. Die T-Helferzellen sind die Koordinatoren der Abwehr. Sie schütten Botenstoffe aus, die B-Zellen bei der Antikörperproduktion unterstützen und andere Abwehrzellen antreiben. Ohne sie läuft die erworbene Abwehr kaum. Das zeigt sich bei der Krankheit Aids, bei der ein Virus genau diese Helferzellen zerstört.",
+      "Die zweite Gruppe sind die zytotoxischen T-Zellen, oft Killer-T-Zellen genannt. Sie erkennen Körperzellen, die von einem Virus befallen sind. Solche Zellen präsentieren auf ihrer Oberfläche Bruchstücke dessen, was in ihrem Inneren hergestellt wird, wie ein Schaufenster. Entdeckt eine Killer-T-Zelle dort ein fremdes Bruchstück, bringt sie die befallene Zelle dazu, sich selbst zu zerstören.",
+      "All das braucht Zeit. Beim ersten Kontakt mit einem neuen Erreger dauert es meist einige Tage bis zu ein bis zwei Wochen, bis die erworbene Abwehr voll in Fahrt ist. In dieser Zeit fühlen wir uns oft krank. Dass es uns danach besser geht, liegt häufig daran, dass jetzt genug passende Antikörper und T-Zellen im Einsatz sind.",
+      "Ist der Erreger besiegt, gehen die meisten der neu gebildeten Zellen wieder zugrunde. Sonst wäre der Körper bald voll von Abwehrzellen. Einige wenige bleiben aber übrig, und genau sie sind der Schlüssel zum Immungedächtnis.",
+      "Man kann die erworbene Abwehr mit einer Bibliothek vergleichen, die für jeden denkbaren Gegner schon ein Buch bereithält. Im Ernstfall wird das passende Buch gefunden und in großer Auflage nachgedruckt."
+     ]
+    },
+    {
+     "heading": "Ein Gedächtnis fürs Leben",
+     "paragraphs": [
+      "Wer einmal Windpocken hatte, bekommt sie in der Regel kein zweites Mal. Diese alte Beobachtung beschreibt eine der bemerkenswertesten Fähigkeiten des Immunsystems: Es kann sich erinnern. Fachleute sprechen vom Immungedächtnis.",
+      "Grundlage dafür sind die sogenannten Gedächtniszellen. Nach einer überstandenen Infektion bleiben einige der B-Zellen und T-Zellen, die gegen den Erreger gekämpft haben, im Körper zurück. Sie sind langlebig, manche halten Jahrzehnte. Sie warten gewissermaßen in Bereitschaft darauf, demselben Gegner noch einmal zu begegnen.",
+      "Kommt der Erreger tatsächlich wieder, muss die erworbene Abwehr nicht von vorn anfangen. Statt unter Millionen von Zellen die passenden zu suchen, sind diese schon in größerer Zahl vorhanden und schnell aktiviert. Die Antwort kommt deshalb viel schneller und kräftiger. Oft wird der Erreger beseitigt, bevor wir überhaupt Krankheitszeichen bemerken.",
+      "Zusätzlich bleiben bestimmte Zellen im Knochenmark zurück, die über lange Zeit weiter Antikörper herstellen. Deshalb lassen sich bei vielen Menschen noch Jahre nach einer Infektion oder Impfung Antikörper im Blut nachweisen.",
+      "Dieser Schutz heißt Immunität. Man ist gegen diesen einen Erreger immun, also geschützt. Wichtig ist: Das Gedächtnis ist sehr spezifisch. Wer gegen Masern immun ist, ist deshalb nicht gegen Mumps geschützt. Für jeden Erreger muss das Immunsystem ein eigenes Gedächtnis anlegen.",
+      "Warum bekommt man dann immer wieder Schnupfen? Der wichtigste Grund ist die Vielfalt. Es gibt Hunderte verschiedener Viren, die Erkältungen auslösen können. Gegen eines davon bist du nach einer Infektion vielleicht eine Weile geschützt, aber beim nächsten Mal ist es ein anderes. Außerdem ist das Gedächtnis gegen manche Erkältungsviren nicht sehr dauerhaft.",
+      "Andere Erreger verändern sich ständig. Das Grippevirus zum Beispiel wandelt seine Oberfläche von Jahr zu Jahr leicht ab. Die Gedächtniszellen erkennen die neue Variante dann nur noch teilweise. Deshalb wird die Grippeimpfung jedes Jahr an die erwarteten Varianten angepasst.",
+      "Auch die Dauer des Schutzes unterscheidet sich. Gegen manche Krankheiten hält er praktisch ein Leben lang, gegen andere lässt er nach einigen Jahren nach. Dann kann eine Auffrischung sinnvoll sein. Wie lange ein Schutz hält, hängt vom Erreger ab und auch davon, wie stark die ursprüngliche Immunantwort war.",
+      "Schon Babys profitieren vom Gedächtnis anderer. Über die Plazenta und später über die Muttermilch bekommen sie Antikörper ihrer Mutter mit. Dieser sogenannte Nestschutz hilft ihnen in den ersten Lebensmonaten, bis ihr eigenes Immunsystem mehr Erfahrungen gesammelt hat. Er lässt aber nach einigen Monaten nach.",
+      "Das Immungedächtnis ist auch der Grund, warum eine der wirksamsten Erfindungen der Medizin überhaupt funktioniert: die Impfung."
+     ]
+    },
+    {
+     "heading": "Impfen: Training ohne Krankheit",
+     "paragraphs": [
+      "Die Idee hinter einer Impfung ist einfach: Man zeigt dem Immunsystem einen Erreger oder Teile davon, ohne dass man ernsthaft krank wird. Das Immunsystem reagiert, bildet Antikörper und Gedächtniszellen. Kommt später der echte Erreger, ist die Abwehr schon vorbereitet.",
+      "Die Geschichte des Impfens beginnt mit einer Krankheit, die über Jahrhunderte Angst und Schrecken verbreitete: den Pocken. Sie war hoch ansteckend, viele Erkrankte starben, und Überlebende behielten oft tiefe Narben oder erblindeten. Allein im zwanzigsten Jahrhundert starben nach Schätzungen rund 300 Millionen Menschen an den Pocken.",
+      "Der englische Landarzt Edward Jenner hatte beobachtet, dass Melkerinnen, die sich mit den harmlosen Kuhpocken angesteckt hatten, offenbar nicht an den echten Pocken erkrankten. Im Mai 1796 machte er ein Experiment. Er nahm etwas Flüssigkeit aus einer Kuhpockenblase an der Hand einer Melkerin und brachte sie in kleine Schnitte am Arm des achtjährigen James Phipps.",
+      "Der Junge bekam leichtes Fieber, erholte sich aber schnell. Einige Wochen später setzte Jenner ihn den echten Pocken aus, und der Junge erkrankte nicht. Nach heutigen Maßstäben wäre ein solcher Versuch an einem Kind unvertretbar. Damals wurde er zum Anfang einer neuen Medizin. Das Wort Vakzine leitet sich übrigens vom lateinischen Wort für Kuh ab, vacca.",
+      "Fast zwei Jahrhunderte später erfüllte sich, was Jenner vorhergesagt hatte. Nach einer weltweiten Impfkampagne erklärte die Weltgesundheitsorganisation die Pocken 1980 für ausgerottet. Es war das erste Mal, dass die Menschheit eine Infektionskrankheit vollständig besiegt hatte.",
+      "Heute gibt es Impfstoffe gegen viele Krankheiten, und sie funktionieren auf unterschiedliche Weise. Manche enthalten abgeschwächte Erreger, die sich kaum noch vermehren können. Andere enthalten abgetötete Erreger oder nur bestimmte Bruchstücke, etwa Eiweiße von ihrer Oberfläche. Wieder andere enthalten unschädlich gemachte Gifte, gegen die sich die Abwehr richten soll.",
+      "Eine neuere Technik sind mRNA-Impfstoffe, die während der Corona-Pandemie weltweit bekannt wurden. Sie enthalten keine Erreger, sondern eine Art Bauanleitung für ein einzelnes Eiweiß des Virus. Körperzellen stellen dieses Eiweiß für kurze Zeit selbst her, das Immunsystem lernt es kennen, und die Bauanleitung wird danach wieder abgebaut.",
+      "Nach einer Impfung fühlt man sich manchmal ein bis zwei Tage etwas schlapp, hat einen geschwollenen Arm oder leichtes Fieber. Das ist meist kein Grund zur Sorge, sondern ein Zeichen, dass das Immunsystem arbeitet. Ernste Nebenwirkungen sind selten. Impfstoffe werden vor der Zulassung in großen Studien geprüft und auch danach weiter überwacht.",
+      "Impfungen schützen nicht nur einzelne Menschen. Wenn sehr viele in einer Bevölkerung geimpft sind, kann sich ein Erreger kaum noch ausbreiten. Davon profitieren auch die, die selbst nicht geimpft werden können, etwa Neugeborene oder Menschen mit geschwächter Abwehr. Fachleute sprechen von Gemeinschaftsschutz.",
+      "Welche Impfungen für wen empfohlen sind, legen in Deutschland Fachleute der Ständigen Impfkommission fest. Wer Fragen zu seinem eigenen Impfschutz hat, bespricht das am besten mit einer Ärztin oder einem Arzt."
+     ]
+    },
+    {
+     "heading": "Wenn die Abwehr irrt",
+     "paragraphs": [
+      "So beeindruckend das Immunsystem ist, es macht auch Fehler. Manchmal reagiert es auf Dinge, die eigentlich harmlos sind. Manchmal greift es den eigenen Körper an. Und manchmal ist es zu schwach, um sich gegen Erreger zu wehren.",
+      "Am häufigsten sind Allergien. Dabei hält das Immunsystem harmlose Stoffe für gefährlich, etwa Pollen, Hausstaub, Tierhaare oder bestimmte Nahrungsmittel. Beim ersten Kontakt bildet es Antikörper einer besonderen Sorte. Bei jedem weiteren Kontakt lösen diese eine heftige Reaktion aus, mit Niesen, tränenden Augen, Juckreiz oder Hautausschlag.",
+      "Im schlimmsten Fall kann eine allergische Reaktion den ganzen Körper erfassen und lebensbedrohlich werden, etwa bei manchen Menschen nach einem Wespenstich oder durch Nüsse. Fachleute nennen das einen anaphylaktischen Schock. Betroffene tragen deshalb oft ein Notfallset bei sich.",
+      "Bei Autoimmunkrankheiten richtet sich die Abwehr gegen körpereigenes Gewebe. Obwohl die meisten Lymphozyten, die auf eigene Strukturen reagieren, aussortiert werden, funktioniert diese Kontrolle nicht immer perfekt. Bei Diabetes vom Typ eins zerstört das Immunsystem die Zellen der Bauchspeicheldrüse, die Insulin herstellen. Bei der Multiplen Sklerose greift es die Schutzhüllen von Nervenfasern an.",
+      "Warum genau solche Krankheiten entstehen, ist oft noch nicht vollständig verstanden. Vermutlich spielen Erbanlagen, Umwelteinflüsse und manchmal frühere Infektionen zusammen. Viele Autoimmunkrankheiten lassen sich heute mit Medikamenten gut behandeln, die das Immunsystem gezielt dämpfen.",
+      "Das Gegenteil ist eine Immunschwäche. Dann ist die Abwehr zu schwach, und selbst harmlose Keime können gefährlich werden. Manche Menschen werden mit einer solchen Schwäche geboren. Häufiger entsteht sie im Laufe des Lebens, etwa durch bestimmte Infektionen, durch Medikamente oder durch eine Chemotherapie gegen Krebs.",
+      "Auch eine überschießende Reaktion kann gefährlich sein. Bei einer Blutvergiftung, medizinisch Sepsis genannt, gerät die Abwehr gegen eine Infektion außer Kontrolle und schädigt dabei die eigenen Organe. Eine Sepsis ist ein Notfall, der schnell behandelt werden muss.",
+      "Manchmal ist die Abwehr auch einfach zu gründlich. Bei einer Organtransplantation erkennt das Immunsystem das neue Organ als fremd und versucht, es abzustoßen. Menschen mit einem Spenderorgan müssen deshalb dauerhaft Medikamente nehmen, die das Immunsystem bremsen. Das senkt die Abstoßungsgefahr, macht sie aber anfälliger für Infektionen.",
+      "Diese Beispiele zeigen, wie fein das Gleichgewicht ist. Das Immunsystem muss stark genug sein, um Erreger zu besiegen, und gleichzeitig zurückhaltend genug, um den eigenen Körper und harmlose Stoffe zu verschonen.",
+      "Gerade bei Allergien und Autoimmunkrankheiten wird intensiv nach besseren Behandlungen geforscht.",
+      "Wer den Verdacht hat, an einer Allergie, einer Autoimmunkrankheit oder einer Abwehrschwäche zu leiden, sollte das ärztlich abklären lassen. Selbstdiagnosen helfen hier selten weiter."
+     ]
+    },
+    {
+     "heading": "Ein System im Wandel",
+     "paragraphs": [
+      "Das Immunsystem verändert sich im Laufe des Lebens. Bei Neugeborenen ist die erworbene Abwehr noch unerfahren. Mit jeder überstandenen Infektion und jeder Impfung lernt sie dazu. Im Kindergartenalter sind häufige Infekte deshalb ganz normal. Das Immunsystem sammelt in dieser Zeit eine Menge Erfahrung.",
+      "Im Alter lässt die Leistungsfähigkeit wieder nach. Es werden weniger neue Abwehrzellen gebildet, und die vorhandenen reagieren langsamer. Ältere Menschen erkranken deshalb häufiger schwer an Infektionen wie Grippe oder Lungenentzündung, und manche Impfungen wirken bei ihnen etwas schwächer. Fachleute sprechen von der Alterung des Immunsystems.",
+      "Viel Aufmerksamkeit bekommt derzeit das Zusammenspiel zwischen Immunsystem und den Mikroben im Darm. Offenbar trainieren diese Mitbewohner die Abwehr schon in den ersten Lebensjahren. Manche Forschende vermuten, dass zu wenig Kontakt mit vielfältigen Mikroben in der Kindheit das Risiko für Allergien erhöhen könnte. Belegt ist das aber noch nicht in allen Details.",
+      "Einen großen Durchbruch hat die Forschung in der Krebsmedizin erzielt. Krebszellen sind veränderte Körperzellen, und das Immunsystem kann sie im Prinzip erkennen. Viele Tumoren haben aber Tricks entwickelt, um die Abwehr auszubremsen. Neue Medikamente lösen diese Bremsen wieder und lassen die T-Zellen gegen den Krebs vorgehen.",
+      "Bei einer anderen Methode werden T-Zellen aus dem Blut eines Patienten entnommen, im Labor so verändert, dass sie die Krebszellen besser erkennen, und dann zurückgegeben. Solche Immuntherapien haben manchen Menschen geholfen, bei denen andere Behandlungen versagt hatten. Sie wirken aber nicht bei allen Krebsarten und können starke Nebenwirkungen haben.",
+      "Auch die Impfstoffforschung entwickelt sich weiter. Die Erfahrungen mit mRNA-Impfstoffen haben gezeigt, wie schnell sich neue Impfstoffe herstellen lassen. Nun wird erforscht, ob ähnliche Verfahren gegen weitere Infektionen oder sogar gegen Krebs eingesetzt werden können.",
+      "Gleichzeitig bleiben große Herausforderungen. Gegen manche Erreger wie das HI-Virus gibt es trotz jahrzehntelanger Forschung noch keinen wirksamen Impfstoff. Und Bakterien, gegen die Antibiotika nicht mehr wirken, bereiten Fachleuten weltweit Sorgen. Umso wichtiger ist es, das Immunsystem und seine Verbündeten gut zu verstehen.",
+      "Oft wird gefragt, wie man sein Immunsystem stärken kann. Viele Produkte versprechen das, halten es aber nicht. Nach heutigem Wissen helfen vor allem allgemeine Dinge, die der ganzen Gesundheit guttun, wie ausreichend Schlaf, Bewegung, eine ausgewogene Ernährung und der Verzicht auf das Rauchen. Ein Wundermittel gibt es nicht.",
+      "Wie gut das Immunsystem arbeitet, hängt außerdem von vielen Dingen ab, die wir nur teilweise beeinflussen können, etwa von den Erbanlagen, vom Alter und von früheren Infektionen.",
+      "Eines ist sicher: Das Immunsystem ist eines der komplexesten Systeme unseres Körpers. Es arbeitet Tag und Nacht, meistens unbemerkt, und es überrascht die Forschung immer wieder.",
+      "Wer versteht, wie es funktioniert, sieht Fieber, geschwollene Lymphknoten oder einen schmerzenden Impfarm mit anderen Augen: als Zeichen, dass die Abwehr gerade ihre Arbeit tut."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Das Immunsystem arbeitet ohne Zentrale mit Barrieren, einer schnellen angeborenen und einer gezielten erworbenen Abwehr.",
+    "Sein Gedächtnis macht Impfungen möglich, eine der erfolgreichsten Erfindungen der Medizin.",
+    "Irrt die Abwehr, entstehen Allergien oder Autoimmunkrankheiten, und neue Therapien setzen das Immunsystem sogar gegen Krebs ein."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "title": "Wie funktioniert das Immunsystem?",
+   "publisher": "Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (gesundheitsinformation.de)",
+   "url": "https://www.gesundheitsinformation.de/wie-funktioniert-das-immunsystem.html",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Das Immunsystem und seine Aufgaben",
+   "publisher": "Gesundheitsportal Österreich (gesundheit.gv.at)",
+   "url": "https://www.gesundheit.gv.at/krankheiten/immunsystem/Das-Immunsystem-und-seine-Aufgaben.html",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Überblick über das Immunsystem",
+   "publisher": "MSD Manual",
+   "url": "https://www.msdmanuals.com/de-de/profi/immunologie,-allergien/biologie-des-immunsystems/%C3%BCberblick-%C3%BCber-das-immunsystem",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Putting smallpox out to pasture (Milestone 2)",
+   "publisher": "Nature",
+   "url": "https://www.nature.com/articles/d42859-020-00007-6",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Dr Edward Jenner carrying out his first smallpox vaccination",
+   "publisher": "British Red Cross Museum and Archives",
+   "url": "https://museumandarchives.redcross.org.uk/objects/46915",
+   "accessed": "2026-11-03"
+  }
+ ],
+ "factCheckedAt": "2026-11-03"
+}

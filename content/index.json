@@ -84,6 +84,39 @@
       }
     },
     {
+      "id": "immune-system",
+      "category": "science",
+      "publishedAt": "2026-11-03",
+      "motif": "network",
+      "tags": [
+        "biologie",
+        "gesundheit",
+        "medizin"
+      ],
+      "title": {
+        "de": "Wie unser Immunsystem arbeitet",
+        "en": "How Our Immune System Works"
+      },
+      "teaser": {
+        "de": "Billionen Zellen, keine Zentrale und ein erstaunliches Gedächtnis: so wehrt sich dein Körper.",
+        "en": "Trillions of cells, no headquarters and a remarkable memory: this is how your body defends itself."
+      },
+      "words": {
+        "de": {
+          "5": 906,
+          "10": 2177,
+          "15": 2754,
+          "20": 3601
+        },
+        "en": {
+          "5": 1042,
+          "10": 2447,
+          "15": 3111,
+          "20": 4144
+        }
+      }
+    },
+    {
       "id": "inflation",
       "category": "tech-economy",
       "publishedAt": "2026-11-03",
@@ -187,6 +220,7 @@
     "week": "2026-W45",
     "topics": [
       "language-models",
+      "immune-system",
       "why-we-sleep",
       "how-the-internet-works",
       "inflation",
