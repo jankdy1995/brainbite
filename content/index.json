@@ -84,6 +84,39 @@
       }
     },
     {
+      "id": "language-models",
+      "category": "tech-economy",
+      "publishedAt": "2026-11-03",
+      "motif": "network",
+      "tags": [
+        "ki",
+        "informatik",
+        "sprache"
+      ],
+      "title": {
+        "de": "Wie Sprachmodelle funktionieren",
+        "en": "How Language Models Work"
+      },
+      "teaser": {
+        "de": "Was hinter Chatbots wie ChatGPT steckt, und warum sie manchmal Unsinn erzählen.",
+        "en": "What is behind chatbots like ChatGPT, and why they sometimes make things up."
+      },
+      "words": {
+        "de": {
+          "5": 904,
+          "10": 2192,
+          "15": 2754,
+          "20": 3608
+        },
+        "en": {
+          "5": 1047,
+          "10": 2465,
+          "15": 3113,
+          "20": 4156
+        }
+      }
+    },
+    {
       "id": "why-we-sleep",
       "category": "science",
       "publishedAt": "2026-11-03",
@@ -120,6 +153,7 @@
   "featured": {
     "week": "2026-W45",
     "topics": [
+      "language-models",
       "why-we-sleep",
       "inflation",
       "black-holes"

@@ -1,0 +1,408 @@
+{
+ "id": "language-models",
+ "lang": "en",
+ "title": "How Language Models Work",
+ "versions": {
+  "5": {
+   "words": 1047,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "You type in a question, and seconds later a program replies in full sentences, polite, fluent and often surprisingly to the point. Behind chatbots such as ChatGPT, Gemini or Claude are so-called large language models. In the next five minutes you will find out what they actually do, how they learn and why you still shouldn’t believe everything they say."
+     ]
+    },
+    {
+     "heading": "What a language model does",
+     "paragraphs": [
+      "A language model is a program that has learned how texts typically continue. You know a tiny example from your smartphone: as you type, the keyboard suggests the next word. Large language models work on a related principle, just on an unimaginably larger scale.",
+      "First, your text is broken into small pieces called tokens. These are whole words or parts of words. Each piece is translated into numbers, because computers calculate with numbers. The model then works out which piece is most likely to come next. That piece is added, and the whole process starts again. In this way an answer is built up piece by piece.",
+      "How good these predictions are depends on size. Modern models have billions of adjustable numbers and have been trained on trillions of word pieces. To predict well, they had to learn grammar, the meanings of words, facts and styles of writing along the way. Nobody taught them these things one by one.",
+      "That is why you often see the text appear on the screen bit by bit when using a chatbot. The model really does write token by token. And because there is a little randomness involved at every step, the same question can lead to answers that are worded differently.",
+      "So what a model knows depends heavily on what it was trained on. It knows a lot about frequently discussed topics and much less about rare ones.",
+      "Importantly, a language model is neither a database nor a search engine. What it knows is spread across billions of numbers called parameters. It only knows what was in its training data up to a certain cut-off date, so it may not know about recent events.",
+      "Whether a language model really understands language or is simply very good at recognising patterns is something experts still argue about. What is certain is that the results are often astonishingly good, and that is exactly why it is worth knowing the principle behind them."
+     ]
+    },
+    {
+     "heading": "How it learns",
+     "paragraphs": [
+      "Training starts with a gigantic fill-in-the-blank exercise. The model reads trillions of word pieces from books, websites and computer code and always has to predict the next piece. If it gets it wrong, its numbers are adjusted very slightly. This is repeated countless times, for weeks, on thousands of specialised processors.",
+      "The special thing about this method is that you don’t need people to label every text. The right answer is contained in the text itself, because the next word is already known. That is the only reason such gigantic amounts of data can be used. Even so, the effort is enormous and costs a great deal of money and energy.",
+      "This was made possible by an invention from 2017 called the transformer. Eight researchers who were working at Google at the time introduced it. It allows every word to keep all the other words in a text in view at once and to weigh which of them matter right now. Because this happens in parallel, huge models can be trained quickly.",
+      "The transformer, by the way, comes from a research paper titled “Attention Is All You Need”. Almost all of today’s language models are built on this idea, which is why the paper is so famous.",
+      "After that, the model is a master at continuing texts, but not yet a good conversation partner. So a second step follows: people write example conversations and judge which of several answers is better. From this feedback, the model learns to answer helpfully, politely and honestly.",
+      "Whatever is in the training data shapes the model. Errors and prejudices in the texts can therefore turn up in its answers as well.",
+      "There is also controversy over which texts may be used for training at all. Many authors and publishers criticise the fact that their works were used without permission. This is being fought over in court in several countries.",
+      "That is one more reason to check important answers with your own eyes."
+     ]
+    },
+    {
+     "heading": "Strengths and limits",
+     "paragraphs": [
+      "Language models are strong at drafting, summarising, translating and explaining. They help with programming and with brainstorming ideas. They have spread accordingly fast: according to an analysis by the bank UBS, ChatGPT reached an estimated hundred million users a month just over two months after its launch in November 2022.",
+      "Their biggest weakness is called hallucination. Because a language model produces what is most probable and not what has been checked as true, it sometimes invents facts, figures or sources that sound plausible but are wrong. This happens particularly easily with rare knowledge.",
+      "Another limit is time. A model only knows what was in its data up to a certain cut-off date. Without searching the internet, it cannot say anything reliable about current events. Prejudices from its training data can also turn up in its answers.",
+      "One remedy is systems that first search reliable documents and pass the relevant passages to the model. But that does not make the errors disappear completely.",
+      "With their spread come big questions: how will language models change the world of work? How much energy will the data centres need? And how do we protect ourselves against disinformation produced on a massive scale? There are no final answers to these questions yet.",
+      "So the rule is: for important facts, or for questions about health, law and money, you should always check the answers against reliable sources. A language model is a powerful tool, but one you should use with a critical eye.",
+      "If you understand the principle behind it, you can use a language model much more wisely and spot its mistakes more easily."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "A language model keeps predicting which piece of text is most likely to come next.",
+    "It learns this from huge amounts of text and is then shaped into a helpful assistant using human feedback.",
+    "Because it relies on patterns rather than checked facts, it can make convincing-sounding mistakes that you should verify yourself."
+   ]
+  },
+  "10": {
+   "words": 2465,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Since the end of 2022, millions of people have been writing to computer programs every day as if they were conversation partners. They ask them to draft texts, explain code or suggest recipes. But what actually goes on inside such a language model? Over the next ten minutes you will learn the principle it works on, which invention from 2017 changed everything, how a text-completion machine becomes a helpful assistant and where the limits lie."
+     ]
+    },
+    {
+     "heading": "The basic principle",
+     "paragraphs": [
+      "A language model is a computer program that has learned which pieces of words are likely to follow one another in a given context. You know a simple example from your smartphone keyboard, which suggests the next word as you type. The large models behind chatbots work on a related principle, but they are unimaginably larger.",
+      "Large means two things. First, they have been trained on enormous amounts of text, including books, websites, articles and computer code, often many trillions of word pieces. Second, they have billions of adjustable numbers, the so-called parameters. Everything the model has learned is stored in these, spread out as patterns.",
+      "For a computer to calculate with text, the text is first broken into small pieces called tokens. Common words are usually a single token; rare ones are split into several parts. Each token is then translated into a long list of numbers. During training, the model learns to choose these numbers so that words with similar meanings get similar values.",
+      "Training itself is, at its core, a gigantic fill-in-the-blank exercise. The model sees a snippet of text and has to predict the next token. Since the correct text is known, you can calculate how wrong it was, and all its parameters are nudged a tiny bit in the right direction. This is repeated trillions of times, over weeks, on thousands of specialised processors.",
+      "To get good at this, the model has to learn a great deal along the way: grammar, the meanings of words, facts, styles of writing and simple logical connections. Nobody teaches it these things one by one. They emerge because they are useful for making good predictions.",
+      "It is important to understand what a language model is not. It is not a database in which facts are neatly stored, and it is not a search engine. What it knows is spread across its parameters. And it only knows what was in its data up to a certain cut-off date.",
+      "What is in the training data also shapes its behaviour. If the texts contain errors or prejudices, the model can adopt them. Whether a language model really understands language or is simply very good at recognising patterns is something experts still argue about today.",
+      "The next sections show how this principle becomes a powerful assistant: the invention that sped everything up, training with human feedback, how an answer is produced and the typical mistakes that come with it."
+     ]
+    },
+    {
+     "heading": "The breakthrough: attention",
+     "paragraphs": [
+      "Language models have been around for a long time. The big leap, however, came with a particular design known as the transformer. It was introduced in June 2017 in a research paper titled “Attention Is All You Need”. Eight researchers who were working at Google at the time had developed it.",
+      "To see why this mattered so much, it helps to look at what came before. Earlier models usually read text word by word, in order, rather like a person running a finger along a line. Information from the beginning of a sentence had to be passed along through many steps and was easily lost on the way. On top of that, this work was hard to spread across many processors at once.",
+      "The transformer does things differently. It looks at all the words in a stretch of text at the same time. At its core is a mechanism called self-attention. For each token, the model calculates how important every other token in the text is to it at that moment. It then blends the information together according to these weights.",
+      "An example makes this clearer. In the sentence “The cat chased the mouse because it was hungry”, it has to become clear who “it” refers to. Attention allows the token “it” to pay particular attention to “cat”. If the sentence instead reads “because it was so fast”, the reference may shift to the mouse. The model learns for itself during training what to pay attention to in which context.",
+      "Many such attention mechanisms work in parallel; experts call them heads. One might focus on grammatical links, another on meanings, a third on position in the sentence. And the whole thing is stacked in many layers, one on top of another. With each layer, the representation of every token becomes richer and more strongly shaped by its context.",
+      "The transformer was originally developed for machine translation, for example from English into German. There it clearly beat the previous methods and could also be trained much faster. Its real advantage only became apparent later, though: because all the words are processed at once, training can be spread superbly across thousands of graphics processors.",
+      "That cleared the way for ever larger models with ever more data. Researchers found that capabilities increased remarkably reliably with size. Almost all of today’s well-known language models are based on the transformer. The 2017 paper is now among the most cited scientific works of the century.",
+      "A nice side note: the title is a nod to the Beatles song “All You Need Is Love”. And all eight authors left Google in the following years to work at other firms or found companies of their own. Several of today’s important AI companies trace their roots directly back to this group.",
+      "Attention comes at a price, however. Because every token looks at every other token, the amount of computation grows sharply as the text gets longer. Much current research is therefore focused on making transformers more efficient."
+     ]
+    },
+    {
+     "heading": "From text completer to assistant",
+     "paragraphs": [
+      "A model that has only been pre-trained is a master at continuing texts. But it is not yet a helpful conversation partner. If you ask it a question, it might not answer it but instead write more questions underneath, because that is what it has seen in documents full of questions. It does what is typical on the internet, not necessarily what you want.",
+      "That is why a second training step follows, known as supervised fine-tuning. For this, people write many example conversations: a question or request and a good, helpful answer to it. The model is trained further on these examples and so learns the format of a dialogue. It now understands better that a question should be followed by an answer.",
+      "The third step has an unwieldy name: reinforcement learning from human feedback, or RLHF for short. Here, the model generates several answers to a question. People judge which of them is better, more helpful, more honest or more harmless. From many such judgements, a second model is trained that can predict which answers people prefer.",
+      "This rating model then acts as a kind of coach. The language model tries out answers, receives a score for them and adapts so that it produces high-scoring answers more often. Step by step it becomes more helpful, and it also learns to decline certain harmful requests.",
+      "There are now variations on this method. Some companies have answers rated partly by other AI systems according to a set of principles, rather than only by humans. Others skip the separate rating model and train directly on pairs of better and worse answers. The goal is similar everywhere: a model that behaves the way people want it to.",
+      "This step explains the typical tone of many chatbots. They are polite, like to structure their answers with bullet points and point out uncertainties. That is no accident but the result of a great many human judgements. At the same time, this training can also have unwanted effects, such as a model agreeing too readily with the user.",
+      "On top of that come instructions you never see. Many providers give their model a so-called system prompt before every conversation. It states what role the model should play, which rules apply and which tools it may use. One and the same underlying model can therefore come across quite differently depending on what it is being used for.",
+      "Modern assistants can also use tools. They search the internet, calculate with a calculator, run computer code or read uploaded documents. Technically, the model produces a special piece of text that calls the tool and then receives the result. In this way some of the weaknesses of a pure language model can be offset.",
+      "So you can picture the whole journey in three stages: first read an enormous amount, then study example conversations and finally learn from feedback what makes a good answer."
+     ]
+    },
+    {
+     "heading": "How an answer is produced",
+     "paragraphs": [
+      "What happens when you send a question? First your text is split into tokens. Together with the conversation so far and the provider’s invisible instructions, it then passes through all the layers of the model. What comes out at the end is not a finished answer but a list of probabilities for the next token.",
+      "So the model says, for example: there is a forty percent chance the next token is “The”, fifteen percent for “Good”, ten percent for “That”, and so on, for every token in its vocabulary. One token is chosen from this distribution. The chosen token is then added to the text, and the whole process starts again. Token by token, the answer takes shape.",
+      "That is why, with many chatbots, you see the answer appear on the screen bit by bit. It is not a visual effect. The model really does produce the text one piece after another. Each new token depends on all the previous ones, including those the model itself has just written.",
+      "There is some leeway in the choice. If the model always took the most likely token, its answers would often be dull and repetitive. So the choice is usually made with a certain amount of randomness. A dial that experts call temperature determines how much. A low temperature means predictable answers; a high temperature means more creative ones, but also more error-prone ones.",
+      "This explains why you can get two different answers to the same question. In a sense, the model rolls the dice at every step, albeit with heavily loaded dice. Usually the answers are similar at their core but differ in wording and details.",
+      "How much a model can keep in view at once is determined by its so-called context window. It is measured in tokens. Early models could only take a few pages of text into account. Current models can sometimes handle hundreds of thousands of tokens or more, the equivalent of several books. Whatever lies outside the window does not exist for the model at that moment.",
+      "Importantly, a language model does not learn while you talk to it. Its parameters stay unchanged while it is being used. The fact that it remembers earlier parts of the conversation is only because the whole conversation so far is sent along again each time. Some providers also store notes about earlier conversations and quietly add them to the context.",
+      "Newer models also use a kind of pause for thought. Before they answer, they first generate a longer internal chain of reasoning in which they break the problem down into steps. Only then do they formulate the actual answer. For tasks such as maths or programming this often improves the results considerably, but it costs more computing time.",
+      "Every answer, then, is the result of many small decisions based on probability. That makes the models flexible and creative, but it also explains why they sometimes get things wrong, as the next section shows."
+     ]
+    },
+    {
+     "heading": "Hallucinations and other limits",
+     "paragraphs": [
+      "Language models almost always sound confident. That is precisely what makes one of their biggest weaknesses so treacherous. They sometimes invent facts, quotations, sources or figures that seem plausible but are simply wrong. Experts call this hallucination.",
+      "The reason lies in the basic principle. A language model produces what is most probable, not what is true. It has no built-in database of facts against which it checks its statements. If a pattern suggests that a year, a book title or a name should appear at a certain point, it supplies something that fits, even if it does not know for sure.",
+      "Rare facts are especially vulnerable. The model has read a great deal about well-known subjects during training, and its statements about them are correspondingly often right. With niche knowledge, exact figures or details about little-known people, it becomes less reliable. That is exactly where you should look closely. Invented references to sources that don’t exist are a well-known example.",
+      "Researchers are working hard to reduce hallucinations. One important approach is to give the model reliable information to work with. A system first searches documents or the internet for relevant passages and presents them to the model. The model then bases its answer on them and can name the sources. But that does not make the problem disappear completely.",
+      "A second limit is knowledge over time. A model only knows what was in its training data up to its knowledge cut-off. Without searching the internet, it cannot say anything reliable about current events. Sometimes it doesn’t even know exactly how up to date its own knowledge is.",
+      "Third, models adopt biases from their data. If certain groups are often portrayed one-sidedly in texts, the model can reproduce such patterns. Providers try to weaken this during fine-tuning. That never fully succeeds, and what counts as balanced is itself often disputed.",
+      "For a long time, language models also made typical mistakes with arithmetic and strictly logical tasks, because they see numbers as tokens and don’t work like a calculator. Newer models have become much better at this, partly because they proceed step by step or use tools. But they are not error-free.",
+      "For everyday use this leads to a simple rule: language models are excellent helpers for drafting, summarising, explaining and brainstorming. But for important facts, or for medical, legal or financial questions, you should always check their answers against reliable sources or ask experts.",
+      "You could sum it up like this: a language model is like a very well-read, fast and helpful conversation partner who sometimes prefers to say something plausible rather than admit that it doesn’t know."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Language models break text into tokens and predict, piece by piece, what is most likely to come next.",
+    "The transformer of 2017, with its attention mechanism, made it possible to train such models on enormous amounts of data.",
+    "Training with human feedback turns them into assistants, but they remain prone to so-called hallucinations."
+   ]
+  },
+  "15": {
+   "words": 3113,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "A program that writes poems, answers questions and finds bugs in code seems almost like magic. But there is no sorcery behind it, just mathematics, an enormous amount of text and vast computing power. Here you will learn how language models turn text into numbers, how they are trained, what a transformer is, how predictions become an assistant and how an answer is put together word by word."
+     ]
+    },
+    {
+     "heading": "What a language model is",
+     "paragraphs": [
+      "A language model is a computer program that has learned how language works. More precisely, it has learned which words and parts of words are likely to follow one another in a given context. If you start a sentence, it can estimate how the sentence might continue.",
+      "You know a simple example from your smartphone. As you type, the keyboard suggests the next word. If you write “I’ll be a bit”, it might offer “late”. That is a tiny language model. The large models behind chatbots work on a related principle, but they are unimaginably larger and more capable.",
+      "The word large refers to two things. First, to the amount of text a model has been trained on. That means books, websites, articles, forums and computer code, often many trillions of word pieces in total. Second, to the number of so-called parameters. These are the adjustable numbers inside the model. Modern models have billions of them, some hundreds of billions.",
+      "Technically, a language model is an artificial neural network. The name comes from a loose resemblance to nerve cells in the brain. In reality it is a huge chain of calculations. Inputs are translated into numbers, processed through many layers, and at the end out comes another number that can be turned back into text.",
+      "It is important to understand what a language model is not. It is not a database in which facts are neatly stored and looked up. Nor is it a search engine that checks the internet. Everything it knows is spread across its parameters, as patterns it has taken away from training. That explains both its strengths and its typical mistakes.",
+      "What is remarkable is how much emerges from this simple principle. To predict well how a text will continue, a model has to learn a great deal: grammar, the meanings of words, facts about the world, styles of writing, even simple logical connections. Nobody taught it these things one by one. They emerged during training, almost as a side effect.",
+      "Each of these models has its own strengths and weaknesses, and they are updated frequently, so comparisons quickly go out of date.",
+      "Today there are many such models from different companies and research groups. Well-known examples include ChatGPT from OpenAI, Gemini from Google, Claude from Anthropic and Llama from Meta. Some can only be used over the internet; others are released openly, so anyone can download them and run them on their own computers.",
+      "Whether a language model really understands language is an open and fascinating question. Some experts see them as little more than very good pattern recognisers. Others think it is possible that a kind of internal model of the world forms during training. What is certain is that the results are often astonishing, and that is exactly why it is worth understanding how they come about.",
+      "The following sections take you inside step by step: how text becomes numbers, how training works, which invention brought the breakthrough and how an answer is finally produced."
+     ]
+    },
+    {
+     "heading": "Text into numbers: tokens and vectors",
+     "paragraphs": [
+      "Computers calculate with numbers, not letters. Before a language model can do anything with text, the text therefore has to be translated. The first step is called tokenisation. The text is broken into small pieces called tokens.",
+      "A token is not necessarily a whole word. Common words such as “and” or “house” are often a single token. Rare or long words are split into several parts. A long German compound word might be five or six pieces for a model. Punctuation marks and spaces can be tokens of their own too. In English, a token corresponds on average to roughly four letters.",
+      "Why not simply use whole words? Because there are endless words, new ones appear all the time, and names, typos or technical terms would otherwise be missing. With word pieces, on the other hand, any word at all can be assembled. That way a model gets by with a fixed vocabulary of a few tens of thousands to more than a hundred thousand different tokens.",
+      "Each token is given a number. That translates the text into numbers, but those numbers say nothing yet about meaning. So a second step follows: each token is translated into a long vector of numbers, a list of hundreds or thousands of values. Experts call this an embedding.",
+      "You can think of these vectors as coordinates in a vast space. Not in three dimensions like our world, but in thousands. The special thing is that during training, the model learns to arrange the vectors so that tokens with similar meanings end up close together. “Dog” and “cat” land in a similar region; “dog” and “tax return” far apart.",
+      "This produces some surprising properties. Early experiments with such word vectors showed that you can almost do arithmetic with them. Take the vector for “king”, subtract “man” and add “woman”, and you end up near “queen”. A direction in the space stands, in a sense, for a difference in meaning.",
+      "A word does not always have the same meaning, though. “Bank” can be the side of a river or a financial institution. In a modern language model the vector therefore does not stay fixed. It is changed again and again in the network’s later layers, depending on which words surround it. The section on the transformer shows how that works.",
+      "Tokenisation also explains some strange weaknesses of language models. For a long time, they struggled to count the letters in a word. That is because they don’t see words as individual letters at all, but as pieces. For a model, a token is a single unit whose inside it does not look at directly.",
+      "Costs and limits are measured in tokens as well. How much text a model can take into account at once is given as a number of tokens. And providers often charge for the use of their models according to the number of tokens processed.",
+      "Tokens are therefore the basic currency of every language model, both technically and economically."
+     ]
+    },
+    {
+     "heading": "Training: fill in the blank on a gigantic scale",
+     "paragraphs": [
+      "How does a language model learn? At the start, all its parameters are set at random. It produces pure nonsense. Then comes what is called pre-training. The principle is surprisingly simple: the model is given a snippet of text and has to predict the next token.",
+      "Take the sentence “The dog barks loudly”. The model sees “The dog barks” and has to guess the next piece. At first it is way off. But because the correct text is known, you can calculate exactly how wrong the prediction was. A method called backpropagation then works out in which direction every single parameter needs to be nudged a tiny bit so that the prediction is slightly better next time.",
+      "This step is repeated an unimaginable number of times, with trillions of tokens from books, websites, encyclopaedias, scientific texts and computer code. Each time, the parameters are adjusted very slightly. Gradually a network emerges that is very good at predicting how texts typically continue.",
+      "The beauty of this method is that you don’t need people to painstakingly label every text. The right answer is contained in the text itself, because the next word is already known. Experts call this self-supervised learning. That is the only reason such gigantic amounts of data can be used at all.",
+      "To predict well, the model has to learn a lot along the way. Anyone who wants to continue the sentence “The capital of France is” needs a bit of world knowledge. Anyone who wants to continue a crime novel correctly has to remember who the culprit is. And anyone completing computer code has to grasp some of its logic. Pre-training forces the model to absorb all these patterns.",
+      "The effort is enormous. Training large models runs for weeks or months on thousands of specialised graphics processors in big data centres. That costs a great deal of money and energy. This is why only a few companies and organisations can train the very largest models from scratch.",
+      "What is in the training data shapes the model. If the texts contain errors, prejudices or one-sided views, the model can adopt them. If a language is rare on the internet, the model often handles it less well. And it knows nothing about events that happened after data collection ended. This is known as the knowledge cut-off.",
+      "There is also controversy over which texts may be used for training. Many authors, publishers and media companies criticise the fact that their works were used without permission or payment. Court cases on this are under way in several countries. How copyright law will be applied here in future has not yet been decided.",
+      "At the end of pre-training there is a model that knows a great deal about language but is not yet a pleasant conversation partner. It simply continues any text it is given. A later section shows how it becomes an assistant that answers questions."
+     ]
+    },
+    {
+     "heading": "The breakthrough: attention",
+     "paragraphs": [
+      "Language models have been around for a long time. The big leap, however, came with a particular design known as the transformer. It was introduced in June 2017 in a research paper titled “Attention Is All You Need”. Eight researchers who were working at Google at the time had developed it.",
+      "To see why this mattered so much, it helps to look at what came before. Earlier models usually read text word by word, in order, rather like a person running a finger along a line. Information from the beginning of a sentence had to be passed along through many steps and was easily lost on the way. On top of that, this work was hard to spread across many processors at once.",
+      "The transformer does things differently. It looks at all the words in a stretch of text at the same time. At its core is a mechanism called self-attention. For each token, the model calculates how important every other token in the text is to it at that moment. It then blends the information together according to these weights.",
+      "An example makes this clearer. In the sentence “The cat chased the mouse because it was hungry”, it has to become clear who “it” refers to. Attention allows the token “it” to pay particular attention to “cat”. If the sentence instead reads “because it was so fast”, the reference may shift to the mouse. The model learns for itself during training what to pay attention to in which context.",
+      "Many such attention mechanisms work in parallel; experts call them heads. One might focus on grammatical links, another on meanings, a third on position in the sentence. And the whole thing is stacked in many layers, one on top of another. With each layer, the representation of every token becomes richer and more strongly shaped by its context.",
+      "The transformer was originally developed for machine translation, for example from English into German. There it clearly beat the previous methods and could also be trained much faster. Its real advantage only became apparent later, though: because all the words are processed at once, training can be spread superbly across thousands of graphics processors.",
+      "That cleared the way for ever larger models with ever more data. Researchers found that capabilities increased remarkably reliably with size. Almost all of today’s well-known language models are based on the transformer. The 2017 paper is now among the most cited scientific works of the century.",
+      "A nice side note: the title is a nod to the Beatles song “All You Need Is Love”. And all eight authors left Google in the following years to work at other firms or found companies of their own. Several of today’s important AI companies trace their roots directly back to this group.",
+      "Attention comes at a price, however. Because every token looks at every other token, the amount of computation grows sharply as the text gets longer. Much current research is therefore focused on making transformers more efficient."
+     ]
+    },
+    {
+     "heading": "From text completer to assistant",
+     "paragraphs": [
+      "A model that has only been pre-trained is a master at continuing texts. But it is not yet a helpful conversation partner. If you ask it a question, it might not answer it but instead write more questions underneath, because that is what it has seen in documents full of questions. It does what is typical on the internet, not necessarily what you want.",
+      "That is why a second training step follows, known as supervised fine-tuning. For this, people write many example conversations: a question or request and a good, helpful answer to it. The model is trained further on these examples and so learns the format of a dialogue. It now understands better that a question should be followed by an answer.",
+      "The third step has an unwieldy name: reinforcement learning from human feedback, or RLHF for short. Here, the model generates several answers to a question. People judge which of them is better, more helpful, more honest or more harmless. From many such judgements, a second model is trained that can predict which answers people prefer.",
+      "This rating model then acts as a kind of coach. The language model tries out answers, receives a score for them and adapts so that it produces high-scoring answers more often. Step by step it becomes more helpful, and it also learns to decline certain harmful requests.",
+      "There are now variations on this method. Some companies have answers rated partly by other AI systems according to a set of principles, rather than only by humans. Others skip the separate rating model and train directly on pairs of better and worse answers. The goal is similar everywhere: a model that behaves the way people want it to.",
+      "This step explains the typical tone of many chatbots. They are polite, like to structure their answers with bullet points and point out uncertainties. That is no accident but the result of a great many human judgements. At the same time, this training can also have unwanted effects, such as a model agreeing too readily with the user.",
+      "On top of that come instructions you never see. Many providers give their model a so-called system prompt before every conversation. It states what role the model should play, which rules apply and which tools it may use. One and the same underlying model can therefore come across quite differently depending on what it is being used for.",
+      "Modern assistants can also use tools. They search the internet, calculate with a calculator, run computer code or read uploaded documents. Technically, the model produces a special piece of text that calls the tool and then receives the result. In this way some of the weaknesses of a pure language model can be offset.",
+      "So you can picture the whole journey in three stages: first read an enormous amount, then study example conversations and finally learn from feedback what makes a good answer."
+     ]
+    },
+    {
+     "heading": "How an answer is produced",
+     "paragraphs": [
+      "What happens when you send a question? First your text is split into tokens. Together with the conversation so far and the provider’s invisible instructions, it then passes through all the layers of the model. What comes out at the end is not a finished answer but a list of probabilities for the next token.",
+      "So the model says, for example: there is a forty percent chance the next token is “The”, fifteen percent for “Good”, ten percent for “That”, and so on, for every token in its vocabulary. One token is chosen from this distribution. The chosen token is then added to the text, and the whole process starts again. Token by token, the answer takes shape.",
+      "That is why, with many chatbots, you see the answer appear on the screen bit by bit. It is not a visual effect. The model really does produce the text one piece after another. Each new token depends on all the previous ones, including those the model itself has just written.",
+      "There is some leeway in the choice. If the model always took the most likely token, its answers would often be dull and repetitive. So the choice is usually made with a certain amount of randomness. A dial that experts call temperature determines how much. A low temperature means predictable answers; a high temperature means more creative ones, but also more error-prone ones.",
+      "This explains why you can get two different answers to the same question. In a sense, the model rolls the dice at every step, albeit with heavily loaded dice. Usually the answers are similar at their core but differ in wording and details.",
+      "How much a model can keep in view at once is determined by its so-called context window. It is measured in tokens. Early models could only take a few pages of text into account. Current models can sometimes handle hundreds of thousands of tokens or more, the equivalent of several books. Whatever lies outside the window does not exist for the model at that moment.",
+      "Importantly, a language model does not learn while you talk to it. Its parameters stay unchanged while it is being used. The fact that it remembers earlier parts of the conversation is only because the whole conversation so far is sent along again each time. Some providers also store notes about earlier conversations and quietly add them to the context.",
+      "Newer models also use a kind of pause for thought. Before they answer, they first generate a longer internal chain of reasoning in which they break the problem down into steps. Only then do they formulate the actual answer. For tasks such as maths or programming this often improves the results considerably, but it costs more computing time.",
+      "Every answer, then, is the result of many small decisions based on probability. That makes the models flexible and creative, but it also explains why they sometimes get things wrong, as the next section shows."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Language models turn text into numbers and learn the patterns of language by predicting the next token.",
+    "The transformer lets every word keep all the others in view and so made it possible to train huge models.",
+    "Only fine-tuning and human feedback turn a text-completion machine into an assistant that weighs probabilities with every answer."
+   ]
+  },
+  "20": {
+   "words": 4156,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "In November 2022 the company OpenAI released a chatbot called ChatGPT. Within a few weeks millions of people had tried it, and suddenly artificial intelligence was an everyday topic. In this article you will learn what large language models are, how they translate language into numbers, how they learn, which idea made them so powerful, why they sometimes say convincing things that are wrong and what they mean for our society."
+     ]
+    },
+    {
+     "heading": "What a language model is",
+     "paragraphs": [
+      "A language model is a computer program that has learned how language works. More precisely, it has learned which words and parts of words are likely to follow one another in a given context. If you start a sentence, it can estimate how the sentence might continue.",
+      "You know a simple example from your smartphone. As you type, the keyboard suggests the next word. If you write “I’ll be a bit”, it might offer “late”. That is a tiny language model. The large models behind chatbots work on a related principle, but they are unimaginably larger and more capable.",
+      "The word large refers to two things. First, to the amount of text a model has been trained on. That means books, websites, articles, forums and computer code, often many trillions of word pieces in total. Second, to the number of so-called parameters. These are the adjustable numbers inside the model. Modern models have billions of them, some hundreds of billions.",
+      "Technically, a language model is an artificial neural network. The name comes from a loose resemblance to nerve cells in the brain. In reality it is a huge chain of calculations. Inputs are translated into numbers, processed through many layers, and at the end out comes another number that can be turned back into text.",
+      "It is important to understand what a language model is not. It is not a database in which facts are neatly stored and looked up. Nor is it a search engine that checks the internet. Everything it knows is spread across its parameters, as patterns it has taken away from training. That explains both its strengths and its typical mistakes.",
+      "What is remarkable is how much emerges from this simple principle. To predict well how a text will continue, a model has to learn a great deal: grammar, the meanings of words, facts about the world, styles of writing, even simple logical connections. Nobody taught it these things one by one. They emerged during training, almost as a side effect.",
+      "Each of these models has its own strengths and weaknesses, and they are updated frequently, so comparisons quickly go out of date.",
+      "Today there are many such models from different companies and research groups. Well-known examples include ChatGPT from OpenAI, Gemini from Google, Claude from Anthropic and Llama from Meta. Some can only be used over the internet; others are released openly, so anyone can download them and run them on their own computers.",
+      "Whether a language model really understands language is an open and fascinating question. Some experts see them as little more than very good pattern recognisers. Others think it is possible that a kind of internal model of the world forms during training. What is certain is that the results are often astonishing, and that is exactly why it is worth understanding how they come about.",
+      "The following sections take you inside step by step: how text becomes numbers, how training works, which invention brought the breakthrough and how an answer is finally produced."
+     ]
+    },
+    {
+     "heading": "Text into numbers: tokens and vectors",
+     "paragraphs": [
+      "Computers calculate with numbers, not letters. Before a language model can do anything with text, the text therefore has to be translated. The first step is called tokenisation. The text is broken into small pieces called tokens.",
+      "A token is not necessarily a whole word. Common words such as “and” or “house” are often a single token. Rare or long words are split into several parts. A long German compound word might be five or six pieces for a model. Punctuation marks and spaces can be tokens of their own too. In English, a token corresponds on average to roughly four letters.",
+      "Why not simply use whole words? Because there are endless words, new ones appear all the time, and names, typos or technical terms would otherwise be missing. With word pieces, on the other hand, any word at all can be assembled. That way a model gets by with a fixed vocabulary of a few tens of thousands to more than a hundred thousand different tokens.",
+      "Each token is given a number. That translates the text into numbers, but those numbers say nothing yet about meaning. So a second step follows: each token is translated into a long vector of numbers, a list of hundreds or thousands of values. Experts call this an embedding.",
+      "You can think of these vectors as coordinates in a vast space. Not in three dimensions like our world, but in thousands. The special thing is that during training, the model learns to arrange the vectors so that tokens with similar meanings end up close together. “Dog” and “cat” land in a similar region; “dog” and “tax return” far apart.",
+      "This produces some surprising properties. Early experiments with such word vectors showed that you can almost do arithmetic with them. Take the vector for “king”, subtract “man” and add “woman”, and you end up near “queen”. A direction in the space stands, in a sense, for a difference in meaning.",
+      "A word does not always have the same meaning, though. “Bank” can be the side of a river or a financial institution. In a modern language model the vector therefore does not stay fixed. It is changed again and again in the network’s later layers, depending on which words surround it. The section on the transformer shows how that works.",
+      "Tokenisation also explains some strange weaknesses of language models. For a long time, they struggled to count the letters in a word. That is because they don’t see words as individual letters at all, but as pieces. For a model, a token is a single unit whose inside it does not look at directly.",
+      "Costs and limits are measured in tokens as well. How much text a model can take into account at once is given as a number of tokens. And providers often charge for the use of their models according to the number of tokens processed.",
+      "Tokens are therefore the basic currency of every language model, both technically and economically."
+     ]
+    },
+    {
+     "heading": "Training: fill in the blank on a gigantic scale",
+     "paragraphs": [
+      "How does a language model learn? At the start, all its parameters are set at random. It produces pure nonsense. Then comes what is called pre-training. The principle is surprisingly simple: the model is given a snippet of text and has to predict the next token.",
+      "Take the sentence “The dog barks loudly”. The model sees “The dog barks” and has to guess the next piece. At first it is way off. But because the correct text is known, you can calculate exactly how wrong the prediction was. A method called backpropagation then works out in which direction every single parameter needs to be nudged a tiny bit so that the prediction is slightly better next time.",
+      "This step is repeated an unimaginable number of times, with trillions of tokens from books, websites, encyclopaedias, scientific texts and computer code. Each time, the parameters are adjusted very slightly. Gradually a network emerges that is very good at predicting how texts typically continue.",
+      "The beauty of this method is that you don’t need people to painstakingly label every text. The right answer is contained in the text itself, because the next word is already known. Experts call this self-supervised learning. That is the only reason such gigantic amounts of data can be used at all.",
+      "To predict well, the model has to learn a lot along the way. Anyone who wants to continue the sentence “The capital of France is” needs a bit of world knowledge. Anyone who wants to continue a crime novel correctly has to remember who the culprit is. And anyone completing computer code has to grasp some of its logic. Pre-training forces the model to absorb all these patterns.",
+      "The effort is enormous. Training large models runs for weeks or months on thousands of specialised graphics processors in big data centres. That costs a great deal of money and energy. This is why only a few companies and organisations can train the very largest models from scratch.",
+      "What is in the training data shapes the model. If the texts contain errors, prejudices or one-sided views, the model can adopt them. If a language is rare on the internet, the model often handles it less well. And it knows nothing about events that happened after data collection ended. This is known as the knowledge cut-off.",
+      "There is also controversy over which texts may be used for training. Many authors, publishers and media companies criticise the fact that their works were used without permission or payment. Court cases on this are under way in several countries. How copyright law will be applied here in future has not yet been decided.",
+      "At the end of pre-training there is a model that knows a great deal about language but is not yet a pleasant conversation partner. It simply continues any text it is given. A later section shows how it becomes an assistant that answers questions."
+     ]
+    },
+    {
+     "heading": "The breakthrough: attention",
+     "paragraphs": [
+      "Language models have been around for a long time. The big leap, however, came with a particular design known as the transformer. It was introduced in June 2017 in a research paper titled “Attention Is All You Need”. Eight researchers who were working at Google at the time had developed it.",
+      "To see why this mattered so much, it helps to look at what came before. Earlier models usually read text word by word, in order, rather like a person running a finger along a line. Information from the beginning of a sentence had to be passed along through many steps and was easily lost on the way. On top of that, this work was hard to spread across many processors at once.",
+      "The transformer does things differently. It looks at all the words in a stretch of text at the same time. At its core is a mechanism called self-attention. For each token, the model calculates how important every other token in the text is to it at that moment. It then blends the information together according to these weights.",
+      "An example makes this clearer. In the sentence “The cat chased the mouse because it was hungry”, it has to become clear who “it” refers to. Attention allows the token “it” to pay particular attention to “cat”. If the sentence instead reads “because it was so fast”, the reference may shift to the mouse. The model learns for itself during training what to pay attention to in which context.",
+      "Many such attention mechanisms work in parallel; experts call them heads. One might focus on grammatical links, another on meanings, a third on position in the sentence. And the whole thing is stacked in many layers, one on top of another. With each layer, the representation of every token becomes richer and more strongly shaped by its context.",
+      "The transformer was originally developed for machine translation, for example from English into German. There it clearly beat the previous methods and could also be trained much faster. Its real advantage only became apparent later, though: because all the words are processed at once, training can be spread superbly across thousands of graphics processors.",
+      "That cleared the way for ever larger models with ever more data. Researchers found that capabilities increased remarkably reliably with size. Almost all of today’s well-known language models are based on the transformer. The 2017 paper is now among the most cited scientific works of the century.",
+      "A nice side note: the title is a nod to the Beatles song “All You Need Is Love”. And all eight authors left Google in the following years to work at other firms or found companies of their own. Several of today’s important AI companies trace their roots directly back to this group.",
+      "Attention comes at a price, however. Because every token looks at every other token, the amount of computation grows sharply as the text gets longer. Much current research is therefore focused on making transformers more efficient."
+     ]
+    },
+    {
+     "heading": "From text completer to assistant",
+     "paragraphs": [
+      "A model that has only been pre-trained is a master at continuing texts. But it is not yet a helpful conversation partner. If you ask it a question, it might not answer it but instead write more questions underneath, because that is what it has seen in documents full of questions. It does what is typical on the internet, not necessarily what you want.",
+      "That is why a second training step follows, known as supervised fine-tuning. For this, people write many example conversations: a question or request and a good, helpful answer to it. The model is trained further on these examples and so learns the format of a dialogue. It now understands better that a question should be followed by an answer.",
+      "The third step has an unwieldy name: reinforcement learning from human feedback, or RLHF for short. Here, the model generates several answers to a question. People judge which of them is better, more helpful, more honest or more harmless. From many such judgements, a second model is trained that can predict which answers people prefer.",
+      "This rating model then acts as a kind of coach. The language model tries out answers, receives a score for them and adapts so that it produces high-scoring answers more often. Step by step it becomes more helpful, and it also learns to decline certain harmful requests.",
+      "There are now variations on this method. Some companies have answers rated partly by other AI systems according to a set of principles, rather than only by humans. Others skip the separate rating model and train directly on pairs of better and worse answers. The goal is similar everywhere: a model that behaves the way people want it to.",
+      "This step explains the typical tone of many chatbots. They are polite, like to structure their answers with bullet points and point out uncertainties. That is no accident but the result of a great many human judgements. At the same time, this training can also have unwanted effects, such as a model agreeing too readily with the user.",
+      "On top of that come instructions you never see. Many providers give their model a so-called system prompt before every conversation. It states what role the model should play, which rules apply and which tools it may use. One and the same underlying model can therefore come across quite differently depending on what it is being used for.",
+      "Modern assistants can also use tools. They search the internet, calculate with a calculator, run computer code or read uploaded documents. Technically, the model produces a special piece of text that calls the tool and then receives the result. In this way some of the weaknesses of a pure language model can be offset.",
+      "So you can picture the whole journey in three stages: first read an enormous amount, then study example conversations and finally learn from feedback what makes a good answer."
+     ]
+    },
+    {
+     "heading": "How an answer is produced",
+     "paragraphs": [
+      "What happens when you send a question? First your text is split into tokens. Together with the conversation so far and the provider’s invisible instructions, it then passes through all the layers of the model. What comes out at the end is not a finished answer but a list of probabilities for the next token.",
+      "So the model says, for example: there is a forty percent chance the next token is “The”, fifteen percent for “Good”, ten percent for “That”, and so on, for every token in its vocabulary. One token is chosen from this distribution. The chosen token is then added to the text, and the whole process starts again. Token by token, the answer takes shape.",
+      "That is why, with many chatbots, you see the answer appear on the screen bit by bit. It is not a visual effect. The model really does produce the text one piece after another. Each new token depends on all the previous ones, including those the model itself has just written.",
+      "There is some leeway in the choice. If the model always took the most likely token, its answers would often be dull and repetitive. So the choice is usually made with a certain amount of randomness. A dial that experts call temperature determines how much. A low temperature means predictable answers; a high temperature means more creative ones, but also more error-prone ones.",
+      "This explains why you can get two different answers to the same question. In a sense, the model rolls the dice at every step, albeit with heavily loaded dice. Usually the answers are similar at their core but differ in wording and details.",
+      "How much a model can keep in view at once is determined by its so-called context window. It is measured in tokens. Early models could only take a few pages of text into account. Current models can sometimes handle hundreds of thousands of tokens or more, the equivalent of several books. Whatever lies outside the window does not exist for the model at that moment.",
+      "Importantly, a language model does not learn while you talk to it. Its parameters stay unchanged while it is being used. The fact that it remembers earlier parts of the conversation is only because the whole conversation so far is sent along again each time. Some providers also store notes about earlier conversations and quietly add them to the context.",
+      "Newer models also use a kind of pause for thought. Before they answer, they first generate a longer internal chain of reasoning in which they break the problem down into steps. Only then do they formulate the actual answer. For tasks such as maths or programming this often improves the results considerably, but it costs more computing time.",
+      "Every answer, then, is the result of many small decisions based on probability. That makes the models flexible and creative, but it also explains why they sometimes get things wrong, as the next section shows."
+     ]
+    },
+    {
+     "heading": "Hallucinations and other limits",
+     "paragraphs": [
+      "Language models almost always sound confident. That is precisely what makes one of their biggest weaknesses so treacherous. They sometimes invent facts, quotations, sources or figures that seem plausible but are simply wrong. Experts call this hallucination.",
+      "The reason lies in the basic principle. A language model produces what is most probable, not what is true. It has no built-in database of facts against which it checks its statements. If a pattern suggests that a year, a book title or a name should appear at a certain point, it supplies something that fits, even if it does not know for sure.",
+      "Rare facts are especially vulnerable. The model has read a great deal about well-known subjects during training, and its statements about them are correspondingly often right. With niche knowledge, exact figures or details about little-known people, it becomes less reliable. That is exactly where you should look closely. Invented references to sources that don’t exist are a well-known example.",
+      "Researchers are working hard to reduce hallucinations. One important approach is to give the model reliable information to work with. A system first searches documents or the internet for relevant passages and presents them to the model. The model then bases its answer on them and can name the sources. But that does not make the problem disappear completely.",
+      "A second limit is knowledge over time. A model only knows what was in its training data up to its knowledge cut-off. Without searching the internet, it cannot say anything reliable about current events. Sometimes it doesn’t even know exactly how up to date its own knowledge is.",
+      "Third, models adopt biases from their data. If certain groups are often portrayed one-sidedly in texts, the model can reproduce such patterns. Providers try to weaken this during fine-tuning. That never fully succeeds, and what counts as balanced is itself often disputed.",
+      "For a long time, language models also made typical mistakes with arithmetic and strictly logical tasks, because they see numbers as tokens and don’t work like a calculator. Newer models have become much better at this, partly because they proceed step by step or use tools. But they are not error-free.",
+      "For everyday use this leads to a simple rule: language models are excellent helpers for drafting, summarising, explaining and brainstorming. But for important facts, or for medical, legal or financial questions, you should always check their answers against reliable sources or ask experts.",
+      "You could sum it up like this: a language model is like a very well-read, fast and helpful conversation partner who sometimes prefers to say something plausible rather than admit that it doesn’t know."
+     ]
+    },
+    {
+     "heading": "What language models mean for us",
+     "paragraphs": [
+      "The speed at which this technology has spread is unprecedented. ChatGPT went online at the end of November 2022. According to an analysis by the Swiss bank UBS, an estimated hundred million people were already using it every month by January 2023, just over two months later. For comparison, TikTok took about nine months to get there, and Instagram about two and a half years.",
+      "Today, language models are built into many programs we use every day: search engines, word processors, email programs and programming tools. Companies use them in customer service, students use them for learning, and developers use them to write code. Much of this saves time; some of it is changing entire professions.",
+      "Some of these uses are mundane, such as summarising long emails, while others, such as helping researchers search the scientific literature, could have a much larger impact over time.",
+      "This raises many questions to which there are no final answers yet. Which jobs will change or disappear, and which new ones will emerge? Experts disagree about how strongly and how quickly the labour market will change. What is clear is that many professions will change, especially those that involve a lot of work with text.",
+      "Another issue is the demand for energy and resources. Training and running large models require a lot of electricity and powerful data centres. How large their share of global energy consumption will become depends on how efficient the technology gets and how heavily it is used. This is the subject of intense debate.",
+      "Trust in information is also at stake. Language models can produce convincing texts in large quantities, including false or manipulative ones. That makes disinformation easier. At the same time, similar methods help to detect such content. Schools and universities are also asking themselves what exams should look like in future.",
+      "Governments and companies are also experimenting with labels for AI-generated content, so that people can tell more easily where a text or an image comes from. How well such labels work in practice is still being tested.",
+      "Legally, much is still in flux. The European Union has passed the AI Act, a law that regulates AI systems with different degrees of strictness depending on their risk. Questions of copyright, data protection and liability for errors are only now being settled in many countries.",
+      "And then there is the big question of how intelligent these systems really are. Some experts consider merely predicting text to be a dead end on the road to genuine intelligence. Others see the rapid progress as a sign that much more is possible. The debate is open, and it starts afresh with every new model.",
+      "The question of who controls this technology is also becoming louder. Only a handful of companies can train the very largest models. Many experts are therefore calling for transparency about how models are built, which data are used and how they are tested before release.",
+      "What is certain is that language models will keep getting better. They now process not only text but also images, audio and video. They carry out multi-step tasks on their own and work together with other programs. If you understand how they work at their core, you can make better use of their strengths and better judge their weaknesses.",
+      "Perhaps that is the most important insight: behind the apparent magic lies an understandable principle. A language model is a tool, a very powerful one, but one that we should use with good sense and a critical eye.",
+      "Understanding the basics is the first step towards using it wisely."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "A large language model is a neural network that has learned from vast amounts of text to predict the next piece of text.",
+    "Transformers, training with human feedback and huge computing power turn this into versatile assistants.",
+    "Hallucinations, biases and open questions for society show that their answers should be checked critically."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "title": "Attention Is All You Need",
+   "publisher": "Vaswani und andere, Google Brain und Google Research, arXiv",
+   "url": "https://arxiv.org/abs/1706.03762",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "ChatGPT sets record for fastest-growing user base",
+   "publisher": "Reuters",
+   "url": "https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "A Survey on Hallucination in Large Language Models",
+   "publisher": "Huang und andere, arXiv",
+   "url": "https://arxiv.org/abs/2311.05232",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "A Philosophical Introduction to Language Models, Part I",
+   "publisher": "Millière und Buckner, arXiv",
+   "url": "https://arxiv.org/abs/2401.03910",
+   "accessed": "2026-11-03"
+  }
+ ],
+ "factCheckedAt": "2026-11-03"
+}

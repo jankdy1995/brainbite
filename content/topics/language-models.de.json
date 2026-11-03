@@ -1,0 +1,402 @@
+{
+ "id": "language-models",
+ "lang": "de",
+ "title": "Wie Sprachmodelle funktionieren",
+ "versions": {
+  "5": {
+   "words": 904,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Du tippst eine Frage ein, und Sekunden später antwortet dir ein Programm in ganzen Sätzen, höflich, flüssig und oft erstaunlich treffend. Hinter Chatbots wie ChatGPT, Gemini oder Claude stecken sogenannte große Sprachmodelle. In fünf Minuten erfährst du, was sie eigentlich tun, wie sie lernen und warum man ihnen trotzdem nicht alles glauben sollte."
+     ]
+    },
+    {
+     "heading": "Was ein Sprachmodell macht",
+     "paragraphs": [
+      "Ein Sprachmodell ist ein Programm, das gelernt hat, wie Texte typischerweise weitergehen. Du kennst ein winziges Beispiel von deinem Smartphone: Beim Tippen schlägt die Tastatur das nächste Wort vor. Große Sprachmodelle funktionieren nach einem verwandten Prinzip, nur in einem unvorstellbar größeren Maßstab.",
+      "Zuerst wird dein Text in kleine Stücke zerlegt, sogenannte Tokens. Das sind ganze Wörter oder Wortteile. Jedes Stück wird in Zahlen übersetzt, denn Computer rechnen mit Zahlen. Dann berechnet das Modell, welches Stück als Nächstes am wahrscheinlichsten folgt. Dieses Stück wird angehängt, und das Ganze beginnt von vorn. So entsteht eine Antwort Stück für Stück.",
+      "Wie gut diese Vorhersagen sind, hängt von der Größe ab. Moderne Modelle haben Milliarden einstellbarer Zahlenwerte und wurden mit Billionen von Wortteilen trainiert. Um gut vorherzusagen, mussten sie nebenbei Grammatik, Wortbedeutungen, Fakten und Schreibstile lernen. Niemand hat ihnen diese Dinge einzeln beigebracht.",
+      "Deshalb siehst du bei Chatbots oft, wie der Text nach und nach auf dem Bildschirm erscheint. Das Modell schreibt wirklich Token für Token. Und weil bei jedem Schritt ein wenig Zufall im Spiel ist, kann dieselbe Frage zu unterschiedlich formulierten Antworten führen.",
+      "Was ein Modell weiß, hängt deshalb stark davon ab, womit es trainiert wurde. Über häufig besprochene Themen weiß es viel, über seltene deutlich weniger.",
+      "Wichtig: Ein Sprachmodell ist keine Datenbank und keine Suchmaschine. Was es weiß, steckt verteilt in Milliarden von Zahlenwerten, den Parametern. Es kennt nur, was bis zu einem bestimmten Stichtag in seinen Trainingsdaten stand.",
+      "Ob ein Sprachmodell Sprache wirklich versteht oder nur sehr gut Muster erkennt, darüber streiten Fachleute bis heute. Fest steht: Die Ergebnisse sind oft verblüffend gut, und genau deshalb lohnt es sich, das Prinzip dahinter zu kennen."
+     ]
+    },
+    {
+     "heading": "Wie es lernt",
+     "paragraphs": [
+      "Das Training beginnt mit einem riesigen Lückentext. Das Modell liest Billionen von Wortteilen aus Büchern, Webseiten und Programmcode und soll immer das nächste Stück vorhersagen. Liegt es falsch, werden seine Zahlenwerte ein winziges bisschen verstellt. Das wiederholt sich unzählige Male, wochenlang, auf Tausenden spezialisierter Prozessoren.",
+      "Das Besondere an diesem Verfahren: Man braucht keine Menschen, die jeden Text beschriften. Die richtige Antwort steckt im Text selbst, denn das nächste Wort ist ja bekannt. Nur deshalb lassen sich so gigantische Datenmengen nutzen. Der Aufwand ist trotzdem enorm und kostet viel Geld und Energie.",
+      "Möglich wurde das durch eine Erfindung von 2017, den sogenannten Transformer. Acht Forscher, die damals bei Google arbeiteten, stellten ihn vor. Er erlaubt es, dass jedes Wort alle anderen Wörter eines Textes gleichzeitig im Blick hat und gewichtet, welche gerade wichtig sind. Weil das parallel geschieht, lassen sich riesige Modelle schnell trainieren.",
+      "Der Transformer stammt übrigens aus einem Fachaufsatz mit dem Titel „Attention Is All You Need“. Fast alle heutigen Sprachmodelle bauen auf dieser Idee auf.",
+      "Danach ist das Modell ein Meister im Fortsetzen von Texten, aber noch kein guter Gesprächspartner. Deshalb folgt ein zweiter Schritt: Menschen schreiben Beispielgespräche und bewerten, welche von mehreren Antworten besser ist. Aus diesem Feedback lernt das Modell, hilfreich, höflich und ehrlich zu antworten.",
+      "Was in den Trainingsdaten steckt, prägt das Modell. Fehler und Vorurteile in den Texten können sich deshalb in seinen Antworten wiederfinden.",
+      "Umstritten ist außerdem, welche Texte überhaupt für das Training verwendet werden dürfen. Viele Autorinnen und Verlage kritisieren, dass ihre Werke ohne Erlaubnis genutzt wurden. Darüber wird in mehreren Ländern vor Gericht gestritten.",
+      "Auch deshalb lohnt es sich, Antworten mit eigenen Augen zu prüfen."
+     ]
+    },
+    {
+     "heading": "Stärken und Grenzen",
+     "paragraphs": [
+      "Sprachmodelle sind stark im Formulieren, Zusammenfassen, Übersetzen und Erklären. Sie helfen beim Programmieren und beim Sammeln von Ideen. Entsprechend schnell haben sie sich verbreitet: ChatGPT erreichte nach einer Analyse der Bank UBS nur gut zwei Monate nach dem Start im November 2022 schätzungsweise hundert Millionen Menschen im Monat.",
+      "Inzwischen stecken sie in Suchmaschinen, Textprogrammen und Programmierwerkzeugen. Viele Menschen nutzen sie täglich, oft ohne es zu merken.",
+      "Ihre größte Schwäche heißt Halluzination. Weil ein Sprachmodell das Wahrscheinlichste erzeugt und nicht das geprüft Wahre, erfindet es manchmal Fakten, Zahlen oder Quellen, die plausibel klingen, aber falsch sind. Besonders bei seltenem Wissen passiert das leicht.",
+      "Eine weitere Grenze ist die Zeit. Ein Modell kennt nur, was bis zu einem bestimmten Stichtag in seinen Daten stand. Über aktuelle Ereignisse kann es ohne Internetsuche nichts Verlässliches sagen. Außerdem können sich Vorurteile aus den Trainingsdaten in seinen Antworten wiederfinden.",
+      "Abhilfe schaffen zum Beispiel Systeme, die zuerst in verlässlichen Dokumenten suchen und dem Modell die Fundstellen mitgeben. Ganz verschwinden die Fehler dadurch aber nicht.",
+      "Mit der Verbreitung kommen große Fragen: Wie verändern Sprachmodelle die Arbeitswelt? Wie viel Energie brauchen die Rechenzentren? Und wie schützen wir uns vor massenhaft erzeugter Desinformation? Darauf gibt es noch keine endgültigen Antworten.",
+      "Deshalb gilt: Bei wichtigen Fakten oder bei Fragen zu Gesundheit, Recht und Geld sollte man die Antworten immer mit verlässlichen Quellen abgleichen. Ein Sprachmodell ist ein mächtiges Werkzeug, aber eines, das man mit kritischem Blick nutzen sollte.",
+      "Wer das Prinzip versteht, kann Sprachmodelle klüger einsetzen."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Ein Sprachmodell sagt immer wieder vorher, welches Textstück als Nächstes am wahrscheinlichsten folgt.",
+    "Es lernt das aus riesigen Textmengen und wird anschließend mit menschlichem Feedback zu einem hilfreichen Assistenten geformt.",
+    "Weil es Muster statt geprüfter Fakten nutzt, kann es überzeugend klingende Fehler machen, die man selbst prüfen sollte."
+   ]
+  },
+  "10": {
+   "words": 2192,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Seit Ende 2022 schreiben Millionen Menschen jeden Tag mit Computerprogrammen, als wären es Gesprächspartner. Sie lassen sich Texte formulieren, Code erklären oder Rezepte vorschlagen. Doch was passiert eigentlich im Inneren eines solchen Sprachmodells? In den nächsten zehn Minuten erfährst du, nach welchem Prinzip es arbeitet, welche Erfindung von 2017 alles verändert hat, wie aus einem Textvervollständiger ein hilfreicher Assistent wird und wo die Grenzen liegen."
+     ]
+    },
+    {
+     "heading": "Das Grundprinzip",
+     "paragraphs": [
+      "Ein Sprachmodell ist ein Computerprogramm, das gelernt hat, welche Wortteile in welchem Zusammenhang wahrscheinlich aufeinander folgen. Ein einfaches Beispiel kennst du von der Smartphone-Tastatur, die beim Tippen das nächste Wort vorschlägt. Die großen Modelle hinter Chatbots arbeiten nach einem verwandten Prinzip, sind aber unvorstellbar viel größer.",
+      "Groß heißt zweierlei. Erstens wurden sie mit gewaltigen Textmengen trainiert, mit Büchern, Webseiten, Artikeln und Programmcode, oft viele Billionen Wortteile. Zweitens besitzen sie Milliarden einstellbarer Zahlenwerte, die sogenannten Parameter. In ihnen steckt alles, was das Modell gelernt hat, verteilt als Muster.",
+      "Damit ein Computer mit Text rechnen kann, wird dieser zuerst in kleine Stücke zerlegt, die Tokens. Häufige Wörter sind meist ein Token, seltene werden in mehrere Teile zerlegt. Jedes Token wird dann in eine lange Liste von Zahlen übersetzt. Im Training lernt das Modell, diese Zahlen so zu wählen, dass Wörter mit ähnlicher Bedeutung ähnliche Werte bekommen.",
+      "Das Training selbst ist im Kern ein riesiger Lückentext. Das Modell sieht einen Textausschnitt und soll das nächste Token vorhersagen. Da der richtige Text bekannt ist, lässt sich berechnen, wie falsch es lag, und alle Parameter werden ein winziges bisschen in die richtige Richtung verstellt. Das wiederholt sich Billionen Male, über Wochen, auf Tausenden spezialisierter Prozessoren.",
+      "Um dabei gut zu werden, muss das Modell nebenbei sehr viel lernen: Grammatik, Wortbedeutungen, Fakten, Schreibstile und einfache logische Zusammenhänge. Niemand bringt ihm diese Dinge einzeln bei. Sie entstehen, weil sie für gute Vorhersagen nützlich sind.",
+      "Wichtig ist, was ein Sprachmodell nicht ist. Es ist keine Datenbank, in der Fakten sauber abgelegt sind, und keine Suchmaschine. Was es weiß, steckt verteilt in seinen Parametern. Und es kennt nur, was bis zu einem bestimmten Stichtag in seinen Daten stand.",
+      "Was in den Trainingsdaten steckt, prägt außerdem sein Verhalten. Enthalten die Texte Fehler oder Vorurteile, kann das Modell sie übernehmen. Ob ein Sprachmodell Sprache wirklich versteht oder nur sehr gut Muster erkennt, darüber streiten Fachleute bis heute.",
+      "Wie aus diesem Prinzip ein leistungsfähiger Assistent wird, zeigen die nächsten Abschnitte: die Erfindung, die alles beschleunigt hat, das Training mit menschlichem Feedback, die Entstehung einer Antwort und die typischen Fehler."
+     ]
+    },
+    {
+     "heading": "Der Durchbruch: Aufmerksamkeit",
+     "paragraphs": [
+      "Sprachmodelle gibt es schon lange. Der große Sprung kam aber erst mit einer bestimmten Bauweise, dem sogenannten Transformer. Vorgestellt wurde er im Juni 2017 in einem Fachaufsatz mit dem Titel „Attention Is All You Need“, auf Deutsch ungefähr: Aufmerksamkeit ist alles, was du brauchst. Acht Forscher, die damals bei Google arbeiteten, hatten ihn entwickelt.",
+      "Um zu verstehen, warum das so wichtig war, hilft ein Blick auf die Zeit davor. Frühere Modelle lasen Text meist Wort für Wort, der Reihe nach, ähnlich wie ein Mensch, der mit dem Finger die Zeile entlangfährt. Informationen vom Satzanfang mussten durch viele Schritte weitergereicht werden und gingen dabei leicht verloren. Außerdem ließ sich diese Arbeit schlecht auf viele Prozessoren gleichzeitig verteilen.",
+      "Der Transformer macht es anders. Er betrachtet alle Wörter eines Textabschnitts gleichzeitig. Der Kern ist ein Mechanismus namens Selbstaufmerksamkeit. Für jedes Token berechnet das Modell, wie wichtig jedes andere Token im Text gerade für es ist. Dann mischt es die Informationen entsprechend dieser Gewichte zusammen.",
+      "Ein Beispiel macht das anschaulich. Im Satz „Die Katze jagte die Maus, weil sie hungrig war“ muss klar werden, wer mit „sie“ gemeint ist. Die Aufmerksamkeit erlaubt es dem Token „sie“, besonders stark auf „Katze“ zu achten. Heißt der Satz dagegen „weil sie so schnell war“, kann sich der Bezug auf die Maus verschieben. Das Modell lernt im Training selbst, worauf es in welchem Zusammenhang achten muss.",
+      "Dabei arbeiten viele solcher Aufmerksamkeitsmechanismen parallel, die Fachleute Köpfe nennen. Der eine achtet vielleicht auf grammatische Bezüge, ein anderer auf Bedeutungen, ein dritter auf die Position im Satz. Und das Ganze wird in vielen Schichten übereinander gestapelt. Mit jeder Schicht wird die Darstellung jedes Tokens reicher und stärker vom Zusammenhang geprägt.",
+      "Ursprünglich wurde der Transformer für die maschinelle Übersetzung entwickelt, etwa vom Englischen ins Deutsche. Dort schlug er die bisherigen Verfahren deutlich und ließ sich zudem viel schneller trainieren. Der eigentliche Vorteil zeigte sich aber erst später: Weil alle Wörter gleichzeitig verarbeitet werden, lässt sich das Training hervorragend auf Tausende Grafikprozessoren verteilen.",
+      "Damit war der Weg frei für immer größere Modelle mit immer mehr Daten. Forschende stellten fest, dass die Fähigkeiten mit der Größe erstaunlich zuverlässig zunahmen. Fast alle heute bekannten Sprachmodelle beruhen auf dem Transformer. Der Fachaufsatz von 2017 gehört inzwischen zu den meistzitierten wissenschaftlichen Arbeiten des Jahrhunderts.",
+      "Eine nette Randnotiz: Der Titel spielt auf das Beatles-Lied „All You Need Is Love“ an. Und alle acht Autoren verließen Google in den folgenden Jahren, um in anderen Firmen zu arbeiten oder eigene Unternehmen zu gründen. Mehrere der heute wichtigen KI-Firmen gehen so direkt auf diese Gruppe zurück.",
+      "Die Aufmerksamkeit hat allerdings einen Preis. Weil jedes Token jedes andere betrachtet, wächst der Rechenaufwand stark, wenn der Text länger wird. Viele aktuelle Forschungsarbeiten beschäftigen sich deshalb damit, Transformer effizienter zu machen."
+     ]
+    },
+    {
+     "heading": "Vom Textvervollständiger zum Assistenten",
+     "paragraphs": [
+      "Ein Modell, das nur vortrainiert wurde, ist ein Meister im Fortsetzen von Texten. Ein hilfreicher Gesprächspartner ist es aber noch nicht. Stellst du ihm eine Frage, beantwortet es sie vielleicht nicht, sondern schreibt weitere Fragen dazu, weil es das in Frageliste-Dokumenten so gesehen hat. Es tut eben, was im Internet typisch ist, nicht unbedingt, was du willst.",
+      "Deshalb folgt ein zweiter Trainingsschritt, das sogenannte überwachte Feintuning. Dafür schreiben Menschen viele Beispielgespräche: eine Frage oder Bitte und eine gute, hilfreiche Antwort darauf. Das Modell wird mit diesen Beispielen weitertrainiert und lernt so das Format eines Dialogs. Es versteht jetzt besser, dass auf eine Frage eine Antwort folgen soll.",
+      "Der dritte Schritt hat einen sperrigen Namen: bestärkendes Lernen aus menschlichem Feedback, englisch abgekürzt RLHF. Dabei erzeugt das Modell zu einer Frage mehrere Antworten. Menschen bewerten, welche davon besser ist, hilfreicher, ehrlicher oder harmloser. Aus vielen solchen Bewertungen wird ein zweites Modell trainiert, das vorhersagen kann, welche Antworten Menschen bevorzugen.",
+      "Dieses Bewertungsmodell dient dann als eine Art Trainer. Das Sprachmodell probiert Antworten aus, bekommt dafür eine Punktzahl und passt sich so an, dass es öfter Antworten mit hoher Punktzahl erzeugt. So wird es Schritt für Schritt hilfreicher und lernt auch, bestimmte schädliche Anfragen abzulehnen.",
+      "Inzwischen gibt es Varianten dieses Verfahrens. Manche Firmen lassen Antworten teilweise von anderen KI-Systemen anhand festgelegter Grundsätze bewerten, statt ausschließlich von Menschen. Andere verzichten auf das separate Bewertungsmodell und trainieren direkt mit Paaren aus besseren und schlechteren Antworten. Das Ziel ist überall ähnlich: ein Modell, das sich so verhält, wie Menschen es sich wünschen.",
+      "Dieser Schritt erklärt den typischen Tonfall vieler Chatbots. Sie sind höflich, strukturieren ihre Antworten gern mit Aufzählungen und weisen auf Unsicherheiten hin. Das ist kein Zufall, sondern das Ergebnis von sehr vielen menschlichen Bewertungen. Gleichzeitig kann dieses Training auch unerwünschte Effekte haben, etwa dass ein Modell dem Nutzer zu bereitwillig zustimmt.",
+      "Hinzu kommen Anweisungen, die du gar nicht siehst. Viele Anbieter geben ihrem Modell vor jedem Gespräch einen sogenannten Systemprompt mit. Darin steht, welche Rolle es einnehmen soll, welche Regeln gelten und welche Werkzeuge es nutzen darf. Ein und dasselbe Grundmodell kann so ganz unterschiedlich auftreten, je nachdem, wofür es eingesetzt wird.",
+      "Moderne Assistenten können außerdem Werkzeuge verwenden. Sie suchen im Internet, rechnen mit einem Taschenrechner, führen Programmcode aus oder lesen hochgeladene Dokumente. Technisch erzeugt das Modell dabei einen besonderen Text, der das Werkzeug aufruft, und bekommt das Ergebnis zurück. So lassen sich manche Schwächen des reinen Sprachmodells ausgleichen.",
+      "Man kann sich den gesamten Weg also in drei Etappen vorstellen: erst sehr viel lesen, dann Gesprächsbeispiele studieren und schließlich durch Rückmeldung lernen, was gute Antworten ausmacht."
+     ]
+    },
+    {
+     "heading": "Wie eine Antwort entsteht",
+     "paragraphs": [
+      "Was passiert, wenn du eine Frage abschickst? Zuerst wird dein Text in Tokens zerlegt. Zusammen mit dem bisherigen Gesprächsverlauf und den unsichtbaren Anweisungen des Anbieters wandert er dann durch alle Schichten des Modells. Am Ende steht keine fertige Antwort, sondern eine Liste von Wahrscheinlichkeiten für das nächste Token.",
+      "Das Modell sagt also zum Beispiel: Mit vierzig Prozent Wahrscheinlichkeit folgt „Die“, mit fünfzehn Prozent „Gute“, mit zehn Prozent „Das“ und so weiter, für jedes Token seines Vorrats. Aus dieser Verteilung wird eines ausgewählt. Dann wird das gewählte Token an den Text angehängt, und das Ganze beginnt von vorn. Token für Token entsteht so die Antwort.",
+      "Deshalb siehst du bei vielen Chatbots, wie die Antwort Stück für Stück auf dem Bildschirm erscheint. Das ist kein Effekt für die Optik. Das Modell erzeugt den Text tatsächlich nacheinander. Jedes neue Token hängt von allen vorherigen ab, auch von denen, die das Modell selbst gerade geschrieben hat.",
+      "Bei der Auswahl gibt es Spielraum. Würde das Modell immer das wahrscheinlichste Token nehmen, wären die Antworten oft eintönig und würden sich wiederholen. Deshalb wird meist mit einer gewissen Zufälligkeit ausgewählt. Ein Regler, den Fachleute Temperatur nennen, bestimmt, wie stark. Niedrige Temperatur bedeutet vorhersehbare Antworten, hohe Temperatur kreativere, aber auch fehleranfälligere.",
+      "Das erklärt, warum du auf dieselbe Frage zweimal unterschiedliche Antworten bekommen kannst. Das Modell würfelt gewissermaßen bei jedem Schritt, allerdings mit stark gezinkten Würfeln. Meist ähneln sich die Antworten im Kern, unterscheiden sich aber in Formulierungen und Details.",
+      "Wie viel ein Modell auf einmal im Blick behalten kann, legt das sogenannte Kontextfenster fest. Es wird in Tokens gemessen. Frühe Modelle konnten nur wenige Seiten Text berücksichtigen. Aktuelle Modelle schaffen teilweise Hunderttausende Tokens oder mehr, das entspricht mehreren Büchern. Was außerhalb des Fensters liegt, existiert für das Modell in diesem Moment nicht.",
+      "Wichtig: Ein Sprachmodell lernt nicht dazu, während du mit ihm sprichst. Seine Parameter bleiben bei der Nutzung unverändert. Dass es sich an frühere Teile des Gesprächs erinnert, liegt nur daran, dass der gesamte bisherige Verlauf jedes Mal erneut mitgeschickt wird. Manche Anbieter speichern zusätzlich Notizen über frühere Gespräche und fügen sie unauffällig in den Kontext ein.",
+      "Neuere Modelle nutzen außerdem eine Art Denkpause. Bevor sie antworten, erzeugen sie zunächst einen längeren inneren Gedankengang, in dem sie das Problem in Schritte zerlegen. Erst danach formulieren sie die eigentliche Antwort. Bei Aufgaben wie Mathematik oder Programmieren verbessert das die Ergebnisse oft deutlich, kostet aber mehr Rechenzeit.",
+      "Jede Antwort ist also das Ergebnis vieler kleiner Wahrscheinlichkeitsentscheidungen. Das macht die Modelle flexibel und kreativ, erklärt aber auch, warum sie sich manchmal irren, wie der nächste Abschnitt zeigt."
+     ]
+    },
+    {
+     "heading": "Halluzinationen und andere Grenzen",
+     "paragraphs": [
+      "Sprachmodelle klingen fast immer souverän. Gerade das macht eine ihrer größten Schwächen tückisch. Sie erfinden manchmal Fakten, Zitate, Quellen oder Zahlen, die plausibel wirken, aber schlicht falsch sind. Fachleute nennen das Halluzination.",
+      "Der Grund liegt im Grundprinzip. Ein Sprachmodell erzeugt das Wahrscheinlichste, nicht das Wahre. Es hat keine eingebaute Faktendatenbank, gegen die es seine Aussagen prüft. Wenn ein Muster nahelegt, dass an einer bestimmten Stelle eine Jahreszahl, ein Buchtitel oder ein Name stehen sollte, liefert es etwas, das passt, auch wenn es das nicht sicher weiß.",
+      "Besonders anfällig sind seltene Fakten. Über bekannte Themen hat das Modell im Training sehr viel gelesen, und seine Aussagen sind entsprechend oft richtig. Bei Nischenwissen, genauen Zahlen oder Details zu wenig bekannten Personen wird es unsicherer. Gerade dort sollte man genau hinschauen. Erfundene Quellenangaben, die es gar nicht gibt, sind ein bekanntes Beispiel.",
+      "Forschende arbeiten intensiv daran, Halluzinationen zu verringern. Ein wichtiger Ansatz ist, dem Modell verlässliche Informationen mitzugeben. Dabei sucht ein System zunächst in Dokumenten oder im Internet nach passenden Stellen und legt sie dem Modell vor. Das Modell formuliert seine Antwort dann auf dieser Grundlage und kann die Quellen nennen. Ganz verschwunden ist das Problem damit aber nicht.",
+      "Eine zweite Grenze ist das Wissen über die Zeit. Ein Modell kennt nur, was bis zu seinem Wissensstichtag in den Trainingsdaten stand. Über aktuelle Ereignisse kann es ohne Internetsuche nichts Verlässliches sagen. Manchmal weiß es nicht einmal genau, wie aktuell sein eigenes Wissen ist.",
+      "Drittens übernehmen Modelle Verzerrungen aus ihren Daten. Wenn bestimmte Gruppen in Texten häufig einseitig dargestellt werden, kann das Modell solche Muster wiedergeben. Die Anbieter versuchen, das im Feintuning abzuschwächen. Ganz gelingt das nicht, und was als ausgewogen gilt, ist selbst oft umstritten.",
+      "Auch beim Rechnen und bei streng logischen Aufgaben machten Sprachmodelle lange typische Fehler, weil sie Zahlen als Tokens sehen und nicht wie ein Taschenrechner arbeiten. Neuere Modelle sind hier deutlich besser geworden, auch weil sie Schritt für Schritt vorgehen oder Werkzeuge nutzen. Fehlerfrei sind sie aber nicht.",
+      "Für den Alltag ergibt sich daraus eine einfache Regel: Sprachmodelle sind hervorragende Helfer beim Formulieren, Zusammenfassen, Erklären und Ideensammeln. Bei wichtigen Fakten, medizinischen, rechtlichen oder finanziellen Fragen sollte man ihre Antworten aber immer mit verlässlichen Quellen abgleichen oder Fachleute fragen.",
+      "Man kann es so zusammenfassen: Ein Sprachmodell ist wie ein sehr belesener, schneller und hilfsbereiter Gesprächspartner, der aber manchmal lieber etwas Plausibles sagt, als zuzugeben, dass er es nicht weiß."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Sprachmodelle zerlegen Text in Tokens und sagen Stück für Stück vorher, was als Nächstes am wahrscheinlichsten folgt.",
+    "Der Transformer von 2017 mit seinem Aufmerksamkeitsmechanismus hat es möglich gemacht, solche Modelle mit riesigen Datenmengen zu trainieren.",
+    "Durch Training mit menschlichem Feedback werden sie zu Assistenten, bleiben aber anfällig für sogenannte Halluzinationen."
+   ]
+  },
+  "15": {
+   "words": 2754,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Ein Programm, das Gedichte schreibt, Fragen beantwortet und Fehler im Code findet, wirkt fast wie Magie. Dahinter steckt aber keine Zauberei, sondern Mathematik, sehr viel Text und enorme Rechenleistung. Hier erfährst du, wie Sprachmodelle Text in Zahlen verwandeln, wie sie trainiert werden, was ein Transformer ist, wie aus Vorhersagen ein Assistent wird und wie eine Antwort Wort für Wort entsteht."
+     ]
+    },
+    {
+     "heading": "Was ein Sprachmodell ist",
+     "paragraphs": [
+      "Ein Sprachmodell ist ein Computerprogramm, das gelernt hat, wie Sprache funktioniert. Genauer gesagt hat es gelernt, welche Wörter und Wortteile in welchem Zusammenhang wahrscheinlich aufeinander folgen. Wenn du einen Satz beginnst, kann es abschätzen, wie er weitergehen könnte.",
+      "Ein einfaches Beispiel kennst du vom Smartphone. Beim Tippen schlägt die Tastatur das nächste Wort vor. Schreibst du „Ich komme heute etwas“, bietet sie vielleicht „später“ an. Das ist ein winziges Sprachmodell. Die großen Modelle hinter Chatbots arbeiten nach einem verwandten Prinzip, sind aber unvorstellbar viel größer und leistungsfähiger.",
+      "Das Wort groß bezieht sich auf zwei Dinge. Erstens auf die Menge an Text, mit der ein Modell trainiert wurde. Das sind Bücher, Webseiten, Artikel, Foren und Programmcode, insgesamt oft viele Billionen Wortteile. Zweitens auf die Zahl der sogenannten Parameter. Das sind die einstellbaren Zahlenwerte im Inneren des Modells. Moderne Modelle haben Milliarden davon, manche Hunderte Milliarden.",
+      "Technisch gesehen ist ein Sprachmodell ein künstliches neuronales Netz. Der Name stammt von einer losen Ähnlichkeit mit Nervenzellen im Gehirn. In Wahrheit handelt es sich um eine riesige Kette von Rechenoperationen. Eingaben werden in Zahlen übersetzt, durch viele Schichten hindurch verrechnet, und am Ende kommt wieder eine Zahl heraus, die sich in Text zurückübersetzen lässt.",
+      "Wichtig ist, was ein Sprachmodell nicht ist. Es ist keine Datenbank, in der Fakten sauber abgelegt sind und nachgeschlagen werden. Es ist auch keine Suchmaschine, die im Internet nachsieht. Alles, was es weiß, steckt verteilt in seinen Parametern, als Muster, die es aus dem Training mitgenommen hat. Das erklärt sowohl seine Stärken als auch seine typischen Fehler.",
+      "Bemerkenswert ist, wie viel aus diesem einfachen Grundprinzip entsteht. Um gut vorherzusagen, wie ein Text weitergeht, muss ein Modell sehr viel lernen: Grammatik, Wortbedeutungen, Fakten über die Welt, Schreibstile, sogar einfache logische Zusammenhänge. Niemand hat ihm diese Dinge einzeln beigebracht. Sie sind im Training sozusagen nebenbei entstanden.",
+      "Heute gibt es viele solcher Modelle von verschiedenen Unternehmen und Forschungsgruppen. Bekannte Beispiele sind ChatGPT von OpenAI, Gemini von Google, Claude von Anthropic und Llama von Meta. Manche sind nur über das Internet nutzbar, andere werden offen veröffentlicht, sodass jeder sie herunterladen und auf eigenen Rechnern betreiben kann.",
+      "Ob ein Sprachmodell Sprache wirklich versteht, ist eine offene und spannende Frage. Manche Fachleute sehen in ihnen kaum mehr als sehr gute Mustererkenner. Andere halten es für möglich, dass im Training eine Art inneres Modell der Welt entsteht. Fest steht: Die Ergebnisse sind oft verblüffend, und genau deshalb lohnt es sich zu verstehen, wie sie zustande kommen.",
+      "In den folgenden Abschnitten geht es Schritt für Schritt hinein: wie Text zu Zahlen wird, wie das Training abläuft, welche Erfindung den Durchbruch brachte und wie am Ende eine Antwort entsteht."
+     ]
+    },
+    {
+     "heading": "Text in Zahlen: Tokens und Vektoren",
+     "paragraphs": [
+      "Computer rechnen mit Zahlen, nicht mit Buchstaben. Bevor ein Sprachmodell etwas mit Text anfangen kann, muss dieser deshalb übersetzt werden. Der erste Schritt heißt Tokenisierung. Dabei wird der Text in kleine Stücke zerlegt, die sogenannten Tokens.",
+      "Ein Token ist nicht unbedingt ein ganzes Wort. Häufige Wörter wie „und“ oder „Haus“ sind oft ein einzelnes Token. Seltene oder lange Wörter werden in mehrere Teile zerlegt. Ein Wort wie „Donaudampfschifffahrt“ besteht für ein Modell vielleicht aus fünf oder sechs Stücken. Auch Satzzeichen und Leerzeichen können eigene Tokens sein. Im Englischen entspricht ein Token im Durchschnitt ungefähr vier Buchstaben.",
+      "Warum nicht einfach ganze Wörter? Weil es unendlich viele Wörter gibt, neue entstehen ständig, und Namen, Tippfehler oder Fachbegriffe kämen sonst nicht vor. Mit Wortteilen lässt sich dagegen jedes beliebige Wort zusammensetzen. Ein Modell kommt so mit einem festen Vorrat von einigen zehntausend bis über hunderttausend verschiedenen Tokens aus.",
+      "Jedes Token bekommt eine Nummer. Damit ist der Text zwar in Zahlen übersetzt, aber diese Nummern sagen noch nichts über die Bedeutung. Deshalb folgt ein zweiter Schritt: Jedes Token wird in einen langen Zahlenvektor übersetzt, eine Liste aus Hunderten oder Tausenden Zahlen. Fachleute nennen das Einbettung oder englisch Embedding.",
+      "Man kann sich diese Vektoren als Koordinaten in einem riesigen Raum vorstellen. Nicht in drei Dimensionen wie unsere Welt, sondern in Tausenden. Das Besondere: Im Training lernt das Modell, die Vektoren so anzuordnen, dass Tokens mit ähnlicher Bedeutung nah beieinander liegen. „Hund“ und „Katze“ landen in einer ähnlichen Gegend, „Hund“ und „Steuererklärung“ weit voneinander entfernt.",
+      "Daraus ergeben sich überraschende Eigenschaften. In frühen Experimenten mit solchen Wortvektoren zeigte sich, dass man mit ihnen fast rechnen kann. Nimmt man den Vektor für „König“, zieht „Mann“ ab und addiert „Frau“, landet man in der Nähe von „Königin“. Die Richtung im Raum steht gewissermaßen für einen Bedeutungsunterschied.",
+      "Allerdings hat ein Wort nicht immer dieselbe Bedeutung. „Bank“ kann eine Sitzgelegenheit oder ein Geldinstitut sein. In einem modernen Sprachmodell bleibt der Vektor deshalb nicht starr. Er wird in den folgenden Schichten des Netzes immer wieder verändert, je nachdem, welche Wörter in der Umgebung stehen. Wie das funktioniert, zeigt der Abschnitt über den Transformer.",
+      "Die Tokenisierung erklärt übrigens auch einige seltsame Schwächen von Sprachmodellen. Lange Zeit hatten sie Mühe, die Buchstaben in einem Wort zu zählen. Das liegt daran, dass sie Wörter gar nicht als einzelne Buchstaben sehen, sondern als Stücke. Für ein Modell ist ein Token eine Einheit, deren Inneres es nicht direkt betrachtet.",
+      "Auch Kosten und Grenzen werden in Tokens gemessen. Wie viel Text ein Modell auf einmal berücksichtigen kann, gibt man als Zahl von Tokens an. Und Anbieter berechnen die Nutzung ihrer Modelle oft nach der Zahl der verarbeiteten Tokens."
+     ]
+    },
+    {
+     "heading": "Das Training: Lückentext im riesigen Maßstab",
+     "paragraphs": [
+      "Wie lernt ein Sprachmodell? Am Anfang sind alle seine Parameter zufällig eingestellt. Es produziert reinen Unsinn. Dann beginnt das sogenannte Vortraining. Das Prinzip ist erstaunlich einfach: Das Modell bekommt einen Textausschnitt und soll das nächste Token vorhersagen.",
+      "Nehmen wir den Satz „Der Hund bellt laut“. Das Modell sieht „Der Hund bellt“ und soll das nächste Stück erraten. Am Anfang liegt es weit daneben. Weil der richtige Text aber bekannt ist, lässt sich genau berechnen, wie falsch die Vorhersage war. Ein Verfahren namens Backpropagation ermittelt dann, in welche Richtung jeder einzelne Parameter ein winziges bisschen verstellt werden muss, damit die Vorhersage beim nächsten Mal etwas besser ausfällt.",
+      "Dieser Schritt wird unvorstellbar oft wiederholt, mit Billionen von Tokens aus Büchern, Webseiten, Lexika, wissenschaftlichen Texten und Programmcode. Jedes Mal werden die Parameter ein klein wenig angepasst. Ganz allmählich entsteht so ein Netz, das sehr gut vorhersagen kann, wie Texte typischerweise weitergehen.",
+      "Das Schöne an diesem Verfahren: Man braucht keine Menschen, die jeden Text mühsam beschriften. Die richtige Antwort steckt im Text selbst, denn das nächste Wort ist ja bekannt. Fachleute sprechen von selbstüberwachtem Lernen. Nur deshalb lassen sich so gigantische Datenmengen überhaupt nutzen.",
+      "Um gut vorherzusagen, muss das Modell vieles nebenbei lernen. Wer den Satz „Die Hauptstadt von Frankreich ist“ fortsetzen will, braucht ein Stück Weltwissen. Wer einen Krimi richtig weiterschreiben will, muss sich merken, wer der Täter ist. Und wer Programmcode vervollständigt, muss dessen Logik ein Stück weit erfassen. Das Vortraining zwingt das Modell, all diese Muster zu verinnerlichen.",
+      "Der Aufwand ist gewaltig. Das Training großer Modelle läuft über Wochen oder Monate auf Tausenden spezialisierter Grafikprozessoren in großen Rechenzentren. Das kostet sehr viel Geld und Energie. Deshalb können nur wenige Unternehmen und Organisationen die allergrößten Modelle von Grund auf trainieren.",
+      "Was in den Trainingsdaten steckt, prägt das Modell. Enthalten die Texte Fehler, Vorurteile oder einseitige Sichtweisen, kann das Modell sie übernehmen. Ist eine Sprache im Internet selten vertreten, beherrscht das Modell sie oft schlechter. Und Ereignisse, die nach dem Ende der Datensammlung passiert sind, kennt es nicht. Man spricht vom Wissensstichtag.",
+      "Umstritten ist außerdem, welche Texte für das Training verwendet werden dürfen. Viele Autorinnen, Verlage und Medienhäuser kritisieren, dass ihre Werke ohne Erlaubnis oder Bezahlung genutzt wurden. In mehreren Ländern laufen dazu Gerichtsverfahren. Wie das Urheberrecht hier künftig angewendet wird, ist noch nicht entschieden.",
+      "Am Ende des Vortrainings steht ein Modell, das sehr viel über Sprache weiß, aber noch kein angenehmer Gesprächspartner ist. Es setzt einfach jeden Text fort. Wie daraus ein Assistent wird, der Fragen beantwortet, zeigt ein späterer Abschnitt."
+     ]
+    },
+    {
+     "heading": "Der Durchbruch: Aufmerksamkeit",
+     "paragraphs": [
+      "Sprachmodelle gibt es schon lange. Der große Sprung kam aber erst mit einer bestimmten Bauweise, dem sogenannten Transformer. Vorgestellt wurde er im Juni 2017 in einem Fachaufsatz mit dem Titel „Attention Is All You Need“, auf Deutsch ungefähr: Aufmerksamkeit ist alles, was du brauchst. Acht Forscher, die damals bei Google arbeiteten, hatten ihn entwickelt.",
+      "Um zu verstehen, warum das so wichtig war, hilft ein Blick auf die Zeit davor. Frühere Modelle lasen Text meist Wort für Wort, der Reihe nach, ähnlich wie ein Mensch, der mit dem Finger die Zeile entlangfährt. Informationen vom Satzanfang mussten durch viele Schritte weitergereicht werden und gingen dabei leicht verloren. Außerdem ließ sich diese Arbeit schlecht auf viele Prozessoren gleichzeitig verteilen.",
+      "Der Transformer macht es anders. Er betrachtet alle Wörter eines Textabschnitts gleichzeitig. Der Kern ist ein Mechanismus namens Selbstaufmerksamkeit. Für jedes Token berechnet das Modell, wie wichtig jedes andere Token im Text gerade für es ist. Dann mischt es die Informationen entsprechend dieser Gewichte zusammen.",
+      "Ein Beispiel macht das anschaulich. Im Satz „Die Katze jagte die Maus, weil sie hungrig war“ muss klar werden, wer mit „sie“ gemeint ist. Die Aufmerksamkeit erlaubt es dem Token „sie“, besonders stark auf „Katze“ zu achten. Heißt der Satz dagegen „weil sie so schnell war“, kann sich der Bezug auf die Maus verschieben. Das Modell lernt im Training selbst, worauf es in welchem Zusammenhang achten muss.",
+      "Dabei arbeiten viele solcher Aufmerksamkeitsmechanismen parallel, die Fachleute Köpfe nennen. Der eine achtet vielleicht auf grammatische Bezüge, ein anderer auf Bedeutungen, ein dritter auf die Position im Satz. Und das Ganze wird in vielen Schichten übereinander gestapelt. Mit jeder Schicht wird die Darstellung jedes Tokens reicher und stärker vom Zusammenhang geprägt.",
+      "Ursprünglich wurde der Transformer für die maschinelle Übersetzung entwickelt, etwa vom Englischen ins Deutsche. Dort schlug er die bisherigen Verfahren deutlich und ließ sich zudem viel schneller trainieren. Der eigentliche Vorteil zeigte sich aber erst später: Weil alle Wörter gleichzeitig verarbeitet werden, lässt sich das Training hervorragend auf Tausende Grafikprozessoren verteilen.",
+      "Damit war der Weg frei für immer größere Modelle mit immer mehr Daten. Forschende stellten fest, dass die Fähigkeiten mit der Größe erstaunlich zuverlässig zunahmen. Fast alle heute bekannten Sprachmodelle beruhen auf dem Transformer. Der Fachaufsatz von 2017 gehört inzwischen zu den meistzitierten wissenschaftlichen Arbeiten des Jahrhunderts.",
+      "Eine nette Randnotiz: Der Titel spielt auf das Beatles-Lied „All You Need Is Love“ an. Und alle acht Autoren verließen Google in den folgenden Jahren, um in anderen Firmen zu arbeiten oder eigene Unternehmen zu gründen. Mehrere der heute wichtigen KI-Firmen gehen so direkt auf diese Gruppe zurück.",
+      "Die Aufmerksamkeit hat allerdings einen Preis. Weil jedes Token jedes andere betrachtet, wächst der Rechenaufwand stark, wenn der Text länger wird. Viele aktuelle Forschungsarbeiten beschäftigen sich deshalb damit, Transformer effizienter zu machen."
+     ]
+    },
+    {
+     "heading": "Vom Textvervollständiger zum Assistenten",
+     "paragraphs": [
+      "Ein Modell, das nur vortrainiert wurde, ist ein Meister im Fortsetzen von Texten. Ein hilfreicher Gesprächspartner ist es aber noch nicht. Stellst du ihm eine Frage, beantwortet es sie vielleicht nicht, sondern schreibt weitere Fragen dazu, weil es das in Frageliste-Dokumenten so gesehen hat. Es tut eben, was im Internet typisch ist, nicht unbedingt, was du willst.",
+      "Deshalb folgt ein zweiter Trainingsschritt, das sogenannte überwachte Feintuning. Dafür schreiben Menschen viele Beispielgespräche: eine Frage oder Bitte und eine gute, hilfreiche Antwort darauf. Das Modell wird mit diesen Beispielen weitertrainiert und lernt so das Format eines Dialogs. Es versteht jetzt besser, dass auf eine Frage eine Antwort folgen soll.",
+      "Der dritte Schritt hat einen sperrigen Namen: bestärkendes Lernen aus menschlichem Feedback, englisch abgekürzt RLHF. Dabei erzeugt das Modell zu einer Frage mehrere Antworten. Menschen bewerten, welche davon besser ist, hilfreicher, ehrlicher oder harmloser. Aus vielen solchen Bewertungen wird ein zweites Modell trainiert, das vorhersagen kann, welche Antworten Menschen bevorzugen.",
+      "Dieses Bewertungsmodell dient dann als eine Art Trainer. Das Sprachmodell probiert Antworten aus, bekommt dafür eine Punktzahl und passt sich so an, dass es öfter Antworten mit hoher Punktzahl erzeugt. So wird es Schritt für Schritt hilfreicher und lernt auch, bestimmte schädliche Anfragen abzulehnen.",
+      "Inzwischen gibt es Varianten dieses Verfahrens. Manche Firmen lassen Antworten teilweise von anderen KI-Systemen anhand festgelegter Grundsätze bewerten, statt ausschließlich von Menschen. Andere verzichten auf das separate Bewertungsmodell und trainieren direkt mit Paaren aus besseren und schlechteren Antworten. Das Ziel ist überall ähnlich: ein Modell, das sich so verhält, wie Menschen es sich wünschen.",
+      "Dieser Schritt erklärt den typischen Tonfall vieler Chatbots. Sie sind höflich, strukturieren ihre Antworten gern mit Aufzählungen und weisen auf Unsicherheiten hin. Das ist kein Zufall, sondern das Ergebnis von sehr vielen menschlichen Bewertungen. Gleichzeitig kann dieses Training auch unerwünschte Effekte haben, etwa dass ein Modell dem Nutzer zu bereitwillig zustimmt.",
+      "Hinzu kommen Anweisungen, die du gar nicht siehst. Viele Anbieter geben ihrem Modell vor jedem Gespräch einen sogenannten Systemprompt mit. Darin steht, welche Rolle es einnehmen soll, welche Regeln gelten und welche Werkzeuge es nutzen darf. Ein und dasselbe Grundmodell kann so ganz unterschiedlich auftreten, je nachdem, wofür es eingesetzt wird.",
+      "Moderne Assistenten können außerdem Werkzeuge verwenden. Sie suchen im Internet, rechnen mit einem Taschenrechner, führen Programmcode aus oder lesen hochgeladene Dokumente. Technisch erzeugt das Modell dabei einen besonderen Text, der das Werkzeug aufruft, und bekommt das Ergebnis zurück. So lassen sich manche Schwächen des reinen Sprachmodells ausgleichen.",
+      "Man kann sich den gesamten Weg also in drei Etappen vorstellen: erst sehr viel lesen, dann Gesprächsbeispiele studieren und schließlich durch Rückmeldung lernen, was gute Antworten ausmacht."
+     ]
+    },
+    {
+     "heading": "Wie eine Antwort entsteht",
+     "paragraphs": [
+      "Was passiert, wenn du eine Frage abschickst? Zuerst wird dein Text in Tokens zerlegt. Zusammen mit dem bisherigen Gesprächsverlauf und den unsichtbaren Anweisungen des Anbieters wandert er dann durch alle Schichten des Modells. Am Ende steht keine fertige Antwort, sondern eine Liste von Wahrscheinlichkeiten für das nächste Token.",
+      "Das Modell sagt also zum Beispiel: Mit vierzig Prozent Wahrscheinlichkeit folgt „Die“, mit fünfzehn Prozent „Gute“, mit zehn Prozent „Das“ und so weiter, für jedes Token seines Vorrats. Aus dieser Verteilung wird eines ausgewählt. Dann wird das gewählte Token an den Text angehängt, und das Ganze beginnt von vorn. Token für Token entsteht so die Antwort.",
+      "Deshalb siehst du bei vielen Chatbots, wie die Antwort Stück für Stück auf dem Bildschirm erscheint. Das ist kein Effekt für die Optik. Das Modell erzeugt den Text tatsächlich nacheinander. Jedes neue Token hängt von allen vorherigen ab, auch von denen, die das Modell selbst gerade geschrieben hat.",
+      "Bei der Auswahl gibt es Spielraum. Würde das Modell immer das wahrscheinlichste Token nehmen, wären die Antworten oft eintönig und würden sich wiederholen. Deshalb wird meist mit einer gewissen Zufälligkeit ausgewählt. Ein Regler, den Fachleute Temperatur nennen, bestimmt, wie stark. Niedrige Temperatur bedeutet vorhersehbare Antworten, hohe Temperatur kreativere, aber auch fehleranfälligere.",
+      "Das erklärt, warum du auf dieselbe Frage zweimal unterschiedliche Antworten bekommen kannst. Das Modell würfelt gewissermaßen bei jedem Schritt, allerdings mit stark gezinkten Würfeln. Meist ähneln sich die Antworten im Kern, unterscheiden sich aber in Formulierungen und Details.",
+      "Wie viel ein Modell auf einmal im Blick behalten kann, legt das sogenannte Kontextfenster fest. Es wird in Tokens gemessen. Frühe Modelle konnten nur wenige Seiten Text berücksichtigen. Aktuelle Modelle schaffen teilweise Hunderttausende Tokens oder mehr, das entspricht mehreren Büchern. Was außerhalb des Fensters liegt, existiert für das Modell in diesem Moment nicht.",
+      "Wichtig: Ein Sprachmodell lernt nicht dazu, während du mit ihm sprichst. Seine Parameter bleiben bei der Nutzung unverändert. Dass es sich an frühere Teile des Gesprächs erinnert, liegt nur daran, dass der gesamte bisherige Verlauf jedes Mal erneut mitgeschickt wird. Manche Anbieter speichern zusätzlich Notizen über frühere Gespräche und fügen sie unauffällig in den Kontext ein.",
+      "Neuere Modelle nutzen außerdem eine Art Denkpause. Bevor sie antworten, erzeugen sie zunächst einen längeren inneren Gedankengang, in dem sie das Problem in Schritte zerlegen. Erst danach formulieren sie die eigentliche Antwort. Bei Aufgaben wie Mathematik oder Programmieren verbessert das die Ergebnisse oft deutlich, kostet aber mehr Rechenzeit.",
+      "Jede Antwort ist also das Ergebnis vieler kleiner Wahrscheinlichkeitsentscheidungen. Das macht die Modelle flexibel und kreativ, erklärt aber auch, warum sie sich manchmal irren, wie der nächste Abschnitt zeigt."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Sprachmodelle wandeln Text in Zahlen um und lernen durch das Vorhersagen des nächsten Tokens Muster der Sprache.",
+    "Der Transformer erlaubt es, dass jedes Wort alle anderen im Blick hat, und machte so das Training riesiger Modelle möglich.",
+    "Erst Feintuning und menschliches Feedback formen aus einem Textvervollständiger einen Assistenten, der Antwort für Antwort Wahrscheinlichkeiten abwägt."
+   ]
+  },
+  "20": {
+   "words": 3608,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Im November 2022 veröffentlichte die Firma OpenAI einen Chatbot namens ChatGPT. Innerhalb weniger Wochen probierten ihn Millionen Menschen aus, und plötzlich war künstliche Intelligenz ein Alltagsthema. In diesem Artikel erfährst du, was große Sprachmodelle sind, wie sie Sprache in Zahlen übersetzen, wie sie lernen, welche Idee sie so leistungsfähig gemacht hat, warum sie manchmal überzeugend falsche Dinge sagen und was sie für unsere Gesellschaft bedeuten."
+     ]
+    },
+    {
+     "heading": "Was ein Sprachmodell ist",
+     "paragraphs": [
+      "Ein Sprachmodell ist ein Computerprogramm, das gelernt hat, wie Sprache funktioniert. Genauer gesagt hat es gelernt, welche Wörter und Wortteile in welchem Zusammenhang wahrscheinlich aufeinander folgen. Wenn du einen Satz beginnst, kann es abschätzen, wie er weitergehen könnte.",
+      "Ein einfaches Beispiel kennst du vom Smartphone. Beim Tippen schlägt die Tastatur das nächste Wort vor. Schreibst du „Ich komme heute etwas“, bietet sie vielleicht „später“ an. Das ist ein winziges Sprachmodell. Die großen Modelle hinter Chatbots arbeiten nach einem verwandten Prinzip, sind aber unvorstellbar viel größer und leistungsfähiger.",
+      "Das Wort groß bezieht sich auf zwei Dinge. Erstens auf die Menge an Text, mit der ein Modell trainiert wurde. Das sind Bücher, Webseiten, Artikel, Foren und Programmcode, insgesamt oft viele Billionen Wortteile. Zweitens auf die Zahl der sogenannten Parameter. Das sind die einstellbaren Zahlenwerte im Inneren des Modells. Moderne Modelle haben Milliarden davon, manche Hunderte Milliarden.",
+      "Technisch gesehen ist ein Sprachmodell ein künstliches neuronales Netz. Der Name stammt von einer losen Ähnlichkeit mit Nervenzellen im Gehirn. In Wahrheit handelt es sich um eine riesige Kette von Rechenoperationen. Eingaben werden in Zahlen übersetzt, durch viele Schichten hindurch verrechnet, und am Ende kommt wieder eine Zahl heraus, die sich in Text zurückübersetzen lässt.",
+      "Wichtig ist, was ein Sprachmodell nicht ist. Es ist keine Datenbank, in der Fakten sauber abgelegt sind und nachgeschlagen werden. Es ist auch keine Suchmaschine, die im Internet nachsieht. Alles, was es weiß, steckt verteilt in seinen Parametern, als Muster, die es aus dem Training mitgenommen hat. Das erklärt sowohl seine Stärken als auch seine typischen Fehler.",
+      "Bemerkenswert ist, wie viel aus diesem einfachen Grundprinzip entsteht. Um gut vorherzusagen, wie ein Text weitergeht, muss ein Modell sehr viel lernen: Grammatik, Wortbedeutungen, Fakten über die Welt, Schreibstile, sogar einfache logische Zusammenhänge. Niemand hat ihm diese Dinge einzeln beigebracht. Sie sind im Training sozusagen nebenbei entstanden.",
+      "Heute gibt es viele solcher Modelle von verschiedenen Unternehmen und Forschungsgruppen. Bekannte Beispiele sind ChatGPT von OpenAI, Gemini von Google, Claude von Anthropic und Llama von Meta. Manche sind nur über das Internet nutzbar, andere werden offen veröffentlicht, sodass jeder sie herunterladen und auf eigenen Rechnern betreiben kann.",
+      "Ob ein Sprachmodell Sprache wirklich versteht, ist eine offene und spannende Frage. Manche Fachleute sehen in ihnen kaum mehr als sehr gute Mustererkenner. Andere halten es für möglich, dass im Training eine Art inneres Modell der Welt entsteht. Fest steht: Die Ergebnisse sind oft verblüffend, und genau deshalb lohnt es sich zu verstehen, wie sie zustande kommen.",
+      "In den folgenden Abschnitten geht es Schritt für Schritt hinein: wie Text zu Zahlen wird, wie das Training abläuft, welche Erfindung den Durchbruch brachte und wie am Ende eine Antwort entsteht."
+     ]
+    },
+    {
+     "heading": "Text in Zahlen: Tokens und Vektoren",
+     "paragraphs": [
+      "Computer rechnen mit Zahlen, nicht mit Buchstaben. Bevor ein Sprachmodell etwas mit Text anfangen kann, muss dieser deshalb übersetzt werden. Der erste Schritt heißt Tokenisierung. Dabei wird der Text in kleine Stücke zerlegt, die sogenannten Tokens.",
+      "Ein Token ist nicht unbedingt ein ganzes Wort. Häufige Wörter wie „und“ oder „Haus“ sind oft ein einzelnes Token. Seltene oder lange Wörter werden in mehrere Teile zerlegt. Ein Wort wie „Donaudampfschifffahrt“ besteht für ein Modell vielleicht aus fünf oder sechs Stücken. Auch Satzzeichen und Leerzeichen können eigene Tokens sein. Im Englischen entspricht ein Token im Durchschnitt ungefähr vier Buchstaben.",
+      "Warum nicht einfach ganze Wörter? Weil es unendlich viele Wörter gibt, neue entstehen ständig, und Namen, Tippfehler oder Fachbegriffe kämen sonst nicht vor. Mit Wortteilen lässt sich dagegen jedes beliebige Wort zusammensetzen. Ein Modell kommt so mit einem festen Vorrat von einigen zehntausend bis über hunderttausend verschiedenen Tokens aus.",
+      "Jedes Token bekommt eine Nummer. Damit ist der Text zwar in Zahlen übersetzt, aber diese Nummern sagen noch nichts über die Bedeutung. Deshalb folgt ein zweiter Schritt: Jedes Token wird in einen langen Zahlenvektor übersetzt, eine Liste aus Hunderten oder Tausenden Zahlen. Fachleute nennen das Einbettung oder englisch Embedding.",
+      "Man kann sich diese Vektoren als Koordinaten in einem riesigen Raum vorstellen. Nicht in drei Dimensionen wie unsere Welt, sondern in Tausenden. Das Besondere: Im Training lernt das Modell, die Vektoren so anzuordnen, dass Tokens mit ähnlicher Bedeutung nah beieinander liegen. „Hund“ und „Katze“ landen in einer ähnlichen Gegend, „Hund“ und „Steuererklärung“ weit voneinander entfernt.",
+      "Daraus ergeben sich überraschende Eigenschaften. In frühen Experimenten mit solchen Wortvektoren zeigte sich, dass man mit ihnen fast rechnen kann. Nimmt man den Vektor für „König“, zieht „Mann“ ab und addiert „Frau“, landet man in der Nähe von „Königin“. Die Richtung im Raum steht gewissermaßen für einen Bedeutungsunterschied.",
+      "Allerdings hat ein Wort nicht immer dieselbe Bedeutung. „Bank“ kann eine Sitzgelegenheit oder ein Geldinstitut sein. In einem modernen Sprachmodell bleibt der Vektor deshalb nicht starr. Er wird in den folgenden Schichten des Netzes immer wieder verändert, je nachdem, welche Wörter in der Umgebung stehen. Wie das funktioniert, zeigt der Abschnitt über den Transformer.",
+      "Die Tokenisierung erklärt übrigens auch einige seltsame Schwächen von Sprachmodellen. Lange Zeit hatten sie Mühe, die Buchstaben in einem Wort zu zählen. Das liegt daran, dass sie Wörter gar nicht als einzelne Buchstaben sehen, sondern als Stücke. Für ein Modell ist ein Token eine Einheit, deren Inneres es nicht direkt betrachtet.",
+      "Auch Kosten und Grenzen werden in Tokens gemessen. Wie viel Text ein Modell auf einmal berücksichtigen kann, gibt man als Zahl von Tokens an. Und Anbieter berechnen die Nutzung ihrer Modelle oft nach der Zahl der verarbeiteten Tokens."
+     ]
+    },
+    {
+     "heading": "Das Training: Lückentext im riesigen Maßstab",
+     "paragraphs": [
+      "Wie lernt ein Sprachmodell? Am Anfang sind alle seine Parameter zufällig eingestellt. Es produziert reinen Unsinn. Dann beginnt das sogenannte Vortraining. Das Prinzip ist erstaunlich einfach: Das Modell bekommt einen Textausschnitt und soll das nächste Token vorhersagen.",
+      "Nehmen wir den Satz „Der Hund bellt laut“. Das Modell sieht „Der Hund bellt“ und soll das nächste Stück erraten. Am Anfang liegt es weit daneben. Weil der richtige Text aber bekannt ist, lässt sich genau berechnen, wie falsch die Vorhersage war. Ein Verfahren namens Backpropagation ermittelt dann, in welche Richtung jeder einzelne Parameter ein winziges bisschen verstellt werden muss, damit die Vorhersage beim nächsten Mal etwas besser ausfällt.",
+      "Dieser Schritt wird unvorstellbar oft wiederholt, mit Billionen von Tokens aus Büchern, Webseiten, Lexika, wissenschaftlichen Texten und Programmcode. Jedes Mal werden die Parameter ein klein wenig angepasst. Ganz allmählich entsteht so ein Netz, das sehr gut vorhersagen kann, wie Texte typischerweise weitergehen.",
+      "Das Schöne an diesem Verfahren: Man braucht keine Menschen, die jeden Text mühsam beschriften. Die richtige Antwort steckt im Text selbst, denn das nächste Wort ist ja bekannt. Fachleute sprechen von selbstüberwachtem Lernen. Nur deshalb lassen sich so gigantische Datenmengen überhaupt nutzen.",
+      "Um gut vorherzusagen, muss das Modell vieles nebenbei lernen. Wer den Satz „Die Hauptstadt von Frankreich ist“ fortsetzen will, braucht ein Stück Weltwissen. Wer einen Krimi richtig weiterschreiben will, muss sich merken, wer der Täter ist. Und wer Programmcode vervollständigt, muss dessen Logik ein Stück weit erfassen. Das Vortraining zwingt das Modell, all diese Muster zu verinnerlichen.",
+      "Der Aufwand ist gewaltig. Das Training großer Modelle läuft über Wochen oder Monate auf Tausenden spezialisierter Grafikprozessoren in großen Rechenzentren. Das kostet sehr viel Geld und Energie. Deshalb können nur wenige Unternehmen und Organisationen die allergrößten Modelle von Grund auf trainieren.",
+      "Was in den Trainingsdaten steckt, prägt das Modell. Enthalten die Texte Fehler, Vorurteile oder einseitige Sichtweisen, kann das Modell sie übernehmen. Ist eine Sprache im Internet selten vertreten, beherrscht das Modell sie oft schlechter. Und Ereignisse, die nach dem Ende der Datensammlung passiert sind, kennt es nicht. Man spricht vom Wissensstichtag.",
+      "Umstritten ist außerdem, welche Texte für das Training verwendet werden dürfen. Viele Autorinnen, Verlage und Medienhäuser kritisieren, dass ihre Werke ohne Erlaubnis oder Bezahlung genutzt wurden. In mehreren Ländern laufen dazu Gerichtsverfahren. Wie das Urheberrecht hier künftig angewendet wird, ist noch nicht entschieden.",
+      "Am Ende des Vortrainings steht ein Modell, das sehr viel über Sprache weiß, aber noch kein angenehmer Gesprächspartner ist. Es setzt einfach jeden Text fort. Wie daraus ein Assistent wird, der Fragen beantwortet, zeigt ein späterer Abschnitt."
+     ]
+    },
+    {
+     "heading": "Der Durchbruch: Aufmerksamkeit",
+     "paragraphs": [
+      "Sprachmodelle gibt es schon lange. Der große Sprung kam aber erst mit einer bestimmten Bauweise, dem sogenannten Transformer. Vorgestellt wurde er im Juni 2017 in einem Fachaufsatz mit dem Titel „Attention Is All You Need“, auf Deutsch ungefähr: Aufmerksamkeit ist alles, was du brauchst. Acht Forscher, die damals bei Google arbeiteten, hatten ihn entwickelt.",
+      "Um zu verstehen, warum das so wichtig war, hilft ein Blick auf die Zeit davor. Frühere Modelle lasen Text meist Wort für Wort, der Reihe nach, ähnlich wie ein Mensch, der mit dem Finger die Zeile entlangfährt. Informationen vom Satzanfang mussten durch viele Schritte weitergereicht werden und gingen dabei leicht verloren. Außerdem ließ sich diese Arbeit schlecht auf viele Prozessoren gleichzeitig verteilen.",
+      "Der Transformer macht es anders. Er betrachtet alle Wörter eines Textabschnitts gleichzeitig. Der Kern ist ein Mechanismus namens Selbstaufmerksamkeit. Für jedes Token berechnet das Modell, wie wichtig jedes andere Token im Text gerade für es ist. Dann mischt es die Informationen entsprechend dieser Gewichte zusammen.",
+      "Ein Beispiel macht das anschaulich. Im Satz „Die Katze jagte die Maus, weil sie hungrig war“ muss klar werden, wer mit „sie“ gemeint ist. Die Aufmerksamkeit erlaubt es dem Token „sie“, besonders stark auf „Katze“ zu achten. Heißt der Satz dagegen „weil sie so schnell war“, kann sich der Bezug auf die Maus verschieben. Das Modell lernt im Training selbst, worauf es in welchem Zusammenhang achten muss.",
+      "Dabei arbeiten viele solcher Aufmerksamkeitsmechanismen parallel, die Fachleute Köpfe nennen. Der eine achtet vielleicht auf grammatische Bezüge, ein anderer auf Bedeutungen, ein dritter auf die Position im Satz. Und das Ganze wird in vielen Schichten übereinander gestapelt. Mit jeder Schicht wird die Darstellung jedes Tokens reicher und stärker vom Zusammenhang geprägt.",
+      "Ursprünglich wurde der Transformer für die maschinelle Übersetzung entwickelt, etwa vom Englischen ins Deutsche. Dort schlug er die bisherigen Verfahren deutlich und ließ sich zudem viel schneller trainieren. Der eigentliche Vorteil zeigte sich aber erst später: Weil alle Wörter gleichzeitig verarbeitet werden, lässt sich das Training hervorragend auf Tausende Grafikprozessoren verteilen.",
+      "Damit war der Weg frei für immer größere Modelle mit immer mehr Daten. Forschende stellten fest, dass die Fähigkeiten mit der Größe erstaunlich zuverlässig zunahmen. Fast alle heute bekannten Sprachmodelle beruhen auf dem Transformer. Der Fachaufsatz von 2017 gehört inzwischen zu den meistzitierten wissenschaftlichen Arbeiten des Jahrhunderts.",
+      "Eine nette Randnotiz: Der Titel spielt auf das Beatles-Lied „All You Need Is Love“ an. Und alle acht Autoren verließen Google in den folgenden Jahren, um in anderen Firmen zu arbeiten oder eigene Unternehmen zu gründen. Mehrere der heute wichtigen KI-Firmen gehen so direkt auf diese Gruppe zurück.",
+      "Die Aufmerksamkeit hat allerdings einen Preis. Weil jedes Token jedes andere betrachtet, wächst der Rechenaufwand stark, wenn der Text länger wird. Viele aktuelle Forschungsarbeiten beschäftigen sich deshalb damit, Transformer effizienter zu machen."
+     ]
+    },
+    {
+     "heading": "Vom Textvervollständiger zum Assistenten",
+     "paragraphs": [
+      "Ein Modell, das nur vortrainiert wurde, ist ein Meister im Fortsetzen von Texten. Ein hilfreicher Gesprächspartner ist es aber noch nicht. Stellst du ihm eine Frage, beantwortet es sie vielleicht nicht, sondern schreibt weitere Fragen dazu, weil es das in Frageliste-Dokumenten so gesehen hat. Es tut eben, was im Internet typisch ist, nicht unbedingt, was du willst.",
+      "Deshalb folgt ein zweiter Trainingsschritt, das sogenannte überwachte Feintuning. Dafür schreiben Menschen viele Beispielgespräche: eine Frage oder Bitte und eine gute, hilfreiche Antwort darauf. Das Modell wird mit diesen Beispielen weitertrainiert und lernt so das Format eines Dialogs. Es versteht jetzt besser, dass auf eine Frage eine Antwort folgen soll.",
+      "Der dritte Schritt hat einen sperrigen Namen: bestärkendes Lernen aus menschlichem Feedback, englisch abgekürzt RLHF. Dabei erzeugt das Modell zu einer Frage mehrere Antworten. Menschen bewerten, welche davon besser ist, hilfreicher, ehrlicher oder harmloser. Aus vielen solchen Bewertungen wird ein zweites Modell trainiert, das vorhersagen kann, welche Antworten Menschen bevorzugen.",
+      "Dieses Bewertungsmodell dient dann als eine Art Trainer. Das Sprachmodell probiert Antworten aus, bekommt dafür eine Punktzahl und passt sich so an, dass es öfter Antworten mit hoher Punktzahl erzeugt. So wird es Schritt für Schritt hilfreicher und lernt auch, bestimmte schädliche Anfragen abzulehnen.",
+      "Inzwischen gibt es Varianten dieses Verfahrens. Manche Firmen lassen Antworten teilweise von anderen KI-Systemen anhand festgelegter Grundsätze bewerten, statt ausschließlich von Menschen. Andere verzichten auf das separate Bewertungsmodell und trainieren direkt mit Paaren aus besseren und schlechteren Antworten. Das Ziel ist überall ähnlich: ein Modell, das sich so verhält, wie Menschen es sich wünschen.",
+      "Dieser Schritt erklärt den typischen Tonfall vieler Chatbots. Sie sind höflich, strukturieren ihre Antworten gern mit Aufzählungen und weisen auf Unsicherheiten hin. Das ist kein Zufall, sondern das Ergebnis von sehr vielen menschlichen Bewertungen. Gleichzeitig kann dieses Training auch unerwünschte Effekte haben, etwa dass ein Modell dem Nutzer zu bereitwillig zustimmt.",
+      "Hinzu kommen Anweisungen, die du gar nicht siehst. Viele Anbieter geben ihrem Modell vor jedem Gespräch einen sogenannten Systemprompt mit. Darin steht, welche Rolle es einnehmen soll, welche Regeln gelten und welche Werkzeuge es nutzen darf. Ein und dasselbe Grundmodell kann so ganz unterschiedlich auftreten, je nachdem, wofür es eingesetzt wird.",
+      "Moderne Assistenten können außerdem Werkzeuge verwenden. Sie suchen im Internet, rechnen mit einem Taschenrechner, führen Programmcode aus oder lesen hochgeladene Dokumente. Technisch erzeugt das Modell dabei einen besonderen Text, der das Werkzeug aufruft, und bekommt das Ergebnis zurück. So lassen sich manche Schwächen des reinen Sprachmodells ausgleichen.",
+      "Man kann sich den gesamten Weg also in drei Etappen vorstellen: erst sehr viel lesen, dann Gesprächsbeispiele studieren und schließlich durch Rückmeldung lernen, was gute Antworten ausmacht."
+     ]
+    },
+    {
+     "heading": "Wie eine Antwort entsteht",
+     "paragraphs": [
+      "Was passiert, wenn du eine Frage abschickst? Zuerst wird dein Text in Tokens zerlegt. Zusammen mit dem bisherigen Gesprächsverlauf und den unsichtbaren Anweisungen des Anbieters wandert er dann durch alle Schichten des Modells. Am Ende steht keine fertige Antwort, sondern eine Liste von Wahrscheinlichkeiten für das nächste Token.",
+      "Das Modell sagt also zum Beispiel: Mit vierzig Prozent Wahrscheinlichkeit folgt „Die“, mit fünfzehn Prozent „Gute“, mit zehn Prozent „Das“ und so weiter, für jedes Token seines Vorrats. Aus dieser Verteilung wird eines ausgewählt. Dann wird das gewählte Token an den Text angehängt, und das Ganze beginnt von vorn. Token für Token entsteht so die Antwort.",
+      "Deshalb siehst du bei vielen Chatbots, wie die Antwort Stück für Stück auf dem Bildschirm erscheint. Das ist kein Effekt für die Optik. Das Modell erzeugt den Text tatsächlich nacheinander. Jedes neue Token hängt von allen vorherigen ab, auch von denen, die das Modell selbst gerade geschrieben hat.",
+      "Bei der Auswahl gibt es Spielraum. Würde das Modell immer das wahrscheinlichste Token nehmen, wären die Antworten oft eintönig und würden sich wiederholen. Deshalb wird meist mit einer gewissen Zufälligkeit ausgewählt. Ein Regler, den Fachleute Temperatur nennen, bestimmt, wie stark. Niedrige Temperatur bedeutet vorhersehbare Antworten, hohe Temperatur kreativere, aber auch fehleranfälligere.",
+      "Das erklärt, warum du auf dieselbe Frage zweimal unterschiedliche Antworten bekommen kannst. Das Modell würfelt gewissermaßen bei jedem Schritt, allerdings mit stark gezinkten Würfeln. Meist ähneln sich die Antworten im Kern, unterscheiden sich aber in Formulierungen und Details.",
+      "Wie viel ein Modell auf einmal im Blick behalten kann, legt das sogenannte Kontextfenster fest. Es wird in Tokens gemessen. Frühe Modelle konnten nur wenige Seiten Text berücksichtigen. Aktuelle Modelle schaffen teilweise Hunderttausende Tokens oder mehr, das entspricht mehreren Büchern. Was außerhalb des Fensters liegt, existiert für das Modell in diesem Moment nicht.",
+      "Wichtig: Ein Sprachmodell lernt nicht dazu, während du mit ihm sprichst. Seine Parameter bleiben bei der Nutzung unverändert. Dass es sich an frühere Teile des Gesprächs erinnert, liegt nur daran, dass der gesamte bisherige Verlauf jedes Mal erneut mitgeschickt wird. Manche Anbieter speichern zusätzlich Notizen über frühere Gespräche und fügen sie unauffällig in den Kontext ein.",
+      "Neuere Modelle nutzen außerdem eine Art Denkpause. Bevor sie antworten, erzeugen sie zunächst einen längeren inneren Gedankengang, in dem sie das Problem in Schritte zerlegen. Erst danach formulieren sie die eigentliche Antwort. Bei Aufgaben wie Mathematik oder Programmieren verbessert das die Ergebnisse oft deutlich, kostet aber mehr Rechenzeit.",
+      "Jede Antwort ist also das Ergebnis vieler kleiner Wahrscheinlichkeitsentscheidungen. Das macht die Modelle flexibel und kreativ, erklärt aber auch, warum sie sich manchmal irren, wie der nächste Abschnitt zeigt."
+     ]
+    },
+    {
+     "heading": "Halluzinationen und andere Grenzen",
+     "paragraphs": [
+      "Sprachmodelle klingen fast immer souverän. Gerade das macht eine ihrer größten Schwächen tückisch. Sie erfinden manchmal Fakten, Zitate, Quellen oder Zahlen, die plausibel wirken, aber schlicht falsch sind. Fachleute nennen das Halluzination.",
+      "Der Grund liegt im Grundprinzip. Ein Sprachmodell erzeugt das Wahrscheinlichste, nicht das Wahre. Es hat keine eingebaute Faktendatenbank, gegen die es seine Aussagen prüft. Wenn ein Muster nahelegt, dass an einer bestimmten Stelle eine Jahreszahl, ein Buchtitel oder ein Name stehen sollte, liefert es etwas, das passt, auch wenn es das nicht sicher weiß.",
+      "Besonders anfällig sind seltene Fakten. Über bekannte Themen hat das Modell im Training sehr viel gelesen, und seine Aussagen sind entsprechend oft richtig. Bei Nischenwissen, genauen Zahlen oder Details zu wenig bekannten Personen wird es unsicherer. Gerade dort sollte man genau hinschauen. Erfundene Quellenangaben, die es gar nicht gibt, sind ein bekanntes Beispiel.",
+      "Forschende arbeiten intensiv daran, Halluzinationen zu verringern. Ein wichtiger Ansatz ist, dem Modell verlässliche Informationen mitzugeben. Dabei sucht ein System zunächst in Dokumenten oder im Internet nach passenden Stellen und legt sie dem Modell vor. Das Modell formuliert seine Antwort dann auf dieser Grundlage und kann die Quellen nennen. Ganz verschwunden ist das Problem damit aber nicht.",
+      "Eine zweite Grenze ist das Wissen über die Zeit. Ein Modell kennt nur, was bis zu seinem Wissensstichtag in den Trainingsdaten stand. Über aktuelle Ereignisse kann es ohne Internetsuche nichts Verlässliches sagen. Manchmal weiß es nicht einmal genau, wie aktuell sein eigenes Wissen ist.",
+      "Drittens übernehmen Modelle Verzerrungen aus ihren Daten. Wenn bestimmte Gruppen in Texten häufig einseitig dargestellt werden, kann das Modell solche Muster wiedergeben. Die Anbieter versuchen, das im Feintuning abzuschwächen. Ganz gelingt das nicht, und was als ausgewogen gilt, ist selbst oft umstritten.",
+      "Auch beim Rechnen und bei streng logischen Aufgaben machten Sprachmodelle lange typische Fehler, weil sie Zahlen als Tokens sehen und nicht wie ein Taschenrechner arbeiten. Neuere Modelle sind hier deutlich besser geworden, auch weil sie Schritt für Schritt vorgehen oder Werkzeuge nutzen. Fehlerfrei sind sie aber nicht.",
+      "Für den Alltag ergibt sich daraus eine einfache Regel: Sprachmodelle sind hervorragende Helfer beim Formulieren, Zusammenfassen, Erklären und Ideensammeln. Bei wichtigen Fakten, medizinischen, rechtlichen oder finanziellen Fragen sollte man ihre Antworten aber immer mit verlässlichen Quellen abgleichen oder Fachleute fragen.",
+      "Man kann es so zusammenfassen: Ein Sprachmodell ist wie ein sehr belesener, schneller und hilfsbereiter Gesprächspartner, der aber manchmal lieber etwas Plausibles sagt, als zuzugeben, dass er es nicht weiß."
+     ]
+    },
+    {
+     "heading": "Was Sprachmodelle für uns bedeuten",
+     "paragraphs": [
+      "Wie schnell sich diese Technik verbreitet hat, ist beispiellos. ChatGPT ging Ende November 2022 online. Nach einer Analyse der Schweizer Bank UBS nutzten es im Januar 2023, also nur gut zwei Monate später, schätzungsweise bereits hundert Millionen Menschen im Monat. Zum Vergleich: TikTok hatte dafür etwa neun Monate gebraucht, Instagram ungefähr zweieinhalb Jahre.",
+      "Heute stecken Sprachmodelle in vielen Programmen, die wir täglich nutzen: in Suchmaschinen, Textverarbeitungen, E-Mail-Programmen und Programmierumgebungen. Unternehmen setzen sie im Kundenservice ein, Schülerinnen und Studenten beim Lernen, Entwicklerinnen beim Schreiben von Code. Vieles davon spart Zeit, manches verändert ganze Berufe.",
+      "Damit verbunden sind viele Fragen, auf die es noch keine endgültigen Antworten gibt. Welche Tätigkeiten werden sich verändern oder wegfallen, und welche neuen entstehen? Fachleute sind sich uneinig, wie stark und wie schnell sich der Arbeitsmarkt wandelt. Klar ist, dass sich viele Berufe verändern werden, besonders solche, in denen viel mit Text gearbeitet wird.",
+      "Ein weiteres Thema ist der Energie- und Ressourcenbedarf. Das Training und der Betrieb großer Modelle brauchen viel Strom und leistungsstarke Rechenzentren. Wie groß der Anteil am weltweiten Energieverbrauch wird, hängt davon ab, wie effizient die Technik wird und wie stark sie genutzt wird. Darüber wird intensiv diskutiert.",
+      "Auch das Vertrauen in Informationen steht auf dem Spiel. Sprachmodelle können in großer Menge überzeugende Texte erzeugen, auch falsche oder manipulative. Das erleichtert Desinformation. Gleichzeitig helfen ähnliche Verfahren dabei, solche Inhalte zu erkennen. Schulen und Universitäten fragen sich zudem, wie Prüfungen künftig aussehen sollen.",
+      "Rechtlich ist vieles im Fluss. Die Europäische Union hat mit dem AI Act ein Gesetz verabschiedet, das KI-Systeme je nach Risiko unterschiedlich streng reguliert. Fragen des Urheberrechts, des Datenschutzes und der Haftung für Fehler werden in vielen Ländern gerade erst geklärt.",
+      "Und dann ist da die große Frage, wie intelligent diese Systeme eigentlich sind. Manche Fachleute halten das bloße Vorhersagen von Text für eine Sackgasse auf dem Weg zu echter Intelligenz. Andere sehen in den rasanten Fortschritten Anzeichen, dass noch viel mehr möglich ist. Die Debatte ist offen, und sie wird mit jedem neuen Modell neu geführt.",
+      "Auch die Frage nach der Kontrolle über diese Technik wird lauter. Nur wenige Unternehmen können die größten Modelle trainieren. Viele Fachleute fordern deshalb Transparenz darüber, wie Modelle entstehen, welche Daten verwendet werden und wie sie getestet werden.",
+      "Sicher ist: Sprachmodelle werden weiter besser. Sie verarbeiten inzwischen nicht nur Text, sondern auch Bilder, Audio und Video. Sie übernehmen mehrschrittige Aufgaben selbstständig und arbeiten mit anderen Programmen zusammen. Wer versteht, wie sie im Kern funktionieren, kann ihre Stärken besser nutzen und ihre Schwächen besser einschätzen.",
+      "Vielleicht ist das die wichtigste Erkenntnis: Hinter der scheinbaren Magie steckt ein nachvollziehbares Prinzip. Ein Sprachmodell ist ein Werkzeug, ein sehr mächtiges zwar, aber eines, das wir mit Verstand und kritischem Blick einsetzen sollten."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Ein großes Sprachmodell ist ein neuronales Netz, das aus riesigen Textmengen gelernt hat, das nächste Textstück vorherzusagen.",
+    "Transformer, Training mit menschlichem Feedback und viel Rechenleistung machen daraus vielseitige Assistenten.",
+    "Halluzinationen, Verzerrungen und offene gesellschaftliche Fragen zeigen, dass man ihre Antworten kritisch prüfen sollte."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "title": "Attention Is All You Need",
+   "publisher": "Vaswani und andere, Google Brain und Google Research, arXiv",
+   "url": "https://arxiv.org/abs/1706.03762",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "ChatGPT sets record for fastest-growing user base",
+   "publisher": "Reuters",
+   "url": "https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "A Survey on Hallucination in Large Language Models",
+   "publisher": "Huang und andere, arXiv",
+   "url": "https://arxiv.org/abs/2311.05232",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "A Philosophical Introduction to Language Models, Part I",
+   "publisher": "Millière und Buckner, arXiv",
+   "url": "https://arxiv.org/abs/2401.03910",
+   "accessed": "2026-11-03"
+  }
+ ],
+ "factCheckedAt": "2026-11-03"
+}
