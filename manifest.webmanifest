@@ -1,0 +1,17 @@
+{
+  "name": "Brainbite",
+  "short_name": "Brainbite",
+  "description": "Wissen in 5, 10, 15 oder 20 Minuten. Zum Lesen oder Zuhören.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#071417",
+  "theme_color": "#071417",
+  "icons": [
+    { "src": "./assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "./assets/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

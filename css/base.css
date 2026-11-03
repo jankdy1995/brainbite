@@ -1,0 +1,125 @@
+/* Schriften: selbst gehostet (Inter nur als Ersatz für die Systemschrift) */
+@font-face { font-family: 'Inter'; font-style: normal; font-weight: 400; font-display: swap; src: url('../assets/fonts/inter-latin-400-normal.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-style: normal; font-weight: 500; font-display: swap; src: url('../assets/fonts/inter-latin-500-normal.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-style: normal; font-weight: 600; font-display: swap; src: url('../assets/fonts/inter-latin-600-normal.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-style: normal; font-weight: 700; font-display: swap; src: url('../assets/fonts/inter-latin-700-normal.woff2') format('woff2'); }
+@font-face { font-family: 'Source Serif 4'; font-style: normal; font-weight: 400; font-display: swap; src: url('../assets/fonts/source-serif-4-latin-400-normal.woff2') format('woff2'); }
+@font-face { font-family: 'Source Serif 4'; font-style: normal; font-weight: 600; font-display: swap; src: url('../assets/fonts/source-serif-4-latin-600-normal.woff2') format('woff2'); }
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  background: var(--bg);
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-size: var(--body-size);
+  line-height: var(--body-line);
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, p { margin: 0; }
+button, input, select { font: inherit; color: inherit; }
+button { cursor: pointer; }
+a { color: var(--tint); }
+img, svg { display: block; }
+[hidden] { display: none !important; }
+
+:focus-visible {
+  outline: 2px solid var(--tint);
+  outline-offset: 2px;
+}
+
+.app {
+  position: relative;
+  max-width: 520px;
+  margin: 0 auto;
+  min-height: 100dvh;
+  outline: none;
+}
+
+/* Ein Farbschimmer pro Screen */
+.glow {
+  position: fixed;
+  top: -260px;
+  left: 50%;
+  width: 580px;
+  height: 500px;
+  margin-left: -390px;
+  border-radius: 50%;
+  background: var(--glow);
+  filter: blur(var(--glow-blur));
+  pointer-events: none;
+  z-index: 0;
+  transition: margin-left 400ms ease, top 400ms ease, opacity 300ms ease;
+}
+body[data-glow='right'] .glow { margin-left: -190px; }
+body[data-glow='low'] .glow { top: 200px; margin-left: -420px; }
+body[data-glow='none'] .glow { opacity: 0; }
+
+.screen {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+  padding: calc(28px + env(safe-area-inset-top)) var(--space-5) calc(120px + env(safe-area-inset-bottom));
+}
+
+.screen-head {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+.screen-head__pre {
+  font-size: var(--subhead-size);
+  line-height: var(--subhead-line);
+  color: var(--text-secondary);
+}
+.screen-head__title {
+  font-size: var(--large-title-size);
+  line-height: var(--large-title-line);
+  font-weight: var(--large-title-weight);
+  letter-spacing: var(--large-title-tracking);
+}
+
+.section-label {
+  margin: 6px 4px -8px;
+  font-size: var(--footnote-size);
+  line-height: var(--footnote-line);
+  color: var(--text-secondary);
+}
+
+.note {
+  padding: 0 6px;
+  font-size: var(--footnote-size);
+  line-height: 19px;
+  color: var(--text-tertiary);
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.noscript { padding: 24px; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 1ms !important;
+    transition-duration: 1ms !important;
+    scroll-behavior: auto !important;
+  }
+}

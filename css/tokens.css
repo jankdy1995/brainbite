@@ -1,0 +1,176 @@
+/* Automatisch erzeugt aus docs/tokens.json (Design System „Brainbite“ v2).
+   Nicht von Hand ändern: node scripts/build-tokens.mjs */
+
+:root {
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 14px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-7: 32px;
+  --space-8: 44px;
+  --radius-icon: 9px;
+  --radius-tile: 14px;
+  --radius-group: 26px;
+  --radius-hero: 30px;
+  --radius-sheet: 32px;
+  --radius-capsule: 999px;
+  --glass-blur: 24px;
+  --glass-saturate: 160%;
+  --glow-blur: 100px;
+  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", Inter, system-ui, sans-serif;
+  --font-serif: "Source Serif 4", Georgia, serif;
+  --large-title-size: 34px;
+  --large-title-line: 41px;
+  --large-title-weight: 700;
+  --large-title-tracking: -0.8px;
+  --title-1-size: 34px;
+  --title-1-line: 40px;
+  --title-1-weight: 700;
+  --title-1-tracking: -0.9px;
+  --title-2-size: 26px;
+  --title-2-line: 31px;
+  --title-2-weight: 700;
+  --title-2-tracking: -0.5px;
+  --headline-size: 16px;
+  --headline-line: 21px;
+  --headline-weight: 600;
+  --body-size: 17px;
+  --body-line: 25px;
+  --body-weight: 400;
+  --subhead-size: 15px;
+  --subhead-line: 20px;
+  --subhead-weight: 400;
+  --footnote-size: 13px;
+  --footnote-line: 18px;
+  --footnote-weight: 400;
+  --label-size: 12px;
+  --label-line: 16px;
+  --label-weight: 600;
+  --label-tracking: 0.6px;
+  --stat-size: 34px;
+  --stat-line: 38px;
+  --stat-weight: 700;
+  --reading-s-size: 17px;
+  --reading-s-line: 29px;
+  --reading-s-weight: 400;
+  --reading-m-size: 19px;
+  --reading-m-line: 32px;
+  --reading-m-weight: 400;
+  --reading-l-size: 21px;
+  --reading-l-line: 35px;
+  --reading-l-weight: 400;
+  --reading-xl-size: 24px;
+  --reading-xl-line: 39px;
+  --reading-xl-weight: 400;
+}
+
+/* Dunkel ist der Hauptmodus */
+:root,
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --bg: #071417;
+  --glow: rgba(15,76,85,0.85);
+  --surface: #0E2226;
+  --reader: #071417;
+  --glass: rgba(255,255,255,0.05);
+  --glass-bar: rgba(20,36,40,0.72);
+  --glass-edge: rgba(255,255,255,0.08);
+  --fill: rgba(255,255,255,0.05);
+  --segment-active: rgba(140,207,214,0.18);
+  --track: rgba(255,255,255,0.05);
+  --separator: rgba(255,255,255,0.08);
+  --text: #ECF4F4;
+  --text-reading-2: #D4E3E4;
+  --text-secondary: #B5C7C9;
+  --text-tertiary: #8FA5A8;
+  --tint: #8CCFD6;
+  --on-tint: #071417;
+  --tint-soft: rgba(140,207,214,0.14);
+  --accent: #FF8A75;
+  --on-accent: #071417;
+  --accent-text: #FFB4A6;
+  --highlight: rgba(255,138,117,0.20);
+  --brand-petrol: #0F4C55;
+  --illu-mid: #14606A;
+  --illu-line: #1D6B75;
+  --illu-light: #8CCFD6;
+  --illu-void: #071417;
+  --glass-highlight: inset 0 1px 0 rgba(255,255,255,0.08);
+  --shadow-float: 0 14px 34px rgba(0,0,0,0.40);
+  --shadow-segment: inset 0 1px 0 rgba(255,255,255,0.10);
+  --shadow-sheet: 0 -8px 40px rgba(0,0,0,0.55);
+}
+
+:root[data-theme='light'] {
+  color-scheme: light;
+  --bg: #F2F6F6;
+  --glow: rgba(140,207,214,0.45);
+  --surface: #FFFFFF;
+  --reader: #F7FAFA;
+  --glass: rgba(255,255,255,0.72);
+  --glass-bar: rgba(255,255,255,0.72);
+  --glass-edge: rgba(11,30,34,0.06);
+  --fill: rgba(255,255,255,0.60);
+  --segment-active: #FFFFFF;
+  --track: rgba(11,30,34,0.06);
+  --separator: rgba(11,30,34,0.10);
+  --text: #0B1E22;
+  --text-reading-2: #2A3E42;
+  --text-secondary: #41575B;
+  --text-tertiary: #41575B;
+  --tint: #0F4C55;
+  --on-tint: #FFFFFF;
+  --tint-soft: rgba(15,76,85,0.08);
+  --accent: #FF6F59;
+  --on-accent: #0B1E22;
+  --accent-text: #B93A28;
+  --highlight: rgba(255,111,89,0.16);
+  --brand-petrol: #0F4C55;
+  --illu-mid: #14606A;
+  --illu-line: #1D6B75;
+  --illu-light: #8CCFD6;
+  --illu-void: #071417;
+  --glass-highlight: inset 0 1px 0 rgba(255,255,255,0.95);
+  --shadow-float: 0 12px 30px rgba(11,30,34,0.12);
+  --shadow-segment: 0 2px 8px rgba(11,30,34,0.10);
+  --shadow-sheet: 0 -8px 40px rgba(11,30,34,0.16);
+}
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme='dark']) {
+    color-scheme: light;
+    --bg: #F2F6F6;
+    --glow: rgba(140,207,214,0.45);
+    --surface: #FFFFFF;
+    --reader: #F7FAFA;
+    --glass: rgba(255,255,255,0.72);
+    --glass-bar: rgba(255,255,255,0.72);
+    --glass-edge: rgba(11,30,34,0.06);
+    --fill: rgba(255,255,255,0.60);
+    --segment-active: #FFFFFF;
+    --track: rgba(11,30,34,0.06);
+    --separator: rgba(11,30,34,0.10);
+    --text: #0B1E22;
+    --text-reading-2: #2A3E42;
+    --text-secondary: #41575B;
+    --text-tertiary: #41575B;
+    --tint: #0F4C55;
+    --on-tint: #FFFFFF;
+    --tint-soft: rgba(15,76,85,0.08);
+    --accent: #FF6F59;
+    --on-accent: #0B1E22;
+    --accent-text: #B93A28;
+    --highlight: rgba(255,111,89,0.16);
+    --brand-petrol: #0F4C55;
+    --illu-mid: #14606A;
+    --illu-line: #1D6B75;
+    --illu-light: #8CCFD6;
+    --illu-void: #071417;
+    --glass-highlight: inset 0 1px 0 rgba(255,255,255,0.95);
+    --shadow-float: 0 12px 30px rgba(11,30,34,0.12);
+    --shadow-segment: 0 2px 8px rgba(11,30,34,0.10);
+    --shadow-sheet: 0 -8px 40px rgba(11,30,34,0.16);
+  }
+}

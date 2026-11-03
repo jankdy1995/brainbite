@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-03",
+  "categories": [
+    {
+      "id": "science",
+      "name": {
+        "de": "Wissenschaft & Natur",
+        "en": "Science & Nature"
+      }
+    },
+    {
+      "id": "tech-economy",
+      "name": {
+        "de": "Technik & Wirtschaft",
+        "en": "Tech & Economy"
+      }
+    }
+  ],
+  "topics": [
+    {
+      "id": "black-holes",
+      "category": "science",
+      "publishedAt": "2026-11-03",
+      "motif": "ring",
+      "tags": [
+        "astronomie",
+        "physik"
+      ],
+      "title": {
+        "de": "Schwarze Löcher",
+        "en": "Black Holes"
+      },
+      "teaser": {
+        "de": "Orte, aus denen nicht einmal Licht entkommt, und wie man sie trotzdem findet.",
+        "en": "Places not even light can escape, and how we find them anyway."
+      },
+      "words": {
+        "de": {
+          "5": 912,
+          "10": 1871,
+          "15": 2723,
+          "20": 3643
+        },
+        "en": {
+          "5": 1052,
+          "10": 2107,
+          "15": 3116,
+          "20": 4158
+        }
+      }
+    }
+  ]
+}
