@@ -74,6 +74,10 @@ for (const topic of index.topics) {
   }
 }
 
+for (const id of index.featured?.topics || []) {
+  if (!ids.has(id)) warn(`index.json › featured: unbekanntes Thema ${id}`);
+}
+
 if (errors.length) {
   console.error(`✗ ${errors.length} Problem(e):\n- ` + errors.join('\n- '));
   process.exit(1);

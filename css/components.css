@@ -100,6 +100,26 @@
   color: var(--tint);
 }
 
+/* ===== Karussell ===== */
+.c-carousel {
+  display: flex;
+  gap: var(--space-3);
+  margin: 0 calc(var(--space-5) * -1);
+  padding: 2px var(--space-5) 6px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-padding: 0 var(--space-5);
+  overscroll-behavior-x: contain;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+.c-carousel::-webkit-scrollbar { display: none; }
+.c-hero--slide {
+  flex: 0 0 calc(100% - 28px);
+  scroll-snap-align: start;
+}
+.c-carousel > :only-child { flex-basis: 100%; }
+
 /* ===== Runde Buttons ===== */
 .c-playbtn {
   flex: none;

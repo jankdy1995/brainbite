@@ -49,6 +49,46 @@
           "20": 4158
         }
       }
+    },
+    {
+      "id": "why-we-sleep",
+      "category": "science",
+      "publishedAt": "2026-11-03",
+      "motif": "moon",
+      "tags": [
+        "gehirn",
+        "gesundheit",
+        "biologie"
+      ],
+      "title": {
+        "de": "Warum wir schlafen",
+        "en": "Why We Sleep"
+      },
+      "teaser": {
+        "de": "Ein Drittel des Lebens verbringen wir im Schlaf. Was dabei im Gehirn passiert.",
+        "en": "We spend a third of our lives asleep. Here is what the brain is doing all that time."
+      },
+      "words": {
+        "de": {
+          "5": 910,
+          "10": 1802,
+          "15": 2713,
+          "20": 3615
+        },
+        "en": {
+          "5": 1050,
+          "10": 2081,
+          "15": 3126,
+          "20": 4155
+        }
+      }
     }
-  ]
+  ],
+  "featured": {
+    "week": "2026-W45",
+    "topics": [
+      "why-we-sleep",
+      "black-holes"
+    ]
+  }
 }

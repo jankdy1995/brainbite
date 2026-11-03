@@ -22,7 +22,7 @@ export async function renderFeed(root) {
     const filter = index.categories.some((c) => c.id === state.feedCategory) ? state.feedCategory : 'all';
     const cats = filter === 'all' ? state.categories : [{ id: filter, rank: 1, enabled: true }];
     const feed = buildFeed(index, cats);
-    const [hero, ...rest] = feed;
+    const [hero] = feed;
     const filterLabel = filter === 'all' ? t('feed.all') : categoryName(index, filter, l);
 
     const openFilter = (e) =>
@@ -67,19 +67,40 @@ export async function renderFeed(root) {
     } else if (!hero) {
       screen.append(el('p.note', { text: t('feed.empty') }));
     } else {
-      screen.append(heroCard(hero, len, l, state, filter === 'all' ? t('feed.today') : filterLabel));
-      const next = rest.slice(0, 4);
-      if (next.length) {
-        screen.append(el('span.section-label', { text: t('feed.next') }));
-        screen.append(group(next.map((topic) => topicRow({
-          topic,
-          href: `#/article/${topic.id}?len=${len}`,
-          title: topic.title[l],
-          meta: rowMeta(topic, index, len, l)
-        }))));
-      } else {
-        screen.append(el('p.note', { text: t('feed.moreSoon') }));
+      // Highlights der Woche: redaktionell gewählt (index.json › featured), passend zum Filter
+      const featuredIds = index.featured?.topics || [];
+      let highlights = featuredIds
+        .map((id) => index.topics.find((x) => x.id === id))
+        .filter((x) => x && (filter === 'all' || x.category === filter));
+      if (highlights.length < 2) highlights = feed.slice(0, 4);
+      screen.append(
+        el('section.feed-section', { 'aria-label': t('feed.highlights') },
+          el('h2.section-title', { text: t('feed.highlights') }),
+          carousel(highlights.slice(0, 6).map((topic) => heroCard(topic, len, l, state, categoryName(index, topic.category, l))))
+        )
+      );
+
+      // Darunter alle Themen, gruppiert nach Kategorie (Reihenfolge nach deiner Priorität)
+      const order = filter === 'all'
+        ? [...state.categories].filter((c) => c.enabled !== false).sort((a, b) => a.rank - b.rank).map((c) => c.id)
+        : [filter];
+      for (const catId of order) {
+        const topics = buildFeed(index, [{ id: catId, rank: 1, enabled: true }]);
+        if (!topics.length) continue;
+        screen.append(
+          el('section.feed-section', {},
+            el('h2.section-title', { text: categoryName(index, catId, l) }),
+            group(topics.map((topic) => topicRow({
+              topic,
+              href: `#/article/${topic.id}?len=${len}`,
+              title: topic.title[l],
+              meta: rowMeta(topic, len, l, state),
+              end: t('common.min', { n: len })
+            })))
+          )
+        );
       }
+      screen.append(el('p.note', { text: t('feed.moreSoon') }));
     }
     root.replaceChildren(screen);
   };
@@ -89,7 +110,7 @@ export async function renderFeed(root) {
 function heroCard(topic, len, l, state, label) {
   const words = topic.words[l][len];
   const href = `#/article/${topic.id}?len=${len}`;
-  return el('div.c-hero.glass', {},
+  return el('div.c-hero.c-hero--slide.glass', {},
     el('div.c-hero__art', { 'aria-hidden': 'true' }, illustration(topic.motif, 'hero')),
     el('div.c-hero__foot', {},
       el('a.c-hero__text', { href },
@@ -102,13 +123,20 @@ function heroCard(topic, len, l, state, label) {
   );
 }
 
-function rowMeta(topic, index, len, l) {
+function rowMeta(topic, len, l, state) {
   const p = getProgress(topic.id, len);
-  const cat = categoryName(index, topic.category, l);
-  if (p?.status === 'done') return t('meta.read', { cat });
+  if (p?.status === 'done') return t('meta.done');
   if (p?.scroll > 0.05) {
     const left = Math.max(1, Math.round(len * (1 - p.scroll)));
     return t('meta.continue', { n: left });
   }
-  return cat;
+  return t('meta.listen', { n: listenMinutes(topic.words[l][len], state.tts.rate) });
+}
+
+// Horizontal wischbare Karten mit Einrasten
+function carousel(cards) {
+  return el('div.c-carousel', { role: 'list' }, ...cards.map((c) => {
+    c.setAttribute('role', 'listitem');
+    return c;
+  }));
 }
