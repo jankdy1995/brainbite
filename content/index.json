@@ -51,6 +51,39 @@
       }
     },
     {
+      "id": "inflation",
+      "category": "tech-economy",
+      "publishedAt": "2026-11-03",
+      "motif": "bars",
+      "tags": [
+        "wirtschaft",
+        "geld",
+        "zentralbank"
+      ],
+      "title": {
+        "de": "Inflation einfach erklärt",
+        "en": "Inflation Explained"
+      },
+      "teaser": {
+        "de": "Warum dein Geld mit der Zeit weniger wert wird und wer dagegen steuert.",
+        "en": "Why your money buys less over time, and who tries to keep it in check."
+      },
+      "words": {
+        "de": {
+          "5": 902,
+          "10": 2190,
+          "15": 2704,
+          "20": 3609
+        },
+        "en": {
+          "5": 1043,
+          "10": 2476,
+          "15": 3106,
+          "20": 4150
+        }
+      }
+    },
+    {
       "id": "why-we-sleep",
       "category": "science",
       "publishedAt": "2026-11-03",
@@ -88,6 +121,7 @@
     "week": "2026-W45",
     "topics": [
       "why-we-sleep",
+      "inflation",
       "black-holes"
     ]
   }

@@ -1,0 +1,431 @@
+{
+ "id": "inflation",
+ "lang": "en",
+ "title": "Inflation Explained",
+ "versions": {
+  "5": {
+   "words": 1043,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Do you remember what a scoop of ice cream used to cost? Probably a lot less than today. The fact that prices rise over time, so that money gradually loses value, is called inflation. In the next five minutes you will find out what lies behind it, how it is measured, who suffers from it and who tries to keep it under control."
+     ]
+    },
+    {
+     "heading": "What inflation means",
+     "paragraphs": [
+      "Inflation means that the general price level is rising. If only coffee gets more expensive, that is not yet inflation. What is meant is that goods and services as a whole cost more over a longer period. The same amount of money then buys you less. Experts also say that purchasing power falls.",
+      "Economists also call this a loss of real value.",
+      "With small numbers that sounds harmless, but it adds up. If prices rise by two percent every year for ten years, by the end a hundred euros will only buy what about eighty-two euros buy today. Almost a fifth of the value has gone.",
+      "The difference between nominal and real is important too. Nominal is the amount on your payslip. Real is what you can actually afford with it. If your salary rises by three percent but prices rise by five, you end up with less in real terms, even though your account shows more.",
+      "In Germany, inflation is measured every month by the Federal Statistical Office. It tracks the prices of an imaginary basket of around seven hundred types of goods and services, from groceries to rent and electricity to a haircut. What households buy often and spend a lot on counts for more. The change compared with the same month a year earlier is the inflation rate.",
+      "Because nobody buys exactly the average basket, every household actually has its own personal inflation rate. If you drive a lot, you feel expensive petrol more than someone who gets around by bike.",
+      "This also explains why inflation in everyday life often feels higher than the official figure. We see the prices of bread and petrol almost every day, but we only pay rent once a month. If precisely the things we buy most often go up sharply, we notice it particularly strongly.",
+      "Inflation is not a new phenomenon, by the way. Even in antiquity, rulers reduced the silver content of their coins so they could mint more money. The result was the same then as it is today: the money lost value, and people could buy less with it."
+     ]
+    },
+    {
+     "heading": "Why prices rise and who is hit",
+     "paragraphs": [
+      "Prices usually rise for one of two reasons. Either everyone wants to buy more than can currently be produced, or costs go up, for example for energy, and companies pass them on to their customers. In 2022 both happened at once: after the pandemic demand was high, and with Russia’s attack on Ukraine energy became much more expensive.",
+      "Expectations play a role too. If everyone expects prices to rise, companies raise their prices as a precaution and employees demand higher wages. In the worst case, wages and prices keep pushing each other up.",
+      "The amount of money in circulation plays an important role as well. If it grows much faster than the quantity of goods over a long period, money loses value. In cases of extreme inflation this link is especially easy to see.",
+      "So high inflation redistributes wealth, often without anyone consciously noticing. Savers lose, while people with debts can win. That is one reason why society places so much value on stable prices.",
+      "Inflation does not hit everyone equally. The losers are often people with savings that earn little interest, and people on fixed incomes such as many pensioners. Low-income households suffer most, because they spend a large share of their money on food and energy.",
+      "Borrowers can be among the winners. Anyone with a fixed-rate loan pays back a fixed amount, which inflation makes smaller and smaller in relative terms. The same applies to heavily indebted governments.",
+      "With wages, timing is everything. Pay agreements often run for one or two years. If prices rise faster than expected, wages lag behind. Later on, pay rises make up some of the lost ground."
+     ]
+    },
+    {
+     "heading": "Who pushes back",
+     "paragraphs": [
+      "In the euro area, the European Central Bank keeps watch over prices. Its main objective is price stability. Since 2021 it has aimed for an inflation rate of two percent over the medium term. Inflation that is too low is considered just as undesirable as inflation that is too high.",
+      "Its most important tool is its key interest rates. If it raises them, loans become more expensive, people buy and invest less, and price pressure eases. It often takes one to two years for this to work, though.",
+      "If the central bank cuts interest rates, the opposite happens. Loans become cheaper and people buy and invest more. That helps when the economy is weak or inflation is too low. The art lies in finding the right moment.",
+      "Why not zero percent? When prices fall over a long period, people put off purchases, companies sell less and lay off staff. This downward spiral, called deflation, is hard to stop. Mild inflation acts as a buffer against it.",
+      "The year 1923 shows how dangerous too much inflation is. Back then the German state printed money without restraint. In November 1923 a loaf of bread cost 201 billion marks, and savings became worthless. That is one reason why the European Central Bank today is independent of governments.",
+      "Inflation was last a big topic in 2022, when it reached its highest level in Germany since reunification. It has since returned to close to the two percent target in the euro area. Prices have not come back down, though; they are simply rising more slowly.",
+      "Stable prices, in other words, don’t happen by themselves. They are the result of trust and sound policy, built up over many years."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Inflation means that the general price level rises, so the same amount of money buys less.",
+    "In Germany the Federal Statistical Office measures it every month using a basket of around 700 types of goods and services.",
+    "The European Central Bank aims for inflation of two percent over the medium term and steers mainly through its key interest rates."
+   ]
+  },
+  "10": {
+   "words": 2476,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "In 2022 many things suddenly became noticeably more expensive: heating, petrol, butter, sunflower oil. All at once, everyone was talking about inflation. But what exactly is inflation, where does it come from and why shouldn’t it simply be zero? Over the next ten minutes you will learn how inflation is measured, what pushes prices up, who wins and who loses, and what the European Central Bank does about it."
+     ]
+    },
+    {
+     "heading": "What inflation is and how it is measured",
+     "paragraphs": [
+      "Inflation means that the general price level is rising. It is not about a single product, but about goods and services as a whole becoming more expensive over a longer period. The flip side is falling purchasing power: the same amount of money buys you less.",
+      "How much this adds up is often underestimated. If prices rise by two percent every year for ten years, by the end a hundred euros will only buy what about eighty-two euros buy today. A rule of thumb helps with rough sums: seventy divided by the inflation rate gives you roughly the number of years after which prices will have doubled.",
+      "The difference between nominal and real is important. Nominal is the amount on your payslip. Real is what you can actually afford with it. If your salary rises by three percent but prices rise by five, you have more in nominal terms and less in real terms.",
+      "In Germany the Federal Statistical Office measures inflation every month with the consumer price index. It is based on an imaginary basket of around seven hundred types of goods and services, from bread to rent to a trip to the hairdresser. What households buy often and spend a lot on counts for more. Net rents, for example, make up just over seventeen percent, food around ten and a half percent and energy just over seven percent.",
+      "That is why perceived and measured inflation often differ. We see bread and petrol prices almost daily, but rent only once a month. And nobody buys exactly the average basket. If you drive a lot or rent in an expensive big city, you have your very own personal inflation rate.",
+      "The opposite of inflation is called deflation, meaning falling prices. That sounds pleasant, but it can paralyse an economy, because people put off purchases and companies invest less. Mild, stable inflation is therefore considered normal and even desirable.",
+      "For comparisons within Europe there is also the Harmonised Index of Consumer Prices, which is calculated according to the same rules in every EU country. This is the measure the European Central Bank relies on. What drives prices and how the central bank pushes back is what the next sections are about."
+     ]
+    },
+    {
+     "heading": "Why prices rise",
+     "paragraphs": [
+      "Prices are set where supply and demand meet. Inflation therefore usually arises when this balance is thrown off. Economists broadly distinguish between two causes, which often work together.",
+      "The first is strong demand. If people, businesses and the state want to buy more than the economy can currently produce, sellers can charge higher prices. Economists call this demand-pull inflation. It happens, for example, when everyone suddenly wants to spend again after a crisis, but factories have not yet caught up.",
+      "The second cause is rising costs. If energy becomes more expensive, bakeries, hauliers and factories have to pay more. They pass part of these costs on to their customers. This is known as cost-push inflation. It was particularly clear in Germany in 2022: energy became more than a third more expensive on average over the year.",
+      "Back then, a lot came together at once. After the pandemic demand was high, supply chains were disrupted and components such as computer chips were scarce. Then, with Russia’s attack on Ukraine in February 2022, the prices of gas, oil and grain rose sharply. In March 2022 the inflation rate in Germany jumped markedly.",
+      "The amount of money also plays an important role. If the quantity of money grows faster than the quantity of goods over a long period, prices rise in the long run. This link is especially obvious in cases of extreme inflation. In normal times, however, it is less direct, because a lot of money is also saved or invested.",
+      "You can see the power of expectations when you go shopping, too. If people believe a product will soon become much more expensive, they would rather buy it now. If many people do this at the same time, demand rises in the short term and prices really do go up. The expectation, in a sense, fulfils itself.",
+      "Finally, expectations matter. If everyone expects prices to rise, they behave accordingly. Companies raise their prices as a precaution, and employees demand higher wages so as not to become poorer. Higher wages, in turn, raise companies’ costs. In the worst case a wage-price spiral develops that drives itself.",
+      "That is exactly why central banks work so hard to keep expectations stable. If people trust that inflation will return to a normal level in the medium term, they won’t demand excessive pay rises, and firms won’t make precautionary price jumps. In monetary policy, trust is something like a currency of its own.",
+      "So not every price rise is the same. A short spike caused by more expensive oil behaves differently from inflation that becomes embedded in wages and expectations. Central banks therefore try to tell carefully whether prices are rising only temporarily or whether a lasting trend is developing.",
+      "In practice several of these causes usually overlap, which is what makes inflation so hard to predict and to fight. Economists often disagree about which factor matters most in a particular episode."
+     ]
+    },
+    {
+     "heading": "Winners and losers",
+     "paragraphs": [
+      "Inflation does not hit everyone equally. It shifts purchasing power and wealth around, often without anyone noticing. Who loses and who wins depends on how someone earns, saves or borrows money.",
+      "Among the losers are people with savings that earn little or no interest. If money sits in an account paying zero percent while prices rise by five percent, it loses roughly five percent of its real value every year. You won’t see that on your bank statement, but you will at the supermarket.",
+      "People on fixed incomes suffer too. They include many pensioners, students on a fixed budget and employees whose pay is adjusted only rarely. Their income stays the same while their spending rises. Low-income households are hit especially hard, because they have to spend a large share of their money on food and energy.",
+      "On the other side are borrowers. Anyone who has taken out a loan at a fixed interest rate pays back a fixed amount. As prices and wages rise, that amount becomes smaller in relative terms. The debt, in a sense, shrinks over time. This applies to private individuals with a mortgage just as much as to heavily indebted governments.",
+      "With wages, timing is everything. Pay agreements are often concluded for one or two years. If prices rise faster than expected, wages lag behind and real wages fall. Later, pay rises make up some of the ground. In Germany, real wages initially fell noticeably during the years of high inflation.",
+      "The state feels inflation from several directions as well. Rising prices and wages bring in more revenue from VAT and income tax. At the same time, though, its spending also rises, for example on salaries, pensions and social benefits. And when interest rates go up, new borrowing becomes more expensive.",
+      "For physical assets the picture is mixed. Property, shares or gold are often seen as protection, because their value can rise along with prices. That is not guaranteed, though. Rising interest rates, which often follow high inflation, can push down property prices and share prices too. There is no simple formula for protecting yourself with certainty.",
+      "For businesses, too, inflation is a double-edged sword. Companies that can easily raise their prices get through well. Those with long supply contracts at fixed prices come under pressure. High and volatile inflation above all makes planning difficult: how are you supposed to invest if you don’t know what materials and wages will cost in two years’ time?",
+      "Because inflation affects so many people unequally, it is not just an economic issue but also a social and political one. High inflation can shake trust in institutions. That is one more reason why price stability is considered so important in Europe."
+     ]
+    },
+    {
+     "heading": "The role of the central bank",
+     "paragraphs": [
+      "Who actually makes sure that money stays stable? In the euro area, that is the European Central Bank in Frankfurt, the ECB for short. Together with the national central banks such as Germany’s Bundesbank, it forms the Eurosystem. Its primary objective is written into the Treaty on the Functioning of the European Union: price stability.",
+      "What price stability means exactly is defined by the ECB itself. Since its strategy review in July 2021, it has aimed for an inflation rate of two percent over the medium term. Before that, the target was worded rather awkwardly as below, but close to, two percent. What is new is that the target is symmetric. Inflation that is too low is considered just as undesirable as inflation that is too high.",
+      "Medium term means that the two percent does not have to be hit every month. The central bank can hardly prevent short-term swings, such as those caused by an oil price shock, anyway. What matters is that inflation hovers around this value over several years and that people trust it will.",
+      "The ECB’s most important tool is its key interest rates. These are the rates at which commercial banks can borrow money from the central bank or deposit it there. If the ECB raises its key rates, loans for businesses and households gradually become more expensive and saving becomes more attractive. People then buy and invest less, demand falls and price pressure eases.",
+      "When key interest rates rise, many people notice it directly. Mortgages become more expensive, and so do loans for buying things in instalments. Savings accounts, on the other hand, start paying noticeable interest again. These are exactly the changes that are meant to make people spend a little less and save a little more. That cools the economy and eases the upward pressure on prices.",
+      "If the ECB cuts interest rates, the opposite happens: loans become cheaper, there is more investment and spending, and the economy gets a boost. That makes sense when inflation is too low or the economy is weak. The art lies in finding the right moment and the right dose.",
+      "There is one difficulty, though: changes in interest rates don’t work immediately. It often takes one to two years before a rate rise feeds through to prices. So the central bank has to act with foresight, almost like steering a large ship. If it reacts too late, it has to push back all the harder afterwards.",
+      "Besides interest rates, the ECB has used other tools in recent years, such as buying large quantities of bonds. These programmes were meant to support the economy during periods of very low inflation. They are politically controversial, because critics fear that the line between monetary policy and financing governments becomes blurred. Supporters consider them necessary in a crisis.",
+      "An important principle is independence. The ECB may not take instructions from governments. Behind this lies the experience that governments can be tempted to have money printed in order to pay off debts or win elections. German history shows where that can lead."
+     ]
+    },
+    {
+     "heading": "When money became worthless: 1923",
+     "paragraphs": [
+      "Germany experienced just how destructive inflation can be a little over a hundred years ago. The hyperinflation of 1923 remains deeply rooted in the country’s collective memory. It also explains why price stability is valued so highly in Germany.",
+      "Its roots go back to the First World War. The German Reich financed the war mainly with debt and newly created money rather than with taxes. When the war ended in November 1918, the debts were larger than the entire national income of a year. After the war came the heavy reparations demanded by the victorious powers.",
+      "At the beginning of 1923, French and Belgian troops occupied the Ruhr area because Germany had fallen behind with deliveries. The government called for passive resistance and paid the striking workers with freshly printed money. The printing presses now ran non-stop, and prices spun completely out of control.",
+      "The price of bread shows the scale of it. In December 1919 a loaf still cost eighty pfennigs. By January 1923 it cost 250 marks, in August 69,000 marks, in September 1.5 million and in October 174 million marks. In November 1923, people finally had to pay 201 billion marks for a loaf of bread.",
+      "Everyday life became a race against time. Wages were paid out several times a week, and anyone who received money rushed straight to the shops before prices rose again. Banknotes were printed on one side only or simply overstamped with higher values. At the peak in November 1923, one US dollar was worth 4.2 trillion marks.",
+      "For many families, the hyperinflation meant bitter hardship. Pensioners whose payments were not adjusted quickly enough were impoverished. People who owned physical assets, such as a house, land or machinery, often came off more lightly. Some speculators even grew rich during this period, which fuelled many people’s anger even further.",
+      "The hyperinflation was ended by a currency reform. From the middle of November 1923, the Rentenmark was issued, a new currency whose quantity was strictly limited. One Rentenmark was worth one trillion old paper marks. Trust returned astonishingly quickly; people spoke of the miracle of the Rentenmark. Later it was converted into the Reichsmark.",
+      "The consequences were nevertheless profound. Anyone with savings in the bank lost almost everything. The middle classes in particular, who had diligently saved, felt cheated. Debtors, by contrast, were practically freed of their debts, including the state. This experience shook trust in the young Weimar Republic and contributed to the political radicalisation of those years.",
+      "After the Second World War, lessons were drawn from this history. The Bundesbank was made independent of the government, and price stability became its top priority. This principle later shaped the European Central Bank as well. A government starting up the printing press to pay for its spending is something that is not supposed to happen again.",
+      "The memory of 1923 still shapes how many Germans think about money and debt today.",
+      "It remains one of the most famous examples of hyperinflation anywhere in the world, studied by economists ever since."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Inflation is the general rise in prices, measured using the Federal Statistical Office’s basket of goods.",
+    "Prices rise when demand outstrips supply or when costs such as energy jump, and this hits savers and fixed incomes especially hard.",
+    "The European Central Bank aims for two percent and slows inflation that is too high mainly by raising interest rates."
+   ]
+  },
+  "15": {
+   "words": 3106,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Money is a promise: if you are holding a ten-euro note today, you expect to be able to buy something with it tomorrow. Inflation eats away at that promise. Here you will learn what inflation is, how statisticians measure it, why prices rise, who is hit hardest, how the European Central Bank pushes back and why it still does not aim for zero percent."
+     ]
+    },
+    {
+     "heading": "What inflation actually is",
+     "paragraphs": [
+      "Inflation means that the general price level is rising. So it is not about a single product getting more expensive. If only coffee costs more, that is not yet inflation. We speak of inflation when goods and services as a whole become more expensive over a longer period.",
+      "The flip side of rising prices is falling purchasing power. The same amount of money buys you less. The note in your wallet looks the same, but it is worth less. That is why experts also talk about the devaluation of money.",
+      "Many people underestimate how much this adds up over the years. Suppose prices rise by two percent every year for ten years. By the end, a hundred euros will only buy you what about eighty-two euros buy today. Almost a fifth of the purchasing power has gone, even though two percent a year sounds harmless.",
+      "A simple rule of thumb helps with rough calculations. If you divide seventy by the inflation rate, you get roughly the number of years after which prices will have doubled. At two percent that is about thirty-five years; at seven percent it is only ten.",
+      "An everyday example makes this tangible. If a week’s shopping cost eighty euros a few years ago and the same products now cost a hundred, prices have risen by a quarter. If your income has only gone up by ten percent over the same period, you can afford less in real terms than before, even though you are earning more.",
+      "The difference between nominal and real is important. Nominal is the amount shown on your payslip or bank statement. Real is what you can actually afford with it. If your salary rises by three percent but prices rise by five, you have more in nominal terms but less in real terms.",
+      "Throughout history, periods of high inflation have often followed wars, crises or governments that simply printed too much money to cover their spending.",
+      "The opposite of inflation is called deflation. In that case the general price level falls. That sounds pleasant at first, but it can become dangerous, as we will see later. If prices simply rise more slowly than before, economists call that disinflation. Prices keep climbing, just in smaller steps.",
+      "Inflation is not a new phenomenon. Even in antiquity, rulers reduced the precious metal content of their coins so they could mint more money. Paper money and central banks have changed the way money is created. But the basic principle has stayed the same: when money becomes more plentiful relative to goods, it loses value.",
+      "For everyday life this means that moderate, stable inflation is normal and even intended. It becomes a problem when the rate swings wildly or turns very high. Then people and businesses can barely plan ahead, and trust in money suffers. That trust is something every modern economy depends on.",
+      "If you understand inflation, you can make better sense of news about prices, wages and interest rates. That is exactly what the following sections are about: how it is measured, where it comes from, who it hits and who tries to keep it under control."
+     ]
+    },
+    {
+     "heading": "How inflation is measured",
+     "paragraphs": [
+      "How do you measure something as broad as the price level? In Germany, this is the job of the Federal Statistical Office, known as Destatis. Every month it calculates the consumer price index. The percentage change in this index compared with the same month a year earlier is usually referred to as the inflation rate.",
+      "It is based on an imaginary basket of goods. The basket contains everything that private households buy on average: food, clothing, rent, electricity, petrol, haircuts, insurance, concert tickets and much more. In total there are around seven hundred types of goods and services. Price collectors record a very large number of individual prices for them every month, in shops and online.",
+      "Not every product counts equally. What households buy often and spend a lot on is given more weight. Statisticians call this the weighting scheme. In the scheme based on the year 2020, net rents excluding heating make up just over seventeen percent of the basket, food around ten and a half percent and energy just over seven percent.",
+      "An inflation rate is always a comparison with the same month of the previous year. If it is five percent in May, that means the basket costs five percent more in May than it did twelve months earlier. If the rate falls to two percent the following year, prices are not falling. They are simply rising more slowly, and from an already higher level.",
+      "That explains why perceived and measured inflation often differ. We notice the prices of bread or petrol immediately because we see them almost every day. Rent is paid once a month, and many rents change only rarely. If precisely the things we buy most often become much more expensive, inflation feels higher than the index shows.",
+      "On top of that, nobody buys exactly the average basket. If you drive a lot, expensive petrol hits you harder. If you rent in a big city, you feel rising rents more than someone who owns their home. So every household really has its own personal inflation rate. The statistical office even offers an online calculator for it.",
+      "The basket is updated regularly, roughly every five years. New products are added and others lose importance. A few decades ago it included typewriters; today it includes streaming services and smartphones. Changes in quality are taken into account too: if a computer becomes much more powerful at the same price, that counts mathematically like a price cut.",
+      "For comparisons within Europe there is also the Harmonised Index of Consumer Prices. It is calculated according to the same rules in every country of the European Union. This is the index the European Central Bank looks at when it judges whether prices in the euro area are stable.",
+      "So measuring inflation is laborious and never perfect. Even so, statistical offices provide a fairly reliable picture of how prices are developing overall. Without these figures, neither central banks nor trade unions, businesses or governments could plan sensibly.",
+      "The measurement is still criticised from time to time, for example because owner-occupied housing is only partly captured in the German index. Statistical offices therefore keep reviewing their methods and explain them openly to the public.",
+      "Without reliable measurement, a central bank would be like a pilot flying without instruments, guessing at the altitude from a glance out of the window."
+     ]
+    },
+    {
+     "heading": "Why prices rise",
+     "paragraphs": [
+      "Prices are set where supply and demand meet. Inflation therefore usually arises when this balance is thrown off. Economists broadly distinguish between two causes, which often work together.",
+      "The first is strong demand. If people, businesses and the state want to buy more than the economy can currently produce, sellers can charge higher prices. Economists call this demand-pull inflation. It happens, for example, when everyone suddenly wants to spend again after a crisis, but factories have not yet caught up.",
+      "The second cause is rising costs. If energy becomes more expensive, bakeries, hauliers and factories have to pay more. They pass part of these costs on to their customers. This is known as cost-push inflation. It was particularly clear in Germany in 2022: energy became more than a third more expensive on average over the year.",
+      "Back then, a lot came together at once. After the pandemic demand was high, supply chains were disrupted and components such as computer chips were scarce. Then, with Russia’s attack on Ukraine in February 2022, the prices of gas, oil and grain rose sharply. In March 2022 the inflation rate in Germany jumped markedly.",
+      "The amount of money also plays an important role. If the quantity of money grows faster than the quantity of goods over a long period, prices rise in the long run. This link is especially obvious in cases of extreme inflation. In normal times, however, it is less direct, because a lot of money is also saved or invested.",
+      "You can see the power of expectations when you go shopping, too. If people believe a product will soon become much more expensive, they would rather buy it now. If many people do this at the same time, demand rises in the short term and prices really do go up. The expectation, in a sense, fulfils itself.",
+      "Finally, expectations matter. If everyone expects prices to rise, they behave accordingly. Companies raise their prices as a precaution, and employees demand higher wages so as not to become poorer. Higher wages, in turn, raise companies’ costs. In the worst case a wage-price spiral develops that drives itself.",
+      "That is exactly why central banks work so hard to keep expectations stable. If people trust that inflation will return to a normal level in the medium term, they won’t demand excessive pay rises, and firms won’t make precautionary price jumps. In monetary policy, trust is something like a currency of its own.",
+      "So not every price rise is the same. A short spike caused by more expensive oil behaves differently from inflation that becomes embedded in wages and expectations. Central banks therefore try to tell carefully whether prices are rising only temporarily or whether a lasting trend is developing.",
+      "In practice several of these causes usually overlap, which is what makes inflation so hard to predict and to fight. Economists often disagree about which factor matters most in a particular episode."
+     ]
+    },
+    {
+     "heading": "Winners and losers",
+     "paragraphs": [
+      "Inflation does not hit everyone equally. It shifts purchasing power and wealth around, often without anyone noticing. Who loses and who wins depends on how someone earns, saves or borrows money.",
+      "Among the losers are people with savings that earn little or no interest. If money sits in an account paying zero percent while prices rise by five percent, it loses roughly five percent of its real value every year. You won’t see that on your bank statement, but you will at the supermarket.",
+      "People on fixed incomes suffer too. They include many pensioners, students on a fixed budget and employees whose pay is adjusted only rarely. Their income stays the same while their spending rises. Low-income households are hit especially hard, because they have to spend a large share of their money on food and energy.",
+      "On the other side are borrowers. Anyone who has taken out a loan at a fixed interest rate pays back a fixed amount. As prices and wages rise, that amount becomes smaller in relative terms. The debt, in a sense, shrinks over time. This applies to private individuals with a mortgage just as much as to heavily indebted governments.",
+      "With wages, timing is everything. Pay agreements are often concluded for one or two years. If prices rise faster than expected, wages lag behind and real wages fall. Later, pay rises make up some of the ground. In Germany, real wages initially fell noticeably during the years of high inflation.",
+      "The state feels inflation from several directions as well. Rising prices and wages bring in more revenue from VAT and income tax. At the same time, though, its spending also rises, for example on salaries, pensions and social benefits. And when interest rates go up, new borrowing becomes more expensive.",
+      "For physical assets the picture is mixed. Property, shares or gold are often seen as protection, because their value can rise along with prices. That is not guaranteed, though. Rising interest rates, which often follow high inflation, can push down property prices and share prices too. There is no simple formula for protecting yourself with certainty.",
+      "For businesses, too, inflation is a double-edged sword. Companies that can easily raise their prices get through well. Those with long supply contracts at fixed prices come under pressure. High and volatile inflation above all makes planning difficult: how are you supposed to invest if you don’t know what materials and wages will cost in two years’ time?",
+      "Because inflation affects so many people unequally, it is not just an economic issue but also a social and political one. High inflation can shake trust in institutions. That is one more reason why price stability is considered so important in Europe."
+     ]
+    },
+    {
+     "heading": "The role of the central bank",
+     "paragraphs": [
+      "Who actually makes sure that money stays stable? In the euro area, that is the European Central Bank in Frankfurt, the ECB for short. Together with the national central banks such as Germany’s Bundesbank, it forms the Eurosystem. Its primary objective is written into the Treaty on the Functioning of the European Union: price stability.",
+      "What price stability means exactly is defined by the ECB itself. Since its strategy review in July 2021, it has aimed for an inflation rate of two percent over the medium term. Before that, the target was worded rather awkwardly as below, but close to, two percent. What is new is that the target is symmetric. Inflation that is too low is considered just as undesirable as inflation that is too high.",
+      "Medium term means that the two percent does not have to be hit every month. The central bank can hardly prevent short-term swings, such as those caused by an oil price shock, anyway. What matters is that inflation hovers around this value over several years and that people trust it will.",
+      "The ECB’s most important tool is its key interest rates. These are the rates at which commercial banks can borrow money from the central bank or deposit it there. If the ECB raises its key rates, loans for businesses and households gradually become more expensive and saving becomes more attractive. People then buy and invest less, demand falls and price pressure eases.",
+      "When key interest rates rise, many people notice it directly. Mortgages become more expensive, and so do loans for buying things in instalments. Savings accounts, on the other hand, start paying noticeable interest again. These are exactly the changes that are meant to make people spend a little less and save a little more. That cools the economy and eases the upward pressure on prices.",
+      "If the ECB cuts interest rates, the opposite happens: loans become cheaper, there is more investment and spending, and the economy gets a boost. That makes sense when inflation is too low or the economy is weak. The art lies in finding the right moment and the right dose.",
+      "There is one difficulty, though: changes in interest rates don’t work immediately. It often takes one to two years before a rate rise feeds through to prices. So the central bank has to act with foresight, almost like steering a large ship. If it reacts too late, it has to push back all the harder afterwards.",
+      "Besides interest rates, the ECB has used other tools in recent years, such as buying large quantities of bonds. These programmes were meant to support the economy during periods of very low inflation. They are politically controversial, because critics fear that the line between monetary policy and financing governments becomes blurred. Supporters consider them necessary in a crisis.",
+      "An important principle is independence. The ECB may not take instructions from governments. Behind this lies the experience that governments can be tempted to have money printed in order to pay off debts or win elections. German history shows where that can lead."
+     ]
+    },
+    {
+     "heading": "Why not zero percent?",
+     "paragraphs": [
+      "If inflation costs purchasing power, why doesn’t the central bank aim for zero percent? There are several answers to this, and they convince most experts.",
+      "The first reason is the danger of deflation. When prices fall over a long period, people put off purchases, because things will be cheaper later on. Companies sell less, invest less and lay off workers. That pushes demand down further and lets prices fall further still. An economy finds it very hard to escape from this downward spiral.",
+      "A second reason concerns debt. When prices and wages are falling, a loan stays the same size but becomes ever harder to repay relative to income. Many companies and households then get into difficulties. Mild inflation acts as a buffer here.",
+      "Third, the central bank needs room to manoeuvre. Its most important tool is interest rates, and they cannot be cut indefinitely below zero. If inflation is around two percent, interest rates in normal times are also somewhat higher. That way the central bank can cut rates noticeably in a crisis to support the economy.",
+      "Fourth, measurement is not perfect. When products improve, it is hard to account for this completely. Measured inflation of zero could therefore actually mean slightly falling prices. A small safety margin above zero helps.",
+      "A well-known example of the dangers of persistently falling prices is Japan. From the 1990s onwards, prices there fell slightly over a long period, and the economy grew only weakly for many years. Economists argue about how much of this was down to deflation. But for central banks around the world, Japan became a cautionary tale.",
+      "Finally, mild inflation makes adjustments in the economy easier. Wages are rarely cut in nominal terms, because that is felt to be unfair. But if prices rise slightly, real wages in weaker sectors can still adjust without anyone’s pay actually being cut.",
+      "The years after the global financial crisis showed that inflation that is too low can be a real problem. Back then, inflation in the euro area averaged only a little over one percent for many years, well below the target. The ECB cut interest rates below zero and bought bonds on a large scale to push prices back up.",
+      "So two percent is a compromise: low enough that people hardly need to think about rising prices, and high enough to provide a buffer against deflation. Other major central banks, for example in the United States and the United Kingdom, pursue a similar target.",
+      "Whether two percent is exactly the right number is still debated among economists, but no major central bank currently aims for zero."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Inflation means falling purchasing power and is measured with a weighted basket that reflects the spending of an average household.",
+    "Rising demand, more expensive raw materials and expectations can drive prices up, and the winners and losers are unevenly spread.",
+    "The ECB aims symmetrically for two percent, because falling prices can also harm the economy."
+   ]
+  },
+  "20": {
+   "words": 4150,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Inflation sounds like dry economics, yet it affects every shopping trip, every salary and every savings account. After years in which prices barely rose, Germany experienced its highest inflation since reunification in 2022. In this article you will learn what inflation is, how it is measured, where it comes from, who wins and who loses, what central banks do, what went wrong in 1923 and which questions are still open today."
+     ]
+    },
+    {
+     "heading": "What inflation actually is",
+     "paragraphs": [
+      "Inflation means that the general price level is rising. So it is not about a single product getting more expensive. If only coffee costs more, that is not yet inflation. We speak of inflation when goods and services as a whole become more expensive over a longer period.",
+      "The flip side of rising prices is falling purchasing power. The same amount of money buys you less. The note in your wallet looks the same, but it is worth less. That is why experts also talk about the devaluation of money.",
+      "Many people underestimate how much this adds up over the years. Suppose prices rise by two percent every year for ten years. By the end, a hundred euros will only buy you what about eighty-two euros buy today. Almost a fifth of the purchasing power has gone, even though two percent a year sounds harmless.",
+      "A simple rule of thumb helps with rough calculations. If you divide seventy by the inflation rate, you get roughly the number of years after which prices will have doubled. At two percent that is about thirty-five years; at seven percent it is only ten.",
+      "An everyday example makes this tangible. If a week’s shopping cost eighty euros a few years ago and the same products now cost a hundred, prices have risen by a quarter. If your income has only gone up by ten percent over the same period, you can afford less in real terms than before, even though you are earning more.",
+      "The difference between nominal and real is important. Nominal is the amount shown on your payslip or bank statement. Real is what you can actually afford with it. If your salary rises by three percent but prices rise by five, you have more in nominal terms but less in real terms.",
+      "Throughout history, periods of high inflation have often followed wars, crises or governments that simply printed too much money to cover their spending.",
+      "The opposite of inflation is called deflation. In that case the general price level falls. That sounds pleasant at first, but it can become dangerous, as we will see later. If prices simply rise more slowly than before, economists call that disinflation. Prices keep climbing, just in smaller steps.",
+      "Inflation is not a new phenomenon. Even in antiquity, rulers reduced the precious metal content of their coins so they could mint more money. Paper money and central banks have changed the way money is created. But the basic principle has stayed the same: when money becomes more plentiful relative to goods, it loses value.",
+      "For everyday life this means that moderate, stable inflation is normal and even intended. It becomes a problem when the rate swings wildly or turns very high. Then people and businesses can barely plan ahead, and trust in money suffers. That trust is something every modern economy depends on.",
+      "If you understand inflation, you can make better sense of news about prices, wages and interest rates. That is exactly what the following sections are about: how it is measured, where it comes from, who it hits and who tries to keep it under control."
+     ]
+    },
+    {
+     "heading": "How inflation is measured",
+     "paragraphs": [
+      "How do you measure something as broad as the price level? In Germany, this is the job of the Federal Statistical Office, known as Destatis. Every month it calculates the consumer price index. The percentage change in this index compared with the same month a year earlier is usually referred to as the inflation rate.",
+      "It is based on an imaginary basket of goods. The basket contains everything that private households buy on average: food, clothing, rent, electricity, petrol, haircuts, insurance, concert tickets and much more. In total there are around seven hundred types of goods and services. Price collectors record a very large number of individual prices for them every month, in shops and online.",
+      "Not every product counts equally. What households buy often and spend a lot on is given more weight. Statisticians call this the weighting scheme. In the scheme based on the year 2020, net rents excluding heating make up just over seventeen percent of the basket, food around ten and a half percent and energy just over seven percent.",
+      "An inflation rate is always a comparison with the same month of the previous year. If it is five percent in May, that means the basket costs five percent more in May than it did twelve months earlier. If the rate falls to two percent the following year, prices are not falling. They are simply rising more slowly, and from an already higher level.",
+      "That explains why perceived and measured inflation often differ. We notice the prices of bread or petrol immediately because we see them almost every day. Rent is paid once a month, and many rents change only rarely. If precisely the things we buy most often become much more expensive, inflation feels higher than the index shows.",
+      "On top of that, nobody buys exactly the average basket. If you drive a lot, expensive petrol hits you harder. If you rent in a big city, you feel rising rents more than someone who owns their home. So every household really has its own personal inflation rate. The statistical office even offers an online calculator for it.",
+      "The basket is updated regularly, roughly every five years. New products are added and others lose importance. A few decades ago it included typewriters; today it includes streaming services and smartphones. Changes in quality are taken into account too: if a computer becomes much more powerful at the same price, that counts mathematically like a price cut.",
+      "For comparisons within Europe there is also the Harmonised Index of Consumer Prices. It is calculated according to the same rules in every country of the European Union. This is the index the European Central Bank looks at when it judges whether prices in the euro area are stable.",
+      "So measuring inflation is laborious and never perfect. Even so, statistical offices provide a fairly reliable picture of how prices are developing overall. Without these figures, neither central banks nor trade unions, businesses or governments could plan sensibly.",
+      "The measurement is still criticised from time to time, for example because owner-occupied housing is only partly captured in the German index. Statistical offices therefore keep reviewing their methods and explain them openly to the public.",
+      "Without reliable measurement, a central bank would be like a pilot flying without instruments, guessing at the altitude from a glance out of the window."
+     ]
+    },
+    {
+     "heading": "Why prices rise",
+     "paragraphs": [
+      "Prices are set where supply and demand meet. Inflation therefore usually arises when this balance is thrown off. Economists broadly distinguish between two causes, which often work together.",
+      "The first is strong demand. If people, businesses and the state want to buy more than the economy can currently produce, sellers can charge higher prices. Economists call this demand-pull inflation. It happens, for example, when everyone suddenly wants to spend again after a crisis, but factories have not yet caught up.",
+      "The second cause is rising costs. If energy becomes more expensive, bakeries, hauliers and factories have to pay more. They pass part of these costs on to their customers. This is known as cost-push inflation. It was particularly clear in Germany in 2022: energy became more than a third more expensive on average over the year.",
+      "Back then, a lot came together at once. After the pandemic demand was high, supply chains were disrupted and components such as computer chips were scarce. Then, with Russia’s attack on Ukraine in February 2022, the prices of gas, oil and grain rose sharply. In March 2022 the inflation rate in Germany jumped markedly.",
+      "The amount of money also plays an important role. If the quantity of money grows faster than the quantity of goods over a long period, prices rise in the long run. This link is especially obvious in cases of extreme inflation. In normal times, however, it is less direct, because a lot of money is also saved or invested.",
+      "You can see the power of expectations when you go shopping, too. If people believe a product will soon become much more expensive, they would rather buy it now. If many people do this at the same time, demand rises in the short term and prices really do go up. The expectation, in a sense, fulfils itself.",
+      "Finally, expectations matter. If everyone expects prices to rise, they behave accordingly. Companies raise their prices as a precaution, and employees demand higher wages so as not to become poorer. Higher wages, in turn, raise companies’ costs. In the worst case a wage-price spiral develops that drives itself.",
+      "That is exactly why central banks work so hard to keep expectations stable. If people trust that inflation will return to a normal level in the medium term, they won’t demand excessive pay rises, and firms won’t make precautionary price jumps. In monetary policy, trust is something like a currency of its own.",
+      "So not every price rise is the same. A short spike caused by more expensive oil behaves differently from inflation that becomes embedded in wages and expectations. Central banks therefore try to tell carefully whether prices are rising only temporarily or whether a lasting trend is developing.",
+      "In practice several of these causes usually overlap, which is what makes inflation so hard to predict and to fight. Economists often disagree about which factor matters most in a particular episode."
+     ]
+    },
+    {
+     "heading": "Winners and losers",
+     "paragraphs": [
+      "Inflation does not hit everyone equally. It shifts purchasing power and wealth around, often without anyone noticing. Who loses and who wins depends on how someone earns, saves or borrows money.",
+      "Among the losers are people with savings that earn little or no interest. If money sits in an account paying zero percent while prices rise by five percent, it loses roughly five percent of its real value every year. You won’t see that on your bank statement, but you will at the supermarket.",
+      "People on fixed incomes suffer too. They include many pensioners, students on a fixed budget and employees whose pay is adjusted only rarely. Their income stays the same while their spending rises. Low-income households are hit especially hard, because they have to spend a large share of their money on food and energy.",
+      "On the other side are borrowers. Anyone who has taken out a loan at a fixed interest rate pays back a fixed amount. As prices and wages rise, that amount becomes smaller in relative terms. The debt, in a sense, shrinks over time. This applies to private individuals with a mortgage just as much as to heavily indebted governments.",
+      "With wages, timing is everything. Pay agreements are often concluded for one or two years. If prices rise faster than expected, wages lag behind and real wages fall. Later, pay rises make up some of the ground. In Germany, real wages initially fell noticeably during the years of high inflation.",
+      "The state feels inflation from several directions as well. Rising prices and wages bring in more revenue from VAT and income tax. At the same time, though, its spending also rises, for example on salaries, pensions and social benefits. And when interest rates go up, new borrowing becomes more expensive.",
+      "For physical assets the picture is mixed. Property, shares or gold are often seen as protection, because their value can rise along with prices. That is not guaranteed, though. Rising interest rates, which often follow high inflation, can push down property prices and share prices too. There is no simple formula for protecting yourself with certainty.",
+      "For businesses, too, inflation is a double-edged sword. Companies that can easily raise their prices get through well. Those with long supply contracts at fixed prices come under pressure. High and volatile inflation above all makes planning difficult: how are you supposed to invest if you don’t know what materials and wages will cost in two years’ time?",
+      "Because inflation affects so many people unequally, it is not just an economic issue but also a social and political one. High inflation can shake trust in institutions. That is one more reason why price stability is considered so important in Europe."
+     ]
+    },
+    {
+     "heading": "The role of the central bank",
+     "paragraphs": [
+      "Who actually makes sure that money stays stable? In the euro area, that is the European Central Bank in Frankfurt, the ECB for short. Together with the national central banks such as Germany’s Bundesbank, it forms the Eurosystem. Its primary objective is written into the Treaty on the Functioning of the European Union: price stability.",
+      "What price stability means exactly is defined by the ECB itself. Since its strategy review in July 2021, it has aimed for an inflation rate of two percent over the medium term. Before that, the target was worded rather awkwardly as below, but close to, two percent. What is new is that the target is symmetric. Inflation that is too low is considered just as undesirable as inflation that is too high.",
+      "Medium term means that the two percent does not have to be hit every month. The central bank can hardly prevent short-term swings, such as those caused by an oil price shock, anyway. What matters is that inflation hovers around this value over several years and that people trust it will.",
+      "The ECB’s most important tool is its key interest rates. These are the rates at which commercial banks can borrow money from the central bank or deposit it there. If the ECB raises its key rates, loans for businesses and households gradually become more expensive and saving becomes more attractive. People then buy and invest less, demand falls and price pressure eases.",
+      "When key interest rates rise, many people notice it directly. Mortgages become more expensive, and so do loans for buying things in instalments. Savings accounts, on the other hand, start paying noticeable interest again. These are exactly the changes that are meant to make people spend a little less and save a little more. That cools the economy and eases the upward pressure on prices.",
+      "If the ECB cuts interest rates, the opposite happens: loans become cheaper, there is more investment and spending, and the economy gets a boost. That makes sense when inflation is too low or the economy is weak. The art lies in finding the right moment and the right dose.",
+      "There is one difficulty, though: changes in interest rates don’t work immediately. It often takes one to two years before a rate rise feeds through to prices. So the central bank has to act with foresight, almost like steering a large ship. If it reacts too late, it has to push back all the harder afterwards.",
+      "Besides interest rates, the ECB has used other tools in recent years, such as buying large quantities of bonds. These programmes were meant to support the economy during periods of very low inflation. They are politically controversial, because critics fear that the line between monetary policy and financing governments becomes blurred. Supporters consider them necessary in a crisis.",
+      "An important principle is independence. The ECB may not take instructions from governments. Behind this lies the experience that governments can be tempted to have money printed in order to pay off debts or win elections. German history shows where that can lead."
+     ]
+    },
+    {
+     "heading": "Why not zero percent?",
+     "paragraphs": [
+      "If inflation costs purchasing power, why doesn’t the central bank aim for zero percent? There are several answers to this, and they convince most experts.",
+      "The first reason is the danger of deflation. When prices fall over a long period, people put off purchases, because things will be cheaper later on. Companies sell less, invest less and lay off workers. That pushes demand down further and lets prices fall further still. An economy finds it very hard to escape from this downward spiral.",
+      "A second reason concerns debt. When prices and wages are falling, a loan stays the same size but becomes ever harder to repay relative to income. Many companies and households then get into difficulties. Mild inflation acts as a buffer here.",
+      "Third, the central bank needs room to manoeuvre. Its most important tool is interest rates, and they cannot be cut indefinitely below zero. If inflation is around two percent, interest rates in normal times are also somewhat higher. That way the central bank can cut rates noticeably in a crisis to support the economy.",
+      "Fourth, measurement is not perfect. When products improve, it is hard to account for this completely. Measured inflation of zero could therefore actually mean slightly falling prices. A small safety margin above zero helps.",
+      "A well-known example of the dangers of persistently falling prices is Japan. From the 1990s onwards, prices there fell slightly over a long period, and the economy grew only weakly for many years. Economists argue about how much of this was down to deflation. But for central banks around the world, Japan became a cautionary tale.",
+      "Finally, mild inflation makes adjustments in the economy easier. Wages are rarely cut in nominal terms, because that is felt to be unfair. But if prices rise slightly, real wages in weaker sectors can still adjust without anyone’s pay actually being cut.",
+      "The years after the global financial crisis showed that inflation that is too low can be a real problem. Back then, inflation in the euro area averaged only a little over one percent for many years, well below the target. The ECB cut interest rates below zero and bought bonds on a large scale to push prices back up.",
+      "So two percent is a compromise: low enough that people hardly need to think about rising prices, and high enough to provide a buffer against deflation. Other major central banks, for example in the United States and the United Kingdom, pursue a similar target.",
+      "Whether two percent is exactly the right number is still debated among economists, but no major central bank currently aims for zero."
+     ]
+    },
+    {
+     "heading": "When money became worthless: 1923",
+     "paragraphs": [
+      "Germany experienced just how destructive inflation can be a little over a hundred years ago. The hyperinflation of 1923 remains deeply rooted in the country’s collective memory. It also explains why price stability is valued so highly in Germany.",
+      "Its roots go back to the First World War. The German Reich financed the war mainly with debt and newly created money rather than with taxes. When the war ended in November 1918, the debts were larger than the entire national income of a year. After the war came the heavy reparations demanded by the victorious powers.",
+      "At the beginning of 1923, French and Belgian troops occupied the Ruhr area because Germany had fallen behind with deliveries. The government called for passive resistance and paid the striking workers with freshly printed money. The printing presses now ran non-stop, and prices spun completely out of control.",
+      "The price of bread shows the scale of it. In December 1919 a loaf still cost eighty pfennigs. By January 1923 it cost 250 marks, in August 69,000 marks, in September 1.5 million and in October 174 million marks. In November 1923, people finally had to pay 201 billion marks for a loaf of bread.",
+      "Everyday life became a race against time. Wages were paid out several times a week, and anyone who received money rushed straight to the shops before prices rose again. Banknotes were printed on one side only or simply overstamped with higher values. At the peak in November 1923, one US dollar was worth 4.2 trillion marks.",
+      "For many families, the hyperinflation meant bitter hardship. Pensioners whose payments were not adjusted quickly enough were impoverished. People who owned physical assets, such as a house, land or machinery, often came off more lightly. Some speculators even grew rich during this period, which fuelled many people’s anger even further.",
+      "The hyperinflation was ended by a currency reform. From the middle of November 1923, the Rentenmark was issued, a new currency whose quantity was strictly limited. One Rentenmark was worth one trillion old paper marks. Trust returned astonishingly quickly; people spoke of the miracle of the Rentenmark. Later it was converted into the Reichsmark.",
+      "The consequences were nevertheless profound. Anyone with savings in the bank lost almost everything. The middle classes in particular, who had diligently saved, felt cheated. Debtors, by contrast, were practically freed of their debts, including the state. This experience shook trust in the young Weimar Republic and contributed to the political radicalisation of those years.",
+      "After the Second World War, lessons were drawn from this history. The Bundesbank was made independent of the government, and price stability became its top priority. This principle later shaped the European Central Bank as well. A government starting up the printing press to pay for its spending is something that is not supposed to happen again.",
+      "The memory of 1923 still shapes how many Germans think about money and debt today.",
+      "It remains one of the most famous examples of hyperinflation anywhere in the world, studied by economists ever since."
+     ]
+    },
+    {
+     "heading": "Inflation today and tomorrow",
+     "paragraphs": [
+      "After many years of very low inflation, rising prices came back with a vengeance from 2021 onwards. In Germany, consumer prices rose more sharply in 2022 than at any time since reunification. By today’s calculation the average annual inflation rate was just under seven percent. In the autumn of 2022, some monthly figures even reached around ten percent.",
+      "The European Central Bank responded, in the view of many experts rather late, with the fastest series of interest rate rises in its history. From mid-2022 it raised its key rates sharply in quick succession. Loans became more expensive, house building declined and demand cooled. At the same time, energy prices fell again.",
+      "Even so, many households continued to feel the effects for a long time afterwards.",
+      "Inflation then came down step by step. In June 2025, according to the Bundesbank, inflation in the euro area stood at exactly two percent. The price level itself stayed high, though. What has become more expensive usually does not get cheaper again. Falling inflation only means that prices are rising more slowly.",
+      "The episode sparked a debate. Should central banks have reacted earlier? Were the price rises really only temporary at first, as many initially thought? And what role did some companies’ profit margins play? These questions are still being discussed in research and politics, and the answers differ.",
+      "For consumers, this period was an unfamiliar experience. Many had never seen prices rise so quickly. At the same time, after years of rates close to zero, savings were earning noticeable interest again. Many people looked more closely at their spending during this time and rethought how they save.",
+      "Looking ahead, many experts expect a more turbulent environment. The Bundesbank names several reasons: geopolitical tensions and trade conflicts, the transformation of energy supply, climate change and an ageing population. These factors could cause inflation to fluctuate more than in the calm years before 2020.",
+      "The ECB has therefore reviewed its strategy regularly. It is sticking to the two percent target, because in its view the target has proved its worth and provides a clear anchor for expectations. At the same time, it wants to be flexible enough to respond to large shocks in either direction.",
+      "Researchers are also studying how inflation expectations form in the first place, for example through news coverage, social media or the prices people see most often in everyday life.",
+      "New questions are emerging too. How will digital money affect monetary policy? The ECB is working on a digital euro intended to complement cash. And how do you measure prices in a world where many services are free or paid for with data? Statistics have to keep evolving.",
+      "One thing the recent wave of inflation has made very clear, though: stable prices are not a law of nature. They are the result of institutions, trust and sound policy. If you understand how inflation arises, you can make better sense of the news about interest rates and prices and make your own decisions more consciously.",
+      "Inflation will remain a topic, sometimes quieter and sometimes louder, for years to come."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Inflation is the general rise in the price level and is measured monthly in Germany using a weighted basket of goods.",
+    "It is driven by demand, costs and expectations, and it shifts wealth around, for example from savers to borrowers.",
+    "The ECB uses interest rates to steer towards two percent, and the hyperinflation of 1923 shows what happens when money stops working."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "title": "Verbraucherpreisindex und Inflationsrate",
+   "publisher": "Statistisches Bundesamt (Destatis)",
+   "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Verbraucherpreisindex/_inhalt.html",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Inflation: Energie und Lebensmittel, Auswirkungen auf die Verbraucherpreise 2022",
+   "publisher": "Statistische Ämter des Bundes und der Länder",
+   "url": "https://www.statistikportal.de/de/inflation",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Erklärung zur geldpolitischen Strategie der EZB (2021)",
+   "publisher": "Europäische Zentralbank",
+   "url": "https://www.ecb.europa.eu/mopo/strategy/strategy-review/ecb.strategyreview_monpol_strategy_statement.de.html",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "EZB stellt neue geldpolitische Strategie vor",
+   "publisher": "Deutsche Bundesbank",
+   "url": "https://www.bundesbank.de/de/aufgaben/themen/ezb-stellt-neue-geldpolitische-strategie-vor-869180",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Hyperinflation in Deutschland 1923",
+   "publisher": "Deutscher Bundestag",
+   "url": "https://www.bundestag.de/parlament/geschichte/100-jahre-weimar/hyperinflation-970722",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Die neue geldpolitische Strategie der Europäischen Zentralbank",
+   "publisher": "Bundeszentrale für politische Bildung",
+   "url": "https://www.bpb.de/shop/zeitschriften/apuz/geldpolitik-2022/507731/die-neue-geldpolitische-strategie-der-europaeischen-zentralbank",
+   "accessed": "2026-11-03"
+  }
+ ],
+ "factCheckedAt": "2026-11-03"
+}

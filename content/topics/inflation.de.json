@@ -1,0 +1,423 @@
+{
+ "id": "inflation",
+ "lang": "de",
+ "title": "Inflation einfach erklärt",
+ "versions": {
+  "5": {
+   "words": 902,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Erinnerst du dich, was eine Kugel Eis früher gekostet hat? Wahrscheinlich deutlich weniger als heute. Dass Preise mit der Zeit steigen und Geld dadurch an Wert verliert, nennt man Inflation. In fünf Minuten erfährst du, was genau dahintersteckt, wie man sie misst, wer darunter leidet und wer versucht, sie im Zaum zu halten."
+     ]
+    },
+    {
+     "heading": "Was Inflation bedeutet",
+     "paragraphs": [
+      "Inflation heißt, dass das allgemeine Preisniveau steigt. Wenn nur Kaffee teurer wird, ist das noch keine Inflation. Gemeint ist, dass Waren und Dienstleistungen insgesamt und über längere Zeit mehr kosten. Für dasselbe Geld bekommst du dann weniger. Fachleute sagen auch, die Kaufkraft sinkt.",
+      "Das klingt bei kleinen Zahlen harmlos, summiert sich aber. Steigen die Preise zehn Jahre lang um jeweils zwei Prozent, kaufst du mit hundert Euro am Ende nur noch so viel wie heute mit etwa zweiundachtzig Euro.",
+      "Wichtig ist auch der Unterschied zwischen nominal und real. Nominal ist der Betrag auf dem Lohnzettel. Real ist das, was du dir davon tatsächlich leisten kannst. Steigt dein Gehalt um drei Prozent, die Preise aber um fünf, hast du am Ende real weniger, obwohl auf dem Konto mehr steht.",
+      "Gemessen wird die Inflation in Deutschland jeden Monat vom Statistischen Bundesamt. Es beobachtet die Preise eines gedachten Warenkorbs mit rund siebenhundert Güterarten, von Lebensmitteln über Miete und Strom bis zum Friseurbesuch. Was Haushalte häufig und teuer kaufen, zählt stärker. Die Veränderung gegenüber dem Vorjahresmonat ist die Inflationsrate.",
+      "Weil niemand genau den Durchschnittswarenkorb kauft, hat eigentlich jeder Haushalt seine eigene, persönliche Inflationsrate. Wer viel Auto fährt, spürt teures Benzin stärker als jemand, der mit dem Fahrrad unterwegs ist.",
+      "Das erklärt auch, warum sich die Inflation im Alltag oft höher anfühlt, als die offizielle Zahl angibt. Preise für Brot und Benzin sehen wir fast täglich, die Miete dagegen nur einmal im Monat. Steigen gerade die häufig gekauften Dinge stark, nehmen wir das besonders deutlich wahr.",
+      "Inflation ist übrigens kein neues Phänomen. Schon in der Antike verringerten Herrscher den Silbergehalt ihrer Münzen, um mehr Geld prägen zu können. Das Ergebnis war damals wie heute dasselbe: Das Geld verlor an Wert."
+     ]
+    },
+    {
+     "heading": "Warum Preise steigen und wen es trifft",
+     "paragraphs": [
+      "Preise steigen meist aus zwei Gründen. Entweder wollen alle mehr kaufen, als gerade hergestellt werden kann. Oder die Kosten steigen, zum Beispiel für Energie, und Unternehmen geben sie an ihre Kundschaft weiter. 2022 kam beides zusammen: Nach der Pandemie war die Nachfrage hoch, und mit dem russischen Angriff auf die Ukraine verteuerte sich die Energie stark.",
+      "Auch Erwartungen spielen eine Rolle. Rechnen alle mit steigenden Preisen, erhöhen Firmen vorsorglich ihre Preise, und Beschäftigte fordern höhere Löhne. Im ungünstigen Fall treiben sich Löhne und Preise gegenseitig an.",
+      "Eine wichtige Rolle spielt auch die Geldmenge. Wächst sie über lange Zeit deutlich schneller als die Menge an Waren, verliert das Geld an Wert. Bei extremen Inflationen ist dieser Zusammenhang besonders deutlich zu sehen.",
+      "Hohe Inflation verteilt also Vermögen um, oft ohne dass es jemand bewusst bemerkt. Wer spart, verliert, wer Schulden hat, kann gewinnen. Für die Gesellschaft ist das ein Grund, warum stabile Preise als so wichtig gelten.",
+      "Inflation trifft nicht alle gleich. Verlierer sind oft Menschen mit Ersparnissen, die kaum Zinsen bringen, und Menschen mit festen Einkommen wie viele Rentnerinnen und Rentner. Haushalte mit wenig Geld leiden besonders, weil sie einen großen Teil für Lebensmittel und Energie ausgeben.",
+      "Gewinner können Schuldner sein. Wer einen Kredit mit festem Zins hat, zahlt einen festen Betrag zurück, der durch die Inflation im Verhältnis immer kleiner wird. Das gilt auch für Staaten mit hohen Schulden.",
+      "Bei den Löhnen kommt es auf den Zeitpunkt an. Tarifverträge laufen oft ein oder zwei Jahre. Steigen die Preise schneller als erwartet, hinken die Löhne hinterher. Später holen Lohnerhöhungen einen Teil davon wieder auf."
+     ]
+    },
+    {
+     "heading": "Wer gegensteuert",
+     "paragraphs": [
+      "Im Euroraum wacht die Europäische Zentralbank über die Preise. Ihr wichtigstes Ziel ist Preisstabilität. Seit 2021 strebt sie mittelfristig eine Inflationsrate von zwei Prozent an. Zu niedrig gilt dabei als genauso unerwünscht wie zu hoch.",
+      "Ihr wichtigstes Werkzeug sind die Leitzinsen. Hebt sie diese an, werden Kredite teurer, es wird weniger gekauft und investiert, und der Preisdruck lässt nach. Bis das wirkt, vergehen allerdings oft ein bis zwei Jahre.",
+      "Senkt die Zentralbank die Zinsen, passiert das Gegenteil. Kredite werden günstiger, es wird mehr gekauft und investiert. Das hilft, wenn die Wirtschaft schwächelt oder die Inflation zu niedrig ist. Die Kunst besteht darin, den richtigen Zeitpunkt zu finden.",
+      "Warum nicht null Prozent? Wenn Preise dauerhaft fallen, schieben Menschen Käufe auf, Unternehmen verkaufen weniger und entlassen Personal. Diese Abwärtsspirale, die Deflation, ist schwer zu stoppen. Eine leichte Inflation wirkt wie ein Puffer.",
+      "Wie gefährlich zu viel Inflation ist, zeigt das Jahr 1923. Damals druckte der deutsche Staat ungebremst Geld. Im November 1923 kostete ein Brot 201 Milliarden Mark, und Ersparnisse waren wertlos. Auch deshalb ist die Europäische Zentralbank heute unabhängig von Regierungen.",
+      "Zuletzt war Inflation 2022 ein großes Thema, als die Teuerung in Deutschland so hoch war wie seit der Wiedervereinigung nicht mehr. Inzwischen liegt sie im Euroraum wieder in der Nähe des Ziels von zwei Prozent. Die Preise sind dadurch aber nicht wieder gesunken, sie steigen nur langsamer.",
+      "Stabile Preise sind also kein Selbstläufer, sondern das Ergebnis von Vertrauen und kluger Politik."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Inflation bedeutet, dass das Preisniveau steigt und man für dasselbe Geld weniger kaufen kann.",
+    "In Deutschland misst das Statistische Bundesamt sie jeden Monat mit einem Warenkorb aus rund 700 Güterarten.",
+    "Die Europäische Zentralbank strebt mittelfristig eine Inflationsrate von zwei Prozent an und steuert vor allem über die Leitzinsen."
+   ]
+  },
+  "10": {
+   "words": 2190,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Im Jahr 2022 wurde vieles plötzlich spürbar teurer: Heizen, Tanken, Butter, Sonnenblumenöl. Inflation war auf einmal überall Thema. Doch was genau ist Inflation eigentlich, woher kommt sie und warum soll sie nicht einfach null sein? In den nächsten zehn Minuten erfährst du, wie Inflation gemessen wird, was Preise steigen lässt, wer gewinnt und wer verliert und was die Europäische Zentralbank dagegen tut."
+     ]
+    },
+    {
+     "heading": "Was Inflation ist und wie man sie misst",
+     "paragraphs": [
+      "Inflation bedeutet, dass das allgemeine Preisniveau steigt. Es geht also nicht um ein einzelnes Produkt, sondern darum, dass Waren und Dienstleistungen insgesamt und über längere Zeit teurer werden. Die Kehrseite ist sinkende Kaufkraft: Für denselben Geldbetrag bekommst du weniger.",
+      "Wie stark sich das summiert, wird oft unterschätzt. Steigen die Preise zehn Jahre lang um jeweils zwei Prozent, kaufst du mit hundert Euro am Ende nur noch so viel wie heute mit etwa zweiundachtzig Euro. Eine Faustregel hilft beim Überschlagen: Siebzig geteilt durch die Inflationsrate ergibt ungefähr die Zahl der Jahre, nach denen sich die Preise verdoppelt haben.",
+      "Wichtig ist der Unterschied zwischen nominal und real. Nominal ist der Betrag auf dem Lohnzettel. Real ist das, was du dir dafür leisten kannst. Steigt das Gehalt um drei Prozent, die Preise aber um fünf, hast du nominal mehr und real weniger.",
+      "In Deutschland misst das Statistische Bundesamt die Inflation jeden Monat mit dem Verbraucherpreisindex. Grundlage ist ein gedachter Warenkorb mit rund siebenhundert Güterarten, von Brot über Miete bis zum Friseurbesuch. Was Haushalte häufig und teuer kaufen, zählt stärker. Die Nettokaltmieten machen zum Beispiel gut siebzehn Prozent aus, Nahrungsmittel rund zehneinhalb Prozent und Energie gut sieben Prozent.",
+      "Darum unterscheiden sich gefühlte und gemessene Inflation oft. Brot und Benzin sehen wir fast täglich, die Miete nur einmal im Monat. Und niemand kauft genau den Durchschnittswarenkorb. Wer viel Auto fährt oder in einer teuren Großstadt zur Miete wohnt, hat seine ganz persönliche Inflationsrate.",
+      "Das Gegenteil von Inflation heißt Deflation, also sinkende Preise. Das klingt angenehm, kann aber eine Wirtschaft lähmen, weil Menschen Käufe aufschieben und Unternehmen weniger investieren. Eine leichte, stabile Inflation gilt deshalb als normal und sogar gewollt.",
+      "Für den Vergleich innerhalb Europas gibt es zusätzlich den Harmonisierten Verbraucherpreisindex, der in allen EU-Ländern nach denselben Regeln berechnet wird. An ihm orientiert sich die Europäische Zentralbank. Was die Preise antreibt und wie die Zentralbank gegensteuert, erfährst du in den nächsten Abschnitten."
+     ]
+    },
+    {
+     "heading": "Warum Preise steigen",
+     "paragraphs": [
+      "Preise entstehen dort, wo Angebot und Nachfrage aufeinandertreffen. Inflation entsteht deshalb meist, wenn dieses Gleichgewicht aus der Balance gerät. Ökonominnen und Ökonomen unterscheiden dabei grob zwei Ursachen, die oft zusammenwirken.",
+      "Die erste ist eine starke Nachfrage. Wollen Menschen, Unternehmen und Staat mehr kaufen, als die Wirtschaft gerade herstellen kann, können Anbieter höhere Preise verlangen. Fachleute sprechen von Nachfragesog. Das passiert zum Beispiel, wenn nach einer Krise plötzlich alle gleichzeitig wieder konsumieren wollen, die Fabriken aber noch nicht hinterherkommen.",
+      "Die zweite Ursache sind steigende Kosten. Wird Energie teurer, müssen Bäckereien, Speditionen und Fabriken mehr bezahlen. Diese Kosten geben sie zum Teil an ihre Kundschaft weiter. Man spricht von Kostendruck. Genau das war 2022 in Deutschland besonders deutlich zu sehen: Energie verteuerte sich im Jahresdurchschnitt um mehr als ein Drittel.",
+      "Damals kam vieles zusammen. Nach der Pandemie war die Nachfrage hoch, Lieferketten waren gestört, und Bauteile wie Computerchips waren knapp. Mit dem russischen Angriff auf die Ukraine im Februar 2022 stiegen dann die Preise für Gas, Öl und Getreide stark. Im März 2022 sprang die Inflationsrate in Deutschland deutlich nach oben.",
+      "Eine wichtige Rolle spielt auch die Geldmenge. Wächst die Menge an Geld dauerhaft schneller als die Menge an Gütern, steigen auf lange Sicht die Preise. Dieser Zusammenhang ist besonders bei extremen Inflationen offensichtlich. In normalen Zeiten ist er aber weniger direkt, weil viel Geld auch gespart oder angelegt wird.",
+      "Wie stark Erwartungen wirken, zeigt sich auch beim Einkaufen. Wer glaubt, dass ein Produkt bald deutlich teurer wird, kauft es lieber jetzt. Machen das viele gleichzeitig, steigt die Nachfrage kurzfristig, und die Preise ziehen tatsächlich an. Die Erwartung erfüllt sich gewissermaßen selbst.",
+      "Schließlich zählen Erwartungen. Rechnen alle mit steigenden Preisen, verhalten sie sich entsprechend. Unternehmen erhöhen vorsorglich ihre Preise, Beschäftigte fordern höhere Löhne, um nicht ärmer zu werden. Höhere Löhne erhöhen wiederum die Kosten der Unternehmen. Im ungünstigen Fall entsteht eine Lohn-Preis-Spirale, die sich selbst antreibt.",
+      "Genau deshalb sind Zentralbanken so bemüht, die Erwartungen stabil zu halten. Wenn Menschen darauf vertrauen, dass die Inflation mittelfristig wieder auf ein normales Maß zurückkehrt, verlangen sie keine übertriebenen Lohnerhöhungen, und Firmen verzichten auf vorsorgliche Preissprünge. Vertrauen ist in der Geldpolitik eine Art Währung für sich.",
+      "Nicht jeder Preisanstieg ist also gleich. Ein kurzer Schub durch teureres Öl verhält sich anders als eine Inflation, die sich in Löhnen und Erwartungen festsetzt. Zentralbanken versuchen deshalb genau zu unterscheiden, ob Preise nur vorübergehend steigen oder ob sich ein dauerhafter Trend entwickelt.",
+      "Welche Ursache gerade überwiegt, entscheidet darüber, welche Gegenmittel sinnvoll sind."
+     ]
+    },
+    {
+     "heading": "Gewinner und Verlierer",
+     "paragraphs": [
+      "Inflation trifft nicht alle gleich. Sie verteilt Kaufkraft und Vermögen um, oft unbemerkt. Wer verliert und wer gewinnt, hängt davon ab, wie jemand sein Geld verdient, spart oder schuldet.",
+      "Zu den Verlierern gehören Menschen mit Ersparnissen, die kaum Zinsen bringen. Liegt Geld auf einem Konto mit null Prozent Zinsen, während die Preise um fünf Prozent steigen, verliert es real jedes Jahr ungefähr fünf Prozent an Wert. Auf dem Kontoauszug sieht man davon nichts, im Supermarkt dafür umso mehr.",
+      "Auch Menschen mit festen Einkommen leiden. Dazu zählen viele Rentnerinnen und Rentner, Studierende mit festem Budget oder Beschäftigte, deren Lohn nur selten angepasst wird. Ihre Einnahmen bleiben gleich, während die Ausgaben steigen. Besonders hart trifft es Haushalte mit wenig Geld, weil sie einen großen Teil ihres Einkommens für Lebensmittel und Energie ausgeben müssen.",
+      "Auf der anderen Seite stehen Schuldner. Wer einen Kredit mit festem Zins aufgenommen hat, zahlt einen festen Betrag zurück. Steigen Preise und Löhne, wird dieser Betrag im Verhältnis kleiner. Die Schuld schrumpft gewissermaßen mit der Zeit. Das gilt für Privatleute mit Immobilienkredit ebenso wie für Staaten mit hohen Schulden.",
+      "Bei Löhnen kommt es auf den Zeitpunkt an. Tarifverträge werden oft für ein oder zwei Jahre abgeschlossen. Steigen die Preise schneller als erwartet, hinken die Löhne hinterher, und die Reallöhne sinken. Später holen Lohnerhöhungen einen Teil wieder auf. In Deutschland sanken die Reallöhne in den Jahren hoher Inflation zunächst spürbar.",
+      "Der Staat spürt Inflation ebenfalls auf mehreren Seiten. Steigende Preise und Löhne bringen höhere Einnahmen aus Mehrwertsteuer und Einkommensteuer. Gleichzeitig steigen aber auch seine Ausgaben, etwa für Gehälter, Renten und Sozialleistungen. Und wenn die Zinsen steigen, werden neue Schulden teurer.",
+      "Bei Sachwerten ist das Bild gemischt. Immobilien, Aktien oder Gold gelten oft als Schutz, weil ihr Wert mit den Preisen steigen kann. Garantiert ist das aber nicht. Steigende Zinsen, die oft auf hohe Inflation folgen, können zum Beispiel Immobilienpreise und Aktienkurse auch drücken. Eine einfache Formel, wie man sich sicher schützt, gibt es nicht.",
+      "Auch für Unternehmen ist Inflation zwiespältig. Wer Preise leicht erhöhen kann, kommt gut durch. Wer lange Lieferverträge zu festen Preisen hat, gerät unter Druck. Hohe und schwankende Inflation macht vor allem das Planen schwer: Wie soll man investieren, wenn man nicht weiß, was Material und Löhne in zwei Jahren kosten?",
+      "Weil Inflation so viele Menschen ungleich trifft, ist sie nicht nur ein wirtschaftliches, sondern auch ein soziales und politisches Thema. Hohe Teuerung kann das Vertrauen in Institutionen erschüttern. Auch deshalb gilt Preisstabilität in Europa als so wichtig.",
+      "Am Ende hängt viel davon ab, wie schnell sich Löhne, Renten und Zinsen an die neuen Preise anpassen. Je träger sie reagieren, desto stärker spüren Menschen die Inflation im Geldbeutel."
+     ]
+    },
+    {
+     "heading": "Die Rolle der Zentralbank",
+     "paragraphs": [
+      "Wer sorgt eigentlich dafür, dass das Geld stabil bleibt? Im Euroraum ist das die Europäische Zentralbank in Frankfurt am Main, kurz EZB. Gemeinsam mit den nationalen Notenbanken wie der Deutschen Bundesbank bildet sie das Eurosystem. Ihr vorrangiges Ziel ist im Vertrag über die Arbeitsweise der Europäischen Union festgeschrieben: Preisstabilität.",
+      "Was genau Preisstabilität bedeutet, legt die EZB selbst fest. Seit ihrer Strategieüberprüfung im Juli 2021 strebt sie mittelfristig eine Inflationsrate von zwei Prozent an. Vorher lautete das Ziel etwas umständlich: unter, aber nahe zwei Prozent. Neu ist, dass das Ziel symmetrisch ist. Eine zu niedrige Inflation gilt als genauso unerwünscht wie eine zu hohe.",
+      "Mittelfristig heißt, dass die zwei Prozent nicht in jedem Monat erreicht werden müssen. Kurzfristige Ausschläge, etwa durch einen Ölpreisschock, kann die Zentralbank ohnehin kaum verhindern. Wichtig ist, dass die Inflation über einige Jahre um diesen Wert schwankt und die Menschen darauf vertrauen.",
+      "Das wichtigste Werkzeug der EZB sind die Leitzinsen. Zu diesen Zinssätzen können sich Geschäftsbanken Geld bei der Zentralbank leihen oder dort parken. Hebt die EZB die Leitzinsen an, werden Kredite für Unternehmen und Privatleute nach und nach teurer, und Sparen lohnt sich mehr. Dann wird weniger gekauft und investiert, die Nachfrage sinkt, und der Preisdruck lässt nach.",
+      "Steigen die Leitzinsen, merken das viele Menschen ganz direkt. Baukredite werden teurer, Ratenkäufe auch. Auf Tagesgeld und Festgeld gibt es dagegen wieder spürbar Zinsen. Genau diese Veränderungen sollen dazu führen, dass etwas weniger ausgegeben und mehr gespart wird. So kühlt die Wirtschaft ab, und der Preisauftrieb lässt nach.",
+      "Senkt die EZB die Zinsen, passiert das Gegenteil: Kredite werden billiger, es wird mehr investiert und konsumiert, und die Wirtschaft bekommt Schwung. Das ist sinnvoll, wenn die Inflation zu niedrig ist oder die Wirtschaft schwächelt. Die Kunst besteht darin, den richtigen Zeitpunkt und die richtige Dosis zu finden.",
+      "Dabei gibt es eine Schwierigkeit: Zinsänderungen wirken nicht sofort. Bis eine Zinserhöhung bei den Preisen ankommt, vergehen oft ein bis zwei Jahre. Die Zentralbank muss also vorausschauend handeln, fast wie beim Steuern eines großen Schiffs. Wer zu spät reagiert, muss später umso stärker gegensteuern.",
+      "Neben den Zinsen hat die EZB in den vergangenen Jahren weitere Mittel eingesetzt, etwa den Kauf großer Mengen an Anleihen. Diese Programme sollten in Phasen sehr niedriger Inflation die Wirtschaft stützen. Sie sind politisch umstritten, weil Kritiker befürchten, dass die Grenze zur Finanzierung von Staaten verschwimmt. Befürworter halten sie in Krisen für notwendig.",
+      "Ein wichtiger Grundsatz ist die Unabhängigkeit. Die EZB darf keine Weisungen von Regierungen annehmen. Dahinter steht die Erfahrung, dass Regierungen in Versuchung geraten können, Geld drucken zu lassen, um Schulden zu bezahlen oder Wahlen zu gewinnen. Wohin das führen kann, zeigt die deutsche Geschichte."
+     ]
+    },
+    {
+     "heading": "Als Geld wertlos wurde: 1923",
+     "paragraphs": [
+      "Wie zerstörerisch Inflation werden kann, hat Deutschland vor gut hundert Jahren erlebt. Die Hyperinflation von 1923 ist bis heute tief im kollektiven Gedächtnis verankert. Sie erklärt auch, warum Preisstabilität in Deutschland einen so hohen Stellenwert hat.",
+      "Die Wurzeln reichen in den Ersten Weltkrieg zurück. Das Deutsche Reich finanzierte den Krieg vor allem mit Schulden und neuem Geld statt mit Steuern. Bei Kriegsende im November 1918 waren die Schulden größer als das gesamte Volkseinkommen eines Jahres. Dazu kamen nach dem Krieg die hohen Reparationsforderungen der Siegermächte.",
+      "Anfang 1923 besetzten französische und belgische Truppen das Ruhrgebiet, weil Deutschland mit Lieferungen im Rückstand war. Die Regierung rief zum passiven Widerstand auf und bezahlte die streikenden Arbeiter mit frisch gedrucktem Geld. Die Notenpresse lief nun ununterbrochen, und die Preise gerieten völlig außer Kontrolle.",
+      "Am Brotpreis lässt sich das Ausmaß ablesen. Im Dezember 1919 kostete ein Brot noch achtzig Pfennig. Im Januar 1923 waren es bereits 250 Mark, im August 69.000 Mark, im September 1,5 Millionen und im Oktober 174 Millionen Mark. Im November 1923 musste man schließlich 201 Milliarden Mark für ein Brot bezahlen.",
+      "Der Alltag wurde zum Wettlauf gegen die Zeit. Löhne wurden mehrmals pro Woche ausgezahlt, und wer sein Geld bekam, rannte sofort in die Geschäfte, bevor die Preise wieder stiegen. Banknoten wurden nur noch einseitig bedruckt oder einfach mit höheren Werten überstempelt. Auf dem Höhepunkt im November 1923 entsprach ein US-Dollar 4,2 Billionen Mark.",
+      "Für viele Familien bedeutete die Hyperinflation bittere Not. Rentnerinnen und Rentner, deren Bezüge nicht schnell genug angepasst wurden, verarmten. Wer dagegen Sachwerte besaß, etwa ein Haus, Land oder Maschinen, kam oft glimpflicher davon. Manche Spekulanten wurden in dieser Zeit sogar reich, was die Wut vieler Menschen zusätzlich anheizte.",
+      "Beendet wurde die Hyperinflation durch eine Währungsreform. Ab Mitte November 1923 wurde die Rentenmark ausgegeben, eine neue Währung, deren Menge streng begrenzt war. Eine Rentenmark entsprach einer Billion alter Papiermark. Erstaunlich schnell kehrte Vertrauen zurück, man sprach vom Wunder der Rentenmark. Später ging sie in die Reichsmark über.",
+      "Noch heute erzählen viele Familien Geschichten aus dieser Zeit, die über Generationen weitergegeben wurden.",
+      "Die Folgen waren dennoch tief. Wer Ersparnisse auf dem Konto hatte, verlor fast alles. Besonders der Mittelstand, der fleißig gespart hatte, fühlte sich betrogen. Schuldner dagegen wurden ihre Schulden praktisch los, auch der Staat. Diese Erfahrung erschütterte das Vertrauen in die junge Weimarer Republik und trug zur politischen Radikalisierung jener Jahre bei.",
+      "Aus dieser Geschichte zog man nach dem Zweiten Weltkrieg Lehren. Die Bundesbank wurde unabhängig von der Regierung, und Preisstabilität wurde zu ihrem obersten Ziel. Dieses Leitbild prägte später auch die Europäische Zentralbank. Dass eine Regierung die Notenpresse anwirft, um ihre Ausgaben zu bezahlen, soll sich nicht wiederholen."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Inflation ist der allgemeine Anstieg der Preise, gemessen am Warenkorb des Statistischen Bundesamts.",
+    "Preise steigen, wenn die Nachfrage das Angebot übersteigt oder wenn Kosten wie Energie stark zulegen, und das trifft Sparer und feste Einkommen besonders.",
+    "Die Europäische Zentralbank strebt zwei Prozent an und bremst eine zu hohe Inflation vor allem mit höheren Leitzinsen."
+   ]
+  },
+  "15": {
+   "words": 2704,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Geld ist ein Versprechen: Wer heute einen Zehn-Euro-Schein in der Hand hält, erwartet, dass er auch morgen etwas dafür bekommt. Inflation nagt an diesem Versprechen. Hier erfährst du, was Inflation ist, wie Statistiker sie messen, warum Preise steigen, wen das trifft, wie die Europäische Zentralbank gegensteuert und warum sie trotzdem nicht null Prozent anstrebt."
+     ]
+    },
+    {
+     "heading": "Was Inflation eigentlich ist",
+     "paragraphs": [
+      "Inflation bedeutet, dass das allgemeine Preisniveau steigt. Es geht also nicht darum, dass ein einzelnes Produkt teurer wird. Wenn nur Kaffee mehr kostet, ist das noch keine Inflation. Von Inflation spricht man, wenn Waren und Dienstleistungen insgesamt und über längere Zeit teurer werden.",
+      "Die Kehrseite steigender Preise ist sinkende Kaufkraft. Für denselben Geldbetrag bekommst du weniger. Der Schein in deinem Portemonnaie sieht gleich aus, aber er ist weniger wert. Fachleute sagen deshalb auch Geldentwertung oder Teuerung.",
+      "Wie stark sich das über die Jahre summiert, unterschätzen viele. Angenommen, die Preise steigen zehn Jahre lang jedes Jahr um zwei Prozent. Dann kaufst du mit hundert Euro am Ende nur noch so viel, wie heute etwa zweiundachtzig Euro wert sind. Fast ein Fünftel der Kaufkraft ist weg, obwohl zwei Prozent pro Jahr harmlos klingen.",
+      "Eine einfache Faustregel hilft beim Überschlagen. Teilt man siebzig durch die Inflationsrate, erhält man ungefähr die Zahl der Jahre, nach denen sich die Preise verdoppelt haben. Bei zwei Prozent sind das etwa fünfunddreißig Jahre, bei sieben Prozent nur noch zehn.",
+      "Ein Beispiel aus dem Alltag macht das greifbar. Kostete ein Einkauf für die Woche vor einigen Jahren achtzig Euro und heute für dieselben Produkte hundert Euro, sind die Preise um ein Viertel gestiegen. Hat sich das eigene Einkommen in derselben Zeit nur um zehn Prozent erhöht, kann man sich real weniger leisten als vorher, obwohl man mehr verdient.",
+      "Wichtig ist der Unterschied zwischen nominal und real. Nominal ist der Betrag, der auf dem Lohnzettel oder dem Kontoauszug steht. Real ist das, was du dir dafür tatsächlich leisten kannst. Steigt dein Gehalt um drei Prozent, die Preise aber um fünf, hast du nominal mehr, real aber weniger.",
+      "Das Gegenteil von Inflation heißt Deflation. Dann sinkt das allgemeine Preisniveau. Das klingt zunächst angenehm, kann aber gefährlich werden, wie wir später sehen werden. Steigen die Preise nur langsamer als vorher, spricht man dagegen von Disinflation. Die Preise klettern dann weiter, nur in kleineren Schritten.",
+      "Inflation ist kein neues Phänomen. Schon in der Antike verringerten Herrscher den Edelmetallgehalt ihrer Münzen, um mehr Geld prägen zu können. Mit Papiergeld und Zentralbanken hat sich die Art verändert, wie Geld entsteht. Das Grundprinzip ist aber dasselbe geblieben: Wird Geld im Verhältnis zu den Gütern reichlicher, verliert es an Wert.",
+      "Für den Alltag heißt das: Eine moderate, stabile Inflation ist normal und gewollt. Problematisch wird es, wenn die Rate stark schwankt oder sehr hoch ausfällt. Dann können Menschen und Unternehmen kaum noch planen, und das Vertrauen in das Geld leidet.",
+      "Wer Inflation versteht, kann Nachrichten über Preise, Löhne und Zinsen besser einordnen. Genau darum geht es in den folgenden Abschnitten: wie man sie misst, woher sie kommt, wen sie trifft und wer versucht, sie im Griff zu behalten."
+     ]
+    },
+    {
+     "heading": "Wie man Inflation misst",
+     "paragraphs": [
+      "Wie misst man etwas so Allgemeines wie das Preisniveau? In Deutschland übernimmt das das Statistische Bundesamt. Es berechnet jeden Monat den Verbraucherpreisindex. Die prozentuale Veränderung dieses Index gegenüber dem Vorjahresmonat wird meist als Inflationsrate bezeichnet.",
+      "Grundlage ist ein gedachter Warenkorb. Er enthält alles, was private Haushalte im Durchschnitt kaufen: Lebensmittel, Kleidung, Miete, Strom, Tanken, Friseurbesuche, Versicherungen, Konzertkarten und vieles mehr. Insgesamt sind es rund siebenhundert Güterarten. Für sie erfassen Preiserheberinnen und Preiserheber jeden Monat sehr viele Einzelpreise, in Geschäften und online.",
+      "Nicht jedes Produkt zählt gleich viel. Was Haushalte oft und teuer kaufen, bekommt ein größeres Gewicht. Fachleute sprechen vom Wägungsschema. Nach dem Schema mit dem Basisjahr 2020 machen die Nettokaltmieten gut siebzehn Prozent des Warenkorbs aus, Nahrungsmittel rund zehneinhalb Prozent und Energie gut sieben Prozent.",
+      "Eine Inflationsrate ist immer ein Vergleich mit dem Vorjahresmonat. Liegt sie im Mai bei fünf Prozent, heißt das: Der Warenkorb kostet im Mai fünf Prozent mehr als im Mai des Vorjahres. Fällt die Rate im nächsten Jahr auf zwei Prozent, sinken die Preise nicht. Sie steigen nur langsamer, und zwar von einem bereits höheren Niveau aus.",
+      "Das erklärt, warum sich gefühlte und gemessene Inflation oft unterscheiden. Preise für Brot oder Benzin bemerken wir sofort, weil wir sie fast täglich sehen. Die Miete zahlen wir einmal im Monat, und viele Mieten ändern sich nur selten. Steigen ausgerechnet die häufig gekauften Dinge stark, fühlt sich die Inflation höher an, als der Index anzeigt.",
+      "Hinzu kommt, dass niemand genau den Durchschnittswarenkorb kauft. Wer viel Auto fährt, spürt teures Benzin stärker. Wer zur Miete in einer Großstadt wohnt, merkt steigende Mieten deutlicher als jemand im eigenen Haus. Deshalb hat jeder Haushalt eigentlich seine persönliche Inflationsrate. Das Statistische Bundesamt bietet dafür sogar einen Rechner an.",
+      "Der Warenkorb wird regelmäßig angepasst, ungefähr alle fünf Jahre. Neue Produkte kommen hinzu, andere verlieren an Bedeutung. Vor einigen Jahrzehnten gehörten Schreibmaschinen dazu, heute sind es Streamingdienste und Smartphones. Auch Qualitätsänderungen werden berücksichtigt: Wird ein Computer bei gleichem Preis viel leistungsfähiger, zählt das rechnerisch wie eine Preissenkung.",
+      "Für den Vergleich innerhalb Europas gibt es zusätzlich den Harmonisierten Verbraucherpreisindex. Er wird in allen Ländern der Europäischen Union nach denselben Regeln berechnet. An ihm orientiert sich die Europäische Zentralbank, wenn sie beurteilt, ob die Preise im Euroraum stabil sind.",
+      "Messen ist also aufwendig und nie perfekt. Trotzdem liefern die Statistikämter ein recht verlässliches Bild davon, wie sich die Preise insgesamt entwickeln. Ohne diese Zahlen könnten weder Zentralbanken noch Gewerkschaften, Unternehmen oder Regierungen sinnvoll planen.",
+      "Kritik an der Messung gibt es trotzdem immer wieder, etwa daran, dass selbst genutztes Wohneigentum im deutschen Index nur begrenzt erfasst wird. Die Statistikämter überprüfen ihre Methoden deshalb laufend und erklären sie offen."
+     ]
+    },
+    {
+     "heading": "Warum Preise steigen",
+     "paragraphs": [
+      "Preise entstehen dort, wo Angebot und Nachfrage aufeinandertreffen. Inflation entsteht deshalb meist, wenn dieses Gleichgewicht aus der Balance gerät. Ökonominnen und Ökonomen unterscheiden dabei grob zwei Ursachen, die oft zusammenwirken.",
+      "Die erste ist eine starke Nachfrage. Wollen Menschen, Unternehmen und Staat mehr kaufen, als die Wirtschaft gerade herstellen kann, können Anbieter höhere Preise verlangen. Fachleute sprechen von Nachfragesog. Das passiert zum Beispiel, wenn nach einer Krise plötzlich alle gleichzeitig wieder konsumieren wollen, die Fabriken aber noch nicht hinterherkommen.",
+      "Die zweite Ursache sind steigende Kosten. Wird Energie teurer, müssen Bäckereien, Speditionen und Fabriken mehr bezahlen. Diese Kosten geben sie zum Teil an ihre Kundschaft weiter. Man spricht von Kostendruck. Genau das war 2022 in Deutschland besonders deutlich zu sehen: Energie verteuerte sich im Jahresdurchschnitt um mehr als ein Drittel.",
+      "Damals kam vieles zusammen. Nach der Pandemie war die Nachfrage hoch, Lieferketten waren gestört, und Bauteile wie Computerchips waren knapp. Mit dem russischen Angriff auf die Ukraine im Februar 2022 stiegen dann die Preise für Gas, Öl und Getreide stark. Im März 2022 sprang die Inflationsrate in Deutschland deutlich nach oben.",
+      "Eine wichtige Rolle spielt auch die Geldmenge. Wächst die Menge an Geld dauerhaft schneller als die Menge an Gütern, steigen auf lange Sicht die Preise. Dieser Zusammenhang ist besonders bei extremen Inflationen offensichtlich. In normalen Zeiten ist er aber weniger direkt, weil viel Geld auch gespart oder angelegt wird.",
+      "Wie stark Erwartungen wirken, zeigt sich auch beim Einkaufen. Wer glaubt, dass ein Produkt bald deutlich teurer wird, kauft es lieber jetzt. Machen das viele gleichzeitig, steigt die Nachfrage kurzfristig, und die Preise ziehen tatsächlich an. Die Erwartung erfüllt sich gewissermaßen selbst.",
+      "Schließlich zählen Erwartungen. Rechnen alle mit steigenden Preisen, verhalten sie sich entsprechend. Unternehmen erhöhen vorsorglich ihre Preise, Beschäftigte fordern höhere Löhne, um nicht ärmer zu werden. Höhere Löhne erhöhen wiederum die Kosten der Unternehmen. Im ungünstigen Fall entsteht eine Lohn-Preis-Spirale, die sich selbst antreibt.",
+      "Genau deshalb sind Zentralbanken so bemüht, die Erwartungen stabil zu halten. Wenn Menschen darauf vertrauen, dass die Inflation mittelfristig wieder auf ein normales Maß zurückkehrt, verlangen sie keine übertriebenen Lohnerhöhungen, und Firmen verzichten auf vorsorgliche Preissprünge. Vertrauen ist in der Geldpolitik eine Art Währung für sich.",
+      "Nicht jeder Preisanstieg ist also gleich. Ein kurzer Schub durch teureres Öl verhält sich anders als eine Inflation, die sich in Löhnen und Erwartungen festsetzt. Zentralbanken versuchen deshalb genau zu unterscheiden, ob Preise nur vorübergehend steigen oder ob sich ein dauerhafter Trend entwickelt.",
+      "Welche Ursache gerade überwiegt, entscheidet darüber, welche Gegenmittel sinnvoll sind."
+     ]
+    },
+    {
+     "heading": "Gewinner und Verlierer",
+     "paragraphs": [
+      "Inflation trifft nicht alle gleich. Sie verteilt Kaufkraft und Vermögen um, oft unbemerkt. Wer verliert und wer gewinnt, hängt davon ab, wie jemand sein Geld verdient, spart oder schuldet.",
+      "Zu den Verlierern gehören Menschen mit Ersparnissen, die kaum Zinsen bringen. Liegt Geld auf einem Konto mit null Prozent Zinsen, während die Preise um fünf Prozent steigen, verliert es real jedes Jahr ungefähr fünf Prozent an Wert. Auf dem Kontoauszug sieht man davon nichts, im Supermarkt dafür umso mehr.",
+      "Auch Menschen mit festen Einkommen leiden. Dazu zählen viele Rentnerinnen und Rentner, Studierende mit festem Budget oder Beschäftigte, deren Lohn nur selten angepasst wird. Ihre Einnahmen bleiben gleich, während die Ausgaben steigen. Besonders hart trifft es Haushalte mit wenig Geld, weil sie einen großen Teil ihres Einkommens für Lebensmittel und Energie ausgeben müssen.",
+      "Auf der anderen Seite stehen Schuldner. Wer einen Kredit mit festem Zins aufgenommen hat, zahlt einen festen Betrag zurück. Steigen Preise und Löhne, wird dieser Betrag im Verhältnis kleiner. Die Schuld schrumpft gewissermaßen mit der Zeit. Das gilt für Privatleute mit Immobilienkredit ebenso wie für Staaten mit hohen Schulden.",
+      "Bei Löhnen kommt es auf den Zeitpunkt an. Tarifverträge werden oft für ein oder zwei Jahre abgeschlossen. Steigen die Preise schneller als erwartet, hinken die Löhne hinterher, und die Reallöhne sinken. Später holen Lohnerhöhungen einen Teil wieder auf. In Deutschland sanken die Reallöhne in den Jahren hoher Inflation zunächst spürbar.",
+      "Der Staat spürt Inflation ebenfalls auf mehreren Seiten. Steigende Preise und Löhne bringen höhere Einnahmen aus Mehrwertsteuer und Einkommensteuer. Gleichzeitig steigen aber auch seine Ausgaben, etwa für Gehälter, Renten und Sozialleistungen. Und wenn die Zinsen steigen, werden neue Schulden teurer.",
+      "Bei Sachwerten ist das Bild gemischt. Immobilien, Aktien oder Gold gelten oft als Schutz, weil ihr Wert mit den Preisen steigen kann. Garantiert ist das aber nicht. Steigende Zinsen, die oft auf hohe Inflation folgen, können zum Beispiel Immobilienpreise und Aktienkurse auch drücken. Eine einfache Formel, wie man sich sicher schützt, gibt es nicht.",
+      "Auch für Unternehmen ist Inflation zwiespältig. Wer Preise leicht erhöhen kann, kommt gut durch. Wer lange Lieferverträge zu festen Preisen hat, gerät unter Druck. Hohe und schwankende Inflation macht vor allem das Planen schwer: Wie soll man investieren, wenn man nicht weiß, was Material und Löhne in zwei Jahren kosten?",
+      "Weil Inflation so viele Menschen ungleich trifft, ist sie nicht nur ein wirtschaftliches, sondern auch ein soziales und politisches Thema. Hohe Teuerung kann das Vertrauen in Institutionen erschüttern. Auch deshalb gilt Preisstabilität in Europa als so wichtig.",
+      "Am Ende hängt viel davon ab, wie schnell sich Löhne, Renten und Zinsen an die neuen Preise anpassen. Je träger sie reagieren, desto stärker spüren Menschen die Inflation im Geldbeutel."
+     ]
+    },
+    {
+     "heading": "Die Rolle der Zentralbank",
+     "paragraphs": [
+      "Wer sorgt eigentlich dafür, dass das Geld stabil bleibt? Im Euroraum ist das die Europäische Zentralbank in Frankfurt am Main, kurz EZB. Gemeinsam mit den nationalen Notenbanken wie der Deutschen Bundesbank bildet sie das Eurosystem. Ihr vorrangiges Ziel ist im Vertrag über die Arbeitsweise der Europäischen Union festgeschrieben: Preisstabilität.",
+      "Was genau Preisstabilität bedeutet, legt die EZB selbst fest. Seit ihrer Strategieüberprüfung im Juli 2021 strebt sie mittelfristig eine Inflationsrate von zwei Prozent an. Vorher lautete das Ziel etwas umständlich: unter, aber nahe zwei Prozent. Neu ist, dass das Ziel symmetrisch ist. Eine zu niedrige Inflation gilt als genauso unerwünscht wie eine zu hohe.",
+      "Mittelfristig heißt, dass die zwei Prozent nicht in jedem Monat erreicht werden müssen. Kurzfristige Ausschläge, etwa durch einen Ölpreisschock, kann die Zentralbank ohnehin kaum verhindern. Wichtig ist, dass die Inflation über einige Jahre um diesen Wert schwankt und die Menschen darauf vertrauen.",
+      "Das wichtigste Werkzeug der EZB sind die Leitzinsen. Zu diesen Zinssätzen können sich Geschäftsbanken Geld bei der Zentralbank leihen oder dort parken. Hebt die EZB die Leitzinsen an, werden Kredite für Unternehmen und Privatleute nach und nach teurer, und Sparen lohnt sich mehr. Dann wird weniger gekauft und investiert, die Nachfrage sinkt, und der Preisdruck lässt nach.",
+      "Steigen die Leitzinsen, merken das viele Menschen ganz direkt. Baukredite werden teurer, Ratenkäufe auch. Auf Tagesgeld und Festgeld gibt es dagegen wieder spürbar Zinsen. Genau diese Veränderungen sollen dazu führen, dass etwas weniger ausgegeben und mehr gespart wird. So kühlt die Wirtschaft ab, und der Preisauftrieb lässt nach.",
+      "Senkt die EZB die Zinsen, passiert das Gegenteil: Kredite werden billiger, es wird mehr investiert und konsumiert, und die Wirtschaft bekommt Schwung. Das ist sinnvoll, wenn die Inflation zu niedrig ist oder die Wirtschaft schwächelt. Die Kunst besteht darin, den richtigen Zeitpunkt und die richtige Dosis zu finden.",
+      "Dabei gibt es eine Schwierigkeit: Zinsänderungen wirken nicht sofort. Bis eine Zinserhöhung bei den Preisen ankommt, vergehen oft ein bis zwei Jahre. Die Zentralbank muss also vorausschauend handeln, fast wie beim Steuern eines großen Schiffs. Wer zu spät reagiert, muss später umso stärker gegensteuern.",
+      "Neben den Zinsen hat die EZB in den vergangenen Jahren weitere Mittel eingesetzt, etwa den Kauf großer Mengen an Anleihen. Diese Programme sollten in Phasen sehr niedriger Inflation die Wirtschaft stützen. Sie sind politisch umstritten, weil Kritiker befürchten, dass die Grenze zur Finanzierung von Staaten verschwimmt. Befürworter halten sie in Krisen für notwendig.",
+      "Ein wichtiger Grundsatz ist die Unabhängigkeit. Die EZB darf keine Weisungen von Regierungen annehmen. Dahinter steht die Erfahrung, dass Regierungen in Versuchung geraten können, Geld drucken zu lassen, um Schulden zu bezahlen oder Wahlen zu gewinnen. Wohin das führen kann, zeigt die deutsche Geschichte."
+     ]
+    },
+    {
+     "heading": "Warum nicht null Prozent?",
+     "paragraphs": [
+      "Wenn Inflation Kaufkraft kostet, warum strebt die Zentralbank dann nicht null Prozent an? Darauf gibt es mehrere Antworten, und sie überzeugen die meisten Fachleute.",
+      "Der erste Grund ist die Gefahr der Deflation. Wenn Preise dauerhaft fallen, schieben Menschen Käufe auf, weil die Dinge später ja billiger werden. Unternehmen verkaufen weniger, investieren weniger und entlassen Beschäftigte. Das drückt die Nachfrage weiter und lässt die Preise weiter fallen. Aus dieser Abwärtsspirale kommt eine Wirtschaft nur schwer wieder heraus.",
+      "Ein zweiter Grund betrifft Schulden. Bei fallenden Preisen und Löhnen bleibt ein Kredit gleich hoch, wird aber im Verhältnis zum Einkommen immer schwerer. Viele Unternehmen und Haushalte geraten dann in Schwierigkeiten. Eine leichte Inflation wirkt hier wie ein Puffer.",
+      "Drittens braucht die Zentralbank Spielraum. Ihr wichtigstes Werkzeug sind die Zinsen, und die lassen sich nicht beliebig weit unter null senken. Liegt die Inflation bei zwei Prozent, liegen auch die Zinsen in normalen Zeiten etwas höher. Dann kann die Zentralbank in einer Krise die Zinsen spürbar senken, um die Wirtschaft zu stützen.",
+      "Viertens ist die Messung nicht perfekt. Wenn Produkte besser werden, ist es schwer, das vollständig herauszurechnen. Eine gemessene Inflation von null könnte deshalb in Wahrheit schon leicht fallende Preise bedeuten. Ein kleiner Sicherheitsabstand nach oben hilft.",
+      "Ein bekanntes Beispiel für die Gefahren dauerhaft fallender Preise ist Japan. Dort sanken die Preise ab den Neunzigerjahren über lange Zeit leicht, und die Wirtschaft wuchs über viele Jahre nur schwach. Ökonominnen und Ökonomen streiten darüber, wie groß der Anteil der Deflation daran war. Für Zentralbanken weltweit wurde Japan aber zu einem warnenden Beispiel.",
+      "Schließlich erleichtert eine leichte Inflation Anpassungen in der Wirtschaft. Löhne werden nur selten nominal gesenkt, weil das als unfair empfunden wird. Steigen die Preise aber leicht, können sich die realen Löhne in schwächeren Branchen trotzdem anpassen, ohne dass jemandem das Gehalt gekürzt wird.",
+      "Dass zu niedrige Inflation ein echtes Problem sein kann, haben die Jahre nach der globalen Finanzkrise gezeigt. Damals lag die Inflation im Euroraum über viele Jahre im Durchschnitt nur bei gut einem Prozent, also deutlich unter dem Ziel. Die EZB senkte die Zinsen bis unter null und kaufte in großem Stil Anleihen, um die Preise wieder anzuschieben.",
+      "Zwei Prozent sind also ein Kompromiss: niedrig genug, dass Menschen kaum über steigende Preise nachdenken müssen, und hoch genug, um einen Puffer gegen Deflation zu haben. Andere große Zentralbanken, etwa in den USA und Großbritannien, verfolgen ein ähnliches Ziel."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Inflation bedeutet sinkende Kaufkraft und wird über einen gewichteten Warenkorb gemessen, der den Konsum eines Durchschnittshaushalts abbildet.",
+    "Steigende Nachfrage, teurere Rohstoffe und Erwartungen können Preise treiben, Gewinner und Verlierer verteilen sich ungleich.",
+    "Die EZB zielt symmetrisch auf zwei Prozent, weil auch fallende Preise der Wirtschaft schaden können."
+   ]
+  },
+  "20": {
+   "words": 3609,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Inflation klingt nach trockener Volkswirtschaft, betrifft aber jeden Einkauf, jedes Gehalt und jedes Sparbuch. Nach Jahren mit kaum steigenden Preisen erlebte Deutschland 2022 die höchste Teuerung seit der Wiedervereinigung. In diesem Artikel erfährst du, was Inflation ist, wie sie gemessen wird, woher sie kommt, wer gewinnt und wer verliert, was Zentralbanken tun, was 1923 schiefging und welche Fragen heute offen sind."
+     ]
+    },
+    {
+     "heading": "Was Inflation eigentlich ist",
+     "paragraphs": [
+      "Inflation bedeutet, dass das allgemeine Preisniveau steigt. Es geht also nicht darum, dass ein einzelnes Produkt teurer wird. Wenn nur Kaffee mehr kostet, ist das noch keine Inflation. Von Inflation spricht man, wenn Waren und Dienstleistungen insgesamt und über längere Zeit teurer werden.",
+      "Die Kehrseite steigender Preise ist sinkende Kaufkraft. Für denselben Geldbetrag bekommst du weniger. Der Schein in deinem Portemonnaie sieht gleich aus, aber er ist weniger wert. Fachleute sagen deshalb auch Geldentwertung oder Teuerung.",
+      "Wie stark sich das über die Jahre summiert, unterschätzen viele. Angenommen, die Preise steigen zehn Jahre lang jedes Jahr um zwei Prozent. Dann kaufst du mit hundert Euro am Ende nur noch so viel, wie heute etwa zweiundachtzig Euro wert sind. Fast ein Fünftel der Kaufkraft ist weg, obwohl zwei Prozent pro Jahr harmlos klingen.",
+      "Eine einfache Faustregel hilft beim Überschlagen. Teilt man siebzig durch die Inflationsrate, erhält man ungefähr die Zahl der Jahre, nach denen sich die Preise verdoppelt haben. Bei zwei Prozent sind das etwa fünfunddreißig Jahre, bei sieben Prozent nur noch zehn.",
+      "Ein Beispiel aus dem Alltag macht das greifbar. Kostete ein Einkauf für die Woche vor einigen Jahren achtzig Euro und heute für dieselben Produkte hundert Euro, sind die Preise um ein Viertel gestiegen. Hat sich das eigene Einkommen in derselben Zeit nur um zehn Prozent erhöht, kann man sich real weniger leisten als vorher, obwohl man mehr verdient.",
+      "Wichtig ist der Unterschied zwischen nominal und real. Nominal ist der Betrag, der auf dem Lohnzettel oder dem Kontoauszug steht. Real ist das, was du dir dafür tatsächlich leisten kannst. Steigt dein Gehalt um drei Prozent, die Preise aber um fünf, hast du nominal mehr, real aber weniger.",
+      "Das Gegenteil von Inflation heißt Deflation. Dann sinkt das allgemeine Preisniveau. Das klingt zunächst angenehm, kann aber gefährlich werden, wie wir später sehen werden. Steigen die Preise nur langsamer als vorher, spricht man dagegen von Disinflation. Die Preise klettern dann weiter, nur in kleineren Schritten.",
+      "Inflation ist kein neues Phänomen. Schon in der Antike verringerten Herrscher den Edelmetallgehalt ihrer Münzen, um mehr Geld prägen zu können. Mit Papiergeld und Zentralbanken hat sich die Art verändert, wie Geld entsteht. Das Grundprinzip ist aber dasselbe geblieben: Wird Geld im Verhältnis zu den Gütern reichlicher, verliert es an Wert.",
+      "Für den Alltag heißt das: Eine moderate, stabile Inflation ist normal und gewollt. Problematisch wird es, wenn die Rate stark schwankt oder sehr hoch ausfällt. Dann können Menschen und Unternehmen kaum noch planen, und das Vertrauen in das Geld leidet.",
+      "Wer Inflation versteht, kann Nachrichten über Preise, Löhne und Zinsen besser einordnen. Genau darum geht es in den folgenden Abschnitten: wie man sie misst, woher sie kommt, wen sie trifft und wer versucht, sie im Griff zu behalten."
+     ]
+    },
+    {
+     "heading": "Wie man Inflation misst",
+     "paragraphs": [
+      "Wie misst man etwas so Allgemeines wie das Preisniveau? In Deutschland übernimmt das das Statistische Bundesamt. Es berechnet jeden Monat den Verbraucherpreisindex. Die prozentuale Veränderung dieses Index gegenüber dem Vorjahresmonat wird meist als Inflationsrate bezeichnet.",
+      "Grundlage ist ein gedachter Warenkorb. Er enthält alles, was private Haushalte im Durchschnitt kaufen: Lebensmittel, Kleidung, Miete, Strom, Tanken, Friseurbesuche, Versicherungen, Konzertkarten und vieles mehr. Insgesamt sind es rund siebenhundert Güterarten. Für sie erfassen Preiserheberinnen und Preiserheber jeden Monat sehr viele Einzelpreise, in Geschäften und online.",
+      "Nicht jedes Produkt zählt gleich viel. Was Haushalte oft und teuer kaufen, bekommt ein größeres Gewicht. Fachleute sprechen vom Wägungsschema. Nach dem Schema mit dem Basisjahr 2020 machen die Nettokaltmieten gut siebzehn Prozent des Warenkorbs aus, Nahrungsmittel rund zehneinhalb Prozent und Energie gut sieben Prozent.",
+      "Eine Inflationsrate ist immer ein Vergleich mit dem Vorjahresmonat. Liegt sie im Mai bei fünf Prozent, heißt das: Der Warenkorb kostet im Mai fünf Prozent mehr als im Mai des Vorjahres. Fällt die Rate im nächsten Jahr auf zwei Prozent, sinken die Preise nicht. Sie steigen nur langsamer, und zwar von einem bereits höheren Niveau aus.",
+      "Das erklärt, warum sich gefühlte und gemessene Inflation oft unterscheiden. Preise für Brot oder Benzin bemerken wir sofort, weil wir sie fast täglich sehen. Die Miete zahlen wir einmal im Monat, und viele Mieten ändern sich nur selten. Steigen ausgerechnet die häufig gekauften Dinge stark, fühlt sich die Inflation höher an, als der Index anzeigt.",
+      "Hinzu kommt, dass niemand genau den Durchschnittswarenkorb kauft. Wer viel Auto fährt, spürt teures Benzin stärker. Wer zur Miete in einer Großstadt wohnt, merkt steigende Mieten deutlicher als jemand im eigenen Haus. Deshalb hat jeder Haushalt eigentlich seine persönliche Inflationsrate. Das Statistische Bundesamt bietet dafür sogar einen Rechner an.",
+      "Der Warenkorb wird regelmäßig angepasst, ungefähr alle fünf Jahre. Neue Produkte kommen hinzu, andere verlieren an Bedeutung. Vor einigen Jahrzehnten gehörten Schreibmaschinen dazu, heute sind es Streamingdienste und Smartphones. Auch Qualitätsänderungen werden berücksichtigt: Wird ein Computer bei gleichem Preis viel leistungsfähiger, zählt das rechnerisch wie eine Preissenkung.",
+      "Für den Vergleich innerhalb Europas gibt es zusätzlich den Harmonisierten Verbraucherpreisindex. Er wird in allen Ländern der Europäischen Union nach denselben Regeln berechnet. An ihm orientiert sich die Europäische Zentralbank, wenn sie beurteilt, ob die Preise im Euroraum stabil sind.",
+      "Messen ist also aufwendig und nie perfekt. Trotzdem liefern die Statistikämter ein recht verlässliches Bild davon, wie sich die Preise insgesamt entwickeln. Ohne diese Zahlen könnten weder Zentralbanken noch Gewerkschaften, Unternehmen oder Regierungen sinnvoll planen.",
+      "Kritik an der Messung gibt es trotzdem immer wieder, etwa daran, dass selbst genutztes Wohneigentum im deutschen Index nur begrenzt erfasst wird. Die Statistikämter überprüfen ihre Methoden deshalb laufend und erklären sie offen."
+     ]
+    },
+    {
+     "heading": "Warum Preise steigen",
+     "paragraphs": [
+      "Preise entstehen dort, wo Angebot und Nachfrage aufeinandertreffen. Inflation entsteht deshalb meist, wenn dieses Gleichgewicht aus der Balance gerät. Ökonominnen und Ökonomen unterscheiden dabei grob zwei Ursachen, die oft zusammenwirken.",
+      "Die erste ist eine starke Nachfrage. Wollen Menschen, Unternehmen und Staat mehr kaufen, als die Wirtschaft gerade herstellen kann, können Anbieter höhere Preise verlangen. Fachleute sprechen von Nachfragesog. Das passiert zum Beispiel, wenn nach einer Krise plötzlich alle gleichzeitig wieder konsumieren wollen, die Fabriken aber noch nicht hinterherkommen.",
+      "Die zweite Ursache sind steigende Kosten. Wird Energie teurer, müssen Bäckereien, Speditionen und Fabriken mehr bezahlen. Diese Kosten geben sie zum Teil an ihre Kundschaft weiter. Man spricht von Kostendruck. Genau das war 2022 in Deutschland besonders deutlich zu sehen: Energie verteuerte sich im Jahresdurchschnitt um mehr als ein Drittel.",
+      "Damals kam vieles zusammen. Nach der Pandemie war die Nachfrage hoch, Lieferketten waren gestört, und Bauteile wie Computerchips waren knapp. Mit dem russischen Angriff auf die Ukraine im Februar 2022 stiegen dann die Preise für Gas, Öl und Getreide stark. Im März 2022 sprang die Inflationsrate in Deutschland deutlich nach oben.",
+      "Eine wichtige Rolle spielt auch die Geldmenge. Wächst die Menge an Geld dauerhaft schneller als die Menge an Gütern, steigen auf lange Sicht die Preise. Dieser Zusammenhang ist besonders bei extremen Inflationen offensichtlich. In normalen Zeiten ist er aber weniger direkt, weil viel Geld auch gespart oder angelegt wird.",
+      "Wie stark Erwartungen wirken, zeigt sich auch beim Einkaufen. Wer glaubt, dass ein Produkt bald deutlich teurer wird, kauft es lieber jetzt. Machen das viele gleichzeitig, steigt die Nachfrage kurzfristig, und die Preise ziehen tatsächlich an. Die Erwartung erfüllt sich gewissermaßen selbst.",
+      "Schließlich zählen Erwartungen. Rechnen alle mit steigenden Preisen, verhalten sie sich entsprechend. Unternehmen erhöhen vorsorglich ihre Preise, Beschäftigte fordern höhere Löhne, um nicht ärmer zu werden. Höhere Löhne erhöhen wiederum die Kosten der Unternehmen. Im ungünstigen Fall entsteht eine Lohn-Preis-Spirale, die sich selbst antreibt.",
+      "Genau deshalb sind Zentralbanken so bemüht, die Erwartungen stabil zu halten. Wenn Menschen darauf vertrauen, dass die Inflation mittelfristig wieder auf ein normales Maß zurückkehrt, verlangen sie keine übertriebenen Lohnerhöhungen, und Firmen verzichten auf vorsorgliche Preissprünge. Vertrauen ist in der Geldpolitik eine Art Währung für sich.",
+      "Nicht jeder Preisanstieg ist also gleich. Ein kurzer Schub durch teureres Öl verhält sich anders als eine Inflation, die sich in Löhnen und Erwartungen festsetzt. Zentralbanken versuchen deshalb genau zu unterscheiden, ob Preise nur vorübergehend steigen oder ob sich ein dauerhafter Trend entwickelt.",
+      "Welche Ursache gerade überwiegt, entscheidet darüber, welche Gegenmittel sinnvoll sind."
+     ]
+    },
+    {
+     "heading": "Gewinner und Verlierer",
+     "paragraphs": [
+      "Inflation trifft nicht alle gleich. Sie verteilt Kaufkraft und Vermögen um, oft unbemerkt. Wer verliert und wer gewinnt, hängt davon ab, wie jemand sein Geld verdient, spart oder schuldet.",
+      "Zu den Verlierern gehören Menschen mit Ersparnissen, die kaum Zinsen bringen. Liegt Geld auf einem Konto mit null Prozent Zinsen, während die Preise um fünf Prozent steigen, verliert es real jedes Jahr ungefähr fünf Prozent an Wert. Auf dem Kontoauszug sieht man davon nichts, im Supermarkt dafür umso mehr.",
+      "Auch Menschen mit festen Einkommen leiden. Dazu zählen viele Rentnerinnen und Rentner, Studierende mit festem Budget oder Beschäftigte, deren Lohn nur selten angepasst wird. Ihre Einnahmen bleiben gleich, während die Ausgaben steigen. Besonders hart trifft es Haushalte mit wenig Geld, weil sie einen großen Teil ihres Einkommens für Lebensmittel und Energie ausgeben müssen.",
+      "Auf der anderen Seite stehen Schuldner. Wer einen Kredit mit festem Zins aufgenommen hat, zahlt einen festen Betrag zurück. Steigen Preise und Löhne, wird dieser Betrag im Verhältnis kleiner. Die Schuld schrumpft gewissermaßen mit der Zeit. Das gilt für Privatleute mit Immobilienkredit ebenso wie für Staaten mit hohen Schulden.",
+      "Bei Löhnen kommt es auf den Zeitpunkt an. Tarifverträge werden oft für ein oder zwei Jahre abgeschlossen. Steigen die Preise schneller als erwartet, hinken die Löhne hinterher, und die Reallöhne sinken. Später holen Lohnerhöhungen einen Teil wieder auf. In Deutschland sanken die Reallöhne in den Jahren hoher Inflation zunächst spürbar.",
+      "Der Staat spürt Inflation ebenfalls auf mehreren Seiten. Steigende Preise und Löhne bringen höhere Einnahmen aus Mehrwertsteuer und Einkommensteuer. Gleichzeitig steigen aber auch seine Ausgaben, etwa für Gehälter, Renten und Sozialleistungen. Und wenn die Zinsen steigen, werden neue Schulden teurer.",
+      "Bei Sachwerten ist das Bild gemischt. Immobilien, Aktien oder Gold gelten oft als Schutz, weil ihr Wert mit den Preisen steigen kann. Garantiert ist das aber nicht. Steigende Zinsen, die oft auf hohe Inflation folgen, können zum Beispiel Immobilienpreise und Aktienkurse auch drücken. Eine einfache Formel, wie man sich sicher schützt, gibt es nicht.",
+      "Auch für Unternehmen ist Inflation zwiespältig. Wer Preise leicht erhöhen kann, kommt gut durch. Wer lange Lieferverträge zu festen Preisen hat, gerät unter Druck. Hohe und schwankende Inflation macht vor allem das Planen schwer: Wie soll man investieren, wenn man nicht weiß, was Material und Löhne in zwei Jahren kosten?",
+      "Weil Inflation so viele Menschen ungleich trifft, ist sie nicht nur ein wirtschaftliches, sondern auch ein soziales und politisches Thema. Hohe Teuerung kann das Vertrauen in Institutionen erschüttern. Auch deshalb gilt Preisstabilität in Europa als so wichtig.",
+      "Am Ende hängt viel davon ab, wie schnell sich Löhne, Renten und Zinsen an die neuen Preise anpassen. Je träger sie reagieren, desto stärker spüren Menschen die Inflation im Geldbeutel."
+     ]
+    },
+    {
+     "heading": "Die Rolle der Zentralbank",
+     "paragraphs": [
+      "Wer sorgt eigentlich dafür, dass das Geld stabil bleibt? Im Euroraum ist das die Europäische Zentralbank in Frankfurt am Main, kurz EZB. Gemeinsam mit den nationalen Notenbanken wie der Deutschen Bundesbank bildet sie das Eurosystem. Ihr vorrangiges Ziel ist im Vertrag über die Arbeitsweise der Europäischen Union festgeschrieben: Preisstabilität.",
+      "Was genau Preisstabilität bedeutet, legt die EZB selbst fest. Seit ihrer Strategieüberprüfung im Juli 2021 strebt sie mittelfristig eine Inflationsrate von zwei Prozent an. Vorher lautete das Ziel etwas umständlich: unter, aber nahe zwei Prozent. Neu ist, dass das Ziel symmetrisch ist. Eine zu niedrige Inflation gilt als genauso unerwünscht wie eine zu hohe.",
+      "Mittelfristig heißt, dass die zwei Prozent nicht in jedem Monat erreicht werden müssen. Kurzfristige Ausschläge, etwa durch einen Ölpreisschock, kann die Zentralbank ohnehin kaum verhindern. Wichtig ist, dass die Inflation über einige Jahre um diesen Wert schwankt und die Menschen darauf vertrauen.",
+      "Das wichtigste Werkzeug der EZB sind die Leitzinsen. Zu diesen Zinssätzen können sich Geschäftsbanken Geld bei der Zentralbank leihen oder dort parken. Hebt die EZB die Leitzinsen an, werden Kredite für Unternehmen und Privatleute nach und nach teurer, und Sparen lohnt sich mehr. Dann wird weniger gekauft und investiert, die Nachfrage sinkt, und der Preisdruck lässt nach.",
+      "Steigen die Leitzinsen, merken das viele Menschen ganz direkt. Baukredite werden teurer, Ratenkäufe auch. Auf Tagesgeld und Festgeld gibt es dagegen wieder spürbar Zinsen. Genau diese Veränderungen sollen dazu führen, dass etwas weniger ausgegeben und mehr gespart wird. So kühlt die Wirtschaft ab, und der Preisauftrieb lässt nach.",
+      "Senkt die EZB die Zinsen, passiert das Gegenteil: Kredite werden billiger, es wird mehr investiert und konsumiert, und die Wirtschaft bekommt Schwung. Das ist sinnvoll, wenn die Inflation zu niedrig ist oder die Wirtschaft schwächelt. Die Kunst besteht darin, den richtigen Zeitpunkt und die richtige Dosis zu finden.",
+      "Dabei gibt es eine Schwierigkeit: Zinsänderungen wirken nicht sofort. Bis eine Zinserhöhung bei den Preisen ankommt, vergehen oft ein bis zwei Jahre. Die Zentralbank muss also vorausschauend handeln, fast wie beim Steuern eines großen Schiffs. Wer zu spät reagiert, muss später umso stärker gegensteuern.",
+      "Neben den Zinsen hat die EZB in den vergangenen Jahren weitere Mittel eingesetzt, etwa den Kauf großer Mengen an Anleihen. Diese Programme sollten in Phasen sehr niedriger Inflation die Wirtschaft stützen. Sie sind politisch umstritten, weil Kritiker befürchten, dass die Grenze zur Finanzierung von Staaten verschwimmt. Befürworter halten sie in Krisen für notwendig.",
+      "Ein wichtiger Grundsatz ist die Unabhängigkeit. Die EZB darf keine Weisungen von Regierungen annehmen. Dahinter steht die Erfahrung, dass Regierungen in Versuchung geraten können, Geld drucken zu lassen, um Schulden zu bezahlen oder Wahlen zu gewinnen. Wohin das führen kann, zeigt die deutsche Geschichte."
+     ]
+    },
+    {
+     "heading": "Warum nicht null Prozent?",
+     "paragraphs": [
+      "Wenn Inflation Kaufkraft kostet, warum strebt die Zentralbank dann nicht null Prozent an? Darauf gibt es mehrere Antworten, und sie überzeugen die meisten Fachleute.",
+      "Der erste Grund ist die Gefahr der Deflation. Wenn Preise dauerhaft fallen, schieben Menschen Käufe auf, weil die Dinge später ja billiger werden. Unternehmen verkaufen weniger, investieren weniger und entlassen Beschäftigte. Das drückt die Nachfrage weiter und lässt die Preise weiter fallen. Aus dieser Abwärtsspirale kommt eine Wirtschaft nur schwer wieder heraus.",
+      "Ein zweiter Grund betrifft Schulden. Bei fallenden Preisen und Löhnen bleibt ein Kredit gleich hoch, wird aber im Verhältnis zum Einkommen immer schwerer. Viele Unternehmen und Haushalte geraten dann in Schwierigkeiten. Eine leichte Inflation wirkt hier wie ein Puffer.",
+      "Drittens braucht die Zentralbank Spielraum. Ihr wichtigstes Werkzeug sind die Zinsen, und die lassen sich nicht beliebig weit unter null senken. Liegt die Inflation bei zwei Prozent, liegen auch die Zinsen in normalen Zeiten etwas höher. Dann kann die Zentralbank in einer Krise die Zinsen spürbar senken, um die Wirtschaft zu stützen.",
+      "Viertens ist die Messung nicht perfekt. Wenn Produkte besser werden, ist es schwer, das vollständig herauszurechnen. Eine gemessene Inflation von null könnte deshalb in Wahrheit schon leicht fallende Preise bedeuten. Ein kleiner Sicherheitsabstand nach oben hilft.",
+      "Ein bekanntes Beispiel für die Gefahren dauerhaft fallender Preise ist Japan. Dort sanken die Preise ab den Neunzigerjahren über lange Zeit leicht, und die Wirtschaft wuchs über viele Jahre nur schwach. Ökonominnen und Ökonomen streiten darüber, wie groß der Anteil der Deflation daran war. Für Zentralbanken weltweit wurde Japan aber zu einem warnenden Beispiel.",
+      "Schließlich erleichtert eine leichte Inflation Anpassungen in der Wirtschaft. Löhne werden nur selten nominal gesenkt, weil das als unfair empfunden wird. Steigen die Preise aber leicht, können sich die realen Löhne in schwächeren Branchen trotzdem anpassen, ohne dass jemandem das Gehalt gekürzt wird.",
+      "Dass zu niedrige Inflation ein echtes Problem sein kann, haben die Jahre nach der globalen Finanzkrise gezeigt. Damals lag die Inflation im Euroraum über viele Jahre im Durchschnitt nur bei gut einem Prozent, also deutlich unter dem Ziel. Die EZB senkte die Zinsen bis unter null und kaufte in großem Stil Anleihen, um die Preise wieder anzuschieben.",
+      "Zwei Prozent sind also ein Kompromiss: niedrig genug, dass Menschen kaum über steigende Preise nachdenken müssen, und hoch genug, um einen Puffer gegen Deflation zu haben. Andere große Zentralbanken, etwa in den USA und Großbritannien, verfolgen ein ähnliches Ziel."
+     ]
+    },
+    {
+     "heading": "Als Geld wertlos wurde: 1923",
+     "paragraphs": [
+      "Wie zerstörerisch Inflation werden kann, hat Deutschland vor gut hundert Jahren erlebt. Die Hyperinflation von 1923 ist bis heute tief im kollektiven Gedächtnis verankert. Sie erklärt auch, warum Preisstabilität in Deutschland einen so hohen Stellenwert hat.",
+      "Die Wurzeln reichen in den Ersten Weltkrieg zurück. Das Deutsche Reich finanzierte den Krieg vor allem mit Schulden und neuem Geld statt mit Steuern. Bei Kriegsende im November 1918 waren die Schulden größer als das gesamte Volkseinkommen eines Jahres. Dazu kamen nach dem Krieg die hohen Reparationsforderungen der Siegermächte.",
+      "Anfang 1923 besetzten französische und belgische Truppen das Ruhrgebiet, weil Deutschland mit Lieferungen im Rückstand war. Die Regierung rief zum passiven Widerstand auf und bezahlte die streikenden Arbeiter mit frisch gedrucktem Geld. Die Notenpresse lief nun ununterbrochen, und die Preise gerieten völlig außer Kontrolle.",
+      "Am Brotpreis lässt sich das Ausmaß ablesen. Im Dezember 1919 kostete ein Brot noch achtzig Pfennig. Im Januar 1923 waren es bereits 250 Mark, im August 69.000 Mark, im September 1,5 Millionen und im Oktober 174 Millionen Mark. Im November 1923 musste man schließlich 201 Milliarden Mark für ein Brot bezahlen.",
+      "Der Alltag wurde zum Wettlauf gegen die Zeit. Löhne wurden mehrmals pro Woche ausgezahlt, und wer sein Geld bekam, rannte sofort in die Geschäfte, bevor die Preise wieder stiegen. Banknoten wurden nur noch einseitig bedruckt oder einfach mit höheren Werten überstempelt. Auf dem Höhepunkt im November 1923 entsprach ein US-Dollar 4,2 Billionen Mark.",
+      "Für viele Familien bedeutete die Hyperinflation bittere Not. Rentnerinnen und Rentner, deren Bezüge nicht schnell genug angepasst wurden, verarmten. Wer dagegen Sachwerte besaß, etwa ein Haus, Land oder Maschinen, kam oft glimpflicher davon. Manche Spekulanten wurden in dieser Zeit sogar reich, was die Wut vieler Menschen zusätzlich anheizte.",
+      "Beendet wurde die Hyperinflation durch eine Währungsreform. Ab Mitte November 1923 wurde die Rentenmark ausgegeben, eine neue Währung, deren Menge streng begrenzt war. Eine Rentenmark entsprach einer Billion alter Papiermark. Erstaunlich schnell kehrte Vertrauen zurück, man sprach vom Wunder der Rentenmark. Später ging sie in die Reichsmark über.",
+      "Noch heute erzählen viele Familien Geschichten aus dieser Zeit, die über Generationen weitergegeben wurden.",
+      "Die Folgen waren dennoch tief. Wer Ersparnisse auf dem Konto hatte, verlor fast alles. Besonders der Mittelstand, der fleißig gespart hatte, fühlte sich betrogen. Schuldner dagegen wurden ihre Schulden praktisch los, auch der Staat. Diese Erfahrung erschütterte das Vertrauen in die junge Weimarer Republik und trug zur politischen Radikalisierung jener Jahre bei.",
+      "Aus dieser Geschichte zog man nach dem Zweiten Weltkrieg Lehren. Die Bundesbank wurde unabhängig von der Regierung, und Preisstabilität wurde zu ihrem obersten Ziel. Dieses Leitbild prägte später auch die Europäische Zentralbank. Dass eine Regierung die Notenpresse anwirft, um ihre Ausgaben zu bezahlen, soll sich nicht wiederholen."
+     ]
+    },
+    {
+     "heading": "Inflation heute und morgen",
+     "paragraphs": [
+      "Nach vielen Jahren mit sehr niedriger Inflation kam die Teuerung ab 2021 mit Wucht zurück. In Deutschland stiegen die Verbraucherpreise 2022 so stark wie noch nie seit der Wiedervereinigung. Nach heutiger Berechnung lag die Inflationsrate im Jahresdurchschnitt bei knapp sieben Prozent. Im Herbst 2022 lagen einzelne Monatswerte sogar bei rund zehn Prozent.",
+      "Die Europäische Zentralbank reagierte, nach Ansicht vieler Fachleute recht spät, mit der schnellsten Serie von Zinserhöhungen ihrer Geschichte. Ab Mitte 2022 hob sie die Leitzinsen in kurzer Folge deutlich an. Kredite wurden teurer, der Bau von Häusern ging zurück, und die Nachfrage kühlte ab. Gleichzeitig sanken die Energiepreise wieder.",
+      "Die Inflation ging danach Schritt für Schritt zurück. Im Juni 2025 lag die Teuerung im Euroraum nach Angaben der Bundesbank genau bei zwei Prozent. Das Preisniveau selbst blieb aber hoch. Was einmal teurer geworden ist, wird meist nicht wieder billiger. Sinkende Inflation bedeutet nur, dass die Preise langsamer steigen.",
+      "Die Episode hat eine Debatte ausgelöst. Hätten die Zentralbanken früher reagieren sollen? Waren die Preissteigerungen am Anfang wirklich nur vorübergehend, wie viele zunächst dachten? Und welche Rolle spielten die Gewinnmargen mancher Unternehmen? Diese Fragen werden in Wissenschaft und Politik bis heute diskutiert, und die Antworten fallen unterschiedlich aus.",
+      "Für Verbraucherinnen und Verbraucher war diese Zeit eine ungewohnte Erfahrung. Viele hatten noch nie erlebt, dass die Preise so schnell steigen. Gleichzeitig gab es nach Jahren nahe null wieder spürbare Zinsen auf Erspartes. Viele haben in dieser Zeit genauer auf ihre Ausgaben geschaut und ihr Verhalten beim Sparen überdacht.",
+      "Für die Zukunft rechnen viele Fachleute mit einem unruhigeren Umfeld. Die Bundesbank nennt mehrere Gründe: geopolitische Spannungen und Handelskonflikte, der Umbau der Energieversorgung, der Klimawandel und eine alternde Bevölkerung. Diese Faktoren könnten dazu führen, dass die Inflation stärker schwankt als in den ruhigen Jahren vor 2020.",
+      "Die EZB hat ihre Strategie deshalb regelmäßig überprüft. Am Ziel von zwei Prozent hält sie fest, weil es sich bewährt habe und einen klaren Anker für die Erwartungen bilde. Gleichzeitig will sie flexibel genug sein, um auf große Schocks in beide Richtungen zu reagieren.",
+      "Auch neue Fragen kommen hinzu. Wie wirkt sich digitales Geld auf die Geldpolitik aus? Die EZB arbeitet an einem digitalen Euro, der Bargeld ergänzen soll. Und wie misst man Preise in einer Welt, in der viele Dienste kostenlos sind oder mit Daten bezahlt werden? Die Statistik muss sich ständig weiterentwickeln.",
+      "Eines hat die jüngste Inflationswelle aber deutlich gezeigt: Stabile Preise sind kein Naturgesetz. Sie sind das Ergebnis von Institutionen, Vertrauen und kluger Politik. Wer versteht, wie Inflation entsteht, kann die Nachrichten über Zinsen und Preise besser einordnen und eigene Entscheidungen bewusster treffen.",
+      "Inflation wird also ein Thema bleiben, mal leiser, mal lauter."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Inflation ist der allgemeine Anstieg des Preisniveaus und wird in Deutschland monatlich mit einem gewichteten Warenkorb gemessen.",
+    "Sie entsteht durch Nachfrage, Kosten und Erwartungen, und sie verteilt Vermögen um, etwa von Sparern zu Schuldnern.",
+    "Die EZB steuert mit Leitzinsen auf zwei Prozent, und die Hyperinflation von 1923 zeigt, was passiert, wenn Geld seine Funktion verliert."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "title": "Verbraucherpreisindex und Inflationsrate",
+   "publisher": "Statistisches Bundesamt (Destatis)",
+   "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Verbraucherpreisindex/_inhalt.html",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Inflation: Energie und Lebensmittel, Auswirkungen auf die Verbraucherpreise 2022",
+   "publisher": "Statistische Ämter des Bundes und der Länder",
+   "url": "https://www.statistikportal.de/de/inflation",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Erklärung zur geldpolitischen Strategie der EZB (2021)",
+   "publisher": "Europäische Zentralbank",
+   "url": "https://www.ecb.europa.eu/mopo/strategy/strategy-review/ecb.strategyreview_monpol_strategy_statement.de.html",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "EZB stellt neue geldpolitische Strategie vor",
+   "publisher": "Deutsche Bundesbank",
+   "url": "https://www.bundesbank.de/de/aufgaben/themen/ezb-stellt-neue-geldpolitische-strategie-vor-869180",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Hyperinflation in Deutschland 1923",
+   "publisher": "Deutscher Bundestag",
+   "url": "https://www.bundestag.de/parlament/geschichte/100-jahre-weimar/hyperinflation-970722",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Die neue geldpolitische Strategie der Europäischen Zentralbank",
+   "publisher": "Bundeszentrale für politische Bildung",
+   "url": "https://www.bpb.de/shop/zeitschriften/apuz/geldpolitik-2022/507731/die-neue-geldpolitische-strategie-der-europaeischen-zentralbank",
+   "accessed": "2026-11-03"
+  }
+ ],
+ "factCheckedAt": "2026-11-03"
+}
