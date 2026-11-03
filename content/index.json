@@ -51,6 +51,39 @@
       }
     },
     {
+      "id": "how-the-internet-works",
+      "category": "tech-economy",
+      "publishedAt": "2026-11-03",
+      "motif": "globe",
+      "tags": [
+        "internet",
+        "informatik",
+        "technik"
+      ],
+      "title": {
+        "de": "Wie Daten durchs Internet reisen",
+        "en": "How Data Travels Across the Internet"
+      },
+      "teaser": {
+        "de": "Von deinem Handy bis ans andere Ende der Welt in Sekundenbruchteilen. So funktioniert es.",
+        "en": "From your phone to the other side of the world in a fraction of a second. Here is how."
+      },
+      "words": {
+        "de": {
+          "5": 903,
+          "10": 2102,
+          "15": 2710,
+          "20": 3604
+        },
+        "en": {
+          "5": 1038,
+          "10": 2374,
+          "15": 3113,
+          "20": 4147
+        }
+      }
+    },
+    {
       "id": "inflation",
       "category": "tech-economy",
       "publishedAt": "2026-11-03",
@@ -155,6 +188,7 @@
     "topics": [
       "language-models",
       "why-we-sleep",
+      "how-the-internet-works",
       "inflation",
       "black-holes"
     ]

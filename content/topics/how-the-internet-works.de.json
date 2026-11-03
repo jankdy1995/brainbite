@@ -1,0 +1,418 @@
+{
+ "id": "how-the-internet-works",
+ "lang": "de",
+ "title": "Wie Daten durchs Internet reisen",
+ "versions": {
+  "5": {
+   "words": 903,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Du tippst auf Senden, und einen Wimpernschlag später ist dein Foto bei einer Freundin in Australien. Dazwischen liegen mehr als fünfzehntausend Kilometer, Ozeane und Dutzende Computer. Wie schafft das Internet das, und warum geht dabei fast nie etwas verloren? In fünf Minuten erfährst du, wie Daten in Pakete zerlegt, adressiert und über Glasfasern um die Welt geschickt werden."
+     ]
+    },
+    {
+     "heading": "Ein Netz aus Netzen, Daten in Paketen",
+     "paragraphs": [
+      "Das Internet ist kein einzelnes Netz, sondern ein Netz aus vielen Netzen. Zehntausende Netze von Anbietern, Universitäten, Firmen und Rechenzentren sind miteinander verbunden. Niemand besitzt das Ganze. Zusammengehalten wird es durch gemeinsame Regeln, die Protokolle.",
+      "Wie groß dieses Netz ist, zeigt ein Blick auf die Geräte. Neben Computern und Smartphones hängen Fernseher, Autos, Uhren und Maschinen am Internet, zusammen viele Milliarden. Alle sprechen dieselbe Grundsprache, egal wo auf der Welt sie stehen.",
+      "Die wichtigste Idee heißt Paketvermittlung. Eine Nachricht, ein Foto oder ein Video wird nicht am Stück verschickt, sondern in viele kleine Pakete zerlegt. Jedes Paket trägt einen Kopfteil mit Absender, Ziel und einer laufenden Nummer, fast wie eine Postkarte mit Adresse.",
+      "Ein einziges Handyfoto besteht so aus Tausenden Paketen.",
+      "Jedes Paket reist für sich. Pakete derselben Nachricht können unterschiedliche Wege nehmen und in falscher Reihenfolge ankommen. Erst beim Empfänger werden sie anhand ihrer Nummern wieder zusammengesetzt.",
+      "Das hat große Vorteile. Viele Menschen können sich dieselben Leitungen teilen, ähnlich wie Autos auf einer Autobahn. Und fällt irgendwo eine Leitung aus, nehmen die nächsten Pakete einfach einen anderen Weg.",
+      "Unterwegs passieren die Pakete viele Router, spezialisierte Computer, die wie Weichensteller arbeiten. Jeder Router weiß nur, an welchen Nachbarn er ein Paket weitergeben muss, damit es dem Ziel näher kommt. So springt es von Station zu Station.",
+      "Wichtig ist der Unterschied zwischen Internet und Web. Das Internet ist die Infrastruktur aus Leitungen und Regeln. Das World Wide Web mit seinen verlinkten Seiten ist nur ein Dienst, der darauf läuft. Auch E-Mail und Messenger nutzen das Internet.",
+      "Diese Idee stammt aus den Sechzigerjahren und hat sich bis heute bewährt. Sie ist der Grund, warum das Internet so robust ist."
+     ]
+    },
+    {
+     "heading": "Adressen, Namen und Regeln",
+     "paragraphs": [
+      "Jedes Gerät im Internet hat eine Adresse, die IP-Adresse. In der klassischen Form besteht sie aus vier Zahlen, die durch Punkte getrennt sind. Davon gibt es ungefähr 4,3 Milliarden, inzwischen zu wenige für alle vernetzten Geräte. Deshalb wird nach und nach auf eine neuere Version mit viel längeren Adressen umgestellt.",
+      "Weil sich niemand Zahlenreihen merken kann, gibt es Namen für Webseiten. Das Domain Name System, kurz DNS, übersetzt sie in Adressen, wie ein riesiges, weltweit verteiltes Telefonbuch. Das dauert meist nur wenige Millisekunden.",
+      "DNS-Server merken sich die Antworten außerdem eine Weile. Rufst du eine Seite erneut auf, geht es deshalb oft noch schneller.",
+      "Damit unterwegs nichts verloren geht, gibt es das Protokoll TCP. Der Empfänger bestätigt, welche Pakete angekommen sind. Fehlt eine Bestätigung, schickt der Sender das Paket noch einmal. So kommt eine Webseite oder eine Datei vollständig an.",
+      "Bei Videoanrufen oder Onlinespielen ist Schnelligkeit wichtiger als Vollständigkeit. Dafür gibt es ein einfacheres Protokoll ohne Bestätigungen.",
+      "Zu Hause teilen sich meist viele Geräte eine einzige öffentliche Adresse. Der Router verteilt die Antworten an das richtige Gerät, vom Laptop bis zum Fernseher. So kommt man auch mit knappen Adressen aus.",
+      "Webseiten werden heute fast immer verschlüsselt übertragen. Das Schloss in der Adresszeile des Browsers zeigt an, dass niemand unterwegs mitlesen kann, auch nicht in einem öffentlichen WLAN.",
+      "Dass sich all diese Regeln überall durchgesetzt haben, liegt auch daran, dass sie offen sind. Niemand muss Lizenzgebühren zahlen, um sie zu nutzen.",
+      "Schon diese wenigen Regeln reichen, damit sich Milliarden Geräte verstehen."
+     ]
+    },
+    {
+     "heading": "Kabel am Meeresgrund und ein holpriger Anfang",
+     "paragraphs": [
+      "Zwischen den Kontinenten reisen die Daten nicht über Satelliten, sondern fast ausschließlich durch Kabel auf dem Meeresgrund. Nach Angaben des Marktforschungsunternehmens TeleGeography laufen mehr als 99 Prozent dieses Verkehrs über solche Unterseekabel.",
+      "Darin stecken Glasfasern, haarfeine Fäden aus Glas, durch die die Daten als Lichtimpulse rasen. Von Europa nach Nordamerika braucht ein Signal nur ungefähr eine zwanzigstel Sekunde. Beschädigt werden die Kabel meist durch Schiffsanker oder Fischernetze. Dann rücken spezielle Reparaturschiffe aus.",
+      "Ein einzelnes modernes Unterseekabel kann so viele Daten übertragen wie Millionen gleichzeitiger Videostreams. Weltweit liegen Hunderte solcher Kabel auf dem Meeresgrund, zusammen weit über eine Million Kilometer lang.",
+      "Angefangen hat alles Ende Oktober 1969 in den USA. Ein Student wollte sich von Los Angeles aus auf einem Rechner in Stanford anmelden und tippte „login“. Nach zwei Buchstaben stürzte das System ab. Die erste Nachricht über das Netz lautete also „lo“.",
+      "Fast alle heutigen Dienste, vom Videostreaming bis zum Messenger, bauen auf diesen Grundlagen auf. Neu erfunden werden musste das Netz dafür nie.",
+      "In den Siebzigerjahren entwickelten Vint Cerf und Robert Kahn die gemeinsame Sprache TCP/IP, die bis heute gilt. 1989 erfand Tim Berners-Lee am CERN bei Genf das World Wide Web, das das Netz für alle Menschen leicht nutzbar machte.",
+      "Heute nutzen mehrere Milliarden Menschen das Internet. Die Grundideen von damals tragen es bis heute: Pakete, offene Regeln und keine zentrale Steuerung.",
+      "Ganz ohne Schwächen ist das Netz aber nicht. Angriffe, Betrug und gesperrte Dienste zeigen, dass Sicherheit und Freiheit im Internet immer wieder neu verteidigt werden müssen."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Das Internet ist ein Netz aus vielen Netzen, das Daten in kleine Pakete zerlegt und einzeln verschickt.",
+    "Adressen und Namen sorgen dafür, dass die Pakete ihr Ziel finden, und Regeln wie TCP, dass sie vollständig ankommen.",
+    "Mehr als 99 Prozent des Datenverkehrs zwischen den Kontinenten laufen über Glasfaserkabel auf dem Meeresgrund."
+   ]
+  },
+  "10": {
+   "words": 2102,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Jeden Tag schicken wir Nachrichten, schauen Videos und rufen Webseiten auf, ohne darüber nachzudenken, was dabei eigentlich passiert. Dabei ist jede dieser Handlungen eine kleine Weltreise. In den nächsten zehn Minuten erfährst du, warum das Internet Daten in Pakete zerlegt, wie Adressen und Namen funktionieren, welche Regeln dafür sorgen, dass alles ankommt, und welche Rolle Kabel auf dem Meeresgrund spielen."
+     ]
+    },
+    {
+     "heading": "Der Weg einer Nachricht",
+     "paragraphs": [
+      "Das Internet ist kein einzelnes Netz, sondern ein Netz aus Netzen. Zehntausende eigenständige Netze von Telefonanbietern, Universitäten, Unternehmen und Rechenzentren sind miteinander verbunden. Niemand besitzt das Ganze. Was alles zusammenhält, sind gemeinsame Regeln, die sogenannten Protokolle.",
+      "Verfolgen wir eine Nachricht. Dein Smartphone schickt sie per Funk an den WLAN-Router oder einen Mobilfunkmast. Von dort geht es ins Netz deines Anbieters und über große Knotenpunkte, an denen sich viele Netze treffen, weiter bis zum Ziel. Frankfurt am Main beherbergt einen der größten dieser Austauschpunkte der Welt.",
+      "Am anderen Ende steht ein Server, ein Computer in einem Rechenzentrum, der die gewünschten Inhalte bereithält. Große Dienste betreiben viele solcher Zentren und halten Kopien beliebter Inhalte nahe bei den Nutzern. So muss nicht jedes Video jedes Mal über den Atlantik reisen.",
+      "Auf diesem Weg passieren die Daten viele Router, spezialisierte Computer, die wie Weichensteller arbeiten. Ein Router kennt nicht den ganzen Weg. Er weiß nur, an welchen Nachbarn er ein Paket weiterreichen muss, damit es dem Ziel näher kommt. So springen die Daten von Station zu Station, oft zehn bis zwanzig Mal.",
+      "Wichtig ist der Unterschied zwischen Internet und Web. Das Internet ist die Infrastruktur, also die Leitungen und Regeln für den Transport. Das World Wide Web ist nur ein Dienst darauf, nämlich die verlinkten Seiten im Browser. E-Mail, Videotelefonie und Messenger nutzen ebenfalls das Internet.",
+      "Ein Grundgedanke ist, dass das Netz keine zentrale Steuerung braucht. Fällt eine Leitung aus, nehmen die Daten oft einfach einen anderen Weg. Diese Widerstandsfähigkeit war schon bei der Entwicklung in den Sechziger- und Siebzigerjahren ein wichtiges Ziel.",
+      "Dass das Internet so groß werden konnte, liegt auch an seiner Offenheit. Die wichtigsten Protokolle wurden nicht patentiert, sondern frei zur Verfügung gestellt. Jeder darf sie nutzen, und so konnten weltweit Geräte und Dienste entstehen, die sich problemlos verstehen.",
+      "Wie die Daten auf diesem Weg verpackt, adressiert, zuverlässig zugestellt und über die Ozeane transportiert werden, zeigen die folgenden Abschnitte."
+     ]
+    },
+    {
+     "heading": "Daten in Paketen",
+     "paragraphs": [
+      "Die vielleicht wichtigste Idee des Internets heißt Paketvermittlung. Statt eine Nachricht als Ganzes zu verschicken, wird sie in viele kleine Stücke zerlegt, die Pakete. Ein Foto, eine E-Mail oder ein Video besteht auf dem Weg durchs Netz aus Hunderten oder Tausenden solcher Pakete.",
+      "Jedes Paket hat zwei Teile. Der eine ist ein Stück der eigentlichen Daten. Der andere ist ein Kopfteil mit Verwaltungsangaben: wer der Absender ist, wohin das Paket soll, das wievielte Stück es ist und einige Prüfwerte. Man kann sich das wie eine Postkarte vorstellen, auf der vorne die Adresse steht und hinten ein Teil eines langen Briefes.",
+      "Das Besondere: Jedes Paket reist für sich. Pakete derselben Nachricht können unterschiedliche Wege nehmen, je nachdem, wo gerade Platz ist. Sie kommen deshalb auch nicht unbedingt in der richtigen Reihenfolge an. Erst beim Empfänger werden sie anhand ihrer Nummern wieder richtig zusammengesetzt.",
+      "Früher funktionierte Telefonieren ganz anders. Bei einem klassischen Telefongespräch wurde eine feste Leitung zwischen beiden Teilnehmern geschaltet, und zwar für die gesamte Dauer des Gesprächs. Auch wenn niemand sprach, war die Leitung belegt. Fachleute sprechen von Leitungsvermittlung. Das ist zuverlässig, aber verschwenderisch.",
+      "Bei der Paketvermittlung teilen sich alle die Leitungen. Die Pakete vieler verschiedener Nutzer fließen bunt gemischt durch dieselben Kabel, ähnlich wie Autos auf einer Autobahn. Wenn gerade niemand etwas schickt, ist die Leitung frei für andere. So lassen sich die teuren Verbindungen sehr viel besser ausnutzen.",
+      "Ein weiterer Vorteil ist die Robustheit. Fällt irgendwo eine Leitung aus, werden die nächsten Pakete einfach anders geschickt. Geht ein Paket unterwegs verloren, muss nur dieses eine Stück erneut gesendet werden und nicht die ganze Nachricht. Bei großen Dateien spart das enorm viel Zeit.",
+      "Die mathematischen Grundlagen dafür legten Forschende in den Sechzigerjahren. Einer von ihnen war Leonard Kleinrock, der untersuchte, wie sich Datenpakete in Netzen verhalten, wenn sie sich wie in einer Warteschlange stauen. Unabhängig davon entwickelten auch andere in den USA und Großbritannien ähnliche Ideen.",
+      "Wie groß ist so ein Paket? Meist sind es höchstens etwa anderthalb Kilobyte an Nutzdaten, also ungefähr so viel wie eine halbe Seite Text. Ein einziges Handyfoto wird daher in Tausende Pakete zerlegt. Dass all diese Stücke in Sekundenbruchteilen unterwegs sind und am Ende ein vollständiges Bild ergeben, ist eine beeindruckende Leistung der Technik.",
+      "Damit die Pakete wissen, wohin sie sollen, brauchen sie Adressen. Darum geht es im nächsten Abschnitt."
+     ]
+    },
+    {
+     "heading": "Adressen und Namen",
+     "paragraphs": [
+      "Jedes Gerät, das im Internet erreichbar ist, braucht eine Adresse. Sie heißt IP-Adresse, nach dem Internetprotokoll. Ein Datenpaket trägt die IP-Adresse seines Absenders und die seines Ziels. Daran orientieren sich alle Stationen auf dem Weg.",
+      "Die klassische Form, IPv4, besteht aus vier Zahlen zwischen null und zweihundertfünfundfünfzig, getrennt durch Punkte. Damit lassen sich ungefähr 4,3 Milliarden verschiedene Adressen bilden. Als das Internet erfunden wurde, schien das unendlich viel. Heute gibt es aber deutlich mehr vernetzte Geräte als Menschen auf der Erde, und die Adressen sind längst knapp.",
+      "Deshalb gibt es eine neuere Version, IPv6. Ihre Adressen sind viel länger und werden mit Ziffern und Buchstaben geschrieben. Die Zahl möglicher Adressen ist so gewaltig, dass man jedem Sandkorn der Erde viele davon geben könnte. Die Umstellung läuft seit vielen Jahren, Schritt für Schritt. Beide Versionen werden derzeit parallel genutzt.",
+      "Bis dahin hilft ein Trick. Dein Router zu Hause hat meist nur eine öffentliche Adresse. Alle Geräte in deiner Wohnung, vom Laptop bis zum Fernseher, bekommen interne Adressen, die nur im Heimnetz gelten. Der Router merkt sich, welche Antwort zu welchem Gerät gehört, und verteilt sie entsprechend. So teilen sich viele Geräte eine einzige Adresse nach außen.",
+      "Zahlenreihen kann sich allerdings kaum jemand merken. Deshalb gibt es Namen wie zum Beispiel eine bekannte Nachrichtenseite oder eine Suchmaschine. Damit dein Gerät weiß, welche IP-Adresse hinter einem Namen steckt, fragt es beim Domain Name System nach, kurz DNS. Man kann es sich wie ein riesiges, weltweit verteiltes Telefonbuch vorstellen.",
+      "Die Abfrage läuft in mehreren Schritten. Zuerst fragt dein Gerät einen DNS-Server, meist den deines Anbieters. Kennt dieser die Antwort nicht, fragt er sich durch eine Hierarchie: erst bei Servern, die wissen, wer für Endungen wie „de“ oder „com“ zuständig ist, dann bei dem Server, der für den konkreten Namen verantwortlich ist. Am Ende steht die gesuchte Adresse.",
+      "Das klingt umständlich, geht aber meist in wenigen Millisekunden. Außerdem merken sich Geräte und Server die Antworten eine Weile. Rufst du eine Seite zum zweiten Mal auf, muss oft gar nicht mehr nachgefragt werden. Dieses Zwischenspeichern entlastet das ganze System enorm.",
+      "DNS ist so grundlegend, dass Störungen große Folgen haben. Fällt ein wichtiger DNS-Dienst aus oder ist falsch eingestellt, sind viele Webseiten plötzlich nicht mehr erreichbar, obwohl die Server selbst einwandfrei laufen. Für dich sieht das dann so aus, als sei das Internet kaputt. Eingeführt wurde dieses Namenssystem übrigens schon in den Achtzigerjahren.",
+      "Adressen allein reichen aber noch nicht. Es braucht auch Regeln dafür, wie sich Geräte verständigen und wie sie mit verlorenen Paketen umgehen."
+     ]
+    },
+    {
+     "heading": "Die Regeln: Protokolle",
+     "paragraphs": [
+      "Damit Milliarden unterschiedlicher Geräte miteinander reden können, brauchen sie eine gemeinsame Sprache. Im Internet heißt diese Sprache TCP/IP. Sie besteht aus zwei eng verbundenen Teilen: dem Internetprotokoll IP, das für Adressen und das Weiterleiten zuständig ist, und dem Transmission Control Protocol TCP, das für eine zuverlässige Übertragung sorgt.",
+      "IP allein ist ein bisschen wie ein Briefkasten, in den man Postkarten wirft. Meist kommen sie an, manchmal nicht, und die Reihenfolge ist nicht garantiert. Für viele Anwendungen reicht das nicht. Eine Webseite oder eine Datei muss vollständig und fehlerfrei ankommen. Genau darum kümmert sich TCP.",
+      "Bevor TCP Daten schickt, bauen Sender und Empfänger eine Verbindung auf. Das geschieht durch einen kurzen Austausch von drei Nachrichten, den man Handschlag nennt. Sinngemäß fragt der eine: Bist du bereit? Der andere antwortet: Ja, und du? Und der erste bestätigt. Erst dann beginnt die eigentliche Übertragung.",
+      "Während der Übertragung bestätigt der Empfänger regelmäßig, welche Pakete er erhalten hat. Bleibt eine Bestätigung aus, schickt der Sender das betreffende Paket noch einmal. Mithilfe der Nummern setzt der Empfänger alles in der richtigen Reihenfolge zusammen. Außerdem passt TCP das Tempo an: Wird das Netz voll, sendet es langsamer, um keinen Stau zu verursachen.",
+      "Für manche Anwendungen ist diese Gründlichkeit eher hinderlich. Bei einem Videoanruf oder einem Onlinespiel ist es wichtiger, dass die Daten schnell ankommen, als dass jedes einzelne Paket ankommt. Ein verlorenes Bild in einem Video fällt kaum auf, eine Verzögerung schon. Dafür gibt es ein einfacheres Protokoll namens UDP, das ohne Bestätigungen auskommt.",
+      "Fachleute stellen sich die Protokolle gern als Schichten vor, die aufeinander aufbauen. Ganz unten geht es um die physische Übertragung, etwa Funkwellen oder Lichtsignale. Darüber liegt die Weiterleitung mit IP, darüber die zuverlässige Übertragung mit TCP. Ganz oben stehen die Anwendungen wie das Web oder E-Mail. Jede Schicht kümmert sich nur um ihre eigene Aufgabe.",
+      "Für Webseiten gibt es auf der obersten Ebene das Protokoll HTTP. Es regelt, wie dein Browser eine Seite anfordert und wie der Server sie liefert. Heute wird fast immer die verschlüsselte Variante HTTPS verwendet. Das kleine Schloss in der Adresszeile zeigt an, dass niemand unterwegs mitlesen oder die Inhalte unbemerkt verändern kann.",
+      "Die Verschlüsselung ist wichtig, weil Pakete auf ihrem Weg durch viele fremde Netze und Geräte laufen. Ohne Verschlüsselung könnte im Prinzip jeder, der eine dieser Stationen kontrolliert, die Daten lesen, etwa in einem öffentlichen WLAN. Mit HTTPS sehen Außenstehende nur, mit welchem Server du sprichst, aber nicht, was du dort liest oder eingibst.",
+      "Das Schichtenprinzip ist einer der Gründe, warum das Internet so flexibel ist. Neue Anwendungen können entstehen, ohne dass die Grundlagen geändert werden müssen."
+     ]
+    },
+    {
+     "heading": "Licht unter dem Meer",
+     "paragraphs": [
+      "Wenn Daten zwischen Kontinenten reisen, denken viele an Satelliten. Tatsächlich läuft aber fast der gesamte Verkehr durch Kabel auf dem Meeresgrund. Das Marktforschungsunternehmen TeleGeography hat die oft zitierte Zahl überprüft und bestätigt: Mehr als 99 Prozent des Datenverkehrs zwischen den Kontinenten laufen über solche Unterseekabel.",
+      "Diese Kabel enthalten Glasfasern, haarfeine Fäden aus extrem reinem Glas. Die Daten reisen darin als Lichtimpulse. Ein Lichtblitz kann zum Beispiel für eine Eins stehen, keiner für eine Null. Moderne Verfahren nutzen zudem viele Farben des Lichts gleichzeitig und verschiedene Eigenschaften der Lichtwellen, um noch mehr Daten auf einmal zu übertragen.",
+      "Im Glas ist Licht etwas langsamer als im Vakuum, ungefähr zweihunderttausend Kilometer pro Sekunde. Das ist immer noch schnell genug, um in etwa einer zwanzigstel Sekunde von Europa nach Nordamerika zu kommen. Für manche Anwendungen, etwa den Hochfrequenzhandel an Börsen, zählt trotzdem jede Tausendstelsekunde. Deshalb wird um möglichst kurze Kabelwege regelrecht gewetteifert.",
+      "Ein einzelnes modernes Unterseekabel kann Hunderte Terabit pro Sekunde übertragen. Das entspricht Millionen gleichzeitiger Videostreams. Weltweit liegen Hunderte solcher Kabelsysteme auf dem Meeresgrund. Zusammen sind sie weit über eine Million Kilometer lang, genug, um die Erde viele Dutzend Male zu umrunden.",
+      "In der Tiefsee sind diese Kabel erstaunlich dünn, oft kaum dicker als ein Gartenschlauch. Dort unten droht ihnen wenig Gefahr. In Küstennähe werden sie dagegen dick gepanzert und oft im Meeresboden vergraben. Denn die meisten Schäden entstehen durch Menschen: durch Fischernetze, die über den Boden schleifen, oder durch Schiffsanker.",
+      "Kabelschäden kommen häufiger vor, als man denkt, weltweit viele Male pro Jahr. Meist merkt man davon nichts, weil die Daten über andere Kabel umgeleitet werden. Für die Reparatur gibt es spezielle Schiffe, die das beschädigte Stück vom Meeresgrund heben, ein neues Teilstück einsetzen und das Kabel wieder absenken. Das kann Tage oder Wochen dauern.",
+      "Länder, die nur an wenigen Kabeln hängen, sind besonders verletzlich. Reißen diese, kann ein ganzes Land für eine Weile weitgehend vom Internet abgeschnitten sein. Auch die Sicherheit der Kabel ist in den letzten Jahren stärker ins Blickfeld gerückt. Regierungen und Betreiber überlegen, wie sie diese wichtige Infrastruktur besser schützen können.",
+      "Wem gehören die Kabel? Früher vor allem Konsortien von Telefongesellschaften. Inzwischen investieren große Technologiekonzerne kräftig in eigene Verbindungen, weil ein großer Teil des internationalen Verkehrs zwischen ihren Rechenzentren fließt. Damit haben einige wenige Unternehmen erheblichen Einfluss darauf, wo neue Leitungen entstehen.",
+      "Satelliten spielen trotzdem eine wichtige Rolle, etwa für abgelegene Regionen, Schiffe oder Flugzeuge, wo kein Kabel hinreicht. Neue Netze aus vielen tieffliegenden Satelliten machen den Zugang dort deutlich schneller. Den Verkehr zwischen den Kontinenten tragen aber weiterhin ganz überwiegend die Kabel."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Daten werden in Pakete zerlegt, die unabhängig voneinander reisen und am Ziel wieder zusammengesetzt werden.",
+    "IP-Adressen und das Namenssystem DNS führen die Pakete ans Ziel, und das Protokoll TCP sorgt dafür, dass nichts verloren geht.",
+    "Zwischen den Kontinenten reisen die Daten als Lichtimpulse durch Glasfaserkabel auf dem Meeresgrund."
+   ]
+  },
+  "15": {
+   "words": 2710,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Das Internet wirkt wie eine Wolke, die einfach immer da ist. In Wahrheit ist es ein sehr handfestes Gebilde aus Kabeln, Rechenzentren und Milliarden von Geräten, die sich an gemeinsame Regeln halten. Hier erfährst du, wie dieses Netz aus Netzen aufgebaut ist, wie Daten in Pakete zerlegt werden, wie Adressen und Namen funktionieren, welche Protokolle den Verkehr regeln, wie Router den Weg finden und warum fast alles über den Meeresboden läuft."
+     ]
+    },
+    {
+     "heading": "Ein Netz aus Netzen",
+     "paragraphs": [
+      "Das Wort Internet ist eine Abkürzung für ein Netz zwischen Netzen. Genau das beschreibt es gut. Es gibt nicht das eine große Netz, das irgendwem gehört. Stattdessen sind Zehntausende eigenständige Netze miteinander verbunden: die von Telefonanbietern, Universitäten, Unternehmen, Rechenzentren und Behörden.",
+      "Jedes dieser Netze wird von jemand anderem betrieben. Was sie zu einem gemeinsamen Internet macht, sind Verträge zwischen ihnen und vor allem gemeinsame Regeln. Diese Regeln heißen Protokolle. Sie legen fest, wie Daten verpackt, adressiert und weitergereicht werden. Solange sich alle daran halten, können sich Geräte überall auf der Welt verstehen.",
+      "Verfolgen wir den Weg einer Nachricht. Dein Smartphone schickt sie zunächst per Funk an den WLAN-Router in deiner Wohnung oder an einen Mobilfunkmast. Von dort geht es über Kupfer- oder Glasfaserleitungen ins Netz deines Anbieters. Der leitet sie weiter, oft über große Knotenpunkte, an denen sich viele Netze treffen und Daten austauschen.",
+      "Solche Knotenpunkte heißen Internet-Austauschpunkte. Dort stehen in großen Hallen Geräte verschiedener Anbieter nebeneinander und sind direkt miteinander verkabelt. Frankfurt am Main beherbergt einen der größten Austauschpunkte der Welt. Wenn du in Deutschland eine Seite aufrufst, laufen die Daten mit großer Wahrscheinlichkeit irgendwann durch diese Stadt.",
+      "Am anderen Ende steht ein Server, ein Computer, der die gewünschten Inhalte bereithält. Er befindet sich meist in einem Rechenzentrum, einem gut gekühlten Gebäude voller Rechner. Große Dienste betreiben viele solcher Zentren auf der ganzen Welt und halten Kopien ihrer Inhalte nah bei den Nutzern bereit. So muss ein beliebtes Video nicht jedes Mal über den Atlantik reisen.",
+      "Wie viele Geräte am Internet hängen, lässt sich nur schätzen. Neben Computern und Smartphones sind es Fernseher, Autos, Uhren, Kühlschränke, Ampeln und Maschinen in Fabriken. Zusammen sind es viele Milliarden. Alle sprechen dieselbe Grundsprache, egal ob sie in einem Wohnzimmer in Köln oder in einem Labor in Tokio stehen.",
+      "Wichtig ist der Unterschied zwischen Internet und World Wide Web. Das Internet ist die Infrastruktur, also das Netz der Leitungen und die Regeln für den Transport. Das Web ist nur ein Dienst, der darauf läuft, nämlich die verlinkten Webseiten, die du im Browser aufrufst. E-Mail, Videotelefonie, Onlinespiele und Messenger nutzen ebenfalls das Internet, aber nicht unbedingt das Web.",
+      "Ein Grundgedanke des Internets ist, dass es keine zentrale Steuerung braucht. Fällt ein Netz oder eine Leitung aus, können die Daten oft einen anderen Weg nehmen. Diese Widerstandsfähigkeit war schon bei der Entwicklung ein wichtiges Ziel. Ganz ohne Schwachstellen ist das Netz trotzdem nicht, wie wir später sehen werden.",
+      "Dass das Internet so groß werden konnte, liegt auch daran, dass seine Grundlagen offen sind. Die wichtigsten Protokolle wurden nicht patentiert, sondern frei zugänglich gemacht. Jeder darf sie verwenden, ohne Gebühren zu zahlen. So konnten Firmen und Forschende auf der ganzen Welt Geräte und Dienste entwickeln, die sich problemlos verstehen.",
+      "In den folgenden Abschnitten schauen wir uns an, wie die Daten auf diesem Weg verpackt, adressiert und weitergereicht werden."
+     ]
+    },
+    {
+     "heading": "Daten in Paketen",
+     "paragraphs": [
+      "Die vielleicht wichtigste Idee des Internets heißt Paketvermittlung. Statt eine Nachricht als Ganzes zu verschicken, wird sie in viele kleine Stücke zerlegt, die Pakete. Ein Foto, eine E-Mail oder ein Video besteht auf dem Weg durchs Netz aus Hunderten oder Tausenden solcher Pakete.",
+      "Jedes Paket hat zwei Teile. Der eine ist ein Stück der eigentlichen Daten. Der andere ist ein Kopfteil mit Verwaltungsangaben: wer der Absender ist, wohin das Paket soll, das wievielte Stück es ist und einige Prüfwerte. Man kann sich das wie eine Postkarte vorstellen, auf der vorne die Adresse steht und hinten ein Teil eines langen Briefes.",
+      "Das Besondere: Jedes Paket reist für sich. Pakete derselben Nachricht können unterschiedliche Wege nehmen, je nachdem, wo gerade Platz ist. Sie kommen deshalb auch nicht unbedingt in der richtigen Reihenfolge an. Erst beim Empfänger werden sie anhand ihrer Nummern wieder richtig zusammengesetzt.",
+      "Früher funktionierte Telefonieren ganz anders. Bei einem klassischen Telefongespräch wurde eine feste Leitung zwischen beiden Teilnehmern geschaltet, und zwar für die gesamte Dauer des Gesprächs. Auch wenn niemand sprach, war die Leitung belegt. Fachleute sprechen von Leitungsvermittlung. Das ist zuverlässig, aber verschwenderisch.",
+      "Bei der Paketvermittlung teilen sich alle die Leitungen. Die Pakete vieler verschiedener Nutzer fließen bunt gemischt durch dieselben Kabel, ähnlich wie Autos auf einer Autobahn. Wenn gerade niemand etwas schickt, ist die Leitung frei für andere. So lassen sich die teuren Verbindungen sehr viel besser ausnutzen.",
+      "Ein weiterer Vorteil ist die Robustheit. Fällt irgendwo eine Leitung aus, werden die nächsten Pakete einfach anders geschickt. Geht ein Paket unterwegs verloren, muss nur dieses eine Stück erneut gesendet werden und nicht die ganze Nachricht. Bei großen Dateien spart das enorm viel Zeit.",
+      "Die mathematischen Grundlagen dafür legten Forschende in den Sechzigerjahren. Einer von ihnen war Leonard Kleinrock, der untersuchte, wie sich Datenpakete in Netzen verhalten, wenn sie sich wie in einer Warteschlange stauen. Unabhängig davon entwickelten auch andere in den USA und Großbritannien ähnliche Ideen.",
+      "Wie groß ist so ein Paket? Meist sind es höchstens etwa anderthalb Kilobyte an Nutzdaten, also ungefähr so viel wie eine halbe Seite Text. Ein einziges Handyfoto wird daher in Tausende Pakete zerlegt. Dass all diese Stücke in Sekundenbruchteilen unterwegs sind und am Ende ein vollständiges Bild ergeben, ist eine beeindruckende Leistung der Technik.",
+      "Damit die Pakete wissen, wohin sie sollen, brauchen sie Adressen. Darum geht es im nächsten Abschnitt."
+     ]
+    },
+    {
+     "heading": "Adressen und Namen",
+     "paragraphs": [
+      "Jedes Gerät, das im Internet erreichbar ist, braucht eine Adresse. Sie heißt IP-Adresse, nach dem Internetprotokoll. Ein Datenpaket trägt die IP-Adresse seines Absenders und die seines Ziels. Daran orientieren sich alle Stationen auf dem Weg.",
+      "Die klassische Form, IPv4, besteht aus vier Zahlen zwischen null und zweihundertfünfundfünfzig, getrennt durch Punkte. Damit lassen sich ungefähr 4,3 Milliarden verschiedene Adressen bilden. Als das Internet erfunden wurde, schien das unendlich viel. Heute gibt es aber deutlich mehr vernetzte Geräte als Menschen auf der Erde, und die Adressen sind längst knapp.",
+      "Deshalb gibt es eine neuere Version, IPv6. Ihre Adressen sind viel länger und werden mit Ziffern und Buchstaben geschrieben. Die Zahl möglicher Adressen ist so gewaltig, dass man jedem Sandkorn der Erde viele davon geben könnte. Die Umstellung läuft seit vielen Jahren, Schritt für Schritt. Beide Versionen werden derzeit parallel genutzt.",
+      "Bis dahin hilft ein Trick. Dein Router zu Hause hat meist nur eine öffentliche Adresse. Alle Geräte in deiner Wohnung, vom Laptop bis zum Fernseher, bekommen interne Adressen, die nur im Heimnetz gelten. Der Router merkt sich, welche Antwort zu welchem Gerät gehört, und verteilt sie entsprechend. So teilen sich viele Geräte eine einzige Adresse nach außen.",
+      "Zahlenreihen kann sich allerdings kaum jemand merken. Deshalb gibt es Namen wie zum Beispiel eine bekannte Nachrichtenseite oder eine Suchmaschine. Damit dein Gerät weiß, welche IP-Adresse hinter einem Namen steckt, fragt es beim Domain Name System nach, kurz DNS. Man kann es sich wie ein riesiges, weltweit verteiltes Telefonbuch vorstellen.",
+      "Die Abfrage läuft in mehreren Schritten. Zuerst fragt dein Gerät einen DNS-Server, meist den deines Anbieters. Kennt dieser die Antwort nicht, fragt er sich durch eine Hierarchie: erst bei Servern, die wissen, wer für Endungen wie „de“ oder „com“ zuständig ist, dann bei dem Server, der für den konkreten Namen verantwortlich ist. Am Ende steht die gesuchte Adresse.",
+      "Das klingt umständlich, geht aber meist in wenigen Millisekunden. Außerdem merken sich Geräte und Server die Antworten eine Weile. Rufst du eine Seite zum zweiten Mal auf, muss oft gar nicht mehr nachgefragt werden. Dieses Zwischenspeichern entlastet das ganze System enorm.",
+      "DNS ist so grundlegend, dass Störungen große Folgen haben. Fällt ein wichtiger DNS-Dienst aus oder ist falsch eingestellt, sind viele Webseiten plötzlich nicht mehr erreichbar, obwohl die Server selbst einwandfrei laufen. Für dich sieht das dann so aus, als sei das Internet kaputt. Eingeführt wurde dieses Namenssystem übrigens schon in den Achtzigerjahren.",
+      "Adressen allein reichen aber noch nicht. Es braucht auch Regeln dafür, wie sich Geräte verständigen und wie sie mit verlorenen Paketen umgehen."
+     ]
+    },
+    {
+     "heading": "Die Regeln: Protokolle",
+     "paragraphs": [
+      "Damit Milliarden unterschiedlicher Geräte miteinander reden können, brauchen sie eine gemeinsame Sprache. Im Internet heißt diese Sprache TCP/IP. Sie besteht aus zwei eng verbundenen Teilen: dem Internetprotokoll IP, das für Adressen und das Weiterleiten zuständig ist, und dem Transmission Control Protocol TCP, das für eine zuverlässige Übertragung sorgt.",
+      "IP allein ist ein bisschen wie ein Briefkasten, in den man Postkarten wirft. Meist kommen sie an, manchmal nicht, und die Reihenfolge ist nicht garantiert. Für viele Anwendungen reicht das nicht. Eine Webseite oder eine Datei muss vollständig und fehlerfrei ankommen. Genau darum kümmert sich TCP.",
+      "Bevor TCP Daten schickt, bauen Sender und Empfänger eine Verbindung auf. Das geschieht durch einen kurzen Austausch von drei Nachrichten, den man Handschlag nennt. Sinngemäß fragt der eine: Bist du bereit? Der andere antwortet: Ja, und du? Und der erste bestätigt. Erst dann beginnt die eigentliche Übertragung.",
+      "Während der Übertragung bestätigt der Empfänger regelmäßig, welche Pakete er erhalten hat. Bleibt eine Bestätigung aus, schickt der Sender das betreffende Paket noch einmal. Mithilfe der Nummern setzt der Empfänger alles in der richtigen Reihenfolge zusammen. Außerdem passt TCP das Tempo an: Wird das Netz voll, sendet es langsamer, um keinen Stau zu verursachen.",
+      "Für manche Anwendungen ist diese Gründlichkeit eher hinderlich. Bei einem Videoanruf oder einem Onlinespiel ist es wichtiger, dass die Daten schnell ankommen, als dass jedes einzelne Paket ankommt. Ein verlorenes Bild in einem Video fällt kaum auf, eine Verzögerung schon. Dafür gibt es ein einfacheres Protokoll namens UDP, das ohne Bestätigungen auskommt.",
+      "Fachleute stellen sich die Protokolle gern als Schichten vor, die aufeinander aufbauen. Ganz unten geht es um die physische Übertragung, etwa Funkwellen oder Lichtsignale. Darüber liegt die Weiterleitung mit IP, darüber die zuverlässige Übertragung mit TCP. Ganz oben stehen die Anwendungen wie das Web oder E-Mail. Jede Schicht kümmert sich nur um ihre eigene Aufgabe.",
+      "Für Webseiten gibt es auf der obersten Ebene das Protokoll HTTP. Es regelt, wie dein Browser eine Seite anfordert und wie der Server sie liefert. Heute wird fast immer die verschlüsselte Variante HTTPS verwendet. Das kleine Schloss in der Adresszeile zeigt an, dass niemand unterwegs mitlesen oder die Inhalte unbemerkt verändern kann.",
+      "Die Verschlüsselung ist wichtig, weil Pakete auf ihrem Weg durch viele fremde Netze und Geräte laufen. Ohne Verschlüsselung könnte im Prinzip jeder, der eine dieser Stationen kontrolliert, die Daten lesen, etwa in einem öffentlichen WLAN. Mit HTTPS sehen Außenstehende nur, mit welchem Server du sprichst, aber nicht, was du dort liest oder eingibst.",
+      "Das Schichtenprinzip ist einer der Gründe, warum das Internet so flexibel ist. Neue Anwendungen können entstehen, ohne dass die Grundlagen geändert werden müssen."
+     ]
+    },
+    {
+     "heading": "Router: die Weichensteller des Netzes",
+     "paragraphs": [
+      "Auf dem Weg zum Ziel passieren Datenpakete viele Stationen. An jeder Station sitzt ein Router, ein spezialisierter Computer, der Pakete annimmt und weiterreicht. Der Router zu Hause ist nur der kleinste Vertreter dieser Gattung. In den Netzen der großen Anbieter stehen Geräte, die jede Sekunde unvorstellbar viele Pakete verarbeiten.",
+      "Ein Router kennt nicht den gesamten Weg bis zum Ziel. Er weiß nur, an welchen Nachbarn er ein Paket am besten weitergibt, damit es seinem Ziel näher kommt. Dafür nutzt er eine Art Wegweisertabelle, die sogenannte Routingtabelle. Darin steht sinngemäß: Pakete für diese Adressbereiche bitte über jene Leitung schicken.",
+      "Man kann sich das wie eine Reise mit lauter Wegweisern vorstellen. Niemand gibt dir am Start eine vollständige Karte. Aber an jeder Kreuzung steht ein Schild, das dir die Richtung zeigt. Folgst du ihnen, kommst du an. So springt ein Paket von Router zu Router, bis es beim Ziel ist. Fachleute nennen jeden dieser Sprünge einen Hop.",
+      "Woher wissen die Router, welcher Weg gut ist? Innerhalb eines Netzes tauschen sie ständig Informationen aus, etwa welche Leitungen gerade frei oder ausgefallen sind. Zwischen den großen Netzen verschiedener Betreiber übernimmt das ein besonderes Protokoll namens BGP. Darüber teilen sich die Netze gegenseitig mit, welche Adressbereiche sie erreichen können.",
+      "BGP ist so etwas wie das Gesprächsprotokoll zwischen den Staaten des Internets. Jedes große Netz verkündet: Über mich erreichst du diese Adressen. Die anderen entscheiden dann, welche Wege sie nutzen wollen, auch nach geschäftlichen Gesichtspunkten. Daraus ergibt sich ein ständig aktualisiertes Bild davon, wie das Internet gerade verbunden ist.",
+      "Dieses System beruht zu einem großen Teil auf Vertrauen. Verkündet ein Netz versehentlich falsche Wege, können Daten in großem Stil fehlgeleitet werden. Solche Fehler haben schon mehrfach dazu geführt, dass große Dienste für Stunden nicht erreichbar waren. Manchmal steckt auch Absicht dahinter. Deshalb arbeiten Fachleute an Verfahren, mit denen sich Wegangaben kryptografisch absichern lassen.",
+      "Wie viele Stationen ein Paket durchläuft, kannst du übrigens selbst nachsehen. Mit einem Werkzeug namens traceroute lässt sich anzeigen, über welche Router ein Paket zu einer bestimmten Adresse reist. Innerhalb Europas sind es oft zehn bis zwanzig Stationen, bei weiten Reisen auch mehr. Jede davon fügt eine winzige Verzögerung hinzu.",
+      "Große Anbieter bauen außerdem viele Reserven und Ausweichwege ein. So legt ein einzelner Ausfall den Verkehr nicht gleich lahm. Fachleute überwachen diese Systeme rund um die Uhr.",
+      "Die gesamte Reise dauert trotzdem meist nur Sekundenbruchteile. Router arbeiten extrem schnell, weil sie die Pakete nicht auspacken, sondern nur den Kopfteil mit der Zieladresse lesen. Den eigentlichen Inhalt betrachten sie normalerweise nicht.",
+      "Die längsten Strecken legen die Pakete allerdings nicht in Routern zurück, sondern in Kabeln, und oft liegen diese auf dem Meeresgrund."
+     ]
+    },
+    {
+     "heading": "Licht unter dem Meer",
+     "paragraphs": [
+      "Wenn Daten zwischen Kontinenten reisen, denken viele an Satelliten. Tatsächlich läuft aber fast der gesamte Verkehr durch Kabel auf dem Meeresgrund. Das Marktforschungsunternehmen TeleGeography hat die oft zitierte Zahl überprüft und bestätigt: Mehr als 99 Prozent des Datenverkehrs zwischen den Kontinenten laufen über solche Unterseekabel.",
+      "Diese Kabel enthalten Glasfasern, haarfeine Fäden aus extrem reinem Glas. Die Daten reisen darin als Lichtimpulse. Ein Lichtblitz kann zum Beispiel für eine Eins stehen, keiner für eine Null. Moderne Verfahren nutzen zudem viele Farben des Lichts gleichzeitig und verschiedene Eigenschaften der Lichtwellen, um noch mehr Daten auf einmal zu übertragen.",
+      "Im Glas ist Licht etwas langsamer als im Vakuum, ungefähr zweihunderttausend Kilometer pro Sekunde. Das ist immer noch schnell genug, um in etwa einer zwanzigstel Sekunde von Europa nach Nordamerika zu kommen. Für manche Anwendungen, etwa den Hochfrequenzhandel an Börsen, zählt trotzdem jede Tausendstelsekunde. Deshalb wird um möglichst kurze Kabelwege regelrecht gewetteifert.",
+      "Ein einzelnes modernes Unterseekabel kann Hunderte Terabit pro Sekunde übertragen. Das entspricht Millionen gleichzeitiger Videostreams. Weltweit liegen Hunderte solcher Kabelsysteme auf dem Meeresgrund. Zusammen sind sie weit über eine Million Kilometer lang, genug, um die Erde viele Dutzend Male zu umrunden.",
+      "In der Tiefsee sind diese Kabel erstaunlich dünn, oft kaum dicker als ein Gartenschlauch. Dort unten droht ihnen wenig Gefahr. In Küstennähe werden sie dagegen dick gepanzert und oft im Meeresboden vergraben. Denn die meisten Schäden entstehen durch Menschen: durch Fischernetze, die über den Boden schleifen, oder durch Schiffsanker.",
+      "Kabelschäden kommen häufiger vor, als man denkt, weltweit viele Male pro Jahr. Meist merkt man davon nichts, weil die Daten über andere Kabel umgeleitet werden. Für die Reparatur gibt es spezielle Schiffe, die das beschädigte Stück vom Meeresgrund heben, ein neues Teilstück einsetzen und das Kabel wieder absenken. Das kann Tage oder Wochen dauern.",
+      "Länder, die nur an wenigen Kabeln hängen, sind besonders verletzlich. Reißen diese, kann ein ganzes Land für eine Weile weitgehend vom Internet abgeschnitten sein. Auch die Sicherheit der Kabel ist in den letzten Jahren stärker ins Blickfeld gerückt. Regierungen und Betreiber überlegen, wie sie diese wichtige Infrastruktur besser schützen können.",
+      "Wem gehören die Kabel? Früher vor allem Konsortien von Telefongesellschaften. Inzwischen investieren große Technologiekonzerne kräftig in eigene Verbindungen, weil ein großer Teil des internationalen Verkehrs zwischen ihren Rechenzentren fließt. Damit haben einige wenige Unternehmen erheblichen Einfluss darauf, wo neue Leitungen entstehen.",
+      "Satelliten spielen trotzdem eine wichtige Rolle, etwa für abgelegene Regionen, Schiffe oder Flugzeuge, wo kein Kabel hinreicht. Neue Netze aus vielen tieffliegenden Satelliten machen den Zugang dort deutlich schneller. Den Verkehr zwischen den Kontinenten tragen aber weiterhin ganz überwiegend die Kabel."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Das Internet verbindet Zehntausende eigenständiger Netze über gemeinsame Regeln, die Protokolle.",
+    "Daten reisen als Pakete mit Absender und Ziel, Router reichen sie Schritt für Schritt weiter, und TCP setzt sie zuverlässig wieder zusammen.",
+    "Unterseekabel aus Glasfaser tragen den allergrößten Teil des internationalen Datenverkehrs, Satelliten nur einen kleinen Rest."
+   ]
+  },
+  "20": {
+   "words": 3604,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Ende Oktober 1969 schickte ein Student in Los Angeles die erste Nachricht über ein neues Computernetz. Sie sollte „login“ lauten, doch nach zwei Buchstaben stürzte das System ab. Aus diesem holprigen Anfang ist das Internet geworden, das heute Milliarden Menschen verbindet. In diesem Artikel erfährst du, wie es aufgebaut ist, wie Daten reisen, welche Regeln dafür sorgen, dass sie ankommen, woher das alles kommt und vor welchen Herausforderungen das Netz steht."
+     ]
+    },
+    {
+     "heading": "Ein Netz aus Netzen",
+     "paragraphs": [
+      "Das Wort Internet ist eine Abkürzung für ein Netz zwischen Netzen. Genau das beschreibt es gut. Es gibt nicht das eine große Netz, das irgendwem gehört. Stattdessen sind Zehntausende eigenständige Netze miteinander verbunden: die von Telefonanbietern, Universitäten, Unternehmen, Rechenzentren und Behörden.",
+      "Jedes dieser Netze wird von jemand anderem betrieben. Was sie zu einem gemeinsamen Internet macht, sind Verträge zwischen ihnen und vor allem gemeinsame Regeln. Diese Regeln heißen Protokolle. Sie legen fest, wie Daten verpackt, adressiert und weitergereicht werden. Solange sich alle daran halten, können sich Geräte überall auf der Welt verstehen.",
+      "Verfolgen wir den Weg einer Nachricht. Dein Smartphone schickt sie zunächst per Funk an den WLAN-Router in deiner Wohnung oder an einen Mobilfunkmast. Von dort geht es über Kupfer- oder Glasfaserleitungen ins Netz deines Anbieters. Der leitet sie weiter, oft über große Knotenpunkte, an denen sich viele Netze treffen und Daten austauschen.",
+      "Solche Knotenpunkte heißen Internet-Austauschpunkte. Dort stehen in großen Hallen Geräte verschiedener Anbieter nebeneinander und sind direkt miteinander verkabelt. Frankfurt am Main beherbergt einen der größten Austauschpunkte der Welt. Wenn du in Deutschland eine Seite aufrufst, laufen die Daten mit großer Wahrscheinlichkeit irgendwann durch diese Stadt.",
+      "Am anderen Ende steht ein Server, ein Computer, der die gewünschten Inhalte bereithält. Er befindet sich meist in einem Rechenzentrum, einem gut gekühlten Gebäude voller Rechner. Große Dienste betreiben viele solcher Zentren auf der ganzen Welt und halten Kopien ihrer Inhalte nah bei den Nutzern bereit. So muss ein beliebtes Video nicht jedes Mal über den Atlantik reisen.",
+      "Wie viele Geräte am Internet hängen, lässt sich nur schätzen. Neben Computern und Smartphones sind es Fernseher, Autos, Uhren, Kühlschränke, Ampeln und Maschinen in Fabriken. Zusammen sind es viele Milliarden. Alle sprechen dieselbe Grundsprache, egal ob sie in einem Wohnzimmer in Köln oder in einem Labor in Tokio stehen.",
+      "Wichtig ist der Unterschied zwischen Internet und World Wide Web. Das Internet ist die Infrastruktur, also das Netz der Leitungen und die Regeln für den Transport. Das Web ist nur ein Dienst, der darauf läuft, nämlich die verlinkten Webseiten, die du im Browser aufrufst. E-Mail, Videotelefonie, Onlinespiele und Messenger nutzen ebenfalls das Internet, aber nicht unbedingt das Web.",
+      "Ein Grundgedanke des Internets ist, dass es keine zentrale Steuerung braucht. Fällt ein Netz oder eine Leitung aus, können die Daten oft einen anderen Weg nehmen. Diese Widerstandsfähigkeit war schon bei der Entwicklung ein wichtiges Ziel. Ganz ohne Schwachstellen ist das Netz trotzdem nicht, wie wir später sehen werden.",
+      "Dass das Internet so groß werden konnte, liegt auch daran, dass seine Grundlagen offen sind. Die wichtigsten Protokolle wurden nicht patentiert, sondern frei zugänglich gemacht. Jeder darf sie verwenden, ohne Gebühren zu zahlen. So konnten Firmen und Forschende auf der ganzen Welt Geräte und Dienste entwickeln, die sich problemlos verstehen.",
+      "In den folgenden Abschnitten schauen wir uns an, wie die Daten auf diesem Weg verpackt, adressiert und weitergereicht werden."
+     ]
+    },
+    {
+     "heading": "Daten in Paketen",
+     "paragraphs": [
+      "Die vielleicht wichtigste Idee des Internets heißt Paketvermittlung. Statt eine Nachricht als Ganzes zu verschicken, wird sie in viele kleine Stücke zerlegt, die Pakete. Ein Foto, eine E-Mail oder ein Video besteht auf dem Weg durchs Netz aus Hunderten oder Tausenden solcher Pakete.",
+      "Jedes Paket hat zwei Teile. Der eine ist ein Stück der eigentlichen Daten. Der andere ist ein Kopfteil mit Verwaltungsangaben: wer der Absender ist, wohin das Paket soll, das wievielte Stück es ist und einige Prüfwerte. Man kann sich das wie eine Postkarte vorstellen, auf der vorne die Adresse steht und hinten ein Teil eines langen Briefes.",
+      "Das Besondere: Jedes Paket reist für sich. Pakete derselben Nachricht können unterschiedliche Wege nehmen, je nachdem, wo gerade Platz ist. Sie kommen deshalb auch nicht unbedingt in der richtigen Reihenfolge an. Erst beim Empfänger werden sie anhand ihrer Nummern wieder richtig zusammengesetzt.",
+      "Früher funktionierte Telefonieren ganz anders. Bei einem klassischen Telefongespräch wurde eine feste Leitung zwischen beiden Teilnehmern geschaltet, und zwar für die gesamte Dauer des Gesprächs. Auch wenn niemand sprach, war die Leitung belegt. Fachleute sprechen von Leitungsvermittlung. Das ist zuverlässig, aber verschwenderisch.",
+      "Bei der Paketvermittlung teilen sich alle die Leitungen. Die Pakete vieler verschiedener Nutzer fließen bunt gemischt durch dieselben Kabel, ähnlich wie Autos auf einer Autobahn. Wenn gerade niemand etwas schickt, ist die Leitung frei für andere. So lassen sich die teuren Verbindungen sehr viel besser ausnutzen.",
+      "Ein weiterer Vorteil ist die Robustheit. Fällt irgendwo eine Leitung aus, werden die nächsten Pakete einfach anders geschickt. Geht ein Paket unterwegs verloren, muss nur dieses eine Stück erneut gesendet werden und nicht die ganze Nachricht. Bei großen Dateien spart das enorm viel Zeit.",
+      "Die mathematischen Grundlagen dafür legten Forschende in den Sechzigerjahren. Einer von ihnen war Leonard Kleinrock, der untersuchte, wie sich Datenpakete in Netzen verhalten, wenn sie sich wie in einer Warteschlange stauen. Unabhängig davon entwickelten auch andere in den USA und Großbritannien ähnliche Ideen.",
+      "Wie groß ist so ein Paket? Meist sind es höchstens etwa anderthalb Kilobyte an Nutzdaten, also ungefähr so viel wie eine halbe Seite Text. Ein einziges Handyfoto wird daher in Tausende Pakete zerlegt. Dass all diese Stücke in Sekundenbruchteilen unterwegs sind und am Ende ein vollständiges Bild ergeben, ist eine beeindruckende Leistung der Technik.",
+      "Damit die Pakete wissen, wohin sie sollen, brauchen sie Adressen. Darum geht es im nächsten Abschnitt."
+     ]
+    },
+    {
+     "heading": "Adressen und Namen",
+     "paragraphs": [
+      "Jedes Gerät, das im Internet erreichbar ist, braucht eine Adresse. Sie heißt IP-Adresse, nach dem Internetprotokoll. Ein Datenpaket trägt die IP-Adresse seines Absenders und die seines Ziels. Daran orientieren sich alle Stationen auf dem Weg.",
+      "Die klassische Form, IPv4, besteht aus vier Zahlen zwischen null und zweihundertfünfundfünfzig, getrennt durch Punkte. Damit lassen sich ungefähr 4,3 Milliarden verschiedene Adressen bilden. Als das Internet erfunden wurde, schien das unendlich viel. Heute gibt es aber deutlich mehr vernetzte Geräte als Menschen auf der Erde, und die Adressen sind längst knapp.",
+      "Deshalb gibt es eine neuere Version, IPv6. Ihre Adressen sind viel länger und werden mit Ziffern und Buchstaben geschrieben. Die Zahl möglicher Adressen ist so gewaltig, dass man jedem Sandkorn der Erde viele davon geben könnte. Die Umstellung läuft seit vielen Jahren, Schritt für Schritt. Beide Versionen werden derzeit parallel genutzt.",
+      "Bis dahin hilft ein Trick. Dein Router zu Hause hat meist nur eine öffentliche Adresse. Alle Geräte in deiner Wohnung, vom Laptop bis zum Fernseher, bekommen interne Adressen, die nur im Heimnetz gelten. Der Router merkt sich, welche Antwort zu welchem Gerät gehört, und verteilt sie entsprechend. So teilen sich viele Geräte eine einzige Adresse nach außen.",
+      "Zahlenreihen kann sich allerdings kaum jemand merken. Deshalb gibt es Namen wie zum Beispiel eine bekannte Nachrichtenseite oder eine Suchmaschine. Damit dein Gerät weiß, welche IP-Adresse hinter einem Namen steckt, fragt es beim Domain Name System nach, kurz DNS. Man kann es sich wie ein riesiges, weltweit verteiltes Telefonbuch vorstellen.",
+      "Die Abfrage läuft in mehreren Schritten. Zuerst fragt dein Gerät einen DNS-Server, meist den deines Anbieters. Kennt dieser die Antwort nicht, fragt er sich durch eine Hierarchie: erst bei Servern, die wissen, wer für Endungen wie „de“ oder „com“ zuständig ist, dann bei dem Server, der für den konkreten Namen verantwortlich ist. Am Ende steht die gesuchte Adresse.",
+      "Das klingt umständlich, geht aber meist in wenigen Millisekunden. Außerdem merken sich Geräte und Server die Antworten eine Weile. Rufst du eine Seite zum zweiten Mal auf, muss oft gar nicht mehr nachgefragt werden. Dieses Zwischenspeichern entlastet das ganze System enorm.",
+      "DNS ist so grundlegend, dass Störungen große Folgen haben. Fällt ein wichtiger DNS-Dienst aus oder ist falsch eingestellt, sind viele Webseiten plötzlich nicht mehr erreichbar, obwohl die Server selbst einwandfrei laufen. Für dich sieht das dann so aus, als sei das Internet kaputt. Eingeführt wurde dieses Namenssystem übrigens schon in den Achtzigerjahren.",
+      "Adressen allein reichen aber noch nicht. Es braucht auch Regeln dafür, wie sich Geräte verständigen und wie sie mit verlorenen Paketen umgehen."
+     ]
+    },
+    {
+     "heading": "Die Regeln: Protokolle",
+     "paragraphs": [
+      "Damit Milliarden unterschiedlicher Geräte miteinander reden können, brauchen sie eine gemeinsame Sprache. Im Internet heißt diese Sprache TCP/IP. Sie besteht aus zwei eng verbundenen Teilen: dem Internetprotokoll IP, das für Adressen und das Weiterleiten zuständig ist, und dem Transmission Control Protocol TCP, das für eine zuverlässige Übertragung sorgt.",
+      "IP allein ist ein bisschen wie ein Briefkasten, in den man Postkarten wirft. Meist kommen sie an, manchmal nicht, und die Reihenfolge ist nicht garantiert. Für viele Anwendungen reicht das nicht. Eine Webseite oder eine Datei muss vollständig und fehlerfrei ankommen. Genau darum kümmert sich TCP.",
+      "Bevor TCP Daten schickt, bauen Sender und Empfänger eine Verbindung auf. Das geschieht durch einen kurzen Austausch von drei Nachrichten, den man Handschlag nennt. Sinngemäß fragt der eine: Bist du bereit? Der andere antwortet: Ja, und du? Und der erste bestätigt. Erst dann beginnt die eigentliche Übertragung.",
+      "Während der Übertragung bestätigt der Empfänger regelmäßig, welche Pakete er erhalten hat. Bleibt eine Bestätigung aus, schickt der Sender das betreffende Paket noch einmal. Mithilfe der Nummern setzt der Empfänger alles in der richtigen Reihenfolge zusammen. Außerdem passt TCP das Tempo an: Wird das Netz voll, sendet es langsamer, um keinen Stau zu verursachen.",
+      "Für manche Anwendungen ist diese Gründlichkeit eher hinderlich. Bei einem Videoanruf oder einem Onlinespiel ist es wichtiger, dass die Daten schnell ankommen, als dass jedes einzelne Paket ankommt. Ein verlorenes Bild in einem Video fällt kaum auf, eine Verzögerung schon. Dafür gibt es ein einfacheres Protokoll namens UDP, das ohne Bestätigungen auskommt.",
+      "Fachleute stellen sich die Protokolle gern als Schichten vor, die aufeinander aufbauen. Ganz unten geht es um die physische Übertragung, etwa Funkwellen oder Lichtsignale. Darüber liegt die Weiterleitung mit IP, darüber die zuverlässige Übertragung mit TCP. Ganz oben stehen die Anwendungen wie das Web oder E-Mail. Jede Schicht kümmert sich nur um ihre eigene Aufgabe.",
+      "Für Webseiten gibt es auf der obersten Ebene das Protokoll HTTP. Es regelt, wie dein Browser eine Seite anfordert und wie der Server sie liefert. Heute wird fast immer die verschlüsselte Variante HTTPS verwendet. Das kleine Schloss in der Adresszeile zeigt an, dass niemand unterwegs mitlesen oder die Inhalte unbemerkt verändern kann.",
+      "Die Verschlüsselung ist wichtig, weil Pakete auf ihrem Weg durch viele fremde Netze und Geräte laufen. Ohne Verschlüsselung könnte im Prinzip jeder, der eine dieser Stationen kontrolliert, die Daten lesen, etwa in einem öffentlichen WLAN. Mit HTTPS sehen Außenstehende nur, mit welchem Server du sprichst, aber nicht, was du dort liest oder eingibst.",
+      "Das Schichtenprinzip ist einer der Gründe, warum das Internet so flexibel ist. Neue Anwendungen können entstehen, ohne dass die Grundlagen geändert werden müssen."
+     ]
+    },
+    {
+     "heading": "Router: die Weichensteller des Netzes",
+     "paragraphs": [
+      "Auf dem Weg zum Ziel passieren Datenpakete viele Stationen. An jeder Station sitzt ein Router, ein spezialisierter Computer, der Pakete annimmt und weiterreicht. Der Router zu Hause ist nur der kleinste Vertreter dieser Gattung. In den Netzen der großen Anbieter stehen Geräte, die jede Sekunde unvorstellbar viele Pakete verarbeiten.",
+      "Ein Router kennt nicht den gesamten Weg bis zum Ziel. Er weiß nur, an welchen Nachbarn er ein Paket am besten weitergibt, damit es seinem Ziel näher kommt. Dafür nutzt er eine Art Wegweisertabelle, die sogenannte Routingtabelle. Darin steht sinngemäß: Pakete für diese Adressbereiche bitte über jene Leitung schicken.",
+      "Man kann sich das wie eine Reise mit lauter Wegweisern vorstellen. Niemand gibt dir am Start eine vollständige Karte. Aber an jeder Kreuzung steht ein Schild, das dir die Richtung zeigt. Folgst du ihnen, kommst du an. So springt ein Paket von Router zu Router, bis es beim Ziel ist. Fachleute nennen jeden dieser Sprünge einen Hop.",
+      "Woher wissen die Router, welcher Weg gut ist? Innerhalb eines Netzes tauschen sie ständig Informationen aus, etwa welche Leitungen gerade frei oder ausgefallen sind. Zwischen den großen Netzen verschiedener Betreiber übernimmt das ein besonderes Protokoll namens BGP. Darüber teilen sich die Netze gegenseitig mit, welche Adressbereiche sie erreichen können.",
+      "BGP ist so etwas wie das Gesprächsprotokoll zwischen den Staaten des Internets. Jedes große Netz verkündet: Über mich erreichst du diese Adressen. Die anderen entscheiden dann, welche Wege sie nutzen wollen, auch nach geschäftlichen Gesichtspunkten. Daraus ergibt sich ein ständig aktualisiertes Bild davon, wie das Internet gerade verbunden ist.",
+      "Dieses System beruht zu einem großen Teil auf Vertrauen. Verkündet ein Netz versehentlich falsche Wege, können Daten in großem Stil fehlgeleitet werden. Solche Fehler haben schon mehrfach dazu geführt, dass große Dienste für Stunden nicht erreichbar waren. Manchmal steckt auch Absicht dahinter. Deshalb arbeiten Fachleute an Verfahren, mit denen sich Wegangaben kryptografisch absichern lassen.",
+      "Wie viele Stationen ein Paket durchläuft, kannst du übrigens selbst nachsehen. Mit einem Werkzeug namens traceroute lässt sich anzeigen, über welche Router ein Paket zu einer bestimmten Adresse reist. Innerhalb Europas sind es oft zehn bis zwanzig Stationen, bei weiten Reisen auch mehr. Jede davon fügt eine winzige Verzögerung hinzu.",
+      "Große Anbieter bauen außerdem viele Reserven und Ausweichwege ein. So legt ein einzelner Ausfall den Verkehr nicht gleich lahm. Fachleute überwachen diese Systeme rund um die Uhr.",
+      "Die gesamte Reise dauert trotzdem meist nur Sekundenbruchteile. Router arbeiten extrem schnell, weil sie die Pakete nicht auspacken, sondern nur den Kopfteil mit der Zieladresse lesen. Den eigentlichen Inhalt betrachten sie normalerweise nicht.",
+      "Die längsten Strecken legen die Pakete allerdings nicht in Routern zurück, sondern in Kabeln, und oft liegen diese auf dem Meeresgrund."
+     ]
+    },
+    {
+     "heading": "Licht unter dem Meer",
+     "paragraphs": [
+      "Wenn Daten zwischen Kontinenten reisen, denken viele an Satelliten. Tatsächlich läuft aber fast der gesamte Verkehr durch Kabel auf dem Meeresgrund. Das Marktforschungsunternehmen TeleGeography hat die oft zitierte Zahl überprüft und bestätigt: Mehr als 99 Prozent des Datenverkehrs zwischen den Kontinenten laufen über solche Unterseekabel.",
+      "Diese Kabel enthalten Glasfasern, haarfeine Fäden aus extrem reinem Glas. Die Daten reisen darin als Lichtimpulse. Ein Lichtblitz kann zum Beispiel für eine Eins stehen, keiner für eine Null. Moderne Verfahren nutzen zudem viele Farben des Lichts gleichzeitig und verschiedene Eigenschaften der Lichtwellen, um noch mehr Daten auf einmal zu übertragen.",
+      "Im Glas ist Licht etwas langsamer als im Vakuum, ungefähr zweihunderttausend Kilometer pro Sekunde. Das ist immer noch schnell genug, um in etwa einer zwanzigstel Sekunde von Europa nach Nordamerika zu kommen. Für manche Anwendungen, etwa den Hochfrequenzhandel an Börsen, zählt trotzdem jede Tausendstelsekunde. Deshalb wird um möglichst kurze Kabelwege regelrecht gewetteifert.",
+      "Ein einzelnes modernes Unterseekabel kann Hunderte Terabit pro Sekunde übertragen. Das entspricht Millionen gleichzeitiger Videostreams. Weltweit liegen Hunderte solcher Kabelsysteme auf dem Meeresgrund. Zusammen sind sie weit über eine Million Kilometer lang, genug, um die Erde viele Dutzend Male zu umrunden.",
+      "In der Tiefsee sind diese Kabel erstaunlich dünn, oft kaum dicker als ein Gartenschlauch. Dort unten droht ihnen wenig Gefahr. In Küstennähe werden sie dagegen dick gepanzert und oft im Meeresboden vergraben. Denn die meisten Schäden entstehen durch Menschen: durch Fischernetze, die über den Boden schleifen, oder durch Schiffsanker.",
+      "Kabelschäden kommen häufiger vor, als man denkt, weltweit viele Male pro Jahr. Meist merkt man davon nichts, weil die Daten über andere Kabel umgeleitet werden. Für die Reparatur gibt es spezielle Schiffe, die das beschädigte Stück vom Meeresgrund heben, ein neues Teilstück einsetzen und das Kabel wieder absenken. Das kann Tage oder Wochen dauern.",
+      "Länder, die nur an wenigen Kabeln hängen, sind besonders verletzlich. Reißen diese, kann ein ganzes Land für eine Weile weitgehend vom Internet abgeschnitten sein. Auch die Sicherheit der Kabel ist in den letzten Jahren stärker ins Blickfeld gerückt. Regierungen und Betreiber überlegen, wie sie diese wichtige Infrastruktur besser schützen können.",
+      "Wem gehören die Kabel? Früher vor allem Konsortien von Telefongesellschaften. Inzwischen investieren große Technologiekonzerne kräftig in eigene Verbindungen, weil ein großer Teil des internationalen Verkehrs zwischen ihren Rechenzentren fließt. Damit haben einige wenige Unternehmen erheblichen Einfluss darauf, wo neue Leitungen entstehen.",
+      "Satelliten spielen trotzdem eine wichtige Rolle, etwa für abgelegene Regionen, Schiffe oder Flugzeuge, wo kein Kabel hinreicht. Neue Netze aus vielen tieffliegenden Satelliten machen den Zugang dort deutlich schneller. Den Verkehr zwischen den Kontinenten tragen aber weiterhin ganz überwiegend die Kabel."
+     ]
+    },
+    {
+     "heading": "Eine kurze Geschichte des Internets",
+     "paragraphs": [
+      "Die Wurzeln des Internets liegen in den USA der Sechzigerjahre. Eine Forschungsbehörde des Verteidigungsministeriums, die ARPA, finanzierte ein Projekt, um Großrechner an verschiedenen Universitäten miteinander zu verbinden. Damals waren Computer selten und teuer, und Forschende sollten Rechenzeit und Programme gemeinsam nutzen können. Das Netz hieß ARPANET.",
+      "Ende Oktober 1969 war es so weit. An der University of California in Los Angeles versuchte der Student Charley Kline unter der Leitung von Professor Leonard Kleinrock, sich auf einem Rechner des Stanford Research Institute anzumelden, gut fünfhundert Kilometer entfernt. Er tippte das Wort „login“. Die ersten beiden Buchstaben kamen an, dann stürzte das System ab.",
+      "Die allererste Nachricht über das Netz lautete also „lo“. Etwa eine Stunde später klappte die vollständige Anmeldung. Kleinrock hat später oft scherzhaft darauf hingewiesen, dass das englische „lo“ auch ein altes Wort für „Siehe!“ ist. Bis Dezember 1969 waren vier Rechner verbunden, in Los Angeles, Stanford, Santa Barbara und Utah.",
+      "In den Siebzigerjahren entstanden weitere Netze, die aber nicht miteinander sprechen konnten. Robert Kahn und Vint Cerf entwickelten deshalb eine gemeinsame Sprache für ein Netz aus Netzen. 1974 veröffentlichten sie ihr Konzept für das Transmission Control Protocol. Später wurde es in zwei Teile aufgeteilt, TCP und IP. Bewusst verzichteten sie auf Patente, damit jeder die Technik nutzen konnte.",
+      "Am Neujahrstag 1983 stellte das ARPANET vollständig auf TCP/IP um. Viele sehen in diesem Tag die eigentliche Geburtsstunde des Internets, wie wir es kennen. Feierlich war er nicht. Cerf erinnerte sich später vor allem an Erleichterung, und manche Beteiligte trugen Anstecker mit der Aufschrift, sie hätten die Umstellung überlebt.",
+      "Noch war das Internet vor allem etwas für Fachleute. Das änderte sich mit einer Erfindung aus Europa. 1989 schlug der britische Physiker Tim Berners-Lee am Forschungszentrum CERN bei Genf ein System vor, mit dem sich Dokumente über Verweise miteinander verknüpfen lassen. Daraus wurde das World Wide Web mit Webseiten, Links und Browsern.",
+      "1991 wurde das Web öffentlich zugänglich. 1993 gab das CERN die Technik ausdrücklich frei, ohne Lizenzgebühren. Im selben Jahr erschien mit Mosaic ein Browser, der Text und Bilder gemeinsam anzeigte und leicht zu bedienen war. Plötzlich konnten auch Menschen ohne technische Kenntnisse das Netz nutzen. Es folgten Jahre explosionsartigen Wachstums.",
+      "In Deutschland verbreitete sich das Internet in privaten Haushalten vor allem ab Mitte der Neunzigerjahre. Viele erinnern sich noch an das pfeifende Geräusch der Modems, die über die Telefonleitung eine Verbindung aufbauten.",
+      "Seitdem hat sich das Internet immer wieder verwandelt. Erst kamen Suchmaschinen und Onlineshops, dann soziale Netzwerke, Smartphones und Videostreaming. Heute nutzen mehrere Milliarden Menschen das Netz, und viele Lebensbereiche sind ohne es kaum noch vorstellbar. Die Grundideen von damals, Pakete, offene Protokolle und dezentrale Struktur, tragen es bis heute.",
+      "Aus einem Experiment mit vier Rechnern ist so in wenigen Jahrzehnten die wichtigste Infrastruktur unserer Zeit geworden.",
+      "Die Erfinder von damals hätten sich das kaum vorstellen können."
+     ]
+    },
+    {
+     "heading": "Das Internet von morgen",
+     "paragraphs": [
+      "Der Datenverkehr im Internet wächst seit Jahrzehnten unaufhörlich. Den größten Anteil machen heute Videos aus, gefolgt von Clouddiensten, bei denen Daten und Programme in entfernten Rechenzentren liegen. Mit künstlicher Intelligenz, virtueller Realität und immer mehr vernetzten Geräten dürfte die Nachfrage weiter steigen.",
+      "Damit wächst auch der Energiebedarf. Rechenzentren, Netze und Endgeräte verbrauchen zusammen große Mengen Strom. Gleichzeitig ist die Übertragung pro Datenmenge über die Jahre immer effizienter geworden. Wie sich der Gesamtverbrauch entwickelt, hängt davon ab, ob die Effizienz mit dem Wachstum Schritt halten kann. Betreiber setzen zunehmend auf erneuerbare Energie und nutzen Abwärme.",
+      "Eine große Baustelle ist die Sicherheit. Das Internet wurde ursprünglich für eine überschaubare Gemeinschaft von Forschenden entwickelt, die sich vertrauten. Viele Grundlagen waren deshalb nicht auf Angriffe ausgelegt. Heute gibt es Betrug, Schadsoftware, Angriffe auf Unternehmen und Behörden sowie Überlastungsangriffe, die Server mit Anfragen fluten. Verschlüsselung und neue Schutzverfahren sollen das Netz robuster machen.",
+      "Auch politisch steht viel auf dem Spiel. Manche Staaten filtern Inhalte, sperren Dienste oder schalten das Internet in Krisenzeiten zeitweise ganz ab. Andere Debatten drehen sich um Netzneutralität, also die Frage, ob alle Daten gleich behandelt werden müssen. Wer das Internet regiert, ist keine rein technische Frage.",
+      "Die Umstellung auf IPv6 schreitet weiter voran, langsam, aber stetig. Mit ihr ist die Adressknappheit gelöst, und Geräte können wieder direkt erreichbar sein. Gleichzeitig bringt das neue Fragen zum Schutz der Privatsphäre mit sich, an denen gearbeitet wird.",
+      "Neue Satellitennetze mit Tausenden tieffliegenden Satelliten bringen schnelles Internet in Gegenden, in die nie ein Kabel verlegt wurde. Für abgelegene Dörfer, Schiffe und Katastrophengebiete ist das ein großer Fortschritt. Kritiker weisen auf Probleme wie Weltraummüll und störende Lichtspuren für die Astronomie hin.",
+      "Gleichzeitig werden weiter neue Unterseekabel verlegt, mit immer höheren Kapazitäten. Manche Forschungsgruppen experimentieren mit Glasfasern, in denen Licht durch einen hohlen Kern läuft und dadurch noch schneller ist. Und die Quantenkommunikation verspricht Verbindungen, die sich grundsätzlich nicht unbemerkt abhören lassen, steckt aber noch in den Anfängen.",
+      "Auch die Art, wie wir das Netz nutzen, verändert sich. Immer mehr Geräte sind ständig online, und viele Dienste funktionieren nur noch mit Internetverbindung.",
+      "Bei allen Veränderungen bleibt das Grundprinzip erstaunlich stabil. Daten werden in Pakete zerlegt, mit Adressen versehen und von Station zu Station weitergereicht. Die Regeln dafür sind offen, und niemand besitzt das Netz allein. Diese Offenheit hat das Internet groß gemacht.",
+      "Ob sie erhalten bleibt, hängt nicht nur von Technik ab, sondern auch von Entscheidungen, die Gesellschaften und Regierungen in den kommenden Jahren treffen.",
+      "Klar ist nur: Das Netz wird weiter wachsen."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Das Internet ist ein dezentrales Netz aus Netzen, das auf Paketvermittlung und gemeinsamen Protokollen wie TCP/IP beruht.",
+    "Adressen, Namen, Router und Unterseekabel bringen Datenpakete in Sekundenbruchteilen um die Welt.",
+    "Aus einem Forschungsnetz von 1969 wurde die wichtigste Infrastruktur unserer Zeit, mit offenen Fragen zu Sicherheit, Energie und Freiheit."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "title": "Do Submarine Cables Account for Over 99% of Intercontinental Data Traffic?",
+   "publisher": "TeleGeography",
+   "url": "https://blog.telegeography.com/2023-mythbusting-part-3",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "UCLA History: A Crash into the Future (October 1969)",
+   "publisher": "UCLA Alumni",
+   "url": "https://alumni.ucla.edu/ucla-history-45/",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Vint Cerf, technical biography",
+   "publisher": "Google Cloud",
+   "url": "https://services.google.com/fh/files/misc/vint_cerf_technical_biography.pdf",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "The birth of the Web",
+   "publisher": "CERN",
+   "url": "https://home.cern/science/computing/birth-web",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "45 years ago: First message sent over the Internet",
+   "publisher": "CBS News",
+   "url": "https://www.cbsnews.com/news/first-message-sent-over-the-internet-45-years-ago",
+   "accessed": "2026-11-03"
+  }
+ ],
+ "factCheckedAt": "2026-11-03"
+}

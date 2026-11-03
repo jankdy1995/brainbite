@@ -1,0 +1,422 @@
+{
+ "id": "how-the-internet-works",
+ "lang": "en",
+ "title": "How Data Travels Across the Internet",
+ "versions": {
+  "5": {
+   "words": 1038,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "You tap send, and in the blink of an eye your photo reaches a friend in Australia. In between lie more than fifteen thousand kilometres, oceans and dozens of computers. How does the internet manage this, and why does almost nothing get lost on the way? In the next five minutes you will find out how data is broken into packets, given addresses and sent around the world through glass fibres."
+     ]
+    },
+    {
+     "heading": "A network of networks, data in packets",
+     "paragraphs": [
+      "The internet is not one single network but a network of many networks. Tens of thousands of networks belonging to providers, universities, companies and data centres are connected to one another. Nobody owns the whole thing. It is held together by shared rules called protocols.",
+      "A look at the devices shows how big this network is. Besides computers and smartphones, televisions, cars, watches and machines are connected to the internet, many billions of them in total. They all speak the same basic language, wherever in the world they happen to be.",
+      "The most important idea is called packet switching. A message, a photo or a video is not sent in one piece but broken into many small packets. Each packet carries a header with the sender, the destination and a sequence number, almost like a postcard with an address on it.",
+      "Each packet travels on its own. Packets from the same message can take different routes and arrive in the wrong order. Only at the recipient’s end are they put back together using their numbers.",
+      "This has big advantages. Many people can share the same lines, rather like cars on a motorway. And if a line fails somewhere, the next packets simply take a different route.",
+      "On the way, the packets pass through many routers, specialised computers that work like railway signal operators. Each router only knows which neighbour to pass a packet to so that it gets closer to its destination. In this way the packet jumps from station to station until it arrives.",
+      "The difference between the internet and the web is important. The internet is the infrastructure of lines and rules. The World Wide Web, with its linked pages, is just one service that runs on top of it. Email and messaging apps use the internet too.",
+      "This idea dates back to the 1960s and has proved its worth ever since. It is the reason why the internet is so robust."
+     ]
+    },
+    {
+     "heading": "Addresses, names and rules",
+     "paragraphs": [
+      "Every device on the internet has an address called an IP address. In its classic form it consists of four numbers separated by dots. There are roughly 4.3 billion of these, which is now too few for all connected devices. That is why there is a gradual switch to a newer version with much longer addresses.",
+      "Because nobody can remember strings of numbers, websites have names. The Domain Name System, or DNS for short, translates them into addresses, like a huge telephone directory spread across the whole world. This usually takes only a few milliseconds.",
+      "DNS servers also remember the answers for a while. If you visit a page again, it often loads even faster as a result.",
+      "To make sure nothing gets lost on the way, there is a protocol called TCP. The recipient confirms which packets have arrived. If a confirmation is missing, the sender sends the packet again. That way a web page or a file arrives complete.",
+      "For video calls or online games, speed matters more than completeness. For these there is a simpler protocol that does without confirmations.",
+      "At home, many devices usually share a single public address. The router hands the replies to the right device, from the laptop to the television. That way, even scarce addresses go a long way.",
+      "Websites today are almost always transmitted in encrypted form. The padlock in your browser’s address bar shows that nobody along the way can read along, not even on public Wi-Fi.",
+      "These rules have caught on everywhere partly because they are open. Nobody has to pay licence fees to use them, which allowed companies all over the world to build devices that work together."
+     ]
+    },
+    {
+     "heading": "Cables on the seabed and a bumpy start",
+     "paragraphs": [
+      "Between continents, data does not travel via satellites but almost entirely through cables on the seabed. According to the market research firm TeleGeography, more than 99 percent of this traffic runs through such undersea cables.",
+      "Inside them are glass fibres, hair-thin threads of glass through which the data races as pulses of light. A signal takes only about a twentieth of a second to get from Europe to North America. The cables are mostly damaged by ships’ anchors or fishing nets, and then special repair ships set out.",
+      "A single modern undersea cable can carry as much data as millions of simultaneous video streams. Hundreds of such cables lie on the seabed around the world, together well over a million kilometres long.",
+      "It all began at the end of October 1969 in the United States. A student in Los Angeles wanted to log in to a computer at Stanford and typed “login”. After two letters the system crashed. So the first message over the network read “lo”.",
+      "Almost all of today’s services, from video streaming to messaging apps, are built on these foundations. The network never had to be reinvented for them; new ideas were simply added on top.",
+      "In the 1970s Vint Cerf and Robert Kahn developed the common language TCP/IP, which is still used today. In 1989 Tim Berners-Lee invented the World Wide Web at CERN near Geneva, which made the network easy for everyone to use.",
+      "Today several billion people use the internet. The basic ideas of the early days still carry it: packets, open rules and no central control.",
+      "The network is not without weaknesses, though. Attacks, fraud and blocked services show that security and freedom on the internet have to be defended again and again."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "The internet is a network of many networks that breaks data into small packets and sends them individually.",
+    "Addresses and names make sure the packets find their destination, and rules such as TCP make sure they arrive complete.",
+    "More than 99 percent of data traffic between continents runs through fibre-optic cables on the seabed."
+   ]
+  },
+  "10": {
+   "words": 2374,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "Every day we send messages, watch videos and open websites without thinking about what actually happens along the way. Yet every one of these actions is a small journey around the world. Over the next ten minutes you will learn why the internet breaks data into packets, how addresses and names work, which rules make sure everything arrives and what role cables on the seabed play."
+     ]
+    },
+    {
+     "heading": "The journey of a message",
+     "paragraphs": [
+      "The internet is not a single network but a network of networks. Tens of thousands of independent networks belonging to telecom providers, universities, companies and data centres are linked together. Nobody owns the whole thing. What holds it all together are common rules called protocols.",
+      "Let’s follow a message. Your smartphone sends it by radio to the Wi-Fi router or a mobile phone mast. From there it goes into your provider’s network and on through large hubs where many networks meet, until it reaches its destination. Frankfurt in Germany is home to one of the largest of these exchange points in the world.",
+      "At the other end is a server, a computer in a data centre that holds the content you want. Big services run many such centres and keep copies of popular content close to their users. That way not every video has to cross the Atlantic every single time.",
+      "On the way, the data passes through many routers, specialised computers that act like railway signal operators. A router does not know the whole route. It only knows which neighbour to pass a packet to so that it gets closer to its destination. In this way the data jumps from station to station, often ten to twenty times.",
+      "The difference between the internet and the web is important. The internet is the infrastructure, meaning the lines and the rules for transport. The World Wide Web is just one service on top of it, namely the linked pages in your browser. Email, video calls and messaging apps also use the internet.",
+      "One basic idea is that the network does not need central control. If a line fails, the data often simply takes another route. This resilience was already an important goal when the internet was developed in the 1960s and 1970s.",
+      "The internet was also able to grow so big because it is open. The most important protocols were not patented but made freely available. Anyone may use them, which allowed devices and services to emerge all over the world that understand each other without any problems.",
+      "The following sections show how data is packaged, addressed, reliably delivered and carried across the oceans on this journey."
+     ]
+    },
+    {
+     "heading": "Data in packets",
+     "paragraphs": [
+      "Perhaps the most important idea behind the internet is called packet switching. Instead of sending a message as a whole, it is broken up into many small pieces called packets. A photo, an email or a video consists of hundreds or thousands of such packets as it travels through the network.",
+      "Each packet has two parts. One is a piece of the actual data. The other is a header containing administrative details: who the sender is, where the packet is going, which piece it is and a few check values. You can picture it as a postcard with the address on the front and part of a long letter on the back.",
+      "The special thing is that each packet travels on its own. Packets belonging to the same message can take different routes, depending on where there is room at the moment. So they don’t necessarily arrive in the right order either. Only at the recipient’s end are they put back together correctly using their numbers.",
+      "Telephone calls used to work very differently. In a traditional phone call, a fixed line was connected between the two callers for the entire duration of the conversation. Even when nobody was speaking, the line was occupied. Experts call this circuit switching. It is reliable but wasteful.",
+      "With packet switching, everyone shares the lines. Packets from many different users flow through the same cables all mixed together, rather like cars on a motorway. If nobody is sending anything at a given moment, the line is free for others. That makes much better use of expensive connections.",
+      "Another advantage is robustness. If a line fails somewhere, the next packets are simply sent another way. If a packet goes missing on the way, only that one piece has to be sent again, not the whole message. With large files, that saves an enormous amount of time.",
+      "The mathematical foundations for this were laid by researchers in the 1960s. One of them was Leonard Kleinrock, who studied how data packets behave in networks when they pile up as if in a queue. Independently, others in the United States and Britain developed similar ideas.",
+      "How big is a packet? Usually it carries at most about one and a half kilobytes of data, roughly half a page of text. A single smartphone photo is therefore broken into thousands of packets. That all these pieces travel in fractions of a second and end up forming a complete picture is an impressive technical achievement.",
+      "For the packets to know where to go, they need addresses. That is what the next section is about."
+     ]
+    },
+    {
+     "heading": "Addresses and names",
+     "paragraphs": [
+      "Every device that can be reached on the internet needs an address. It is called an IP address, after the Internet Protocol. A data packet carries the IP address of its sender and that of its destination. Every station along the way uses this information to decide what to do with it.",
+      "The classic form, IPv4, consists of four numbers between zero and two hundred and fifty-five, separated by dots. This allows roughly 4.3 billion different addresses. When the internet was invented, that seemed like an infinite number. Today, however, there are far more connected devices than people on Earth, and addresses have long been scarce.",
+      "That is why there is a newer version called IPv6. Its addresses are much longer and are written using digits and letters. The number of possible addresses is so vast that you could give every grain of sand on Earth many of them. The switchover has been going on step by step for many years. Both versions are currently used side by side.",
+      "Until then, a trick helps. Your router at home usually has only one public address. All the devices in your home, from the laptop to the television, get internal addresses that only apply within the home network. The router keeps track of which reply belongs to which device and distributes them accordingly. That way, many devices share a single address to the outside world.",
+      "Hardly anyone can remember strings of numbers, though. That is why we use names, such as the name of a well-known news site or a search engine. For your device to know which IP address belongs to a name, it asks the Domain Name System, or DNS for short. You can think of it as a huge telephone directory distributed across the whole world.",
+      "The lookup happens in several steps. First your device asks a DNS server, usually your provider’s. If that server doesn’t know the answer, it works its way through a hierarchy: first asking servers that know who is responsible for endings such as “de” or “com”, then the server responsible for the specific name. At the end comes the address it was looking for.",
+      "That sounds complicated, but it usually takes just a few milliseconds. Devices and servers also remember the answers for a while. If you visit a site a second time, often there is no need to ask again at all. This caching takes an enormous load off the whole system.",
+      "DNS is so fundamental that disruptions have big consequences. If an important DNS service fails or is misconfigured, many websites suddenly become unreachable, even though the servers themselves are working perfectly. To you, it then looks as if the internet is broken. This naming system, by the way, was introduced as early as the 1980s.",
+      "Addresses alone are not enough, though. There also need to be rules for how devices communicate and how they deal with lost packets."
+     ]
+    },
+    {
+     "heading": "The rules: protocols",
+     "paragraphs": [
+      "For billions of different devices to talk to each other, they need a common language. On the internet this language is called TCP/IP. It consists of two closely linked parts: the Internet Protocol, IP, which handles addresses and forwarding, and the Transmission Control Protocol, TCP, which ensures reliable delivery.",
+      "IP on its own is a bit like a postbox into which you drop postcards. Most of them arrive, some don’t, and the order isn’t guaranteed. For many applications that is not good enough. A web page or a file has to arrive complete and without errors. That is exactly what TCP takes care of.",
+      "Before TCP sends any data, the sender and the recipient set up a connection. This happens through a brief exchange of three messages known as a handshake. In effect, one side asks: are you ready? The other answers: yes, are you? And the first confirms. Only then does the actual transfer begin.",
+      "During the transfer, the recipient regularly confirms which packets it has received. If a confirmation doesn’t arrive, the sender sends the packet in question again. Using the numbers, the recipient puts everything together in the right order. TCP also adjusts the pace: if the network gets busy, it sends more slowly so as not to cause a traffic jam.",
+      "For some applications this thoroughness is more of a hindrance. In a video call or an online game, it matters more that data arrives quickly than that every single packet arrives. A lost frame in a video is hardly noticeable, but a delay is. For this there is a simpler protocol called UDP, which does without confirmations.",
+      "Experts like to think of protocols as layers that build on one another. At the very bottom is the physical transmission, such as radio waves or light signals. Above that is forwarding with IP, and above that reliable delivery with TCP. At the top are applications such as the web or email. Each layer only takes care of its own task.",
+      "For websites, the protocol at the top level is HTTP. It governs how your browser requests a page and how the server delivers it. Today the encrypted version, HTTPS, is almost always used. The small padlock in the address bar shows that nobody along the way can read the content or change it without being noticed.",
+      "Encryption matters because packets pass through many other people’s networks and devices on their way. Without encryption, anyone who controlled one of these stations could in principle read the data, for example on public Wi-Fi. With HTTPS, outsiders can only see which server you are talking to, but not what you read or type there.",
+      "The layered approach is one reason why the internet is so flexible. New applications can be created without the foundations having to change."
+     ]
+    },
+    {
+     "heading": "Light beneath the sea",
+     "paragraphs": [
+      "When data travels between continents, many people think of satellites. In fact, almost all of the traffic runs through cables on the seabed. The market research firm TeleGeography has checked the often-quoted figure and confirmed it: more than 99 percent of data traffic between continents runs through these undersea cables.",
+      "The cables contain glass fibres, hair-thin threads of extremely pure glass. Data travels through them as pulses of light. A flash of light can stand for a one, no flash for a zero, for example. Modern techniques also use many colours of light at once and different properties of the light waves to transmit even more data at the same time.",
+      "In glass, light is somewhat slower than in a vacuum, roughly two hundred thousand kilometres per second. That is still fast enough to get from Europe to North America in about a twentieth of a second. For some applications, such as high-frequency trading on stock exchanges, every thousandth of a second still counts. That is why there is real competition for the shortest possible cable routes.",
+      "A single modern undersea cable can carry hundreds of terabits per second. That is the equivalent of millions of simultaneous video streams. Hundreds of such cable systems lie on the seabed around the world. Together they are well over a million kilometres long, enough to wrap around the Earth many dozens of times.",
+      "In the deep sea, these cables are surprisingly thin, often barely thicker than a garden hose. Down there, little threatens them. Near the coast, by contrast, they are heavily armoured and often buried in the seabed. That is because most damage is caused by people: by fishing nets dragged along the bottom or by ships’ anchors.",
+      "Cable damage happens more often than you might think, many times a year worldwide. Usually nobody notices, because the data is rerouted over other cables. Special ships carry out the repairs: they lift the damaged section from the seabed, splice in a new piece and lower the cable back down. That can take days or weeks.",
+      "Countries that depend on only a few cables are especially vulnerable. If these break, a whole country can be largely cut off from the internet for a while. The security of the cables has also attracted more attention in recent years. Governments and operators are considering how to better protect this vital infrastructure.",
+      "Who owns the cables? In the past, mostly consortia of telephone companies. These days, big technology firms invest heavily in connections of their own, because a large share of international traffic flows between their data centres. This gives a handful of companies considerable influence over where new lines are built.",
+      "Satellites still play an important role, for example for remote regions, ships or aircraft that no cable can reach. New networks of many low-flying satellites are making access there much faster. But the traffic between continents is still carried overwhelmingly by cables."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "Data is broken into packets that travel independently and are reassembled at their destination.",
+    "IP addresses and the naming system DNS guide the packets to their goal, and the TCP protocol makes sure nothing gets lost.",
+    "Between continents, data travels as pulses of light through fibre-optic cables lying on the seabed."
+   ]
+  },
+  "15": {
+   "words": 3113,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "The internet seems like a cloud that is simply always there. In reality it is a very physical structure of cables, data centres and billions of devices that all follow shared rules. Here you will learn how this network of networks is built, how data is broken into packets, how addresses and names work, which protocols govern the traffic, how routers find the way and why almost everything runs along the ocean floor."
+     ]
+    },
+    {
+     "heading": "A network of networks",
+     "paragraphs": [
+      "The word internet is short for a network between networks. That describes it well. There is no single big network that belongs to anyone. Instead, tens of thousands of independent networks are connected to one another: those of telecom providers, universities, companies, data centres and government agencies.",
+      "Each of these networks is run by someone different. What turns them into one shared internet are agreements between them and, above all, common rules. These rules are called protocols. They define how data is packaged, addressed and passed on. As long as everyone follows them, devices all over the world can understand each other.",
+      "Let’s follow the path of a message. Your smartphone first sends it by radio to the Wi-Fi router in your home or to a mobile phone mast. From there it travels over copper or fibre-optic lines into your provider’s network. The provider passes it on, often through large hubs where many networks meet and exchange data.",
+      "Each of these steps happens automatically and so quickly that you never notice any of it.",
+      "These hubs are called internet exchange points. In large halls, equipment from different providers stands side by side and is wired directly together. Frankfurt in Germany is home to one of the largest exchange points in the world. If you open a website in Germany, the data very probably passes through that city at some point.",
+      "At the other end is a server, a computer that holds the content you want. It usually sits in a data centre, a well-cooled building full of computers. Big services run many such centres around the world and keep copies of their content close to their users. That way a popular video does not have to cross the Atlantic every single time.",
+      "How many devices are connected to the internet can only be estimated. Besides computers and smartphones, there are televisions, cars, watches, fridges, traffic lights and machines in factories. Together they number many billions. They all speak the same basic language, whether they sit in a living room in Cologne or in a laboratory in Tokyo.",
+      "The difference between the internet and the World Wide Web is important. The internet is the infrastructure, meaning the network of lines and the rules for transport. The web is just one service that runs on top of it, namely the linked web pages you open in your browser. Email, video calls, online games and messaging apps also use the internet, but not necessarily the web.",
+      "Even so, the system works astonishingly well. Billions of messages, videos and web pages reach their destination every day, usually without anyone giving it a second thought, which is perhaps the best compliment any infrastructure can receive.",
+      "One basic idea of the internet is that it doesn’t need central control. If one network or line fails, the data can often take another route. This resilience was an important goal right from the start. Even so, the network is not without weak spots, as we will see later.",
+      "The internet was also able to grow so large because its foundations are open. The most important protocols were not patented but made freely available. Anyone may use them without paying fees. That allowed companies and researchers all over the world to develop devices and services that understand each other without any problems.",
+      "In the following sections we will look at how data is packaged, addressed and passed along on this journey."
+     ]
+    },
+    {
+     "heading": "Data in packets",
+     "paragraphs": [
+      "Perhaps the most important idea behind the internet is called packet switching. Instead of sending a message as a whole, it is broken up into many small pieces called packets. A photo, an email or a video consists of hundreds or thousands of such packets as it travels through the network.",
+      "Each packet has two parts. One is a piece of the actual data. The other is a header containing administrative details: who the sender is, where the packet is going, which piece it is and a few check values. You can picture it as a postcard with the address on the front and part of a long letter on the back.",
+      "The special thing is that each packet travels on its own. Packets belonging to the same message can take different routes, depending on where there is room at the moment. So they don’t necessarily arrive in the right order either. Only at the recipient’s end are they put back together correctly using their numbers.",
+      "Telephone calls used to work very differently. In a traditional phone call, a fixed line was connected between the two callers for the entire duration of the conversation. Even when nobody was speaking, the line was occupied. Experts call this circuit switching. It is reliable but wasteful.",
+      "With packet switching, everyone shares the lines. Packets from many different users flow through the same cables all mixed together, rather like cars on a motorway. If nobody is sending anything at a given moment, the line is free for others. That makes much better use of expensive connections.",
+      "Another advantage is robustness. If a line fails somewhere, the next packets are simply sent another way. If a packet goes missing on the way, only that one piece has to be sent again, not the whole message. With large files, that saves an enormous amount of time.",
+      "The mathematical foundations for this were laid by researchers in the 1960s. One of them was Leonard Kleinrock, who studied how data packets behave in networks when they pile up as if in a queue. Independently, others in the United States and Britain developed similar ideas.",
+      "How big is a packet? Usually it carries at most about one and a half kilobytes of data, roughly half a page of text. A single smartphone photo is therefore broken into thousands of packets. That all these pieces travel in fractions of a second and end up forming a complete picture is an impressive technical achievement.",
+      "For the packets to know where to go, they need addresses. That is what the next section is about."
+     ]
+    },
+    {
+     "heading": "Addresses and names",
+     "paragraphs": [
+      "Every device that can be reached on the internet needs an address. It is called an IP address, after the Internet Protocol. A data packet carries the IP address of its sender and that of its destination. Every station along the way uses this information to decide what to do with it.",
+      "The classic form, IPv4, consists of four numbers between zero and two hundred and fifty-five, separated by dots. This allows roughly 4.3 billion different addresses. When the internet was invented, that seemed like an infinite number. Today, however, there are far more connected devices than people on Earth, and addresses have long been scarce.",
+      "That is why there is a newer version called IPv6. Its addresses are much longer and are written using digits and letters. The number of possible addresses is so vast that you could give every grain of sand on Earth many of them. The switchover has been going on step by step for many years. Both versions are currently used side by side.",
+      "Until then, a trick helps. Your router at home usually has only one public address. All the devices in your home, from the laptop to the television, get internal addresses that only apply within the home network. The router keeps track of which reply belongs to which device and distributes them accordingly. That way, many devices share a single address to the outside world.",
+      "Hardly anyone can remember strings of numbers, though. That is why we use names, such as the name of a well-known news site or a search engine. For your device to know which IP address belongs to a name, it asks the Domain Name System, or DNS for short. You can think of it as a huge telephone directory distributed across the whole world.",
+      "The lookup happens in several steps. First your device asks a DNS server, usually your provider’s. If that server doesn’t know the answer, it works its way through a hierarchy: first asking servers that know who is responsible for endings such as “de” or “com”, then the server responsible for the specific name. At the end comes the address it was looking for.",
+      "That sounds complicated, but it usually takes just a few milliseconds. Devices and servers also remember the answers for a while. If you visit a site a second time, often there is no need to ask again at all. This caching takes an enormous load off the whole system.",
+      "DNS is so fundamental that disruptions have big consequences. If an important DNS service fails or is misconfigured, many websites suddenly become unreachable, even though the servers themselves are working perfectly. To you, it then looks as if the internet is broken. This naming system, by the way, was introduced as early as the 1980s.",
+      "Addresses alone are not enough, though. There also need to be rules for how devices communicate and how they deal with lost packets."
+     ]
+    },
+    {
+     "heading": "The rules: protocols",
+     "paragraphs": [
+      "For billions of different devices to talk to each other, they need a common language. On the internet this language is called TCP/IP. It consists of two closely linked parts: the Internet Protocol, IP, which handles addresses and forwarding, and the Transmission Control Protocol, TCP, which ensures reliable delivery.",
+      "IP on its own is a bit like a postbox into which you drop postcards. Most of them arrive, some don’t, and the order isn’t guaranteed. For many applications that is not good enough. A web page or a file has to arrive complete and without errors. That is exactly what TCP takes care of.",
+      "Before TCP sends any data, the sender and the recipient set up a connection. This happens through a brief exchange of three messages known as a handshake. In effect, one side asks: are you ready? The other answers: yes, are you? And the first confirms. Only then does the actual transfer begin.",
+      "During the transfer, the recipient regularly confirms which packets it has received. If a confirmation doesn’t arrive, the sender sends the packet in question again. Using the numbers, the recipient puts everything together in the right order. TCP also adjusts the pace: if the network gets busy, it sends more slowly so as not to cause a traffic jam.",
+      "For some applications this thoroughness is more of a hindrance. In a video call or an online game, it matters more that data arrives quickly than that every single packet arrives. A lost frame in a video is hardly noticeable, but a delay is. For this there is a simpler protocol called UDP, which does without confirmations.",
+      "Experts like to think of protocols as layers that build on one another. At the very bottom is the physical transmission, such as radio waves or light signals. Above that is forwarding with IP, and above that reliable delivery with TCP. At the top are applications such as the web or email. Each layer only takes care of its own task.",
+      "For websites, the protocol at the top level is HTTP. It governs how your browser requests a page and how the server delivers it. Today the encrypted version, HTTPS, is almost always used. The small padlock in the address bar shows that nobody along the way can read the content or change it without being noticed.",
+      "Encryption matters because packets pass through many other people’s networks and devices on their way. Without encryption, anyone who controlled one of these stations could in principle read the data, for example on public Wi-Fi. With HTTPS, outsiders can only see which server you are talking to, but not what you read or type there.",
+      "The layered approach is one reason why the internet is so flexible. New applications can be created without the foundations having to change."
+     ]
+    },
+    {
+     "heading": "Routers: the network’s signal operators",
+     "paragraphs": [
+      "On their way to their destination, data packets pass through many stations. At each station sits a router, a specialised computer that receives packets and passes them on. The router in your home is only the smallest member of this family. In the networks of large providers there are machines that process an unimaginable number of packets every second.",
+      "A router does not know the whole route to the destination. It only knows which neighbour it should hand a packet to so that the packet gets closer to its goal. For this it uses a kind of signpost table called a routing table. In essence it says: please send packets for these address ranges over that line.",
+      "You can picture it as a journey full of signposts. Nobody hands you a complete map at the start. But at every junction there is a sign showing you the direction. If you follow them, you get there. In the same way, a packet jumps from router to router until it reaches its destination. Experts call each of these jumps a hop.",
+      "How do routers know which route is good? Within a network, they constantly exchange information, such as which lines are currently free or have failed. Between the large networks of different operators, a special protocol called BGP takes over. Through it, the networks tell each other which address ranges they can reach.",
+      "BGP is something like the diplomatic protocol between the nations of the internet. Each large network announces: through me you can reach these addresses. The others then decide which routes they want to use, partly on business grounds. The result is a constantly updated picture of how the internet is connected at any given moment.",
+      "This system relies to a large extent on trust. If a network accidentally announces the wrong routes, data can be misdirected on a large scale. Such mistakes have more than once made major services unreachable for hours. Sometimes there is intent behind it, too. That is why experts are working on ways to secure route announcements cryptographically.",
+      "You can see for yourself how many stations a packet passes through. A tool called traceroute shows which routers a packet travels through to reach a particular address. Within Europe there are often ten to twenty stations, and more for long journeys. Each one adds a tiny delay.",
+      "Large providers also build in plenty of spare capacity and alternative routes, so that a single failure does not bring traffic to a halt. Even so, a mistake in one important place can occasionally ripple across large parts of the network, which is why engineers monitor these systems around the clock.",
+      "Even so, the whole journey usually takes only fractions of a second. Routers work extremely fast because they don’t unpack the packets; they only read the header with the destination address. They normally don’t look at the actual content at all.",
+      "The longest distances, however, are not covered inside routers but in cables, and these often lie on the ocean floor.",
+      "Without routers, the internet would simply be a pile of disconnected cables."
+     ]
+    },
+    {
+     "heading": "Light beneath the sea",
+     "paragraphs": [
+      "When data travels between continents, many people think of satellites. In fact, almost all of the traffic runs through cables on the seabed. The market research firm TeleGeography has checked the often-quoted figure and confirmed it: more than 99 percent of data traffic between continents runs through these undersea cables.",
+      "The cables contain glass fibres, hair-thin threads of extremely pure glass. Data travels through them as pulses of light. A flash of light can stand for a one, no flash for a zero, for example. Modern techniques also use many colours of light at once and different properties of the light waves to transmit even more data at the same time.",
+      "In glass, light is somewhat slower than in a vacuum, roughly two hundred thousand kilometres per second. That is still fast enough to get from Europe to North America in about a twentieth of a second. For some applications, such as high-frequency trading on stock exchanges, every thousandth of a second still counts. That is why there is real competition for the shortest possible cable routes.",
+      "A single modern undersea cable can carry hundreds of terabits per second. That is the equivalent of millions of simultaneous video streams. Hundreds of such cable systems lie on the seabed around the world. Together they are well over a million kilometres long, enough to wrap around the Earth many dozens of times.",
+      "In the deep sea, these cables are surprisingly thin, often barely thicker than a garden hose. Down there, little threatens them. Near the coast, by contrast, they are heavily armoured and often buried in the seabed. That is because most damage is caused by people: by fishing nets dragged along the bottom or by ships’ anchors.",
+      "Cable damage happens more often than you might think, many times a year worldwide. Usually nobody notices, because the data is rerouted over other cables. Special ships carry out the repairs: they lift the damaged section from the seabed, splice in a new piece and lower the cable back down. That can take days or weeks.",
+      "Countries that depend on only a few cables are especially vulnerable. If these break, a whole country can be largely cut off from the internet for a while. The security of the cables has also attracted more attention in recent years. Governments and operators are considering how to better protect this vital infrastructure.",
+      "Who owns the cables? In the past, mostly consortia of telephone companies. These days, big technology firms invest heavily in connections of their own, because a large share of international traffic flows between their data centres. This gives a handful of companies considerable influence over where new lines are built.",
+      "Satellites still play an important role, for example for remote regions, ships or aircraft that no cable can reach. New networks of many low-flying satellites are making access there much faster. But the traffic between continents is still carried overwhelmingly by cables."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "The internet links tens of thousands of independent networks through shared rules called protocols.",
+    "Data travels as packets with a sender and a destination, routers pass them on step by step, and TCP reliably puts them back together.",
+    "Undersea fibre-optic cables carry by far the largest share of international data traffic, with satellites carrying only a small remainder."
+   ]
+  },
+  "20": {
+   "words": 4147,
+   "sections": [
+    {
+     "heading": "",
+     "paragraphs": [
+      "At the end of October 1969, a student in Los Angeles sent the first message across a new computer network. It was meant to read “login”, but after two letters the system crashed. From that bumpy start grew the internet that now connects billions of people. In this article you will learn how it is built, how data travels, which rules make sure it arrives, where it all came from and what challenges the network faces."
+     ]
+    },
+    {
+     "heading": "A network of networks",
+     "paragraphs": [
+      "The word internet is short for a network between networks. That describes it well. There is no single big network that belongs to anyone. Instead, tens of thousands of independent networks are connected to one another: those of telecom providers, universities, companies, data centres and government agencies.",
+      "Each of these networks is run by someone different. What turns them into one shared internet are agreements between them and, above all, common rules. These rules are called protocols. They define how data is packaged, addressed and passed on. As long as everyone follows them, devices all over the world can understand each other.",
+      "Let’s follow the path of a message. Your smartphone first sends it by radio to the Wi-Fi router in your home or to a mobile phone mast. From there it travels over copper or fibre-optic lines into your provider’s network. The provider passes it on, often through large hubs where many networks meet and exchange data.",
+      "Each of these steps happens automatically and so quickly that you never notice any of it.",
+      "These hubs are called internet exchange points. In large halls, equipment from different providers stands side by side and is wired directly together. Frankfurt in Germany is home to one of the largest exchange points in the world. If you open a website in Germany, the data very probably passes through that city at some point.",
+      "At the other end is a server, a computer that holds the content you want. It usually sits in a data centre, a well-cooled building full of computers. Big services run many such centres around the world and keep copies of their content close to their users. That way a popular video does not have to cross the Atlantic every single time.",
+      "How many devices are connected to the internet can only be estimated. Besides computers and smartphones, there are televisions, cars, watches, fridges, traffic lights and machines in factories. Together they number many billions. They all speak the same basic language, whether they sit in a living room in Cologne or in a laboratory in Tokyo.",
+      "The difference between the internet and the World Wide Web is important. The internet is the infrastructure, meaning the network of lines and the rules for transport. The web is just one service that runs on top of it, namely the linked web pages you open in your browser. Email, video calls, online games and messaging apps also use the internet, but not necessarily the web.",
+      "Even so, the system works astonishingly well. Billions of messages, videos and web pages reach their destination every day, usually without anyone giving it a second thought, which is perhaps the best compliment any infrastructure can receive.",
+      "One basic idea of the internet is that it doesn’t need central control. If one network or line fails, the data can often take another route. This resilience was an important goal right from the start. Even so, the network is not without weak spots, as we will see later.",
+      "The internet was also able to grow so large because its foundations are open. The most important protocols were not patented but made freely available. Anyone may use them without paying fees. That allowed companies and researchers all over the world to develop devices and services that understand each other without any problems.",
+      "In the following sections we will look at how data is packaged, addressed and passed along on this journey."
+     ]
+    },
+    {
+     "heading": "Data in packets",
+     "paragraphs": [
+      "Perhaps the most important idea behind the internet is called packet switching. Instead of sending a message as a whole, it is broken up into many small pieces called packets. A photo, an email or a video consists of hundreds or thousands of such packets as it travels through the network.",
+      "Each packet has two parts. One is a piece of the actual data. The other is a header containing administrative details: who the sender is, where the packet is going, which piece it is and a few check values. You can picture it as a postcard with the address on the front and part of a long letter on the back.",
+      "The special thing is that each packet travels on its own. Packets belonging to the same message can take different routes, depending on where there is room at the moment. So they don’t necessarily arrive in the right order either. Only at the recipient’s end are they put back together correctly using their numbers.",
+      "Telephone calls used to work very differently. In a traditional phone call, a fixed line was connected between the two callers for the entire duration of the conversation. Even when nobody was speaking, the line was occupied. Experts call this circuit switching. It is reliable but wasteful.",
+      "With packet switching, everyone shares the lines. Packets from many different users flow through the same cables all mixed together, rather like cars on a motorway. If nobody is sending anything at a given moment, the line is free for others. That makes much better use of expensive connections.",
+      "Another advantage is robustness. If a line fails somewhere, the next packets are simply sent another way. If a packet goes missing on the way, only that one piece has to be sent again, not the whole message. With large files, that saves an enormous amount of time.",
+      "The mathematical foundations for this were laid by researchers in the 1960s. One of them was Leonard Kleinrock, who studied how data packets behave in networks when they pile up as if in a queue. Independently, others in the United States and Britain developed similar ideas.",
+      "How big is a packet? Usually it carries at most about one and a half kilobytes of data, roughly half a page of text. A single smartphone photo is therefore broken into thousands of packets. That all these pieces travel in fractions of a second and end up forming a complete picture is an impressive technical achievement.",
+      "For the packets to know where to go, they need addresses. That is what the next section is about."
+     ]
+    },
+    {
+     "heading": "Addresses and names",
+     "paragraphs": [
+      "Every device that can be reached on the internet needs an address. It is called an IP address, after the Internet Protocol. A data packet carries the IP address of its sender and that of its destination. Every station along the way uses this information to decide what to do with it.",
+      "The classic form, IPv4, consists of four numbers between zero and two hundred and fifty-five, separated by dots. This allows roughly 4.3 billion different addresses. When the internet was invented, that seemed like an infinite number. Today, however, there are far more connected devices than people on Earth, and addresses have long been scarce.",
+      "That is why there is a newer version called IPv6. Its addresses are much longer and are written using digits and letters. The number of possible addresses is so vast that you could give every grain of sand on Earth many of them. The switchover has been going on step by step for many years. Both versions are currently used side by side.",
+      "Until then, a trick helps. Your router at home usually has only one public address. All the devices in your home, from the laptop to the television, get internal addresses that only apply within the home network. The router keeps track of which reply belongs to which device and distributes them accordingly. That way, many devices share a single address to the outside world.",
+      "Hardly anyone can remember strings of numbers, though. That is why we use names, such as the name of a well-known news site or a search engine. For your device to know which IP address belongs to a name, it asks the Domain Name System, or DNS for short. You can think of it as a huge telephone directory distributed across the whole world.",
+      "The lookup happens in several steps. First your device asks a DNS server, usually your provider’s. If that server doesn’t know the answer, it works its way through a hierarchy: first asking servers that know who is responsible for endings such as “de” or “com”, then the server responsible for the specific name. At the end comes the address it was looking for.",
+      "That sounds complicated, but it usually takes just a few milliseconds. Devices and servers also remember the answers for a while. If you visit a site a second time, often there is no need to ask again at all. This caching takes an enormous load off the whole system.",
+      "DNS is so fundamental that disruptions have big consequences. If an important DNS service fails or is misconfigured, many websites suddenly become unreachable, even though the servers themselves are working perfectly. To you, it then looks as if the internet is broken. This naming system, by the way, was introduced as early as the 1980s.",
+      "Addresses alone are not enough, though. There also need to be rules for how devices communicate and how they deal with lost packets."
+     ]
+    },
+    {
+     "heading": "The rules: protocols",
+     "paragraphs": [
+      "For billions of different devices to talk to each other, they need a common language. On the internet this language is called TCP/IP. It consists of two closely linked parts: the Internet Protocol, IP, which handles addresses and forwarding, and the Transmission Control Protocol, TCP, which ensures reliable delivery.",
+      "IP on its own is a bit like a postbox into which you drop postcards. Most of them arrive, some don’t, and the order isn’t guaranteed. For many applications that is not good enough. A web page or a file has to arrive complete and without errors. That is exactly what TCP takes care of.",
+      "Before TCP sends any data, the sender and the recipient set up a connection. This happens through a brief exchange of three messages known as a handshake. In effect, one side asks: are you ready? The other answers: yes, are you? And the first confirms. Only then does the actual transfer begin.",
+      "During the transfer, the recipient regularly confirms which packets it has received. If a confirmation doesn’t arrive, the sender sends the packet in question again. Using the numbers, the recipient puts everything together in the right order. TCP also adjusts the pace: if the network gets busy, it sends more slowly so as not to cause a traffic jam.",
+      "For some applications this thoroughness is more of a hindrance. In a video call or an online game, it matters more that data arrives quickly than that every single packet arrives. A lost frame in a video is hardly noticeable, but a delay is. For this there is a simpler protocol called UDP, which does without confirmations.",
+      "Experts like to think of protocols as layers that build on one another. At the very bottom is the physical transmission, such as radio waves or light signals. Above that is forwarding with IP, and above that reliable delivery with TCP. At the top are applications such as the web or email. Each layer only takes care of its own task.",
+      "For websites, the protocol at the top level is HTTP. It governs how your browser requests a page and how the server delivers it. Today the encrypted version, HTTPS, is almost always used. The small padlock in the address bar shows that nobody along the way can read the content or change it without being noticed.",
+      "Encryption matters because packets pass through many other people’s networks and devices on their way. Without encryption, anyone who controlled one of these stations could in principle read the data, for example on public Wi-Fi. With HTTPS, outsiders can only see which server you are talking to, but not what you read or type there.",
+      "The layered approach is one reason why the internet is so flexible. New applications can be created without the foundations having to change."
+     ]
+    },
+    {
+     "heading": "Routers: the network’s signal operators",
+     "paragraphs": [
+      "On their way to their destination, data packets pass through many stations. At each station sits a router, a specialised computer that receives packets and passes them on. The router in your home is only the smallest member of this family. In the networks of large providers there are machines that process an unimaginable number of packets every second.",
+      "A router does not know the whole route to the destination. It only knows which neighbour it should hand a packet to so that the packet gets closer to its goal. For this it uses a kind of signpost table called a routing table. In essence it says: please send packets for these address ranges over that line.",
+      "You can picture it as a journey full of signposts. Nobody hands you a complete map at the start. But at every junction there is a sign showing you the direction. If you follow them, you get there. In the same way, a packet jumps from router to router until it reaches its destination. Experts call each of these jumps a hop.",
+      "How do routers know which route is good? Within a network, they constantly exchange information, such as which lines are currently free or have failed. Between the large networks of different operators, a special protocol called BGP takes over. Through it, the networks tell each other which address ranges they can reach.",
+      "BGP is something like the diplomatic protocol between the nations of the internet. Each large network announces: through me you can reach these addresses. The others then decide which routes they want to use, partly on business grounds. The result is a constantly updated picture of how the internet is connected at any given moment.",
+      "This system relies to a large extent on trust. If a network accidentally announces the wrong routes, data can be misdirected on a large scale. Such mistakes have more than once made major services unreachable for hours. Sometimes there is intent behind it, too. That is why experts are working on ways to secure route announcements cryptographically.",
+      "You can see for yourself how many stations a packet passes through. A tool called traceroute shows which routers a packet travels through to reach a particular address. Within Europe there are often ten to twenty stations, and more for long journeys. Each one adds a tiny delay.",
+      "Large providers also build in plenty of spare capacity and alternative routes, so that a single failure does not bring traffic to a halt. Even so, a mistake in one important place can occasionally ripple across large parts of the network, which is why engineers monitor these systems around the clock.",
+      "Even so, the whole journey usually takes only fractions of a second. Routers work extremely fast because they don’t unpack the packets; they only read the header with the destination address. They normally don’t look at the actual content at all.",
+      "The longest distances, however, are not covered inside routers but in cables, and these often lie on the ocean floor.",
+      "Without routers, the internet would simply be a pile of disconnected cables."
+     ]
+    },
+    {
+     "heading": "Light beneath the sea",
+     "paragraphs": [
+      "When data travels between continents, many people think of satellites. In fact, almost all of the traffic runs through cables on the seabed. The market research firm TeleGeography has checked the often-quoted figure and confirmed it: more than 99 percent of data traffic between continents runs through these undersea cables.",
+      "The cables contain glass fibres, hair-thin threads of extremely pure glass. Data travels through them as pulses of light. A flash of light can stand for a one, no flash for a zero, for example. Modern techniques also use many colours of light at once and different properties of the light waves to transmit even more data at the same time.",
+      "In glass, light is somewhat slower than in a vacuum, roughly two hundred thousand kilometres per second. That is still fast enough to get from Europe to North America in about a twentieth of a second. For some applications, such as high-frequency trading on stock exchanges, every thousandth of a second still counts. That is why there is real competition for the shortest possible cable routes.",
+      "A single modern undersea cable can carry hundreds of terabits per second. That is the equivalent of millions of simultaneous video streams. Hundreds of such cable systems lie on the seabed around the world. Together they are well over a million kilometres long, enough to wrap around the Earth many dozens of times.",
+      "In the deep sea, these cables are surprisingly thin, often barely thicker than a garden hose. Down there, little threatens them. Near the coast, by contrast, they are heavily armoured and often buried in the seabed. That is because most damage is caused by people: by fishing nets dragged along the bottom or by ships’ anchors.",
+      "Cable damage happens more often than you might think, many times a year worldwide. Usually nobody notices, because the data is rerouted over other cables. Special ships carry out the repairs: they lift the damaged section from the seabed, splice in a new piece and lower the cable back down. That can take days or weeks.",
+      "Countries that depend on only a few cables are especially vulnerable. If these break, a whole country can be largely cut off from the internet for a while. The security of the cables has also attracted more attention in recent years. Governments and operators are considering how to better protect this vital infrastructure.",
+      "Who owns the cables? In the past, mostly consortia of telephone companies. These days, big technology firms invest heavily in connections of their own, because a large share of international traffic flows between their data centres. This gives a handful of companies considerable influence over where new lines are built.",
+      "Satellites still play an important role, for example for remote regions, ships or aircraft that no cable can reach. New networks of many low-flying satellites are making access there much faster. But the traffic between continents is still carried overwhelmingly by cables."
+     ]
+    },
+    {
+     "heading": "A short history of the internet",
+     "paragraphs": [
+      "The roots of the internet lie in the United States of the 1960s. A research agency of the Department of Defense, ARPA, funded a project to connect mainframe computers at different universities. Computers were rare and expensive at the time, and researchers were meant to be able to share computing time and programs. The network was called ARPANET.",
+      "At the end of October 1969, the moment came. At the University of California, Los Angeles, the student Charley Kline, working under Professor Leonard Kleinrock, tried to log in to a computer at the Stanford Research Institute, some five hundred kilometres away. He typed the word “login”. The first two letters arrived, and then the system crashed.",
+      "So the very first message over the network read “lo”. About an hour later, the full login worked. Kleinrock later often pointed out, jokingly, that “lo” is also an old English word meaning “behold”. By December 1969, four computers were connected, in Los Angeles, Stanford, Santa Barbara and Utah.",
+      "In the 1970s other networks appeared, but they couldn’t talk to each other. Robert Kahn and Vint Cerf therefore developed a common language for a network of networks. In 1974 they published their concept for the Transmission Control Protocol. It was later split into two parts, TCP and IP. They deliberately did without patents, so that anyone could use the technology.",
+      "On New Year’s Day 1983, ARPANET switched over completely to TCP/IP. Many regard this day as the real birth of the internet as we know it. It was not a festive occasion. Cerf later remembered mainly a feeling of relief, and some of those involved wore badges saying they had survived the switchover.",
+      "The internet was still mainly something for specialists. That changed with an invention from Europe. In 1989 the British physicist Tim Berners-Lee, working at the CERN research centre near Geneva, proposed a system for linking documents to one another through references. This became the World Wide Web, with web pages, links and browsers.",
+      "In 1991 the web became publicly accessible. In 1993 CERN explicitly released the technology free of licence fees. In the same year a browser called Mosaic appeared, which displayed text and images together and was easy to use. Suddenly people without technical knowledge could use the network too. Years of explosive growth followed.",
+      "In Germany, the internet spread into private homes mainly from the mid-1990s onwards. Many people still remember the whistling noise of the modems that set up a connection over the telephone line, and the anxious wait while a single picture loaded line by line.",
+      "Since then the internet has transformed itself again and again. First came search engines and online shops, then social networks, smartphones and video streaming. Today several billion people use the network, and many areas of life are hard to imagine without it. The basic ideas of the early days, packets, open protocols and a decentralised structure, still carry it today.",
+      "In just a few decades, an experiment with four computers has become the most important infrastructure of our time."
+     ]
+    },
+    {
+     "heading": "The internet of tomorrow",
+     "paragraphs": [
+      "Traffic on the internet has been growing relentlessly for decades. Today video accounts for the largest share, followed by cloud services, in which data and programs are kept in distant data centres. With artificial intelligence, virtual reality and more and more connected devices, demand is likely to keep rising.",
+      "That also increases the demand for energy. Data centres, networks and devices together consume large amounts of electricity. At the same time, transmitting a given amount of data has become more and more efficient over the years. How total consumption develops depends on whether efficiency can keep pace with growth. Operators are increasingly turning to renewable energy and reusing waste heat.",
+      "Some data centres are now built in cold regions or near rivers, so that cooling takes less energy.",
+      "Security is a major challenge. The internet was originally developed for a small community of researchers who trusted each other. Many of its foundations were therefore not designed to withstand attacks. Today there is fraud, malware, attacks on companies and public authorities, and overload attacks that flood servers with requests. Encryption and new protective measures are meant to make the network more robust.",
+      "There is a lot at stake politically, too. Some states filter content, block services or temporarily shut down the internet altogether in times of crisis. Other debates revolve around net neutrality, the question of whether all data must be treated equally. Who governs the internet is not a purely technical question.",
+      "The switch to IPv6 continues, slowly but steadily. It solves the shortage of addresses and allows devices to be reached directly again. At the same time it raises new questions about protecting privacy, which are being worked on.",
+      "New satellite networks with thousands of low-flying satellites are bringing fast internet to areas no cable has ever reached. For remote villages, ships and disaster zones, that is a big step forward. Critics point to problems such as space debris and streaks of light that interfere with astronomy.",
+      "At the same time, new undersea cables keep being laid, with ever greater capacity. Some research groups are experimenting with glass fibres in which light travels through a hollow core and is therefore even faster. And quantum communication promises connections that fundamentally cannot be tapped without being noticed, although it is still in its early days.",
+      "The way we use the network is changing too. More and more devices are permanently online, and many services now only work with an internet connection, from cars that receive software updates to heating systems that can be controlled from a phone.",
+      "Despite all the changes, the basic principle remains remarkably stable. Data is broken into packets, given addresses and passed on from station to station. The rules for this are open, and nobody owns the network alone. This openness is what made the internet great.",
+      "Whether it survives depends not only on technology but also on decisions that societies and governments make in the coming years.",
+      "One thing is certain: the network will keep growing, and so will our dependence on it in almost every part of daily life."
+     ]
+    }
+   ],
+   "keyTakeaways": [
+    "The internet is a decentralised network of networks built on packet switching and shared protocols such as TCP/IP.",
+    "Addresses, names, routers and undersea cables carry data packets around the world in a fraction of a second.",
+    "A research network from 1969 has become the most important infrastructure of our time, with open questions about security, energy and freedom."
+   ]
+  }
+ },
+ "sources": [
+  {
+   "title": "Do Submarine Cables Account for Over 99% of Intercontinental Data Traffic?",
+   "publisher": "TeleGeography",
+   "url": "https://blog.telegeography.com/2023-mythbusting-part-3",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "UCLA History: A Crash into the Future (October 1969)",
+   "publisher": "UCLA Alumni",
+   "url": "https://alumni.ucla.edu/ucla-history-45/",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "Vint Cerf, technical biography",
+   "publisher": "Google Cloud",
+   "url": "https://services.google.com/fh/files/misc/vint_cerf_technical_biography.pdf",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "The birth of the Web",
+   "publisher": "CERN",
+   "url": "https://home.cern/science/computing/birth-web",
+   "accessed": "2026-11-03"
+  },
+  {
+   "title": "45 years ago: First message sent over the Internet",
+   "publisher": "CBS News",
+   "url": "https://www.cbsnews.com/news/first-message-sent-over-the-internet-45-years-ago",
+   "accessed": "2026-11-03"
+  }
+ ],
+ "factCheckedAt": "2026-11-03"
+}
