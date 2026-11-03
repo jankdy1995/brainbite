@@ -14,6 +14,7 @@ function defaults() {
       { id: 'tech-economy', rank: 2, enabled: true }
     ],
     preferredLength: 10,
+    feedCategory: 'all',
     fontSize: 'M',
     tts: { rate: 1.0, voiceURI: { de: null, en: null } },
     favorites: [],

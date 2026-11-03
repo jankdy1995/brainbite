@@ -1,5 +1,5 @@
 // Service Worker: App-Shell vorab cachen, Inhalte mit passender Strategie
-const VERSION = 'v1-2026-11-03';
+const VERSION = 'v2-2026-11-03';
 const SHELL = `brainbite-shell-${VERSION}`;
 const CONTENT = 'brainbite-content';
 

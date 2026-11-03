@@ -1,7 +1,7 @@
 import { getState, update, isFavorite, toggleFavorite, getProgress, setProgress } from '../core/store.js';
 import { t, lang, formatNumber } from '../core/i18n.js';
 import { loadIndex, loadTopic, listenMinutes, LENGTHS, categoryName } from '../core/content.js';
-import { Speaker, supported as ttsSupported, splitSentences } from '../core/tts.js';
+import { Speaker, supported as ttsSupported, splitSentences, isSpeaking } from '../core/tts.js';
 import { navigate } from '../core/router.js';
 import { el, icon, illustration, openSheet, optionList, segmented, toast } from './components.js';
 
@@ -158,7 +158,8 @@ export async function renderArticle(root, { params, query }) {
       speaker.index = 0;
       fill.style.width = '100%';
       toast(t('article.doneToast'));
-    }
+    },
+    onFail: () => toast(t('player.failed'))
   });
 
   const progress = getProgress(meta.id, len);
@@ -177,7 +178,14 @@ export async function renderArticle(root, { params, query }) {
   } else {
     speaker.setup({ sentences: items, lang: l, rate: rate(), voiceURI: state.tts.voiceURI[l] }).then(() => {
       if (!speaker.voice) timeText.textContent = t('player.noVoice');
-      if (query.play === '1') speaker.play(speaker.index);
+      if (query.play === '1') {
+        // Erst den Titel aus dem Feed zu Ende sprechen lassen, dann nahtlos weiterlesen
+        const startWhenFree = (tries = 0) => {
+          if (isSpeaking() && tries < 40) setTimeout(() => startWhenFree(tries + 1), 150);
+          else if (!speaker.playing) speaker.play(speaker.index);
+        };
+        startWhenFree();
+      }
     });
   }
 

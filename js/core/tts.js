@@ -39,8 +39,33 @@ export async function pickVoice(lang, voiceURI) {
   return [...list].sort((a, b) => score(b) - score(a))[0];
 }
 
+// iPhone: Ein kurzer, stummer Ton schaltet die Audio-Sitzung auf „Wiedergabe“.
+// Damit wird die Stimme auch bei aktivem Stummschalter hörbar (muss im Tipp passieren).
+let primed = false;
+export function primeAudioSession() {
+  if (primed) return;
+  primed = true;
+  try {
+    const rate = 8000;
+    const samples = rate / 4;
+    const bytes = new Uint8Array(44 + samples);
+    const view = new DataView(bytes.buffer);
+    const text = (o, str) => [...str].forEach((c, i) => (bytes[o + i] = c.charCodeAt(0)));
+    text(0, 'RIFF'); view.setUint32(4, 36 + samples, true); text(8, 'WAVE'); text(12, 'fmt ');
+    view.setUint32(16, 16, true); view.setUint16(20, 1, true); view.setUint16(22, 1, true);
+    view.setUint32(24, rate, true); view.setUint32(28, rate, true); view.setUint16(32, 1, true);
+    view.setUint16(34, 8, true); text(36, 'data'); view.setUint32(40, samples, true);
+    bytes.fill(128, 44);
+    const audio = new Audio(URL.createObjectURL(new Blob([bytes], { type: 'audio/wav' })));
+    audio.setAttribute('playsinline', '');
+    audio.play().catch(() => {});
+  } catch {
+    // ohne diesen Trick geht es auch, nur ggf. nicht im Stummmodus
+  }
+}
+
 export class Speaker {
-  constructor({ onSentence, onState, onEnd }) {
+  constructor({ onSentence, onState, onEnd, onFail }) {
     this.sentences = [];
     this.index = 0;
     this.playing = false;
@@ -51,7 +76,11 @@ export class Speaker {
     this.onSentence = onSentence;
     this.onState = onState;
     this.onEnd = onEnd;
+    this.onFail = onFail;
     this.wakeLock = null;
+    this.current = null;
+    this.watchdog = null;
+    this.everStarted = false;
   }
 
   async setup({ sentences, lang, rate, voiceURI }) {
@@ -66,17 +95,20 @@ export class Speaker {
     this.index = Math.max(0, Math.min(from, this.sentences.length - 1));
     this.generation++;
     const gen = this.generation;
-    const wasBusy = synth.speaking || synth.pending;
-    synth.cancel();
+    const wasPlaying = this.playing;
+    // Nur abbrechen, wenn wirklich etwas läuft: Safari verwirft sonst oft das nächste speak()
+    if (synth.speaking || synth.pending) synth.cancel();
+    if (synth.paused) synth.resume();
+    primeAudioSession();
     this.playing = true;
     this.onState?.(true);
     this.keepAwake(true);
-    // Safari verschluckt manchmal ein speak() direkt nach cancel(); beim ersten Start (Tipp) sofort sprechen
-    if (wasBusy) setTimeout(() => this.speak(gen), 80);
+    // Erster Start passiert im Tipp (iOS-Vorgabe) → sofort sprechen; Sprünge kurz verzögern
+    if (wasPlaying) setTimeout(() => this.speak(gen), 60);
     else this.speak(gen);
   }
 
-  speak(gen) {
+  speak(gen, retry = false) {
     if (gen !== this.generation || !this.playing) return;
     const sentence = this.sentences[this.index];
     if (!sentence) {
@@ -88,25 +120,56 @@ export class Speaker {
     u.lang = this.voice?.lang || (this.lang === 'de' ? 'de-DE' : 'en-GB');
     if (this.voice) u.voice = this.voice;
     u.rate = this.rate;
-    u.onstart = () => gen === this.generation && this.onSentence?.(this.index);
+    let started = false;
+    u.onstart = () => {
+      started = true;
+      this.everStarted = true;
+      if (gen === this.generation) this.onSentence?.(this.index);
+    };
     u.onend = () => {
-      if (gen !== this.generation || !this.playing) return;
+      started = true;
+      if (gen !== this.generation || !this.playing || this.current !== u) return;
       this.index++;
       this.speak(gen);
     };
     u.onerror = (e) => {
-      if (gen !== this.generation) return;
+      started = true;
+      if (gen !== this.generation || this.current !== u) return;
       if (e.error === 'interrupted' || e.error === 'canceled') return;
+      if (e.error === 'not-allowed') {
+        this.pause();
+        this.onFail?.('not-allowed');
+        return;
+      }
       this.index++;
       this.speak(gen);
     };
+    // Referenz halten, sonst feuert onend in manchen Browsern nie (Garbage Collection)
+    this.current = u;
     this.onSentence?.(this.index);
     synth.speak(u);
+
+    // Wächter: Startet die Stimme nicht, einmal neu versuchen, danach freundlich abbrechen
+    clearTimeout(this.watchdog);
+    this.watchdog = setTimeout(() => {
+      if (started || gen !== this.generation || !this.playing || this.current !== u) return;
+      if (synth.speaking && !synth.paused) return;
+      if (!retry) {
+        if (synth.speaking || synth.pending) synth.cancel();
+        synth.resume?.();
+        this.speak(gen, true);
+      } else {
+        this.pause();
+        this.onFail?.('timeout');
+      }
+    }, retry ? 2500 : 1800);
   }
 
   pause() {
     this.generation++;
     this.playing = false;
+    clearTimeout(this.watchdog);
+    this.current = null;
     synth?.cancel();
     this.onState?.(false);
     this.keepAwake(false);
@@ -148,12 +211,22 @@ export class Speaker {
   }
 }
 
-// iOS erlaubt Sprachausgabe nur nach einem Tipp: einmal leise „entsperren“
-export function unlock() {
-  if (!synth) return;
-  const u = new SpeechSynthesisUtterance(' ');
-  u.volume = 0;
+// iOS erlaubt Sprachausgabe nur nach einem Tipp. Darum beim Tipp auf „Anhören“ im Feed
+// sofort den Titel sprechen; der Artikel liest danach nahtlos weiter.
+export function unlock(text, lang) {
+  if (!synth || !text) return;
+  primeAudioSession();
+  if (synth.speaking || synth.pending) synth.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = lang === 'de' ? 'de-DE' : 'en-GB';
+  unlockUtterance = u;
   synth.speak(u);
+}
+let unlockUtterance = null;
+
+// Läuft gerade noch der Titel aus dem Feed? Dann wartet der Artikel kurz darauf.
+export function isSpeaking() {
+  return Boolean(synth && (synth.speaking || synth.pending));
 }
 
 // Text in Sätze zerlegen (Artikel enthalten keine Abkürzungen mit Punkt, siehe CONTENT_GUIDE)

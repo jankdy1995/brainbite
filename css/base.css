@@ -80,6 +80,13 @@ body[data-glow='none'] .glow { opacity: 0; }
   flex-direction: column;
   gap: var(--space-1);
 }
+.screen-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+  min-height: 20px;
+}
 .screen-head__pre {
   font-size: var(--subhead-size);
   line-height: var(--subhead-line);

@@ -178,6 +178,40 @@ export function openSheet({ title, content, onClose }) {
   return { panel, close };
 }
 
+// Ausklappmenü unter einem Button (wie die Pull-down-Menüs in iOS)
+export function openMenu({ anchor, label, options, value, onChange }) {
+  const root = document.getElementById('overlay-root');
+  const rect = anchor.getBoundingClientRect();
+  const close = () => {
+    wrap.remove();
+    document.removeEventListener('keydown', onKey);
+    anchor.setAttribute('aria-expanded', 'false');
+    anchor.focus();
+  };
+  const onKey = (e) => e.key === 'Escape' && close();
+  const items = options.map((o) =>
+    el('button.c-menu__item', {
+      type: 'button',
+      role: 'menuitemradio',
+      'aria-checked': String(o.value === value),
+      onclick: () => {
+        close();
+        if (o.value !== value) onChange(o.value);
+      }
+    }, el('span.c-menu__check', { 'aria-hidden': 'true' }, icon('check')), el('span', { text: o.label }))
+  );
+  const menu = el('div.c-menu', {
+    role: 'menu',
+    'aria-label': label,
+    style: { top: `${rect.bottom + 8}px`, right: `${Math.max(12, window.innerWidth - rect.right)}px` }
+  }, ...items);
+  const wrap = el('div.c-menu-layer', {}, el('div.c-menu-backdrop', { onclick: close }), menu);
+  root.append(wrap);
+  anchor.setAttribute('aria-expanded', 'true');
+  document.addEventListener('keydown', onKey);
+  (items.find((b) => b.getAttribute('aria-checked') === 'true') || items[0]).focus();
+}
+
 let toastTimer = null;
 export function toast(message, action) {
   const root = document.getElementById('overlay-root');

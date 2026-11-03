@@ -1,7 +1,7 @@
 import { getState, update, reset } from '../core/store.js';
 import { t, lang, formatNumber } from '../core/i18n.js';
 import { loadIndex } from '../core/content.js';
-import { voicesFor, pickVoice, supported as ttsSupported } from '../core/tts.js';
+import { voicesFor, pickVoice, supported as ttsSupported, primeAudioSession } from '../core/tts.js';
 import { el, icon, segmented, screenHead, openSheet, optionList } from './components.js';
 import { languagePicker, rankList, timeTiles } from './onboarding.js';
 
@@ -98,17 +98,29 @@ export async function renderSettings(root) {
             }
           })
         : el('p.c-sheet__text', { text: t(ttsSupported ? 'player.noVoice' : 'player.unsupported') }),
+      voices.length || ttsSupported
+        ? el('button.c-button.c-button--tinted', {
+            type: 'button',
+            text: t('settings.voiceTest'),
+            onclick: async () => preview(await pickVoice(l, getState().tts.voiceURI[l]))
+          })
+        : null,
       el('p.c-sheet__text', { text: t('settings.voiceHint') })
     );
     sheet(t('settings.voice'), content);
   }
 
   function preview(voice) {
-    if (!voice || !ttsSupported) return;
-    speechSynthesis.cancel();
+    if (!ttsSupported) return;
+    primeAudioSession();
+    if (speechSynthesis.speaking || speechSynthesis.pending) speechSynthesis.cancel();
     const u = new SpeechSynthesisUtterance(t('settings.voiceSample'));
-    u.voice = voice;
-    u.lang = voice.lang;
+    if (voice) {
+      u.voice = voice;
+      u.lang = voice.lang;
+    } else {
+      u.lang = lang() === 'de' ? 'de-DE' : 'en-GB';
+    }
     u.rate = getState().tts.rate;
     speechSynthesis.speak(u);
   }
