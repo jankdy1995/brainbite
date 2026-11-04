@@ -121,29 +121,15 @@ function carousel(cards) {
   }));
 }
 
-// Themenfelder als wischbare Kacheln oben im Feed; die gewählte filtert den Feed
+// Themenfelder als wischbare Wort-Chips oben im Feed; das gewählte filtert den Feed
 function fieldCarousel(index, filter, l, onSelect) {
-  const count = (id) => index.topics.filter((x) => id === 'all' || x.category === id).length;
-  const motifOf = (id) => {
-    const latest = index.topics.filter((x) => x.category === id).sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))[0];
-    return latest?.motif || 'ring';
-  };
-  const fields = [
-    { id: 'all', name: t('feed.all'), motif: 'all' },
-    ...index.categories.map((c) => ({ id: c.id, name: c.name[l], motif: motifOf(c.id) }))
-  ];
+  const fields = [{ id: 'all', name: t('feed.all') }, ...index.categories.map((c) => ({ id: c.id, name: c.name[l] }))];
   return el('div.c-fields', { role: 'group', 'aria-label': t('feed.fields') },
-    ...fields.map((f) => {
-      const n = count(f.id);
-      return el('button.c-field.glass', {
-        type: 'button',
-        'aria-pressed': String(f.id === filter),
-        onclick: () => onSelect(f.id)
-      },
-        el('span.c-field__art', { 'aria-hidden': 'true' }, illustration(f.motif, 'tile')),
-        el('span.c-field__name', { text: f.name }),
-        el('span.c-field__count', { text: t(n === 1 ? 'feed.topicCountOne' : 'feed.topicCount', { n }) })
-      );
-    })
+    ...fields.map((f) => el('button.c-field', {
+      type: 'button',
+      'aria-pressed': String(f.id === filter),
+      onclick: () => onSelect(f.id),
+      text: f.name
+    }))
   );
 }

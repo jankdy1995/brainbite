@@ -150,7 +150,7 @@ brainbite/
 
 Text ist reiner Text (kein HTML, kein Markdown). Die App erzeugt das Markup selbst.
 
-`motif` wählt die Illustration (Petrol-Töne, siehe Design System): `ring`, `moon`, `network`, `bars`, `waves`, `chip`, `globe`, `helix`, `growth`, `cell`, `plates`, `all`. Neue Motive werden in `js/views/components.js` ergänzt.
+`motif` wählt die Illustration (Petrol-Töne, siehe Design System): `ring`, `moon`, `network`, `bars`, `waves`, `chip`, `globe`, `helix`, `growth`, `cell`, `plates`. Neue Motive werden in `js/views/components.js` ergänzt.
 
 ### Lokaler Zustand (`localStorage["brainbite:v1"]`)
 
@@ -196,7 +196,7 @@ Text ist reiner Text (kein HTML, kein Markdown). Die App erzeugt das Markup selb
 3. Pro Kategorie eine Warteschlange: zuerst ungelesene (neueste zuerst), dann begonnene, dann gelesene.
 4. Zusammenführen per **Smooth Weighted Round Robin**: deterministisch, gleichmäßig verteilt, keine Zufallssprünge beim Neuladen.
 5. Ist eine Warteschlange leer, füllen die anderen auf.
-6. Über das Themenfeld-Karussell oben in „Entdecken“ lässt sich eine einzelne Kategorie wählen (`feedCategory`); dann zeigt der Feed nur deren Themen. Die Kachel zeigt das Motiv des neuesten Themas der Kategorie, „Alle Themen“ das Motiv `all`.
+6. Über das Themenfeld-Karussell oben in „Entdecken“ lässt sich eine einzelne Kategorie wählen (`feedCategory`); dann zeigt der Feed nur deren Themen.
 
 ## 07 Datenfluss
 

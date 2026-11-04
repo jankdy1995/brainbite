@@ -120,10 +120,10 @@
 }
 .c-carousel > :only-child { flex-basis: 100%; }
 
-/* ===== Themenfelder (Karussell oben im Feed) ===== */
+/* ===== Themenfelder (Wort-Chips oben im Feed) ===== */
 .c-fields {
   display: flex;
-  gap: var(--space-3);
+  gap: var(--space-2);
   margin: 0 calc(var(--space-5) * -1);
   padding: 2px var(--space-5) 6px;
   overflow-x: auto;
@@ -135,41 +135,26 @@
 }
 .c-fields::-webkit-scrollbar { display: none; }
 .c-field {
-  flex: 0 0 136px;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 2px;
-  min-height: 116px;
-  padding: 14px;
+  flex: none;
+  min-height: 44px;
+  padding: 0 18px;
   border: 0;
-  border-radius: var(--radius-group);
-  color: var(--text);
-  text-align: left;
+  border-radius: var(--radius-capsule);
+  background: var(--fill);
+  box-shadow: inset 0 0 0 0.5px var(--glass-edge);
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--text-secondary);
+  white-space: nowrap;
   scroll-snap-align: start;
-  transition: background 200ms ease, box-shadow 200ms ease;
+  transition: background 200ms ease, color 200ms ease;
 }
-.c-field__art {
-  display: flex;
-  width: 40px;
-  height: 40px;
-  margin-bottom: 10px;
-  border-radius: var(--radius-tile);
-  background: var(--brand-petrol);
-  overflow: hidden;
-}
-.c-field__art svg { width: 100%; height: 100%; }
-.c-field__name { font-size: 15px; line-height: 20px; font-weight: 600; }
-.c-field__count { font-size: 13px; line-height: 18px; color: var(--text-tertiary); }
 .c-field[aria-pressed='true'] {
   background: var(--brand-petrol);
-  -webkit-backdrop-filter: none;
-  backdrop-filter: none;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.14), 0 0 0 1px rgba(140, 207, 214, 0.6);
+  font-weight: 600;
   color: #FFFFFF;
 }
-.c-field[aria-pressed='true'] .c-field__count { color: #D4E6E8; }
-.c-field[aria-pressed='true'] .c-field__art { background: rgba(7, 20, 23, 0.35); }
 @media (prefers-reduced-motion: reduce) { .c-field { transition: none; } }
 
 /* ===== Runde Buttons ===== */

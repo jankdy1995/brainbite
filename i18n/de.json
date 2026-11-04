@@ -24,8 +24,6 @@
   "feed.categoryLabel": "Kategorie wählen, aktuell: {name}",
   "feed.all": "Alle Themen",
   "feed.fields": "Themenfelder",
-  "feed.topicCount": "{n} Themen",
-  "feed.topicCountOne": "1 Thema",
   "feed.emptyCatTitle": "Hier kommt bald etwas",
   "feed.emptyCatText": "In „{name}“ gibt es noch keine Themen. Jede Woche kommen neue dazu.",
   "feed.highlights": "Highlights der Woche",
