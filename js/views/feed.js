@@ -1,9 +1,9 @@
 import { getState, update, getProgress } from '../core/store.js';
 import { t, lang } from '../core/i18n.js';
-import { loadIndex, listenMinutes, LENGTHS, categoryName } from '../core/content.js';
+import { loadIndex, listenMinutes, categoryName } from '../core/content.js';
 import { buildFeed } from '../core/feed.js';
 import { unlock } from '../core/tts.js';
-import { el, icon, illustration, segmented, topicRow, group, openMenu, emptyState } from './components.js';
+import { el, icon, illustration, topicRow, group, emptyState } from './components.js';
 
 function greeting() {
   const h = new Date().getHours();
@@ -25,41 +25,18 @@ export async function renderFeed(root) {
     const [hero] = feed;
     const filterLabel = filter === 'all' ? t('feed.all') : categoryName(index, filter, l);
 
-    const openFilter = (e) =>
-      openMenu({
-        anchor: e.currentTarget,
-        label: t('feed.category'),
-        value: filter,
-        options: [{ value: 'all', label: t('feed.all') }, ...index.categories.map((c) => ({ value: c.id, label: c.name[l] }))],
-        onChange: (v) => {
-          update((st) => (st.feedCategory = v));
-          draw();
-        }
-      });
+    const select = (v) => {
+      if (v === filter) return;
+      update((st) => (st.feedCategory = v));
+      draw();
+    };
 
     const screen = el('div.screen', {},
       el('div.screen-head', {},
-        el('div.screen-row', {},
-          el('span.screen-head__pre', { text: greeting() }),
-          el('button.c-lenbtn.c-filterbtn', {
-            type: 'button',
-            'aria-label': t('feed.categoryLabel', { name: filterLabel }),
-            'aria-haspopup': 'menu',
-            'aria-expanded': 'false',
-            onclick: openFilter
-          }, el('span.c-filterbtn__text', { text: filterLabel }), icon('chevronDown'))
-        ),
+        el('span.screen-head__pre', { text: greeting() }),
         el('h1.screen-head__title', { text: t('feed.title') })
       ),
-      segmented({
-        label: t('feed.length'),
-        value: len,
-        options: LENGTHS.map((n) => ({ value: n, label: t('common.min', { n }) })),
-        onChange: (n) => {
-          update((s) => (s.preferredLength = n));
-          draw();
-        }
-      })
+      fieldCarousel(index, filter, l, select)
     );
 
     if (!hero && filter !== 'all') {
@@ -102,7 +79,10 @@ export async function renderFeed(root) {
       }
       screen.append(el('p.note', { text: t('feed.moreSoon') }));
     }
+    const prev = root.querySelector('.c-fields')?.scrollLeft || 0;
     root.replaceChildren(screen);
+    const next = root.querySelector('.c-fields');
+    if (next) next.scrollLeft = prev;
   };
   draw();
 }
@@ -139,4 +119,31 @@ function carousel(cards) {
     c.setAttribute('role', 'listitem');
     return c;
   }));
+}
+
+// Themenfelder als wischbare Kacheln oben im Feed; die gewählte filtert den Feed
+function fieldCarousel(index, filter, l, onSelect) {
+  const count = (id) => index.topics.filter((x) => id === 'all' || x.category === id).length;
+  const motifOf = (id) => {
+    const latest = index.topics.filter((x) => x.category === id).sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))[0];
+    return latest?.motif || 'ring';
+  };
+  const fields = [
+    { id: 'all', name: t('feed.all'), motif: 'all' },
+    ...index.categories.map((c) => ({ id: c.id, name: c.name[l], motif: motifOf(c.id) }))
+  ];
+  return el('div.c-fields', { role: 'group', 'aria-label': t('feed.fields') },
+    ...fields.map((f) => {
+      const n = count(f.id);
+      return el('button.c-field.glass', {
+        type: 'button',
+        'aria-pressed': String(f.id === filter),
+        onclick: () => onSelect(f.id)
+      },
+        el('span.c-field__art', { 'aria-hidden': 'true' }, illustration(f.motif, 'tile')),
+        el('span.c-field__name', { text: f.name }),
+        el('span.c-field__count', { text: t(n === 1 ? 'feed.topicCountOne' : 'feed.topicCount', { n }) })
+      );
+    })
+  );
 }

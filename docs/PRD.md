@@ -51,10 +51,10 @@ Ein Thema in genau der Zeit verstehen, die man gerade hat: lesend oder hörend, 
 - Wird nur beim ersten Start gezeigt; alles ist später in den Einstellungen änderbar.
 
 ### F2 Entdecken-Feed
-- Oben ein Längen-Umschalter (5 · 10 · 15 · 20 Min), voreingestellt auf die Standardlänge.
+- Oben ein wischbares Karussell der Themenfelder („Alle Themen“ plus jede Kategorie, mit Anzahl der Themen). Tippen filtert den Feed auf dieses Feld. (Entscheidung vom 4. 11. 2026, ersetzt den Längen-Umschalter und das Ausklappmenü.)
+- Die Länge kommt aus der Standardlänge in den Einstellungen und lässt sich im Artikel umstellen.
 - Artikelkarten mit Kategorie, Titel, Teaser, Lese- und Hördauer sowie Status (neu / begonnen / gelesen).
 - **Gewichteter Feed:** Höher priorisierte Kategorien erscheinen öfter (Algorithmus siehe ARCHITECTURE). Ungelesenes kommt vor Gelesenem.
-- Filter nach Kategorie über Chips (optional einblendbar).
 
 ### F3 Artikelansicht (Reader)
 - Titel, Kategorie, Länge (umschaltbar), Lese- und Hördauer.
@@ -99,7 +99,7 @@ Ein Thema in genau der Zeit verstehen, die man gerade hat: lesend oder hörend, 
 | Screen | Zweck |
 |---|---|
 | Onboarding (3 Schritte) | Sprache, Kategorien & Priorität, Standardlänge |
-| Entdecken | Gewichteter Feed mit Längen-Umschalter |
+| Entdecken | Themenfeld-Karussell, Highlights der Woche, gewichteter Feed |
 | Artikel | Lesen und Hören, Länge wechseln, merken, Quellen |
 | Merkliste | Gemerkte Artikel |
 | Fortschritt | Verlauf und Kennzahlen |
